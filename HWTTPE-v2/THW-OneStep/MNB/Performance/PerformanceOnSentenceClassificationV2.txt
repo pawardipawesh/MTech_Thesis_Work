@@ -1,0 +1,26 @@
+past	present	future	neutral<-----classified as
+80    	64    	107    	30      |past
+27    	315    	112    	54       |present
+8     	25    	76    	8       |future
+0     	0    	0    	0       |neutral
+-------------------Accuracy------------------------------------------------------------
+Accuracy=0.5010638
+
+--------------------Precision--------------------------------------------------------
+Precision(past)=0.6956522
+Precision(present)=0.77970296
+Precision(future)=0.25762713
+Precision(neutral)=0.0
+Precision(avg)=0.43324557
+---------------------Recall-----------------------------------------------------------
+recall(past)=0.2846975
+recall(present)=0.62007874
+recall(future)=0.6495727
+recall(neutral)=NaN
+recall(avg)=NaN
+---------------------F-measure-----------------------------------------------------------
+F-measure(past)=0.4040404
+F-measure(present)=0.69078946
+F-measure(future)=0.36893204
+F-measure(neutral)=NaN
+F-measure(avg)=NaN

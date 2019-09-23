@@ -1,0 +1,6103 @@
+Zero Weights processed. Default weights will be used
+*
+optimization finished, #iter = 28
+nu = 0.9787234042553191
+obj = -42.4369780185338, rho = -0.7821312699549141
+nSV = 47, nBSV = 43
+Total nSV = 47
+*
+optimization finished, #iter = 23
+nu = 1.0
+obj = -41.815112590789795, rho = -0.09554913640022278
+nSV = 46, nBSV = 46
+Total nSV = 46
+*
+optimization finished, #iter = 30
+nu = 0.9787234042553191
+obj = -41.51692279283817, rho = 0.4353884314300958
+nSV = 47, nBSV = 41
+Total nSV = 47
+*
+optimization finished, #iter = 32
+nu = 0.9565217391304348
+obj = -40.922603613139984, rho = -0.8226957676949503
+nSV = 46, nBSV = 41
+Total nSV = 46
+*
+optimization finished, #iter = 34
+nu = 0.9565217391304348
+obj = -40.556964150043925, rho = 0.5549674226235438
+nSV = 46, nBSV = 37
+Total nSV = 46
+*
+optimization finished, #iter = 29
+nu = 1.0
+obj = -52.24036651849747, rho = -0.13451769948005676
+nSV = 58, nBSV = 58
+*
+optimization finished, #iter = 29
+nu = 0.9777777777777777
+obj = -40.06299611576739, rho = 0.6172552487608317
+nSV = 45, nBSV = 40
+Total nSV = 45
+*
+optimization finished, #iter = 36
+nu = 0.8888888888888888
+obj = -37.368806452844474, rho = -0.7209596015984195
+nSV = 45, nBSV = 34
+Total nSV = 45
+*
+optimization finished, #iter = 31
+nu = 0.9777777777777777
+obj = -40.314283293458814, rho = -0.7464237879830825
+nSV = 45, nBSV = 39
+Total nSV = 45
+*
+optimization finished, #iter = 34
+nu = 0.8888888888888888
+obj = -37.60069028902561, rho = -0.7519748810066219
+nSV = 45, nBSV = 34
+Total nSV = 45
+*
+optimization finished, #iter = 31
+nu = 0.9545454545454546
+obj = -38.75903558856636, rho = 0.5846560866644565
+nSV = 44, nBSV = 39
+Total nSV = 44
+*
+optimization finished, #iter = 38
+nu = 0.9642857142857143
+obj = -49.48728948432232, rho = -0.6492706956441896
+nSV = 56, nBSV = 50
+.*
+optimization finished, #iter = 190
+nu = 0.3503649635036496
+obj = -44.54674299056878, rho = 0.8082259679412149
+nSV = 137, nBSV = 29
+Total nSV = 137
+.*
+optimization finished, #iter = 190
+nu = 0.3503649635036497
+obj = -44.96607801495244, rho = 0.8027931764745723
+nSV = 137, nBSV = 30
+Total nSV = 137
+.*
+optimization finished, #iter = 177
+nu = 0.3357664233576641
+obj = -43.296602412622114, rho = 0.8671963425893343
+nSV = 137, nBSV = 28
+Total nSV = 137
+.*
+optimization finished, #iter = 190
+nu = 0.3357664233576642
+obj = -43.60933261114041, rho = 0.8519654726858179
+nSV = 137, nBSV = 28
+Total nSV = 137
+.*
+optimization finished, #iter = 181
+nu = 0.3235294117647058
+obj = -40.92000360348048, rho = 0.8479220289262714
+nSV = 136, nBSV = 25
+Total nSV = 136
+.*
+optimization finished, #iter = 229
+nu = 0.3391812865497077
+obj = -53.88356558144082, rho = 0.8208720459601042
+nSV = 171, nBSV = 35
+*
+optimization finished, #iter = 30
+nu = 0.9777777777777777
+obj = -41.54477151528121, rho = -0.6184020271310272
+nSV = 45, nBSV = 39
+Total nSV = 45
+*
+optimization finished, #iter = 31
+nu = 0.9333333333333331
+obj = -39.709678304536425, rho = 0.8194684752690957
+nSV = 45, nBSV = 38
+Total nSV = 45
+*
+optimization finished, #iter = 27
+nu = 0.9777777777777777
+obj = -41.189065341526494, rho = 0.7910534668718756
+nSV = 45, nBSV = 41
+Total nSV = 45
+*
+optimization finished, #iter = 34
+nu = 0.9333333333333333
+obj = -39.34662989307836, rho = -0.6652912429063907
+nSV = 45, nBSV = 36
+Total nSV = 45
+.*
+optimization finished, #iter = 45
+nu = 0.8181818181818182
+obj = -34.057365631973056, rho = -0.6139263069617859
+nSV = 44, nBSV = 25
+Total nSV = 44
+*
+optimization finished, #iter = 41
+nu = 0.9642857142857143
+obj = -50.43551224854736, rho = -0.5995501521295222
+nSV = 56, nBSV = 48
+.*
+optimization finished, #iter = 179
+nu = 0.3503649635036496
+obj = -45.92633399620572, rho = 0.937256469700392
+nSV = 136, nBSV = 30
+Total nSV = 136
+.*
+optimization finished, #iter = 174
+nu = 0.3211678832116788
+obj = -42.15052234745443, rho = 0.9186661341529625
+nSV = 136, nBSV = 27
+Total nSV = 136
+.*
+optimization finished, #iter = 179
+nu = 0.3503649635036498
+obj = -45.97288428640323, rho = 0.9262601805706351
+nSV = 137, nBSV = 28
+Total nSV = 137
+.*
+optimization finished, #iter = 173
+nu = 0.3941605839416061
+obj = -51.5007686040974, rho = 0.9157463610861613
+nSV = 136, nBSV = 34
+Total nSV = 136
+.*
+optimization finished, #iter = 170
+nu = 0.27941176470588236
+obj = -36.54534420471596, rho = 0.9510620875367178
+nSV = 136, nBSV = 24
+Total nSV = 136
+.*
+optimization finished, #iter = 221
+nu = 0.3391812865497075
+obj = -55.29318473254717, rho = 0.9253169749318031
+nSV = 170, nBSV = 35
+.*
+optimization finished, #iter = 178
+nu = 0.3088235294117647
+obj = -40.40141518861678, rho = 0.9459340017072637
+nSV = 135, nBSV = 25
+Total nSV = 135
+.*
+optimization finished, #iter = 177
+nu = 0.3407407407407406
+obj = -44.02906916657787, rho = 0.867710525760345
+nSV = 135, nBSV = 29
+Total nSV = 135
+.*
+optimization finished, #iter = 184
+nu = 0.311111111111111
+obj = -40.19952016791966, rho = 0.8616479022529584
+nSV = 135, nBSV = 26
+Total nSV = 135
+.*
+optimization finished, #iter = 183
+nu = 0.35555555555555535
+obj = -45.822510954850294, rho = 0.827985075254645
+nSV = 135, nBSV = 29
+Total nSV = 135
+.*
+optimization finished, #iter = 178
+nu = 0.2814814814814816
+obj = -36.5578990924711, rho = 0.893669091396035
+nSV = 134, nBSV = 23
+Total nSV = 134
+.*
+optimization finished, #iter = 222
+nu = 0.31952662721893493
+obj = -51.589940427650895, rho = 0.8692617517102585
+nSV = 168, nBSV = 33
+Total nSV = 227
+.*
+optimization finished, #iter = 174
+nu = 0.34146341463414626
+obj = -38.961930090000685, rho = -0.8065168991984406
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 167
+nu = 0.3442622950819672
+obj = -39.58240413551147, rho = -0.8322053856783961
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 173
+nu = 0.3414634146341465
+obj = -39.594605670935124, rho = -0.8423925544130939
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 163
+nu = 0.3442622950819672
+obj = -39.207558214718965, rho = -0.829070660151713
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 168
+nu = 0.32786885245901637
+obj = -37.012107385450015, rho = -0.8265831888706215
+nSV = 122, nBSV = 23
+Total nSV = 122
+.*
+optimization finished, #iter = 216
+nu = 0.33986928104575165
+obj = -48.19823940579556, rho = -0.8125617479840129
+nSV = 153, nBSV = 31
+.*
+optimization finished, #iter = 161
+nu = 0.2644628099173553
+obj = -30.687088016714718, rho = -0.8848779046548046
+nSV = 121, nBSV = 17
+Total nSV = 121
+.*
+optimization finished, #iter = 167
+nu = 0.2975206611570248
+obj = -34.35610123295598, rho = -0.8377441331111167
+nSV = 121, nBSV = 19
+Total nSV = 121
+.*
+optimization finished, #iter = 169
+nu = 0.36363636363636365
+obj = -41.91513895259925, rho = -0.9063522766413776
+nSV = 121, nBSV = 24
+Total nSV = 121
+.*
+optimization finished, #iter = 166
+nu = 0.3305785123966942
+obj = -38.22974189663695, rho = -0.8501989620557752
+nSV = 121, nBSV = 25
+Total nSV = 121
+.*
+optimization finished, #iter = 167
+nu = 0.3333333333333333
+obj = -38.26608985134047, rho = -0.9199722636127797
+nSV = 120, nBSV = 24
+Total nSV = 120
+.*
+optimization finished, #iter = 191
+nu = 0.31788079470198677
+obj = -45.71052768010494, rho = -0.8654944673191785
+nSV = 151, nBSV = 29
+.*
+optimization finished, #iter = 165
+nu = 0.3709677419354839
+obj = -44.13184076909987, rho = -1.0020000670315898
+nSV = 124, nBSV = 31
+Total nSV = 124
+.*
+optimization finished, #iter = 162
+nu = 0.37398373983739835
+obj = -44.15446426321568, rho = -0.9872681661986842
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.3089430894308943
+obj = -36.44874619293568, rho = -0.9224935472179435
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 160
+nu = 0.3252032520325202
+obj = -38.02930138680703, rho = -0.956280552325614
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.37398373983739835
+obj = -43.939526807550905, rho = -0.927760389864302
+nSV = 123, nBSV = 30
+Total nSV = 123
+.*
+optimization finished, #iter = 207
+nu = 0.35064935064935066
+obj = -51.46142247499607, rho = -0.9527745377857623
+nSV = 154, nBSV = 32
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.20304977893829, rho = -0.024164915084838867
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 27
+nu = 0.95
+obj = -34.946816024967, rho = -0.7522358647690238
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 24
+nu = 0.95
+obj = -35.11862851050506, rho = -0.8824353087790657
+nSV = 40, nBSV = 36
+Total nSV = 40
+*
+optimization finished, #iter = 30
+nu = 0.9
+obj = -33.52789462167389, rho = -0.6946586320124201
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.451550245285034, rho = -0.09740692377090454
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 31
+nu = 0.96
+obj = -43.8251249673505, rho = -0.6854669696571476
+nSV = 50, nBSV = 45
+*
+optimization finished, #iter = 27
+nu = 0.9767441860465116
+obj = -38.2835415959448, rho = 0.385337380965725
+nSV = 43, nBSV = 37
+Total nSV = 43
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -38.11654281616211, rho = -0.11644178628921509
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 37
+nu = 0.9302325581395349
+obj = -36.341454867838365, rho = 0.42777263662728265
+nSV = 43, nBSV = 33
+Total nSV = 43
+*
+optimization finished, #iter = 31
+nu = 0.9523809523809523
+obj = -37.25864735875259, rho = 0.6010714521359778
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809523
+obj = -36.7618226311958, rho = -0.9183898489057405
+nSV = 42, nBSV = 37
+Total nSV = 42
+*
+optimization finished, #iter = 37
+nu = 0.9811320754716979
+obj = -46.88730241415269, rho = 0.36073242926050286
+nSV = 53, nBSV = 45
+*
+optimization finished, #iter = 32
+nu = 0.926829268292683
+obj = -35.64671055092818, rho = -0.8419780696291217
+nSV = 41, nBSV = 33
+Total nSV = 41
+*
+optimization finished, #iter = 32
+nu = 0.926829268292683
+obj = -35.653720373106744, rho = 0.7893600667100552
+nSV = 41, nBSV = 32
+Total nSV = 41
+*
+optimization finished, #iter = 30
+nu = 0.926829268292683
+obj = -35.62750954284095, rho = 0.5509303859398622
+nSV = 41, nBSV = 32
+Total nSV = 41
+*
+optimization finished, #iter = 35
+nu = 0.926829268292683
+obj = -35.74512745614246, rho = 0.5309389820331937
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 39
+nu = 0.8500000000000002
+obj = -32.24142925804414, rho = 0.6262883734189121
+nSV = 40, nBSV = 24
+Total nSV = 40
+*
+optimization finished, #iter = 40
+nu = 0.9411764705882352
+obj = -44.82746487509359, rho = 0.5462055211543875
+nSV = 51, nBSV = 42
+Total nSV = 204
+.*
+optimization finished, #iter = 167
+nu = 0.3870967741935484
+obj = -44.657273920861584, rho = -0.8289612943978458
+nSV = 124, nBSV = 27
+Total nSV = 124
+.*
+optimization finished, #iter = 173
+nu = 0.40650406504065045
+obj = -46.20548102837172, rho = -0.8059878745637248
+nSV = 123, nBSV = 29
+Total nSV = 123
+.*
+optimization finished, #iter = 175
+nu = 0.2926829268292683
+obj = -33.934830333997084, rho = -0.8650853684668569
+nSV = 123, nBSV = 21
+Total nSV = 123
+.*
+optimization finished, #iter = 163
+nu = 0.34146341463414637
+obj = -39.4337329873751, rho = -0.8148372027209918
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 170
+nu = 0.3252032520325203
+obj = -37.383967748168885, rho = -0.8611520517640882
+nSV = 123, nBSV = 21
+Total nSV = 123
+.*
+optimization finished, #iter = 210
+nu = 0.35064935064935077
+obj = -49.98700508069824, rho = -0.8201520387640794
+nSV = 154, nBSV = 31
+.*
+optimization finished, #iter = 170
+nu = 0.2975206611570248
+obj = -34.518291474389805, rho = -0.8680069248035096
+nSV = 120, nBSV = 21
+Total nSV = 120
+.*
+optimization finished, #iter = 167
+nu = 0.2809917355371901
+obj = -32.57843665788908, rho = -0.8770000721701456
+nSV = 121, nBSV = 20
+Total nSV = 121
+.*
+optimization finished, #iter = 168
+nu = 0.33057851239669417
+obj = -38.205720182318515, rho = -0.9121337818645264
+nSV = 121, nBSV = 22
+Total nSV = 121
+.*
+optimization finished, #iter = 164
+nu = 0.36363636363636365
+obj = -41.96948369488141, rho = -0.8893453642528414
+nSV = 120, nBSV = 25
+Total nSV = 120
+.*
+optimization finished, #iter = 158
+nu = 0.31666666666666665
+obj = -36.57829512758208, rho = -0.9597467417067111
+nSV = 120, nBSV = 23
+Total nSV = 120
+.*
+optimization finished, #iter = 208
+nu = 0.3178807947019868
+obj = -45.8392467571816, rho = -0.8915973643127788
+nSV = 150, nBSV = 28
+.*
+optimization finished, #iter = 168
+nu = 0.35772357723577236
+obj = -41.931389560833345, rho = -0.9321735297737398
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 156
+nu = 0.36065573770491804
+obj = -42.04842409665404, rho = -0.9328764031382901
+nSV = 121, nBSV = 26
+Total nSV = 121
+.*
+optimization finished, #iter = 154
+nu = 0.3089430894308943
+obj = -36.65035001976616, rho = -0.9716348303914947
+nSV = 122, nBSV = 23
+Total nSV = 122
+.*
+optimization finished, #iter = 166
+nu = 0.3114754098360656
+obj = -36.20611267988377, rho = -0.8919486093582553
+nSV = 121, nBSV = 23
+Total nSV = 121
+.*
+optimization finished, #iter = 169
+nu = 0.36065573770491804
+obj = -41.7722580626558, rho = -0.9541485139085043
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 203
+nu = 0.33986928104575154
+obj = -49.455906573218, rho = -0.9292488051863953
+nSV = 152, nBSV = 30
+*
+optimization finished, #iter = 28
+nu = 0.975609756097561
+obj = -36.94629002839316, rho = -0.6338952355417572
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 28
+nu = 0.975609756097561
+obj = -36.42470805991812, rho = -0.6287494436523653
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 27
+nu = 0.975609756097561
+obj = -36.89992021448513, rho = 0.5876356113045352
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 33
+nu = 0.8780487804878049
+obj = -33.538395302284286, rho = -0.8494285513352651
+nSV = 41, nBSV = 30
+Total nSV = 41
+*
+optimization finished, #iter = 33
+nu = 0.85
+obj = -32.05184665902717, rho = -0.8309159780972326
+nSV = 40, nBSV = 28
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.9411764705882353
+obj = -44.284883810965525, rho = -0.7115811401576192
+nSV = 51, nBSV = 45
+*
+optimization finished, #iter = 31
+nu = 0.8837209302325582
+obj = -35.40252484795598, rho = -0.7997381519002845
+nSV = 43, nBSV = 33
+Total nSV = 43
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -38.03114449977875, rho = -0.23868325352668762
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 30
+nu = 0.9767441860465116
+obj = -38.32486705271973, rho = -0.7193851001624101
+nSV = 43, nBSV = 38
+Total nSV = 43
+*
+optimization finished, #iter = 30
+nu = 0.9523809523809523
+obj = -36.904512195276396, rho = 0.5321636351788396
+nSV = 42, nBSV = 35
+Total nSV = 42
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -38.11907136440277, rho = -0.07061564922332764
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 36
+nu = 0.9811320754716981
+obj = -47.089640805930046, rho = -0.7341819689543704
+nSV = 53, nBSV = 47
+*
+optimization finished, #iter = 39
+nu = 0.9
+obj = -34.011420647441525, rho = -0.8305497238233389
+nSV = 40, nBSV = 30
+Total nSV = 40
+*
+optimization finished, #iter = 31
+nu = 0.9
+obj = -33.981843103679196, rho = 0.6538978630720409
+nSV = 40, nBSV = 30
+Total nSV = 40
+*
+optimization finished, #iter = 27
+nu = 0.95
+obj = -35.700711673435585, rho = 0.6894200744826405
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 27
+nu = 0.95
+obj = -35.80333151432963, rho = 0.6135878200519966
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.9
+obj = -33.904305848467835, rho = 0.8911152084178436
+nSV = 40, nBSV = 30
+Total nSV = 40
+*
+optimization finished, #iter = 35
+nu = 0.96
+obj = -44.840513114214694, rho = 0.6370903636017754
+nSV = 50, nBSV = 42
+Total nSV = 204
+.*
+optimization finished, #iter = 168
+nu = 0.3709677419354838
+obj = -43.810769732082626, rho = -0.854250647360398
+nSV = 123, nBSV = 29
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.3902439024390244
+obj = -45.85839377239266, rho = -0.9799091228199321
+nSV = 123, nBSV = 30
+Total nSV = 123
+.*
+optimization finished, #iter = 174
+nu = 0.2764227642276423
+obj = -32.545559277027984, rho = -0.905354465934262
+nSV = 122, nBSV = 20
+Total nSV = 122
+.*
+optimization finished, #iter = 166
+nu = 0.3252032520325204
+obj = -38.43598869489914, rho = -0.9333226816627755
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.32520325203252026
+obj = -38.26070728956636, rho = -0.9596358869215283
+nSV = 122, nBSV = 24
+Total nSV = 122
+.*
+optimization finished, #iter = 202
+nu = 0.33766233766233755
+obj = -49.562518390606066, rho = -0.9191370019047516
+nSV = 153, nBSV = 32
+.*
+optimization finished, #iter = 167
+nu = 0.3548387096774194
+obj = -40.99184310177956, rho = -0.8387203040778705
+nSV = 124, nBSV = 27
+Total nSV = 124
+.*
+optimization finished, #iter = 163
+nu = 0.3089430894308943
+obj = -35.4653761488002, rho = -0.8014642218341099
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 160
+nu = 0.3089430894308943
+obj = -35.83491363548531, rho = -0.8095440677028984
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 172
+nu = 0.35772357723577236
+obj = -40.96873628128634, rho = -0.8196244890866505
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 170
+nu = 0.35772357723577236
+obj = -41.31292301107366, rho = -0.8549563665304787
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 202
+nu = 0.3376623376623378
+obj = -48.25871468959904, rho = -0.8048935058585989
+nSV = 154, nBSV = 32
+.*
+optimization finished, #iter = 167
+nu = 0.2786885245901639
+obj = -32.72731895273391, rho = -0.9126530565429974
+nSV = 121, nBSV = 19
+Total nSV = 121
+.*
+optimization finished, #iter = 163
+nu = 0.31147540983606564
+obj = -36.42610991269655, rho = -0.9333022177048078
+nSV = 122, nBSV = 24
+Total nSV = 122
+.*
+optimization finished, #iter = 165
+nu = 0.3140495867768595
+obj = -36.45262766572259, rho = -0.9199371306733151
+nSV = 121, nBSV = 24
+Total nSV = 121
+.*
+optimization finished, #iter = 165
+nu = 0.32786885245901637
+obj = -38.40092699074595, rho = -0.8957780306100283
+nSV = 121, nBSV = 25
+Total nSV = 121
+.*
+optimization finished, #iter = 154
+nu = 0.3471074380165288
+obj = -40.301116580269934, rho = -0.9834528659370899
+nSV = 120, nBSV = 25
+Total nSV = 120
+.*
+optimization finished, #iter = 201
+nu = 0.3157894736842105
+obj = -45.941917202309874, rho = -0.9188146764872173
+nSV = 151, nBSV = 30
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -37.912734389305115, rho = 0.15472647547721863
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809523
+obj = -36.373869153325906, rho = 0.7133846677277442
+nSV = 42, nBSV = 37
+Total nSV = 42
+*
+optimization finished, #iter = 32
+nu = 0.926829268292683
+obj = -35.63579170813267, rho = -0.5535003287455034
+nSV = 41, nBSV = 32
+Total nSV = 41
+*
+optimization finished, #iter = 24
+nu = 0.9523809523809523
+obj = -36.857246650856105, rho = 0.8360888467246843
+nSV = 42, nBSV = 38
+Total nSV = 42
+*
+optimization finished, #iter = 31
+nu = 0.975609756097561
+obj = -36.72525294473665, rho = -0.5007433835928576
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.77882605791092, rho = 0.15379208326339722
+nSV = 52, nBSV = 52
+.*
+optimization finished, #iter = 45
+nu = 0.75
+obj = -28.62638917866567, rho = -0.7371814449707954
+nSV = 40, nBSV = 20
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.99667006731033, rho = -0.1115216612815857
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.95
+obj = -35.76953720808312, rho = 0.7336905055351286
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.50665628910065, rho = 0.0810869038105011
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.56157076358795, rho = 0.06506961584091187
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 36
+nu = 0.96
+obj = -44.92277807613562, rho = -0.7381520348651578
+nSV = 50, nBSV = 42
+*
+optimization finished, #iter = 34
+nu = 0.85
+obj = -31.86403519339653, rho = -0.8847506868183772
+nSV = 40, nBSV = 29
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.49510324001312, rho = -0.09795475006103516
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 25
+nu = 0.95
+obj = -35.34381295766735, rho = -0.9653058768814272
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 24
+nu = 0.95
+obj = -35.08668749088635, rho = -0.854700027701214
+nSV = 40, nBSV = 36
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.95
+obj = -35.05319462264867, rho = 0.6049348350796574
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.96
+obj = -44.041683807243764, rho = -0.827928407430653
+nSV = 50, nBSV = 45
+Total nSV = 204
+.*
+optimization finished, #iter = 167
+nu = 0.37096774193548393
+obj = -42.78181358116952, rho = -0.7802230777426594
+nSV = 124, nBSV = 29
+Total nSV = 124
+.*
+optimization finished, #iter = 175
+nu = 0.39024390243902435
+obj = -44.69471579178748, rho = -0.8209255355216954
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 161
+nu = 0.2764227642276422
+obj = -31.658268493922268, rho = -0.8218076562528318
+nSV = 122, nBSV = 20
+Total nSV = 122
+.*
+optimization finished, #iter = 165
+nu = 0.3252032520325203
+obj = -37.0582433358111, rho = -0.8132429670931903
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 171
+nu = 0.32520325203252026
+obj = -37.66040546287538, rho = -0.838280555263252
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 207
+nu = 0.33766233766233755
+obj = -48.03042424984077, rho = -0.7956360064388668
+nSV = 153, nBSV = 32
+.*
+optimization finished, #iter = 165
+nu = 0.3548387096774194
+obj = -41.82457897199619, rho = -0.9520381777430325
+nSV = 124, nBSV = 26
+Total nSV = 124
+.*
+optimization finished, #iter = 163
+nu = 0.3089430894308943
+obj = -36.35013893800048, rho = -0.876710270615309
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.3089430894308943
+obj = -36.34123047095425, rho = -0.886081757727094
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 162
+nu = 0.35772357723577236
+obj = -41.95841704523199, rho = -0.9002136611229509
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 167
+nu = 0.35772357723577236
+obj = -41.772582558000344, rho = -0.892539819533335
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 200
+nu = 0.33766233766233766
+obj = -49.35328106655235, rho = -0.8918908528696953
+nSV = 154, nBSV = 32
+.*
+optimization finished, #iter = 163
+nu = 0.27868852459016397
+obj = -32.762290018579755, rho = -0.9126747488053882
+nSV = 122, nBSV = 19
+Total nSV = 122
+.*
+optimization finished, #iter = 162
+nu = 0.3114754098360656
+obj = -36.173995300602115, rho = -0.8253673038936735
+nSV = 122, nBSV = 22
+Total nSV = 122
+.*
+optimization finished, #iter = 165
+nu = 0.31404958677685957
+obj = -36.27254875704255, rho = -0.8110645470444666
+nSV = 121, nBSV = 21
+Total nSV = 121
+.*
+optimization finished, #iter = 165
+nu = 0.3278688524590164
+obj = -38.16114094288459, rho = -0.8839561523838542
+nSV = 122, nBSV = 23
+Total nSV = 122
+.*
+optimization finished, #iter = 161
+nu = 0.34710743801652894
+obj = -40.008517827559224, rho = -0.8461537276261856
+nSV = 121, nBSV = 25
+Total nSV = 121
+.*
+optimization finished, #iter = 203
+nu = 0.3157894736842106
+obj = -45.7131811850175, rho = -0.8331078557064091
+nSV = 152, nBSV = 30
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -37.7772735953331, rho = -0.2735165059566498
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 31
+nu = 0.9523809523809523
+obj = -36.32900495787524, rho = 0.5649653978218556
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 30
+nu = 0.926829268292683
+obj = -34.88658816611997, rho = -0.6528481844503123
+nSV = 41, nBSV = 34
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809523
+obj = -36.76831832459976, rho = 0.5950175306541069
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.625136494200646, rho = -0.7073164742283016
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.39430493116379, rho = -0.0978105366230011
+nSV = 52, nBSV = 52
+*
+optimization finished, #iter = 38
+nu = 0.75
+obj = -28.148929102231953, rho = -0.5560103017613761
+nSV = 40, nBSV = 22
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.07949221134186, rho = -0.0979631245136261
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 31
+nu = 0.9499999999999998
+obj = -35.275804423749044, rho = 0.7418853874250809
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -35.9631233215332, rho = -0.043399810791015625
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.248322665691376, rho = -0.1527996063232422
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 36
+nu = 0.96
+obj = -43.69861061319193, rho = -0.596272051499709
+nSV = 50, nBSV = 44
+*
+optimization finished, #iter = 38
+nu = 0.85
+obj = -31.918496099044575, rho = -0.5510697945701203
+nSV = 39, nBSV = 27
+Total nSV = 39
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.680358588695526, rho = 0.005152463912963867
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 30
+nu = 0.95
+obj = -35.51728331458375, rho = -0.8848845567511467
+nSV = 40, nBSV = 32
+Total nSV = 40
+*
+optimization finished, #iter = 31
+nu = 0.95
+obj = -35.72903822037591, rho = -0.6124132492316612
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.9500000000000002
+obj = -35.81888587398321, rho = 0.9240865160603644
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 38
+nu = 0.96
+obj = -44.55615006048485, rho = -0.5842953420471099
+nSV = 50, nBSV = 42
+Total nSV = 204
+.*
+optimization finished, #iter = 168
+nu = 0.3114754098360656
+obj = -36.5677033808807, rho = -0.9835804909580523
+nSV = 122, nBSV = 22
+Total nSV = 122
+.*
+optimization finished, #iter = 165
+nu = 0.32786885245901637
+obj = -38.14469955902646, rho = -0.9182268902603331
+nSV = 121, nBSV = 22
+Total nSV = 121
+.*
+optimization finished, #iter = 169
+nu = 0.3636363636363636
+obj = -41.978706213203594, rho = -0.8029171271202152
+nSV = 120, nBSV = 26
+Total nSV = 120
+.*
+optimization finished, #iter = 163
+nu = 0.2131147540983607
+obj = -24.96666385860236, rho = -0.8967169012327515
+nSV = 120, nBSV = 14
+Total nSV = 120
+.*
+optimization finished, #iter = 161
+nu = 0.36363636363636365
+obj = -41.97864546365931, rho = -0.8072993694944757
+nSV = 121, nBSV = 26
+Total nSV = 121
+.*
+optimization finished, #iter = 198
+nu = 0.3157894736842106
+obj = -45.807122367617026, rho = -0.8649333121194342
+nSV = 151, nBSV = 28
+.*
+optimization finished, #iter = 170
+nu = 0.35483870967741926
+obj = -41.91071909949529, rho = -0.9460398309099928
+nSV = 124, nBSV = 26
+Total nSV = 124
+.*
+optimization finished, #iter = 158
+nu = 0.34146341463414637
+obj = -39.90016202046787, rho = -0.8651263388662418
+nSV = 122, nBSV = 24
+Total nSV = 122
+.*
+optimization finished, #iter = 166
+nu = 0.3414634146341465
+obj = -40.190874760645386, rho = -0.9450310881525129
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 167
+nu = 0.34146341463414637
+obj = -40.031695815571815, rho = -0.9196029919791833
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.3089430894308943
+obj = -36.51473007295675, rho = -0.9807007293761029
+nSV = 122, nBSV = 21
+Total nSV = 122
+.*
+optimization finished, #iter = 201
+nu = 0.3376623376623378
+obj = -49.43565322634371, rho = -0.9262906478071847
+nSV = 153, nBSV = 30
+.*
+optimization finished, #iter = 166
+nu = 0.3064516129032258
+obj = -35.62495917250123, rho = -0.857484084109771
+nSV = 124, nBSV = 22
+Total nSV = 124
+.*
+optimization finished, #iter = 181
+nu = 0.32520325203252026
+obj = -37.88320598047787, rho = -0.9084746189141387
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 165
+nu = 0.3252032520325203
+obj = -37.9209963316721, rho = -0.8810362006695185
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 172
+nu = 0.3577235772357724
+obj = -41.59904251717367, rho = -0.870314074061864
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 165
+nu = 0.37398373983739835
+obj = -43.310914018849374, rho = -0.8680314337890321
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 206
+nu = 0.3376623376623376
+obj = -48.766810840659076, rho = -0.865811318646413
+nSV = 154, nBSV = 30
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.30593514442444, rho = -0.09361261129379272
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.13861441612244, rho = -0.12340950965881348
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.85
+obj = -32.37626478563775, rho = 0.9099924669363567
+nSV = 40, nBSV = 28
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.10319983959198, rho = -0.023761659860610962
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.95
+obj = -35.55216924254546, rho = 0.4915658539887396
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 35
+nu = 0.96
+obj = -44.766635508296076, rho = 0.5821745866204135
+nSV = 50, nBSV = 41
+*
+optimization finished, #iter = 31
+nu = 0.9
+obj = -33.67191957292513, rho = 0.7676831734622652
+nSV = 40, nBSV = 29
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.76729881763458, rho = -0.04786694049835205
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.66118544340134, rho = -0.06266972422599792
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 26
+nu = 0.95
+obj = -35.45899528855644, rho = 0.6089387697151464
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 25
+nu = 0.95
+obj = -35.57278296710013, rho = 0.7648425796982932
+nSV = 40, nBSV = 36
+Total nSV = 40
+*
+optimization finished, #iter = 28
+nu = 0.9599999999999999
+obj = -44.409501284217434, rho = 0.5975906163867529
+nSV = 50, nBSV = 46
+.*
+optimization finished, #iter = 44
+nu = 0.8095238095238095
+obj = -32.014471897231964, rho = -0.7004898187180406
+nSV = 41, nBSV = 23
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 0.9523809523809523
+obj = -37.06631460872774, rho = 0.7334859620736136
+nSV = 42, nBSV = 38
+Total nSV = 42
+*
+optimization finished, #iter = 27
+nu = 0.9756097560975608
+obj = -36.84227762268531, rho = 0.6348092273967688
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -38.481136322021484, rho = 0.11086109280586243
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 30
+nu = 0.8780487804878047
+obj = -33.89990124651337, rho = 0.8916948558674797
+nSV = 41, nBSV = 31
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -47.284729957580566, rho = 0.03462815284729004
+nSV = 52, nBSV = 52
+Total nSV = 204
+*
+optimization finished, #iter = 23
+nu = 0.95
+obj = -34.84530325025711, rho = 0.7179239991524404
+nSV = 40, nBSV = 36
+Total nSV = 40
+*
+optimization finished, #iter = 28
+nu = 0.95
+obj = -35.04422437625111, rho = 0.6678020555749458
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.95
+obj = -34.858109742633, rho = -0.6179628378569489
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.8500000000000002
+obj = -31.930400502583904, rho = 0.7594586044366916
+nSV = 40, nBSV = 27
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -36.98851680755615, rho = -0.047466427087783813
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.96
+obj = -43.92206582093296, rho = 0.6344089272574258
+nSV = 50, nBSV = 45
+.*
+optimization finished, #iter = 166
+nu = 0.36065573770491804
+obj = -41.796939850341275, rho = 0.9019485321921605
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 174
+nu = 0.2950819672131149
+obj = -34.36932429452606, rho = 0.8417070317716486
+nSV = 121, nBSV = 21
+Total nSV = 121
+.*
+optimization finished, #iter = 171
+nu = 0.3471074380165288
+obj = -39.983535723947554, rho = 0.836111875908647
+nSV = 121, nBSV = 26
+Total nSV = 121
+.*
+optimization finished, #iter = 160
+nu = 0.27868852459016413
+obj = -32.63359503350483, rho = 0.871490454760795
+nSV = 122, nBSV = 19
+Total nSV = 122
+.*
+optimization finished, #iter = 158
+nu = 0.29752066115702475
+obj = -34.5507715348432, rho = 0.9330948883608581
+nSV = 120, nBSV = 23
+Total nSV = 120
+.*
+optimization finished, #iter = 204
+nu = 0.31578947368421056
+obj = -45.6906356929549, rho = 0.8644157772832854
+nSV = 151, nBSV = 30
+*
+optimization finished, #iter = 30
+nu = 0.9500000000000002
+obj = -35.58056346548066, rho = 0.53595336611014
+nSV = 40, nBSV = 31
+Total nSV = 40
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.11937516927719, rho = 0.04794353246688843
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 37
+nu = 0.85
+obj = -31.948314204532817, rho = 0.6066966319242111
+nSV = 40, nBSV = 27
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.95
+obj = -35.47542476507412, rho = 0.6424744880955368
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 32
+nu = 0.95
+obj = -35.568891929271764, rho = -0.8145311197722346
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 33
+nu = 0.96
+obj = -44.54322334034092, rho = 0.5855211579377462
+nSV = 50, nBSV = 42
+.*
+optimization finished, #iter = 179
+nu = 0.33870967741935476
+obj = -38.925662651014555, rho = 0.8150842265031525
+nSV = 124, nBSV = 26
+Total nSV = 124
+.*
+optimization finished, #iter = 166
+nu = 0.37398373983739847
+obj = -42.718019596431795, rho = 0.8276462630050593
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 167
+nu = 0.3252032520325202
+obj = -37.266482471284405, rho = 0.8164993420807092
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 162
+nu = 0.34146341463414626
+obj = -39.943761429391756, rho = 0.8973729550658363
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 169
+nu = 0.3089430894308942
+obj = -35.86939141363461, rho = 0.8550846548832968
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 207
+nu = 0.33766233766233755
+obj = -48.33169369130032, rho = 0.8285141808255947
+nSV = 154, nBSV = 32
+*
+optimization finished, #iter = 27
+nu = 0.9523809523809523
+obj = -36.915298024703254, rho = -0.7522271865783986
+nSV = 42, nBSV = 37
+Total nSV = 42
+*
+optimization finished, #iter = 31
+nu = 0.9047619047619048
+obj = -35.38451426803262, rho = -0.7701927808985883
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 32
+nu = 0.926829268292683
+obj = -35.02948779568819, rho = 0.5559791077865106
+nSV = 41, nBSV = 32
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809522
+obj = -36.80178936645869, rho = 0.5779348097469389
+nSV = 42, nBSV = 35
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.9756097560975608
+obj = -36.46183247696071, rho = 0.48194032349189947
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.79420894384384, rho = -0.11356261372566223
+nSV = 52, nBSV = 52
+.*
+optimization finished, #iter = 163
+nu = 0.32258064516129026
+obj = -38.48305771276846, rho = -0.944696516143621
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.3252032520325204
+obj = -38.36136306727992, rho = -0.9336085302011928
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 160
+nu = 0.3902439024390244
+obj = -45.57415827450674, rho = -0.9497918421580056
+nSV = 122, nBSV = 28
+Total nSV = 122
+.*
+optimization finished, #iter = 173
+nu = 0.2764227642276423
+obj = -32.675449951838964, rho = -0.9201790736036307
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.37398373983739835
+obj = -43.73322747104024, rho = -0.927825647307568
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 208
+nu = 0.3376623376623378
+obj = -49.54149985139175, rho = -0.9299491278300097
+nSV = 153, nBSV = 32
+Total nSV = 204
+.*
+optimization finished, #iter = 165
+nu = 0.30645161290322565
+obj = -36.07216047280585, rho = 0.9274003199583158
+nSV = 124, nBSV = 22
+Total nSV = 124
+.*
+optimization finished, #iter = 172
+nu = 0.35772357723577247
+obj = -41.274638622722506, rho = 0.8461530537730914
+nSV = 123, nBSV = 27
+Total nSV = 123
+.*
+optimization finished, #iter = 166
+nu = 0.37398373983739847
+obj = -42.795024532138754, rho = 0.8175987066267592
+nSV = 123, nBSV = 27
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.34146341463414637
+obj = -39.334864887655094, rho = 0.8524141406405349
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 172
+nu = 0.3089430894308942
+obj = -35.86134660938297, rho = 0.8592477183830067
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 208
+nu = 0.33766233766233766
+obj = -48.48368430750943, rho = 0.8504417063511507
+nSV = 154, nBSV = 31
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809523
+obj = -36.667399297214715, rho = -0.8388001009664625
+nSV = 42, nBSV = 37
+Total nSV = 42
+*
+optimization finished, #iter = 32
+nu = 0.9047619047619048
+obj = -34.96895655317798, rho = 0.4676566394561399
+nSV = 42, nBSV = 32
+Total nSV = 42
+*
+optimization finished, #iter = 25
+nu = 0.975609756097561
+obj = -37.163564258279365, rho = -0.9248789854586184
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 22
+nu = 0.9523809523809523
+obj = -37.08831819919142, rho = -0.7620771531600166
+nSV = 42, nBSV = 38
+Total nSV = 42
+*
+optimization finished, #iter = 28
+nu = 0.975609756097561
+obj = -36.94783610335207, rho = 0.6294392220856194
+nSV = 41, nBSV = 34
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.97375464439392, rho = -0.18418169021606445
+nSV = 52, nBSV = 52
+*
+optimization finished, #iter = 33
+nu = 0.9
+obj = -33.93329489173318, rho = -0.7451892534421147
+nSV = 40, nBSV = 28
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.95
+obj = -35.10173511781618, rho = -0.7472122221026383
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 27
+nu = 0.95
+obj = -35.30701259979838, rho = -0.7163756401539773
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 29
+nu = 0.95
+obj = -35.108995483140916, rho = 0.6583382509213459
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 28
+nu = 0.95
+obj = -35.00690491405958, rho = -0.6770548995197123
+nSV = 40, nBSV = 35
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.96
+obj = -44.198350829400034, rho = -0.644850913545128
+nSV = 50, nBSV = 45
+.*
+optimization finished, #iter = 163
+nu = 0.33870967741935476
+obj = -40.236963323061396, rho = -0.9716352328025664
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 160
+nu = 0.3252032520325203
+obj = -38.2978123625845, rho = -0.9598453189681773
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 173
+nu = 0.30894308943089427
+obj = -36.53404277953415, rho = -0.9616110239919041
+nSV = 122, nBSV = 23
+Total nSV = 122
+.*
+optimization finished, #iter = 170
+nu = 0.34146341463414626
+obj = -40.20200893670728, rho = -0.961383529134499
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 164
+nu = 0.37398373983739835
+obj = -43.9124952423669, rho = -1.0033962567069898
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 196
+nu = 0.33766233766233755
+obj = -49.61573876527287, rho = -0.9697233756672897
+nSV = 153, nBSV = 31
+.*
+optimization finished, #iter = 164
+nu = 0.29508196721311486
+obj = -34.42556013994534, rho = -0.884338243153106
+nSV = 122, nBSV = 21
+Total nSV = 122
+.*
+optimization finished, #iter = 157
+nu = 0.3442622950819672
+obj = -40.315406568473854, rho = -0.9048554033923457
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 167
+nu = 0.3305785123966942
+obj = -38.37286441739527, rho = -0.8832736444626804
+nSV = 120, nBSV = 24
+Total nSV = 120
+.*
+optimization finished, #iter = 168
+nu = 0.27868852459016397
+obj = -32.51309005826428, rho = -0.8820822505970562
+nSV = 121, nBSV = 20
+Total nSV = 121
+.*
+optimization finished, #iter = 160
+nu = 0.3305785123966942
+obj = -38.38880808065948, rho = -0.9274563915050306
+nSV = 121, nBSV = 25
+Total nSV = 121
+.*
+optimization finished, #iter = 202
+nu = 0.3157894736842105
+obj = -45.87206341878824, rho = -0.8851809968324909
+nSV = 151, nBSV = 29
+*
+optimization finished, #iter = 37
+nu = 0.85
+obj = -32.42065196122645, rho = -0.6523552714824377
+nSV = 39, nBSV = 24
+Total nSV = 39
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.35535830259323, rho = 0.10736417770385742
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 30
+nu = 0.95
+obj = -35.98045728567446, rho = -0.6503818627607068
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 26
+nu = 0.95
+obj = -35.69044952614484, rho = -0.5809550223977143
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 27
+nu = 0.9499999999999998
+obj = -35.409736637225215, rho = 0.7941745743450578
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.96
+obj = -44.928904807838514, rho = -0.5461960019592301
+nSV = 50, nBSV = 43
+Total nSV = 204
+.*
+optimization finished, #iter = 163
+nu = 0.3064516129032259
+obj = -36.38454376383965, rho = 0.9155074480615865
+nSV = 124, nBSV = 25
+Total nSV = 124
+.*
+optimization finished, #iter = 159
+nu = 0.3577235772357724
+obj = -42.032019587456524, rho = 0.9399969964463472
+nSV = 122, nBSV = 27
+Total nSV = 122
+.*
+optimization finished, #iter = 164
+nu = 0.37398373983739863
+obj = -44.041841965451304, rho = 0.9944525542678878
+nSV = 122, nBSV = 30
+Total nSV = 122
+.*
+optimization finished, #iter = 166
+nu = 0.34146341463414653
+obj = -40.31412892259482, rho = 0.9101779729318745
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 170
+nu = 0.30894308943089416
+obj = -36.23949833133795, rho = 0.8850764765755451
+nSV = 122, nBSV = 24
+Total nSV = 122
+.*
+optimization finished, #iter = 194
+nu = 0.33766233766233766
+obj = -49.56906693635782, rho = 0.9223981153904008
+nSV = 153, nBSV = 32
+*
+optimization finished, #iter = 30
+nu = 0.926829268292683
+obj = -35.634495132887906, rho = 0.7948965052872669
+nSV = 41, nBSV = 34
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -37.26277995068168, rho = -0.6280463480994101
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 31
+nu = 0.926829268292683
+obj = -35.71499928539117, rho = 0.786559062050863
+nSV = 41, nBSV = 34
+Total nSV = 41
+.*
+optimization finished, #iter = 42
+nu = 0.8292682926829268
+obj = -32.39591737008238, rho = -0.9341997369754128
+nSV = 41, nBSV = 23
+Total nSV = 41
+*
+optimization finished, #iter = 31
+nu = 0.95
+obj = -35.66453415130748, rho = -0.6800001420349586
+nSV = 40, nBSV = 32
+Total nSV = 40
+*
+optimization finished, #iter = 33
+nu = 0.9803921568627451
+obj = -46.41093070444184, rho = -0.6610528622161397
+nSV = 51, nBSV = 45
+*
+optimization finished, #iter = 35
+nu = 0.9523809523809523
+obj = -36.69420728528417, rho = -0.5570515085145773
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 25
+nu = 0.9523809523809526
+obj = -37.140322037587914, rho = 0.8038464521760369
+nSV = 42, nBSV = 38
+Total nSV = 42
+*
+optimization finished, #iter = 31
+nu = 0.975609756097561
+obj = -36.12955009712738, rho = -0.45185433598087527
+nSV = 41, nBSV = 34
+Total nSV = 41
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -38.52947932481766, rho = 0.14141201972961426
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.43724578321012, rho = 0.9069826713281225
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.78951781988144, rho = 0.17269200086593628
+nSV = 52, nBSV = 52
+.*
+optimization finished, #iter = 163
+nu = 0.3252032520325203
+obj = -38.37440450131299, rho = -0.8949235173892012
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 163
+nu = 0.2950819672131148
+obj = -34.51585274631524, rho = -0.919797287872929
+nSV = 121, nBSV = 22
+Total nSV = 121
+.*
+optimization finished, #iter = 157
+nu = 0.3089430894308943
+obj = -36.465827346222206, rho = -0.9116135027416529
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.32786885245901637
+obj = -38.217613165767254, rho = -0.858421554386476
+nSV = 121, nBSV = 24
+Total nSV = 121
+.*
+optimization finished, #iter = 165
+nu = 0.377049180327869
+obj = -43.80503258661585, rho = -0.9086819786039081
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 206
+nu = 0.32679738562091504
+obj = -47.68549752520593, rho = -0.8873134788675536
+nSV = 152, nBSV = 31
+.*
+optimization finished, #iter = 175
+nu = 0.32258064516129037
+obj = -37.67737823662989, rho = -0.867876347701231
+nSV = 124, nBSV = 24
+Total nSV = 124
+.*
+optimization finished, #iter = 166
+nu = 0.3902439024390244
+obj = -44.54167302282071, rho = -0.8169012944326063
+nSV = 123, nBSV = 29
+Total nSV = 123
+.*
+optimization finished, #iter = 173
+nu = 0.2764227642276423
+obj = -32.164665039044166, rho = -0.8688795923190066
+nSV = 123, nBSV = 19
+Total nSV = 123
+.*
+optimization finished, #iter = 167
+nu = 0.35772357723577236
+obj = -40.97982524059444, rho = -0.7491310389438023
+nSV = 123, nBSV = 27
+Total nSV = 123
+.*
+optimization finished, #iter = 174
+nu = 0.3414634146341464
+obj = -39.12452556197264, rho = -0.8116023060948363
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 205
+nu = 0.33766233766233766
+obj = -48.23893631752106, rho = -0.8067319414849989
+nSV = 154, nBSV = 32
+*
+optimization finished, #iter = 28
+nu = 0.926829268292683
+obj = -35.194186030999234, rho = 0.790496000934726
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.12917291863639, rho = -0.4603392335723585
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 30
+nu = 0.975609756097561
+obj = -36.10742899961259, rho = -0.42812400389425365
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 24
+nu = 0.9756097560975612
+obj = -36.89813056864533, rho = 0.6916254685372458
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 25
+nu = 0.95
+obj = -35.37866282961124, rho = 0.741185101233643
+nSV = 40, nBSV = 36
+Total nSV = 40
+*
+optimization finished, #iter = 35
+nu = 0.9803921568627453
+obj = -45.303066354211495, rho = 0.7066998296905819
+nSV = 51, nBSV = 45
+Total nSV = 205
+.*
+optimization finished, #iter = 161
+nu = 0.306451612903226
+obj = -36.55328900004529, rho = 0.945271086563174
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 163
+nu = 0.35772357723577264
+obj = -41.94727300981713, rho = 0.9854397204125499
+nSV = 122, nBSV = 26
+Total nSV = 122
+.*
+optimization finished, #iter = 167
+nu = 0.37398373983739835
+obj = -43.880571046109566, rho = 0.8952552104493132
+nSV = 122, nBSV = 28
+Total nSV = 122
+.*
+optimization finished, #iter = 163
+nu = 0.3414634146341462
+obj = -40.214900216919496, rho = 0.9242371257434712
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 158
+nu = 0.3089430894308943
+obj = -36.55205192120617, rho = 0.9211433355896674
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 199
+nu = 0.3376623376623378
+obj = -49.617709853798644, rho = 0.9282923134896154
+nSV = 153, nBSV = 32
+*
+optimization finished, #iter = 31
+nu = 0.9523809523809523
+obj = -36.66333957904584, rho = -0.5755745912993483
+nSV = 42, nBSV = 35
+Total nSV = 42
+*
+optimization finished, #iter = 32
+nu = 0.9047619047619048
+obj = -35.36878641063146, rho = 0.928026153838302
+nSV = 42, nBSV = 34
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.88851656298471, rho = -0.6771865022743349
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.9523809523809523
+obj = -36.03752279895798, rho = -0.400465951195447
+nSV = 42, nBSV = 35
+Total nSV = 42
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.52335954953152, rho = 0.7392748152302648
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.520744025707245, rho = 0.138218492269516
+nSV = 52, nBSV = 52
+*
+optimization finished, #iter = 33
+nu = 0.926829268292683
+obj = -35.94139346418782, rho = -0.8245360595544216
+nSV = 41, nBSV = 33
+Total nSV = 41
+*
+optimization finished, #iter = 37
+nu = 0.8780487804878047
+obj = -34.23094136351634, rho = 0.8059216805502256
+nSV = 41, nBSV = 26
+Total nSV = 41
+*
+optimization finished, #iter = 33
+nu = 0.8780487804878049
+obj = -33.9956749321198, rho = -0.6191904582424637
+nSV = 40, nBSV = 29
+Total nSV = 40
+*
+optimization finished, #iter = 30
+nu = 0.975609756097561
+obj = -37.45864726039422, rho = -0.6089657336074332
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 20
+nu = 1.0
+obj = -37.46433788537979, rho = -0.021970748901367188
+nSV = 40, nBSV = 40
+Total nSV = 40
+*
+optimization finished, #iter = 35
+nu = 0.9803921568627451
+obj = -46.66040642652457, rho = -0.6265896022438102
+nSV = 51, nBSV = 46
+.*
+optimization finished, #iter = 174
+nu = 0.3064516129032258
+obj = -35.338906733777286, rho = -0.8566729086313238
+nSV = 124, nBSV = 21
+Total nSV = 124
+.*
+optimization finished, #iter = 168
+nu = 0.35772357723577236
+obj = -41.397594137819915, rho = -0.8483286160448379
+nSV = 123, nBSV = 27
+Total nSV = 123
+.*
+optimization finished, #iter = 169
+nu = 0.35772357723577225
+obj = -41.267225011014496, rho = -0.8604664126862572
+nSV = 123, nBSV = 27
+Total nSV = 123
+.*
+optimization finished, #iter = 156
+nu = 0.3414634146341462
+obj = -38.95677522174737, rho = -0.803577889822759
+nSV = 123, nBSV = 24
+Total nSV = 123
+.*
+optimization finished, #iter = 176
+nu = 0.3252032520325203
+obj = -37.18121879360433, rho = -0.8167721556405766
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 200
+nu = 0.3376623376623376
+obj = -48.091461834646374, rho = -0.82179408941671
+nSV = 154, nBSV = 32
+.*
+optimization finished, #iter = 171
+nu = 0.3089430894308943
+obj = -36.36694679409833, rho = -0.8651720347513671
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 166
+nu = 0.36065573770491804
+obj = -42.02051706502141, rho = -0.8578100190916766
+nSV = 121, nBSV = 27
+Total nSV = 121
+.*
+optimization finished, #iter = 157
+nu = 0.2764227642276423
+obj = -32.82625116631573, rho = -0.9864408968948165
+nSV = 123, nBSV = 20
+Total nSV = 123
+.*
+optimization finished, #iter = 169
+nu = 0.3442622950819673
+obj = -40.26792651925548, rho = -0.8574981428283659
+nSV = 122, nBSV = 27
+Total nSV = 122
+.*
+optimization finished, #iter = 154
+nu = 0.3442622950819671
+obj = -40.113304457276776, rho = -0.9167263869960658
+nSV = 121, nBSV = 27
+Total nSV = 121
+.*
+optimization finished, #iter = 203
+nu = 0.32679738562091504
+obj = -47.74977180342596, rho = -0.8853179416620405
+nSV = 152, nBSV = 31
+*
+optimization finished, #iter = 27
+nu = 0.9756097560975608
+obj = -36.07371991366822, rho = 0.513169148997491
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 28
+nu = 0.926829268292683
+obj = -35.473246455124716, rho = -0.8073249706023186
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 28
+nu = 0.926829268292683
+obj = -34.98589518582081, rho = -0.8209060243260734
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 27
+nu = 0.975609756097561
+obj = -36.84589693365373, rho = -0.6413163203433038
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 28
+nu = 0.9499999999999998
+obj = -34.84700790028874, rho = 0.6316620734464172
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 35
+nu = 0.9803921568627451
+obj = -45.216506908256534, rho = -0.6440765190593174
+nSV = 51, nBSV = 45
+Total nSV = 205
+.*
+optimization finished, #iter = 164
+nu = 0.3709677419354839
+obj = -43.102880212559654, rho = -0.8547646819056302
+nSV = 124, nBSV = 25
+Total nSV = 124
+.*
+optimization finished, #iter = 173
+nu = 0.39024390243902446
+obj = -44.92163097299659, rho = -0.8458119801345287
+nSV = 123, nBSV = 29
+Total nSV = 123
+.*
+optimization finished, #iter = 168
+nu = 0.2764227642276423
+obj = -32.113834867465314, rho = -0.8496518809270515
+nSV = 122, nBSV = 19
+Total nSV = 122
+.*
+optimization finished, #iter = 181
+nu = 0.3252032520325203
+obj = -37.114297288841584, rho = -0.8357657546548717
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 169
+nu = 0.3252032520325203
+obj = -36.946756163826784, rho = -0.8043133903192269
+nSV = 123, nBSV = 23
+Total nSV = 123
+.*
+optimization finished, #iter = 209
+nu = 0.33766233766233766
+obj = -48.140416152727845, rho = -0.8189990789211761
+nSV = 153, nBSV = 32
+.*
+optimization finished, #iter = 163
+nu = 0.2764227642276423
+obj = -32.62381787978795, rho = -0.8340107210187875
+nSV = 122, nBSV = 19
+Total nSV = 122
+.*
+optimization finished, #iter = 158
+nu = 0.31147540983606564
+obj = -36.36005495645853, rho = -0.8643471173218713
+nSV = 121, nBSV = 24
+Total nSV = 121
+.*
+optimization finished, #iter = 166
+nu = 0.34146341463414637
+obj = -40.15662201744409, rho = -0.8397518702054858
+nSV = 123, nBSV = 25
+Total nSV = 123
+.*
+optimization finished, #iter = 171
+nu = 0.3442622950819672
+obj = -40.189815842959746, rho = -0.9260004080870584
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 166
+nu = 0.36065573770491804
+obj = -41.944306105681214, rho = -0.834075537540679
+nSV = 121, nBSV = 28
+Total nSV = 121
+.*
+optimization finished, #iter = 200
+nu = 0.32679738562091504
+obj = -47.68459812383343, rho = -0.8430875547678012
+nSV = 152, nBSV = 31
+.*
+optimization finished, #iter = 166
+nu = 0.3709677419354839
+obj = -43.75794214608244, rho = -0.8664616921920073
+nSV = 123, nBSV = 28
+Total nSV = 123
+.*
+optimization finished, #iter = 163
+nu = 0.3252032520325203
+obj = -38.345949049505144, rho = -0.9410225875896575
+nSV = 122, nBSV = 25
+Total nSV = 122
+.*
+optimization finished, #iter = 165
+nu = 0.3577235772357723
+obj = -41.938481595638784, rho = -0.9522453050854153
+nSV = 123, nBSV = 26
+Total nSV = 123
+.*
+optimization finished, #iter = 160
+nu = 0.34146341463414637
+obj = -40.18213413458578, rho = -0.8863253430472274
+nSV = 122, nBSV = 27
+Total nSV = 122
+.*
+optimization finished, #iter = 168
+nu = 0.2926829268292683
+obj = -34.43534356100984, rho = -0.8985477202168893
+nSV = 123, nBSV = 22
+Total nSV = 123
+.*
+optimization finished, #iter = 203
+nu = 0.33766233766233755
+obj = -49.46463536276343, rho = -0.900573601439218
+nSV = 153, nBSV = 32
+*
+optimization finished, #iter = 26
+nu = 0.975609756097561
+obj = -36.46310904052842, rho = -0.5801030059876628
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 29
+nu = 0.975609756097561
+obj = -36.349406718951286, rho = -0.6228553359697347
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 27
+nu = 0.926829268292683
+obj = -35.41902661714969, rho = -0.6082519182861877
+nSV = 41, nBSV = 35
+Total nSV = 41
+*
+optimization finished, #iter = 32
+nu = 0.926829268292683
+obj = -34.90916239629073, rho = 0.5146296906349291
+nSV = 41, nBSV = 31
+Total nSV = 41
+*
+optimization finished, #iter = 25
+nu = 0.95
+obj = -35.04600600210694, rho = -0.5281886805980133
+nSV = 40, nBSV = 34
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.9803921568627451
+obj = -45.31806989027861, rho = -0.5427163978040183
+nSV = 51, nBSV = 45
+*
+optimization finished, #iter = 32
+nu = 0.8571428571428571
+obj = -33.88758875981732, rho = -0.9483209334697561
+nSV = 42, nBSV = 30
+Total nSV = 42
+*
+optimization finished, #iter = 21
+nu = 1.0
+obj = -37.44619882106781, rho = 0.04430985450744629
+nSV = 42, nBSV = 42
+Total nSV = 42
+*
+optimization finished, #iter = 27
+nu = 0.975609756097561
+obj = -36.41779463144447, rho = -0.7611648819537
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 35
+nu = 0.8571428571428568
+obj = -33.506165581476814, rho = 0.6210385705417152
+nSV = 42, nBSV = 29
+Total nSV = 42
+*
+optimization finished, #iter = 26
+nu = 0.975609756097561
+obj = -36.69923664691094, rho = 0.675564561457516
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 26
+nu = 1.0
+obj = -46.58000308275223, rho = -0.05994108319282532
+nSV = 52, nBSV = 52
+*
+optimization finished, #iter = 36
+nu = 0.9268292682926828
+obj = -35.689326533340704, rho = 0.6419908502055051
+nSV = 41, nBSV = 31
+Total nSV = 41
+*
+optimization finished, #iter = 28
+nu = 0.975609756097561
+obj = -37.48540470945494, rho = -0.8653616668730415
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 25
+nu = 0.975609756097561
+obj = -37.469672155146355, rho = -0.8905323083105641
+nSV = 41, nBSV = 37
+Total nSV = 41
+*
+optimization finished, #iter = 25
+nu = 0.9756097560975612
+obj = -37.497165804670566, rho = 0.6620787098352647
+nSV = 41, nBSV = 36
+Total nSV = 41
+*
+optimization finished, #iter = 30
+nu = 0.95
+obj = -35.421211625299726, rho = 0.8075049829229525
+nSV = 40, nBSV = 33
+Total nSV = 40
+*
+optimization finished, #iter = 34
+nu = 0.9803921568627451
+obj = -46.440630034793, rho = 0.5995056801954465
+nSV = 51, nBSV = 45
+Total nSV = 205
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer "weka.core.tokenizers.NGramTokenizer -min 2 -max 3" -C" -W weka.classifiers.functions.LibSVM -- -B 
+
+FilteredClassifier using weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -B -seed 1 on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 3 -min 2"
+
+Filtered Header
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W3000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 3 -min 2'
+
+@attribute tense {past,present,future,neutral}
+@attribute 'अंग्रेजी महीने' numeric
+@attribute 'अंग्रेजी महीने के' numeric
+@attribute 'अक्टूबर के' numeric
+@attribute 'अक्टूबर के बीच' numeric
+@attribute 'अगस्त और' numeric
+@attribute 'अगस्त और सितम्बर' numeric
+@attribute 'अप्रैल और' numeric
+@attribute 'अप्रैल और मई' numeric
+@attribute 'अवस्थाओं को' numeric
+@attribute 'अवस्थाओं को बताता' numeric
+@attribute 'आज से' numeric
+@attribute 'आज से आनेवाला' numeric
+@attribute 'आज से एक' numeric
+@attribute 'आज से पहले' numeric
+@attribute 'आता है' numeric
+@attribute 'आनेवाला तीसरा' numeric
+@attribute 'आनेवाला तीसरा दिन' numeric
+@attribute 'आनेवाला तीसरे' numeric
+@attribute 'आनेवाला तीसरे दिन' numeric
+@attribute 'आश्विन के' numeric
+@attribute 'आश्विन के बीच' numeric
+@attribute 'आषाढ़ के' numeric
+@attribute 'आषाढ़ के बीच' numeric
+@attribute 'इस समय' numeric
+@attribute 'इस समय से' numeric
+@attribute 'एक दिन' numeric
+@attribute 'एक दिन पहले' numeric
+@attribute 'और अक्टूबर' numeric
+@attribute 'और अक्टूबर के' numeric
+@attribute 'और आश्विन' numeric
+@attribute 'और आश्विन के' numeric
+@attribute 'और आषाढ़' numeric
+@attribute 'और आषाढ़ के' numeric
+@attribute 'और कार्तिक' numeric
+@attribute 'और कार्तिक के' numeric
+@attribute 'और चैत्र' numeric
+@attribute 'और चैत्र के' numeric
+@attribute 'और जनवरी' numeric
+@attribute 'और जनवरी के' numeric
+@attribute 'और जून' numeric
+@attribute 'और जून के' numeric
+@attribute 'और ज्येष्ठ' numeric
+@attribute 'और ज्येष्ठ के' numeric
+@attribute 'और दिसम्बर' numeric
+@attribute 'और दिसम्बर के' numeric
+@attribute 'और पौष' numeric
+@attribute 'और पौष के' numeric
+@attribute 'और फरवरी' numeric
+@attribute 'और फरवरी के' numeric
+@attribute 'और फाल्गुन' numeric
+@attribute 'और फाल्गुन से' numeric
+@attribute 'और मई' numeric
+@attribute 'और मई के' numeric
+@attribute 'और माघ' numeric
+@attribute 'और माघ के' numeric
+@attribute 'और मार्च' numeric
+@attribute 'और मार्च के' numeric
+@attribute 'और रविवार' numeric
+@attribute 'और रविवार के' numeric
+@attribute 'और शनिवार' numeric
+@attribute 'और शनिवार के' numeric
+@attribute 'और सितम्बर' numeric
+@attribute 'और सितम्बर के' numeric
+@attribute 'और सोमवार' numeric
+@attribute 'और सोमवार से' numeric
+@attribute 'का और' numeric
+@attribute 'का और सोमवार' numeric
+@attribute 'का तीसरा' numeric
+@attribute 'का तीसरा दिन' numeric
+@attribute 'का दिन' numeric
+@attribute 'का दिन या' numeric
+@attribute 'का पहला' numeric
+@attribute 'का पहला वार' numeric
+@attribute 'का महीना' numeric
+@attribute 'का महीना जो' numeric
+@attribute 'का या' numeric
+@attribute 'का या जो' numeric
+@attribute 'का वार' numeric
+@attribute 'का वार या' numeric
+@attribute 'का हिंदी' numeric
+@attribute 'का हिंदी महीना' numeric
+@attribute 'कार्तिक के' numeric
+@attribute 'कार्तिक के पहले' numeric
+@attribute 'कार्तिक के बाद' numeric
+@attribute 'काल जो' numeric
+@attribute 'काल जो बीते' numeric
+@attribute 'काल में' numeric
+@attribute 'काल से' numeric
+@attribute 'काल से संबंधित' numeric
+@attribute 'किया हुआ' numeric
+@attribute 'किया हुआ हो' numeric
+@attribute 'किसी देखी' numeric
+@attribute 'किसी देखी सुनी' numeric
+@attribute 'की क्रियाओं' numeric
+@attribute 'की क्रियाओं या' numeric
+@attribute 'की दृष्टि' numeric
+@attribute 'की दृष्टि से' numeric
+@attribute 'के अगस्त' numeric
+@attribute 'के अगस्त और' numeric
+@attribute 'के अप्रैल' numeric
+@attribute 'के अप्रैल और' numeric
+@attribute 'के जनवरी' numeric
+@attribute 'के जनवरी और' numeric
+@attribute 'के दिन' numeric
+@attribute 'के दिन से' numeric
+@attribute 'के दिसम्बर' numeric
+@attribute 'के दिसम्बर और' numeric
+@attribute 'के नवम्बर' numeric
+@attribute 'के नवम्बर और' numeric
+@attribute 'के पहले' numeric
+@attribute 'के पहले का' numeric
+@attribute 'के फरवरी' numeric
+@attribute 'के फरवरी और' numeric
+@attribute 'के बाद' numeric
+@attribute 'के बाद और' numeric
+@attribute 'के बाद का' numeric
+@attribute 'के बाद के' numeric
+@attribute 'के बाद तथा' numeric
+@attribute 'के बीच' numeric
+@attribute 'के बीच का' numeric
+@attribute 'के बीच में' numeric
+@attribute 'के बीते' numeric
+@attribute 'के बीते हुए' numeric
+@attribute 'के मई' numeric
+@attribute 'के मई और' numeric
+@attribute 'के सितम्बर' numeric
+@attribute 'के सितम्बर और' numeric
+@attribute 'को ध्यान' numeric
+@attribute 'को ध्यान में' numeric
+@attribute 'को बताता' numeric
+@attribute 'को बताता है' numeric
+@attribute 'क्रम की' numeric
+@attribute 'क्रम की दृष्टि' numeric
+@attribute 'क्रियाओं या' numeric
+@attribute 'क्रियाओं या अवस्थाओं' numeric
+@attribute 'गई हो' numeric
+@attribute 'गई हो या' numeric
+@attribute 'गत परसों' numeric
+@attribute 'गत परसों से' numeric
+@attribute 'घट चुका' numeric
+@attribute 'घट चुका हो' numeric
+@attribute 'चुका हो' numeric
+@attribute 'चैत्र के' numeric
+@attribute 'चैत्र के पहले' numeric
+@attribute 'चैत्र के बाद' numeric
+@attribute 'जनवरी और' numeric
+@attribute 'जनवरी और फरवरी' numeric
+@attribute 'जनवरी के' numeric
+@attribute 'जनवरी के बीच' numeric
+@attribute 'जिसकी सूचना' numeric
+@attribute 'जिसकी सूचना दी' numeric
+@attribute 'जून के' numeric
+@attribute 'जून के बीच' numeric
+@attribute 'जो अंग्रेजी' numeric
+@attribute 'जो अंग्रेजी महीने' numeric
+@attribute 'जो घट' numeric
+@attribute 'जो घट चुका' numeric
+@attribute 'जो पूर्व' numeric
+@attribute 'जो पूर्व काल' numeric
+@attribute 'जो बीते' numeric
+@attribute 'जो बीते समय' numeric
+@attribute 'जो वर्तमान' numeric
+@attribute 'जो वर्तमान में' numeric
+@attribute 'जो सूचित' numeric
+@attribute 'जो सूचित किया' numeric
+@attribute 'ज्येष्ठ के' numeric
+@attribute 'ज्येष्ठ के पहले' numeric
+@attribute 'तथा शुक्रवार' numeric
+@attribute 'तथा शुक्रवार के' numeric
+@attribute 'तीसरा दिन' numeric
+@attribute 'तीसरे दिन' numeric
+@attribute 'तीसरे दिन से' numeric
+@attribute 'दिन को' numeric
+@attribute 'दिन पहले' numeric
+@attribute 'दिन पहले के' numeric
+@attribute 'दिन पहले वाला' numeric
+@attribute 'दिन या' numeric
+@attribute 'दिन या आज' numeric
+@attribute 'दिन से' numeric
+@attribute 'दिन से या' numeric
+@attribute 'दिसम्बर और' numeric
+@attribute 'दिसम्बर और जनवरी' numeric
+@attribute 'दिसम्बर के' numeric
+@attribute 'दिसम्बर के बीच' numeric
+@attribute 'दी गई' numeric
+@attribute 'दी गई हो' numeric
+@attribute 'दृष्टि से' numeric
+@attribute 'दृष्टि से पहले' numeric
+@attribute 'देखी सुनी' numeric
+@attribute 'देखी सुनी या' numeric
+@attribute 'ध्यान में' numeric
+@attribute 'ध्यान में लाना' numeric
+@attribute 'न हो' numeric
+@attribute 'नवम्बर और' numeric
+@attribute 'नवम्बर और दिसम्बर' numeric
+@attribute 'नियत समय' numeric
+@attribute 'नियत समय से' numeric
+@attribute 'परसों के' numeric
+@attribute 'परसों के बाद' numeric
+@attribute 'परसों से' numeric
+@attribute 'परसों से पहले' numeric
+@attribute 'पहला वार' numeric
+@attribute 'पहला वार या' numeric
+@attribute 'पहले का' numeric
+@attribute 'पहले का तीसरा' numeric
+@attribute 'पहले का दिन' numeric
+@attribute 'पहले का महीना' numeric
+@attribute 'पहले का या' numeric
+@attribute 'पहले का वार' numeric
+@attribute 'पहले का हिंदी' numeric
+@attribute 'पहले के' numeric
+@attribute 'पहले के बीते' numeric
+@attribute 'पहले वाला' numeric
+@attribute 'पहले वाला दिन' numeric
+@attribute 'पुराने समय' numeric
+@attribute 'पुराने समय में' numeric
+@attribute 'पूर्व काल' numeric
+@attribute 'पूर्व काल में' numeric
+@attribute 'पूर्व काल से' numeric
+@attribute 'पौष के' numeric
+@attribute 'पौष के पहले' numeric
+@attribute 'पौष के बाद' numeric
+@attribute 'फरवरी और' numeric
+@attribute 'फरवरी और मार्च' numeric
+@attribute 'फरवरी के' numeric
+@attribute 'फरवरी के बीच' numeric
+@attribute 'फाल्गुन से' numeric
+@attribute 'फाल्गुन से पहले' numeric
+@attribute 'बताता है' numeric
+@attribute 'बहुत पुराने' numeric
+@attribute 'बहुत पुराने समय' numeric
+@attribute 'बात को' numeric
+@attribute 'बात को ध्यान' numeric
+@attribute 'बाद और' numeric
+@attribute 'बाद और कार्तिक' numeric
+@attribute 'बाद और चैत्र' numeric
+@attribute 'बाद और ज्येष्ठ' numeric
+@attribute 'बाद और पौष' numeric
+@attribute 'बाद और फाल्गुन' numeric
+@attribute 'बाद और माघ' numeric
+@attribute 'बाद और रविवार' numeric
+@attribute 'बाद और शनिवार' numeric
+@attribute 'बाद का' numeric
+@attribute 'बाद का और' numeric
+@attribute 'बाद का दिन' numeric
+@attribute 'बाद के' numeric
+@attribute 'बाद के दिन' numeric
+@attribute 'बाद तथा' numeric
+@attribute 'बाद तथा शुक्रवार' numeric
+@attribute 'बीच का' numeric
+@attribute 'बीच का महीना' numeric
+@attribute 'बीच में' numeric
+@attribute 'बीच में आता' numeric
+@attribute 'बीता हुआ' numeric
+@attribute 'बीता हुआ समय' numeric
+@attribute 'बीती हुई' numeric
+@attribute 'बीती हुई बात' numeric
+@attribute 'बीते समय' numeric
+@attribute 'बीते समय की' numeric
+@attribute 'बीते हुए' numeric
+@attribute 'बीते हुए दिन' numeric
+@attribute 'बीते हुए समय' numeric
+@attribute 'बुधवार के' numeric
+@attribute 'बुधवार के बाद' numeric
+@attribute 'बृहस्पतिवार के' numeric
+@attribute 'बृहस्पतिवार के बाद' numeric
+@attribute 'भाद्रपद के' numeric
+@attribute 'भाद्रपद के बाद' numeric
+@attribute 'भारतीय महीनों' numeric
+@attribute 'भारतीय महीनों में' numeric
+@attribute 'मंगलवार के' numeric
+@attribute 'मंगलवार के पहले' numeric
+@attribute 'मई और' numeric
+@attribute 'मई और जून' numeric
+@attribute 'मई के' numeric
+@attribute 'मई के बीच' numeric
+@attribute 'महीना जो' numeric
+@attribute 'महीना जो अंग्रेजी' numeric
+@attribute 'महीने के' numeric
+@attribute 'महीने के अगस्त' numeric
+@attribute 'महीने के अप्रैल' numeric
+@attribute 'महीने के जनवरी' numeric
+@attribute 'महीने के दिसम्बर' numeric
+@attribute 'महीने के नवम्बर' numeric
+@attribute 'महीने के फरवरी' numeric
+@attribute 'महीने के मई' numeric
+@attribute 'महीने के सितम्बर' numeric
+@attribute 'महीनों में' numeric
+@attribute 'महीनों में भाद्रपद' numeric
+@attribute 'माघ के' numeric
+@attribute 'माघ के पहले' numeric
+@attribute 'माघ के बाद' numeric
+@attribute 'मार्गशीर्ष के' numeric
+@attribute 'मार्गशीर्ष के बाद' numeric
+@attribute 'मार्च के' numeric
+@attribute 'मार्च के बीच' numeric
+@attribute 'में आता' numeric
+@attribute 'में आता है' numeric
+@attribute 'में न' numeric
+@attribute 'में न हो' numeric
+@attribute 'में भाद्रपद' numeric
+@attribute 'में भाद्रपद के' numeric
+@attribute 'में या' numeric
+@attribute 'में या पूर्व' numeric
+@attribute 'में लाना' numeric
+@attribute 'में वह' numeric
+@attribute 'में वह काल' numeric
+@attribute 'या अवस्थाओं' numeric
+@attribute 'या अवस्थाओं को' numeric
+@attribute 'या आज' numeric
+@attribute 'या आज से' numeric
+@attribute 'या काल' numeric
+@attribute 'या क्रम' numeric
+@attribute 'या क्रम की' numeric
+@attribute 'या जो' numeric
+@attribute 'या जो पूर्व' numeric
+@attribute 'या जो वर्तमान' numeric
+@attribute 'या जो सूचित' numeric
+@attribute 'या दिन' numeric
+@attribute 'या पूर्व' numeric
+@attribute 'या पूर्व काल' numeric
+@attribute 'या बीती' numeric
+@attribute 'या बीती हुई' numeric
+@attribute 'या मंगलवार' numeric
+@attribute 'या मंगलवार के' numeric
+@attribute 'रविवार के' numeric
+@attribute 'रविवार के पहले' numeric
+@attribute 'वर्तमान में' numeric
+@attribute 'वर्तमान में न' numeric
+@attribute 'वह काल' numeric
+@attribute 'वह काल जो' numeric
+@attribute 'वार या' numeric
+@attribute 'वार या दिन' numeric
+@attribute 'वार या मंगलवार' numeric
+@attribute 'वाला दिन' numeric
+@attribute 'वैशाख और' numeric
+@attribute 'वैशाख और आषाढ़' numeric
+@attribute 'व्याकरण में' numeric
+@attribute 'व्याकरण में वह' numeric
+@attribute 'शनिवार के' numeric
+@attribute 'शनिवार के पहले' numeric
+@attribute 'शनिवार के बाद' numeric
+@attribute 'शुक्रवार के' numeric
+@attribute 'शुक्रवार के पहले' numeric
+@attribute 'शुक्रवार के बाद' numeric
+@attribute 'श्रावण और' numeric
+@attribute 'श्रावण और आश्विन' numeric
+@attribute 'संबंधित हो' numeric
+@attribute 'सप्ताह का' numeric
+@attribute 'सप्ताह का पहला' numeric
+@attribute 'समय की' numeric
+@attribute 'समय की क्रियाओं' numeric
+@attribute 'समय में' numeric
+@attribute 'समय में या' numeric
+@attribute 'समय या' numeric
+@attribute 'समय या काल' numeric
+@attribute 'समय या क्रम' numeric
+@attribute 'समय से' numeric
+@attribute 'समय से पहले' numeric
+@attribute 'सितम्बर और' numeric
+@attribute 'सितम्बर और अक्टूबर' numeric
+@attribute 'सितम्बर के' numeric
+@attribute 'सितम्बर के बीच' numeric
+@attribute 'सुनी या' numeric
+@attribute 'सुनी या बीती' numeric
+@attribute 'सूचना दी' numeric
+@attribute 'सूचना दी गई' numeric
+@attribute 'सूचित किया' numeric
+@attribute 'सूचित किया हुआ' numeric
+@attribute 'से आनेवाला' numeric
+@attribute 'से आनेवाला तीसरा' numeric
+@attribute 'से आनेवाला तीसरे' numeric
+@attribute 'से एक' numeric
+@attribute 'से एक दिन' numeric
+@attribute 'से पहले' numeric
+@attribute 'से पहले का' numeric
+@attribute 'से या' numeric
+@attribute 'से या आज' numeric
+@attribute 'से संबंधित' numeric
+@attribute 'से संबंधित हो' numeric
+@attribute 'सोमवार से' numeric
+@attribute 'सोमवार से पहले' numeric
+@attribute 'हिंदी महीना' numeric
+@attribute 'हिंदी महीना जो' numeric
+@attribute 'हुआ समय' numeric
+@attribute 'हुआ समय या' numeric
+@attribute 'हुआ हो' numeric
+@attribute 'हुई बात' numeric
+@attribute 'हुई बात को' numeric
+@attribute 'हुए दिन' numeric
+@attribute 'हुए दिन को' numeric
+@attribute 'हुए समय' numeric
+@attribute 'हुए समय में' numeric
+@attribute 'हो या' numeric
+@attribute 'हो या जो' numeric
+@attribute 'अधीन हो' numeric
+@attribute 'अधीन हो या' numeric
+@attribute 'अपने पक्ष' numeric
+@attribute 'अपने पक्ष का' numeric
+@attribute 'अपने पक्ष से' numeric
+@attribute 'अपने पैरों' numeric
+@attribute 'अपने पैरों पर' numeric
+@attribute 'अपितु चल' numeric
+@attribute 'अपितु चल रहा' numeric
+@attribute 'अभी पूरा' numeric
+@attribute 'अभी पूरा नहीं' numeric
+@attribute 'आकर उपस्थित' numeric
+@attribute 'आकर उपस्थित हुआ' numeric
+@attribute 'आधुनिक या' numeric
+@attribute 'आधुनिक या वर्तमान' numeric
+@attribute 'आवास से' numeric
+@attribute 'आवास से संबंधित' numeric
+@attribute 'इत्यादि से' numeric
+@attribute 'इत्यादि से संबंधित' numeric
+@attribute 'इस क्षण' numeric
+@attribute 'इस वक़्त' numeric
+@attribute 'इस वक़्त या' numeric
+@attribute 'इस समय आकर' numeric
+@attribute 'इस समय की' numeric
+@attribute 'इस समय लागू' numeric
+@attribute 'इस समय विषय' numeric
+@attribute 'इस समय हो' numeric
+@attribute 'इसी समय' numeric
+@attribute 'इसी समय या' numeric
+@attribute 'उपकरण जो' numeric
+@attribute 'उपकरण जो जलयान' numeric
+@attribute 'उपस्थित हुआ' numeric
+@attribute 'उपस्थित हुआ हो' numeric
+@attribute 'करता हो' numeric
+@attribute 'का सदस्य' numeric
+@attribute 'का सदस्य हो' numeric
+@attribute 'का हो' numeric
+@attribute 'काम करता' numeric
+@attribute 'काम करता हो' numeric
+@attribute 'कार्य परिवर्तन' numeric
+@attribute 'कार्य परिवर्तन सूचक' numeric
+@attribute 'काल का' numeric
+@attribute 'काल जो वर्तमान' numeric
+@attribute 'किसी दूसरी' numeric
+@attribute 'किसी दूसरी संस्था' numeric
+@attribute 'किसी देशों' numeric
+@attribute 'किसी देशों के' numeric
+@attribute 'किसी प्रसंग' numeric
+@attribute 'किसी प्रसंग से' numeric
+@attribute 'किसी वर्ग' numeric
+@attribute 'किसी वर्ग या' numeric
+@attribute 'की गई' numeric
+@attribute 'की गई हो' numeric
+@attribute 'की तरह' numeric
+@attribute 'की तरह काम' numeric
+@attribute 'की पूरी' numeric
+@attribute 'की पूरी छाप' numeric
+@attribute 'की बातों' numeric
+@attribute 'की बातों या' numeric
+@attribute 'के अधीन' numeric
+@attribute 'के अधीन हो' numeric
+@attribute 'के निवासी' numeric
+@attribute 'के निवासी भाषा' numeric
+@attribute 'के फलस्वरूप' numeric
+@attribute 'के फलस्वरूप बनी' numeric
+@attribute 'के समूह' numeric
+@attribute 'के समूह से' numeric
+@attribute 'को दर्शाता' numeric
+@attribute 'को दर्शाता हो' numeric
+@attribute 'क्रिया के' numeric
+@attribute 'क्रिया के फलस्वरूप' numeric
+@attribute 'घर या' numeric
+@attribute 'घर या आवास' numeric
+@attribute 'चल रहा' numeric
+@attribute 'चल रहा हो' numeric
+@attribute 'छाप हो' numeric
+@attribute 'जलयान से' numeric
+@attribute 'जलयान से संबंधित' numeric
+@attribute 'जिस पर' numeric
+@attribute 'जिस पर इस' numeric
+@attribute 'जिसका निर्माण' numeric
+@attribute 'जिसका निर्माण अभी' numeric
+@attribute 'जिसकी शुरूवात' numeric
+@attribute 'जिसकी शुरूवात हुई' numeric
+@attribute 'जो अपने' numeric
+@attribute 'जो अपने पक्ष' numeric
+@attribute 'जो अपने पैरों' numeric
+@attribute 'जो इस' numeric
+@attribute 'जो इस समय' numeric
+@attribute 'जो किसी' numeric
+@attribute 'जो किसी दूसरी' numeric
+@attribute 'जो किसी देशों' numeric
+@attribute 'जो किसी प्रसंग' numeric
+@attribute 'जो किसी वर्ग' numeric
+@attribute 'जो घर' numeric
+@attribute 'जो घर या' numeric
+@attribute 'जो चल' numeric
+@attribute 'जो चल रहा' numeric
+@attribute 'जो जलयान' numeric
+@attribute 'जो जलयान से' numeric
+@attribute 'जो दूसरे' numeric
+@attribute 'जो दूसरे देश' numeric
+@attribute 'जो निर्माण' numeric
+@attribute 'जो निर्माण के' numeric
+@attribute 'जो प्रकृति' numeric
+@attribute 'जो प्रकृति से' numeric
+@attribute 'जो यूनान' numeric
+@attribute 'जो यूनान वहाँ' numeric
+@attribute 'जो राजनीति' numeric
+@attribute 'जो राजनीति से' numeric
+@attribute 'जो रासायनिक' numeric
+@attribute 'जो रासायनिक क्रिया' numeric
+@attribute 'जो वर्तमान काल' numeric
+@attribute 'जो वर्तमान समय' numeric
+@attribute 'जो सर्वनाम' numeric
+@attribute 'जो सर्वनाम से' numeric
+@attribute 'तरह काम' numeric
+@attribute 'तरह काम करता' numeric
+@attribute 'दर्शाता हो' numeric
+@attribute 'दिन जो' numeric
+@attribute 'दिन जो वर्तमान' numeric
+@attribute 'दिन में' numeric
+@attribute 'दूसरी संस्था' numeric
+@attribute 'दूसरी संस्था का' numeric
+@attribute 'दूसरे देश' numeric
+@attribute 'दूसरे देश का' numeric
+@attribute 'दूसरे देश से' numeric
+@attribute 'देश का' numeric
+@attribute 'देश का हो' numeric
+@attribute 'देश से' numeric
+@attribute 'देश से संबंधित' numeric
+@attribute 'देशों के' numeric
+@attribute 'देशों के समूह' numeric
+@attribute 'द्वारा निर्मित' numeric
+@attribute 'द्वारा निर्मित हो' numeric
+@attribute 'नहीं हुआ' numeric
+@attribute 'नहीं हुआ हो' numeric
+@attribute 'निमय आदि' numeric
+@attribute 'निर्माण अभी' numeric
+@attribute 'निर्माण अभी पूरा' numeric
+@attribute 'निर्माण के' numeric
+@attribute 'निर्माण के अधीन' numeric
+@attribute 'निर्मित हो' numeric
+@attribute 'निवासी भाषा' numeric
+@attribute 'निवासी भाषा संस्कृति' numeric
+@attribute 'पक्ष का' numeric
+@attribute 'पक्ष का हो' numeric
+@attribute 'पक्ष से' numeric
+@attribute 'पक्ष से संबंधित' numeric
+@attribute 'पर इस' numeric
+@attribute 'पर इस समय' numeric
+@attribute 'पर चल' numeric
+@attribute 'पर चल रहा' numeric
+@attribute 'परिवर्तन सूचक' numeric
+@attribute 'पूरा नहीं' numeric
+@attribute 'पूरा नहीं हुआ' numeric
+@attribute 'पूरी छाप' numeric
+@attribute 'पूरी छाप हो' numeric
+@attribute 'पैरों पर' numeric
+@attribute 'पैरों पर चल' numeric
+@attribute 'प्रकृति द्वारा' numeric
+@attribute 'प्रकृति द्वारा निर्मित' numeric
+@attribute 'प्रकृति से' numeric
+@attribute 'प्रकृति से संबंधित' numeric
+@attribute 'प्रसंग से' numeric
+@attribute 'प्रसंग से संबंधित' numeric
+@attribute 'फलस्वरूप बनी' numeric
+@attribute 'फलस्वरूप बनी हो' numeric
+@attribute 'बनी हो' numeric
+@attribute 'बनी हो या' numeric
+@attribute 'बातों या' numeric
+@attribute 'बातों या विशेषताओं' numeric
+@attribute 'भाषा संस्कृति' numeric
+@attribute 'भाषा संस्कृति इत्यादि' numeric
+@attribute 'या अपने' numeric
+@attribute 'या अपने पक्ष' numeric
+@attribute 'या आवास' numeric
+@attribute 'या आवास से' numeric
+@attribute 'या इस' numeric
+@attribute 'या इस क्षण' numeric
+@attribute 'या इस वक़्त' numeric
+@attribute 'या कार्य' numeric
+@attribute 'या कार्य परिवर्तन' numeric
+@attribute 'या की' numeric
+@attribute 'या की गई' numeric
+@attribute 'या चल' numeric
+@attribute 'या चल रहा' numeric
+@attribute 'या जिसका' numeric
+@attribute 'या जिसका निर्माण' numeric
+@attribute 'या जिसकी' numeric
+@attribute 'या जिसकी शुरूवात' numeric
+@attribute 'या दूसरे' numeric
+@attribute 'या दूसरे देश' numeric
+@attribute 'या प्रकृति' numeric
+@attribute 'या प्रकृति द्वारा' numeric
+@attribute 'या यूनान' numeric
+@attribute 'या यूनान देश' numeric
+@attribute 'या रसायन' numeric
+@attribute 'या रसायन से' numeric
+@attribute 'या वर्तमान' numeric
+@attribute 'या वर्तमान काल' numeric
+@attribute 'या वर्तमान समय' numeric
+@attribute 'या विशेषताओं' numeric
+@attribute 'या विशेषताओं की' numeric
+@attribute 'या समूह' numeric
+@attribute 'या समूह से' numeric
+@attribute 'या सर्वनाम' numeric
+@attribute 'या सर्वनाम की' numeric
+@attribute 'यूनान देश' numeric
+@attribute 'यूनान देश का' numeric
+@attribute 'यूनान वहाँ' numeric
+@attribute 'यूनान वहाँ के' numeric
+@attribute 'रसायन से' numeric
+@attribute 'रसायन से संबंधित' numeric
+@attribute 'रहा हो' numeric
+@attribute 'रहा हो या' numeric
+@attribute 'राजनीति से' numeric
+@attribute 'राजनीति से संबंधित' numeric
+@attribute 'राज्य जो' numeric
+@attribute 'राज्य जो किसी' numeric
+@attribute 'रासायनिक क्रिया' numeric
+@attribute 'रासायनिक क्रिया के' numeric
+@attribute 'लागू हो' numeric
+@attribute 'लागू हो निमय' numeric
+@attribute 'वक़्त या' numeric
+@attribute 'वक़्त या इस' numeric
+@attribute 'वर्ग या' numeric
+@attribute 'वर्ग या समूह' numeric
+@attribute 'वर्तमान काल' numeric
+@attribute 'वर्तमान काल का' numeric
+@attribute 'वर्तमान काल से' numeric
+@attribute 'वर्तमान दिन' numeric
+@attribute 'वर्तमान दिन में' numeric
+@attribute 'वर्तमान समय' numeric
+@attribute 'वर्तमान समय की' numeric
+@attribute 'वर्तमान समय को' numeric
+@attribute 'वर्तमान समय में' numeric
+@attribute 'वस्तु जो' numeric
+@attribute 'वस्तु जो प्रकृति' numeric
+@attribute 'वस्तु जो रासायनिक' numeric
+@attribute 'वह उपकरण' numeric
+@attribute 'वह उपकरण जो' numeric
+@attribute 'वह जो' numeric
+@attribute 'वह जो किसी' numeric
+@attribute 'वह दिन' numeric
+@attribute 'वह दिन जो' numeric
+@attribute 'वह राज्य' numeric
+@attribute 'वह राज्य जो' numeric
+@attribute 'वह वस्तु' numeric
+@attribute 'वह वस्तु जो' numeric
+@attribute 'वह संस्था' numeric
+@attribute 'वह संस्था जो' numeric
+@attribute 'वहाँ के' numeric
+@attribute 'वहाँ के निवासी' numeric
+@attribute 'विशेषकर वह' numeric
+@attribute 'विशेषकर वह राज्य' numeric
+@attribute 'विशेषताओं की' numeric
+@attribute 'विशेषताओं की पूरी' numeric
+@attribute 'विषय या' numeric
+@attribute 'विषय या कार्य' numeric
+@attribute 'शुरूवात हुई' numeric
+@attribute 'शुरूवात हुई हो' numeric
+@attribute 'संबंधित हो या' numeric
+@attribute 'संस्कृति इत्यादि' numeric
+@attribute 'संस्कृति इत्यादि से' numeric
+@attribute 'संस्था का' numeric
+@attribute 'संस्था का सदस्य' numeric
+@attribute 'संस्था जो' numeric
+@attribute 'संस्था जो किसी' numeric
+@attribute 'सदस्य हो' numeric
+@attribute 'सदस्य हो विशेषकर' numeric
+@attribute 'समय आकर' numeric
+@attribute 'समय आकर उपस्थित' numeric
+@attribute 'समय की बातों' numeric
+@attribute 'समय को' numeric
+@attribute 'समय को दर्शाता' numeric
+@attribute 'समय या इस' numeric
+@attribute 'समय लागू' numeric
+@attribute 'समय लागू हो' numeric
+@attribute 'समय विषय' numeric
+@attribute 'समय विषय या' numeric
+@attribute 'समय हो' numeric
+@attribute 'समय हो या' numeric
+@attribute 'समूह से' numeric
+@attribute 'समूह से संबंधित' numeric
+@attribute 'सर्वनाम की' numeric
+@attribute 'सर्वनाम की तरह' numeric
+@attribute 'सर्वनाम से' numeric
+@attribute 'सर्वनाम से संबंधित' numeric
+@attribute 'हुआ हो अपितु' numeric
+@attribute 'हुई हो' numeric
+@attribute 'हुई हो या' numeric
+@attribute 'हो अपितु' numeric
+@attribute 'हो अपितु चल' numeric
+@attribute 'हो निमय' numeric
+@attribute 'हो निमय आदि' numeric
+@attribute 'हो या अपने' numeric
+@attribute 'हो या की' numeric
+@attribute 'हो या चल' numeric
+@attribute 'हो या जिसका' numeric
+@attribute 'हो या जिसकी' numeric
+@attribute 'हो या दूसरे' numeric
+@attribute 'हो या प्रकृति' numeric
+@attribute 'हो या यूनान' numeric
+@attribute 'हो या रसायन' numeric
+@attribute 'हो या वर्तमान' numeric
+@attribute 'हो या सर्वनाम' numeric
+@attribute 'हो विशेषकर' numeric
+@attribute 'हो विशेषकर वह' numeric
+@attribute 'अंदर का' numeric
+@attribute 'अंदर का या' numeric
+@attribute 'अवश्य होने' numeric
+@attribute 'अवश्य होने या' numeric
+@attribute 'आगे आने' numeric
+@attribute 'आगे आने वाला' numeric
+@attribute 'आगे की' numeric
+@attribute 'आगे की क्रियाओं' numeric
+@attribute 'आगे चलकर' numeric
+@attribute 'आगे चलकर होने' numeric
+@attribute 'आगे या' numeric
+@attribute 'आगे या सामने' numeric
+@attribute 'आज के' numeric
+@attribute 'आज के बाद' numeric
+@attribute 'आने वाला' numeric
+@attribute 'आने वाला काल' numeric
+@attribute 'आने वाला पहला' numeric
+@attribute 'आने वाला या' numeric
+@attribute 'आनेवाले पहले' numeric
+@attribute 'आनेवाले पहले दिन' numeric
+@attribute 'आवेश द्वारा' numeric
+@attribute 'आवेश द्वारा उत्पादित' numeric
+@attribute 'आशा या' numeric
+@attribute 'आशा या प्रत्याशा' numeric
+@attribute 'इच्छा की' numeric
+@attribute 'इच्छा की गई' numeric
+@attribute 'इच्छा न' numeric
+@attribute 'इच्छा न की' numeric
+@attribute 'इच्छित न' numeric
+@attribute 'इच्छित न हो' numeric
+@attribute 'इतिहास उपलब्ध' numeric
+@attribute 'इतिहास उपलब्ध हो' numeric
+@attribute 'उज़बेकिस्तान का' numeric
+@attribute 'उज़बेकिस्तान का या' numeric
+@attribute 'उत्पादित चुम्बकत्व' numeric
+@attribute 'उत्पादित चुम्बकत्व को' numeric
+@attribute 'उपरांत के' numeric
+@attribute 'उपरांत के समय' numeric
+@attribute 'उपलब्ध हो' numeric
+@attribute 'उपलब्ध हो उससे' numeric
+@attribute 'उस बात' numeric
+@attribute 'उस बात या' numeric
+@attribute 'उसके भीतरी' numeric
+@attribute 'उसके भीतरी भागों' numeric
+@attribute 'उससे पूर्व' numeric
+@attribute 'उससे पूर्व का' numeric
+@attribute 'उससे संबंध' numeric
+@attribute 'उससे संबंध रखने' numeric
+@attribute 'उससे संबंधित' numeric
+@attribute 'और जिसके' numeric
+@attribute 'और जिसके साथ' numeric
+@attribute 'करने पर' numeric
+@attribute 'करने पर उस' numeric
+@attribute 'करने वाली' numeric
+@attribute 'करने वाली या' numeric
+@attribute 'करनेवाला या' numeric
+@attribute 'करनेवाला या उससे' numeric
+@attribute 'कह दी' numeric
+@attribute 'कह दी हो' numeric
+@attribute 'का पूर्ण' numeric
+@attribute 'का पूर्ण इतिहास' numeric
+@attribute 'का या उसके' numeric
+@attribute 'का या उससे' numeric
+@attribute 'का या भविष्य' numeric
+@attribute 'का रूप' numeric
+@attribute 'का रूप स्पष्ट' numeric
+@attribute 'काल का पूर्ण' numeric
+@attribute 'काल का या' numeric
+@attribute 'काल में होनेवाला' numeric
+@attribute 'काल या' numeric
+@attribute 'काल या समय' numeric
+@attribute 'किसी देश' numeric
+@attribute 'किसी देश के' numeric
+@attribute 'किसी ने' numeric
+@attribute 'किसी ने कह' numeric
+@attribute 'किसी बताए' numeric
+@attribute 'किसी बताए या' numeric
+@attribute 'किसी बात' numeric
+@attribute 'किसी बात या' numeric
+@attribute 'किसी विषय' numeric
+@attribute 'किसी विषय बात' numeric
+@attribute 'की कोई' numeric
+@attribute 'की कोई विशेष' numeric
+@attribute 'की वे' numeric
+@attribute 'की वे बातें' numeric
+@attribute 'की शुरुआत' numeric
+@attribute 'की शुरुआत होती' numeric
+@attribute 'के अंदर' numeric
+@attribute 'के अंदर का' numeric
+@attribute 'के उपरांत' numeric
+@attribute 'के उपरांत के' numeric
+@attribute 'के काल' numeric
+@attribute 'के काल का' numeric
+@attribute 'के बाद आने' numeric
+@attribute 'के बाद आनेवाले' numeric
+@attribute 'के समय' numeric
+@attribute 'के समय में' numeric
+@attribute 'केवल शरीर' numeric
+@attribute 'केवल शरीर को' numeric
+@attribute 'को प्रकट' numeric
+@attribute 'को प्रकट करने' numeric
+@attribute 'को प्रभावित' numeric
+@attribute 'को प्रभावित करनेवाला' numeric
+@attribute 'कोई नई' numeric
+@attribute 'कोई नई विशेष' numeric
+@attribute 'कोई विशेष' numeric
+@attribute 'कोई विशेष स्थिति' numeric
+@attribute 'गतिशील विद्युत' numeric
+@attribute 'गतिशील विद्युत आवेश' numeric
+@attribute 'गया हो' numeric
+@attribute 'घटना का' numeric
+@attribute 'घटना का रूप' numeric
+@attribute 'घटना की' numeric
+@attribute 'घटना की कोई' numeric
+@attribute 'घटना की शुरुआत' numeric
+@attribute 'घटना हो' numeric
+@attribute 'घटना हो और' numeric
+@attribute 'चलकर होने' numeric
+@attribute 'चलकर होने वाली' numeric
+@attribute 'चलाया गया' numeric
+@attribute 'चलाया गया हो' numeric
+@attribute 'चुम्बकत्व को' numeric
+@attribute 'चुम्बकत्व को प्रकट' numeric
+@attribute 'जहाँ से' numeric
+@attribute 'जहाँ से किसी' numeric
+@attribute 'जानेवाला अनुमान' numeric
+@attribute 'जिनके आगे' numeric
+@attribute 'जिनके आगे या' numeric
+@attribute 'जिस काल' numeric
+@attribute 'जिस काल का' numeric
+@attribute 'जिसकी इच्छा' numeric
+@attribute 'जिसकी इच्छा की' numeric
+@attribute 'जिसकी इच्छा न' numeric
+@attribute 'जिसके साथ' numeric
+@attribute 'जिसके साथ मिलान' numeric
+@attribute 'जैसी आशा' numeric
+@attribute 'जैसी आशा या' numeric
+@attribute 'जो इच्छित' numeric
+@attribute 'जो इच्छित न' numeric
+@attribute 'जो पहले' numeric
+@attribute 'जो पहले से' numeric
+@attribute 'दी हो' numeric
+@attribute 'देश के' numeric
+@attribute 'देश के अंदर' numeric
+@attribute 'द्वारा उत्पादित' numeric
+@attribute 'द्वारा उत्पादित चुम्बकत्व' numeric
+@attribute 'न की' numeric
+@attribute 'न की गई' numeric
+@attribute 'नई विशेष' numeric
+@attribute 'नई विशेष बात' numeric
+@attribute 'निजाम का' numeric
+@attribute 'निजाम का या' numeric
+@attribute 'निश्चित रूप' numeric
+@attribute 'निश्चित रूप से' numeric
+@attribute 'ने कह' numeric
+@attribute 'ने कह दी' numeric
+@attribute 'पंढरपूर का' numeric
+@attribute 'पंढरपूर का या' numeric
+@attribute 'पर उस' numeric
+@attribute 'पर उस बात' numeric
+@attribute 'परिस्थितियाँ जिनके' numeric
+@attribute 'परिस्थितियाँ जिनके आगे' numeric
+@attribute 'पहला दिन' numeric
+@attribute 'पहले की' numeric
+@attribute 'पहले की वे' numeric
+@attribute 'पहले दिन' numeric
+@attribute 'पहले दिन को' numeric
+@attribute 'पहले से' numeric
+@attribute 'पहले से ही' numeric
+@attribute 'पूर्ण इतिहास' numeric
+@attribute 'पूर्ण इतिहास उपलब्ध' numeric
+@attribute 'पूर्व का' numeric
+@attribute 'पूर्व का या' numeric
+@attribute 'प्रकट करने' numeric
+@attribute 'प्रकट करने वाली' numeric
+@attribute 'प्रत्याशा की' numeric
+@attribute 'प्रत्याशा की गई' numeric
+@attribute 'प्रभावित करनेवाला' numeric
+@attribute 'प्रभावित करनेवाला या' numeric
+@attribute 'बताए या' numeric
+@attribute 'बताए या संदर्भित' numeric
+@attribute 'बात जो' numeric
+@attribute 'बात जो पहले' numeric
+@attribute 'बात या' numeric
+@attribute 'बात या घटना' numeric
+@attribute 'बातें या' numeric
+@attribute 'बातें या परिस्थितियाँ' numeric
+@attribute 'बाद आने' numeric
+@attribute 'बाद आने वाला' numeric
+@attribute 'बाद आनेवाले' numeric
+@attribute 'बाद आनेवाले पहले' numeric
+@attribute 'बाद में' numeric
+@attribute 'बिंदु जहाँ' numeric
+@attribute 'बिंदु जहाँ से' numeric
+@attribute 'बौद्धिक या' numeric
+@attribute 'बौद्धिक या मानसिक' numeric
+@attribute 'भविष्य काल' numeric
+@attribute 'भविष्य काल का' numeric
+@attribute 'भविष्य काल में' numeric
+@attribute 'भागों में' numeric
+@attribute 'भागों में होने' numeric
+@attribute 'भिन्न केवल' numeric
+@attribute 'भिन्न केवल शरीर' numeric
+@attribute 'भीतरी भागों' numeric
+@attribute 'भीतरी भागों में' numeric
+@attribute 'महारानी विक्टोरिया' numeric
+@attribute 'महारानी विक्टोरिया के' numeric
+@attribute 'मानसिक स्वास्थ्य' numeric
+@attribute 'मानसिक स्वास्थ्य से' numeric
+@attribute 'मिलान करने' numeric
+@attribute 'मिलान करने पर' numeric
+@attribute 'में या बाद' numeric
+@attribute 'में होने' numeric
+@attribute 'में होने या' numeric
+@attribute 'में होनेवाला' numeric
+@attribute 'या उसके' numeric
+@attribute 'या उसके भीतरी' numeric
+@attribute 'या उससे' numeric
+@attribute 'या उससे संबंध' numeric
+@attribute 'या उससे संबंधित' numeric
+@attribute 'या घटना' numeric
+@attribute 'या घटना का' numeric
+@attribute 'या घटना की' numeric
+@attribute 'या घटना हो' numeric
+@attribute 'या चलाया' numeric
+@attribute 'या चलाया गया' numeric
+@attribute 'या जो इच्छित' numeric
+@attribute 'या परिस्थितियाँ' numeric
+@attribute 'या परिस्थितियाँ जिनके' numeric
+@attribute 'या प्रत्याशा' numeric
+@attribute 'या प्रत्याशा की' numeric
+@attribute 'या बाद' numeric
+@attribute 'या बाद में' numeric
+@attribute 'या भविष्य' numeric
+@attribute 'या भविष्य काल' numeric
+@attribute 'या मानसिक' numeric
+@attribute 'या मानसिक स्वास्थ्य' numeric
+@attribute 'या संदर्भित' numeric
+@attribute 'या संदर्भित समय' numeric
+@attribute 'या समय' numeric
+@attribute 'या सामने' numeric
+@attribute 'या सामने कोई' numeric
+@attribute 'या होकर' numeric
+@attribute 'या होकर रहनेवाली' numeric
+@attribute 'रखने वाला' numeric
+@attribute 'रहनेवाली बात' numeric
+@attribute 'रहनेवाली बात या' numeric
+@attribute 'रूप से' numeric
+@attribute 'रूप से जिस' numeric
+@attribute 'रूप स्पष्ट' numeric
+@attribute 'रूप स्पष्ट होता' numeric
+@attribute 'लगाया जानेवाला' numeric
+@attribute 'लगाया जानेवाला अनुमान' numeric
+@attribute 'वर्तमान समय से' numeric
+@attribute 'वह बात' numeric
+@attribute 'वह बात जो' numeric
+@attribute 'वह बिंदु' numeric
+@attribute 'वह बिंदु जहाँ' numeric
+@attribute 'वाला काल' numeric
+@attribute 'वाला काल या' numeric
+@attribute 'वाला पहला' numeric
+@attribute 'वाला पहला दिन' numeric
+@attribute 'वाला या' numeric
+@attribute 'वाला या उससे' numeric
+@attribute 'वाली या' numeric
+@attribute 'वाली या उससे' numeric
+@attribute 'वाली वह' numeric
+@attribute 'वाली वह बात' numeric
+@attribute 'विक्टोरिया के' numeric
+@attribute 'विक्टोरिया के काल' numeric
+@attribute 'विद्युत आवेश' numeric
+@attribute 'विद्युत आवेश द्वारा' numeric
+@attribute 'विशेष बात' numeric
+@attribute 'विशेष बात या' numeric
+@attribute 'विशेष स्थिति' numeric
+@attribute 'विषय बात' numeric
+@attribute 'विषय बात या' numeric
+@attribute 'वे बातें' numeric
+@attribute 'वे बातें या' numeric
+@attribute 'शरीर को' numeric
+@attribute 'शरीर को प्रभावित' numeric
+@attribute 'शुरुआत होती' numeric
+@attribute 'शुरुआत होती है' numeric
+@attribute 'संदर्भित समय' numeric
+@attribute 'संदर्भित समय के' numeric
+@attribute 'संबंध रखने' numeric
+@attribute 'संबंध रखने वाला' numeric
+@attribute 'समय के' numeric
+@attribute 'समय के उपरांत' numeric
+@attribute 'समय से आगे' numeric
+@attribute 'साथ मिलान' numeric
+@attribute 'साथ मिलान करने' numeric
+@attribute 'सामने कोई' numeric
+@attribute 'सामने कोई नई' numeric
+@attribute 'साम्यवाद का' numeric
+@attribute 'साम्यवाद का या' numeric
+@attribute 'से आगे' numeric
+@attribute 'से आगे की' numeric
+@attribute 'से किसी' numeric
+@attribute 'से किसी बात' numeric
+@attribute 'से जिस' numeric
+@attribute 'से जिस काल' numeric
+@attribute 'से भिन्न' numeric
+@attribute 'से भिन्न केवल' numeric
+@attribute 'से ही' numeric
+@attribute 'से ही किसी' numeric
+@attribute 'से ही लगाया' numeric
+@attribute 'स्पष्ट होता' numeric
+@attribute 'स्पष्ट होता हो' numeric
+@attribute 'स्वास्थ्य से' numeric
+@attribute 'स्वास्थ्य से भिन्न' numeric
+@attribute 'ही किसी' numeric
+@attribute 'ही किसी ने' numeric
+@attribute 'ही लगाया' numeric
+@attribute 'ही लगाया जानेवाला' numeric
+@attribute 'हैदराबाद का' numeric
+@attribute 'हैदराबाद का या' numeric
+@attribute 'हो उससे' numeric
+@attribute 'हो उससे पूर्व' numeric
+@attribute 'हो और' numeric
+@attribute 'हो और जिसके' numeric
+@attribute 'हो या चलाया' numeric
+@attribute 'होकर रहनेवाली' numeric
+@attribute 'होकर रहनेवाली बात' numeric
+@attribute 'होता हो' numeric
+@attribute 'होती है' numeric
+@attribute 'होने या' numeric
+@attribute 'होने या उससे' numeric
+@attribute 'होने या होकर' numeric
+@attribute 'होने वाली' numeric
+@attribute 'होने वाली वह' numeric
+@attribute '* एक' numeric
+@attribute '* एक प्रकार' numeric
+@attribute '* एक लंबा' numeric
+@attribute '* भवन' numeric
+@attribute '* भवन सामग्री' numeric
+@attribute '* मनोरंजन' numeric
+@attribute '* मनोरंजन का' numeric
+@attribute 'अंग सड़ता' numeric
+@attribute 'अंग सड़ता जाता' numeric
+@attribute 'अंजन के' numeric
+@attribute 'अंजन के रूप' numeric
+@attribute 'अंत और' numeric
+@attribute 'अंत और रात' numeric
+@attribute 'अंत में' numeric
+@attribute 'अंत में परिशिष्ट' numeric
+@attribute 'अंश को' numeric
+@attribute 'अंश को अपने' numeric
+@attribute 'अंश जिसका' numeric
+@attribute 'अंश जिसका उच्चारण' numeric
+@attribute 'अंश जो' numeric
+@attribute 'अंश जो किसी' numeric
+@attribute 'अक्रियाशील अवस्था' numeric
+@attribute 'अक्रियाशील अवस्था में' numeric
+@attribute 'अग्नि से' numeric
+@attribute 'अग्नि से उत्पन्न' numeric
+@attribute 'अतिरिक्त लाभ' numeric
+@attribute 'अतिरिक्त लाभ करने' numeric
+@attribute 'अतिवृष्टि या' numeric
+@attribute 'अतिवृष्टि या अनावृष्टि' numeric
+@attribute 'अथवा खाली' numeric
+@attribute 'अथवा खाली समय' numeric
+@attribute 'अधातु तत्व' numeric
+@attribute 'अधातु तत्व जो' numeric
+@attribute 'अधिक उन्नति' numeric
+@attribute 'अधिक उन्नति करना' numeric
+@attribute 'अधिक पार्टियों' numeric
+@attribute 'अधिक पार्टियों के' numeric
+@attribute 'अधिक समय' numeric
+@attribute 'अधिक समय लेने' numeric
+@attribute 'अधेड़ हो' numeric
+@attribute 'अनावृष्टि के' numeric
+@attribute 'अनावृष्टि के कारण' numeric
+@attribute 'अनिवार्य होता' numeric
+@attribute 'अनिवार्य होता है' numeric
+@attribute 'अनुभव गर्मी' numeric
+@attribute 'अनुभव गर्मी या' numeric
+@attribute 'अनुसार एक' numeric
+@attribute 'अनुसार एक तत्व' numeric
+@attribute 'अनुसार निकाला' numeric
+@attribute 'अनुसार निकाला हुआ' numeric
+@attribute 'अनेक प्रकार' numeric
+@attribute 'अनेक प्रकार के' numeric
+@attribute 'अन्न की' numeric
+@attribute 'अन्न की कमी' numeric
+@attribute 'अन्न बहुत' numeric
+@attribute 'अन्न बहुत ही' numeric
+@attribute 'अन्य उपकरण' numeric
+@attribute 'अन्य उपकरण के' numeric
+@attribute 'अन्य भागों' numeric
+@attribute 'अन्य भागों में' numeric
+@attribute 'अपनी ओर' numeric
+@attribute 'अपनी ओर आकृष्ट' numeric
+@attribute 'अपने मार्ग' numeric
+@attribute 'अपने मार्ग में' numeric
+@attribute 'अपने में' numeric
+@attribute 'अपने में से' numeric
+@attribute 'अभाव में' numeric
+@attribute 'अभाव में उसे' numeric
+@attribute 'अभिघटक प्लैस्टिसाइज़र' numeric
+@attribute 'अभिघटक प्लैस्टिसाइज़र के' numeric
+@attribute 'अभिनय के' numeric
+@attribute 'अभिनय के लिए' numeric
+@attribute 'अभिनयकर्ता या' numeric
+@attribute 'अभिनयकर्ता या अभिनय' numeric
+@attribute 'अमांगलिक कार्य' numeric
+@attribute 'अमांगलिक कार्य करता' numeric
+@attribute 'अर्थात् नियत' numeric
+@attribute 'अर्थात् नियत काल' numeric
+@attribute 'अवकाश जो' numeric
+@attribute 'अवकाश जो लोगों' numeric
+@attribute 'अवतार का' numeric
+@attribute 'अवतार का वह' numeric
+@attribute 'अवधि के' numeric
+@attribute 'अवधि के बीच' numeric
+@attribute 'अवस्था जिसमें' numeric
+@attribute 'अवस्था जिसमें वाक्' numeric
+@attribute 'अवस्था में' numeric
+@attribute 'अवस्था में शरीर' numeric
+@attribute 'अवस्था में होता' numeric
+@attribute 'अवस्था होती' numeric
+@attribute 'अवस्था होती है' numeric
+@attribute 'अवस्थाओं में' numeric
+@attribute 'अवस्थाओं में से' numeric
+@attribute 'अशृंखलाबद्ध तरीके' numeric
+@attribute 'अशृंखलाबद्ध तरीके से' numeric
+@attribute 'अश्लेषा नक्षत्र' numeric
+@attribute 'अश्लेषा नक्षत्र में' numeric
+@attribute 'अश्विनी नक्षत्र' numeric
+@attribute 'अश्विनी नक्षत्र में' numeric
+@attribute 'आँखों की' numeric
+@attribute 'आँखों की सुन्दरता' numeric
+@attribute 'आँखों के' numeric
+@attribute 'आँखों के सामने' numeric
+@attribute 'आंतरिक हड्डियों' numeric
+@attribute 'आंतरिक हड्डियों का' numeric
+@attribute 'आकार का' numeric
+@attribute 'आकार का शिला-खण्ड' numeric
+@attribute 'आकाश में' numeric
+@attribute 'आकाश में पहुँचता' numeric
+@attribute 'आकृष्ट करने' numeric
+@attribute 'आकृष्ट करने के' numeric
+@attribute 'आगे से' numeric
+@attribute 'आगे से खुला' numeric
+@attribute 'आचार-व्यवहार के' numeric
+@attribute 'आचार-व्यवहार के लिए' numeric
+@attribute 'आटा फलाहार' numeric
+@attribute 'आटा फलाहार के' numeric
+@attribute 'आठ दिन' numeric
+@attribute 'आठ दिन का' numeric
+@attribute 'आठ दिन तक' numeric
+@attribute 'आत्मा का' numeric
+@attribute 'आत्मा का वह' numeric
+@attribute 'आदरणीय स्त्री' numeric
+@attribute 'आदरणीय स्त्री या' numeric
+@attribute 'आदरसूचक शब्द' numeric
+@attribute 'आदरसूचक शब्द जो' numeric
+@attribute 'आदि अशृंखलाबद्ध' numeric
+@attribute 'आदि अशृंखलाबद्ध तरीके' numeric
+@attribute 'आदि करने' numeric
+@attribute 'आदि करने के' numeric
+@attribute 'आदि का' numeric
+@attribute 'आदि का वह' numeric
+@attribute 'आदि के' numeric
+@attribute 'आदि के अंत' numeric
+@attribute 'आदि के बीच' numeric
+@attribute 'आदि के रूप' numeric
+@attribute 'आदि के लिए' numeric
+@attribute 'आदि को' numeric
+@attribute 'आदि को नियंत्रित' numeric
+@attribute 'आदि जो' numeric
+@attribute 'आदि जो बहुत' numeric
+@attribute 'आदि पर' numeric
+@attribute 'आदि पर दान' numeric
+@attribute 'आदि में' numeric
+@attribute 'आदि में ईंधन' numeric
+@attribute 'आधुनिक भवनों' numeric
+@attribute 'आधुनिक भवनों में' numeric
+@attribute 'आधे पुरुष' numeric
+@attribute 'आधे पुरुष और' numeric
+@attribute 'आधे सिंह' numeric
+@attribute 'आधे सिंह के' numeric
+@attribute 'आयोग या' numeric
+@attribute 'आयोग या समिति' numeric
+@attribute 'आरंभ से' numeric
+@attribute 'आरंभ से किसी' numeric
+@attribute 'आरंभ होने' numeric
+@attribute 'आरंभ होने को' numeric
+@attribute 'आर्द्रा नक्षत्र' numeric
+@attribute 'आर्द्रा नक्षत्र में' numeric
+@attribute 'आवश्यक और' numeric
+@attribute 'आवश्यक और अनिवार्य' numeric
+@attribute 'आवश्यकता से' numeric
+@attribute 'आवश्यकता से अधिक' numeric
+@attribute 'आवास के' numeric
+@attribute 'आवास के रूप' numeric
+@attribute 'इष्ट अर्थात्' numeric
+@attribute 'इष्ट अर्थात् नियत' numeric
+@attribute 'इसमें रोगी' numeric
+@attribute 'इसमें रोगी का' numeric
+@attribute 'ईंधन के' numeric
+@attribute 'ईंधन के रूप' numeric
+@attribute 'उचित समय' numeric
+@attribute 'उच्चारण श्वास' numeric
+@attribute 'उच्चारण श्वास के' numeric
+@attribute 'उठती है' numeric
+@attribute 'उतारने या' numeric
+@attribute 'उतारने या चढ़ाने' numeric
+@attribute 'उत्तर दिशा' numeric
+@attribute 'उत्तर दिशा की' numeric
+@attribute 'उत्तर दिशा में' numeric
+@attribute 'उत्तरा-फाल्गुनी नक्षत्र' numeric
+@attribute 'उत्तरा-फाल्गुनी नक्षत्र में' numeric
+@attribute 'उत्तरा-भाद्रपद नक्षत्र' numeric
+@attribute 'उत्तरा-भाद्रपद नक्षत्र में' numeric
+@attribute 'उत्पन्न यह' numeric
+@attribute 'उत्पन्न यह शब्द' numeric
+@attribute 'उत्पन्न होने' numeric
+@attribute 'उत्पन्न होने वाली' numeric
+@attribute 'उद्देश्य से' numeric
+@attribute 'उद्देश्य से बनाया' numeric
+@attribute 'उनको संबोधित' numeric
+@attribute 'उनको संबोधित करने' numeric
+@attribute 'उन्नति करना' numeric
+@attribute 'उन्हें करने' numeric
+@attribute 'उन्हें करने के' numeric
+@attribute 'उपकरण के' numeric
+@attribute 'उपकरण के समानान्तर' numeric
+@attribute 'उपकरण जो उसकी' numeric
+@attribute 'उपकरण जो किसी' numeric
+@attribute 'उपयुक्त व्यक्ति' numeric
+@attribute 'उपयुक्त व्यक्ति चुनने' numeric
+@attribute 'उपयोग आँखों' numeric
+@attribute 'उपयोग आँखों की' numeric
+@attribute 'उपयोग आवास' numeric
+@attribute 'उपयोग आवास के' numeric
+@attribute 'उपयोग औषध' numeric
+@attribute 'उपयोग औषध के' numeric
+@attribute 'उपयोग औषधि' numeric
+@attribute 'उपयोग औषधि के' numeric
+@attribute 'उपयोग तंतु' numeric
+@attribute 'उपयोग तंतु रेज़िन' numeric
+@attribute 'उपयोग बैठक' numeric
+@attribute 'उपयोग बैठक आदि' numeric
+@attribute 'उपयोग मेवे' numeric
+@attribute 'उपयोग मेवे के' numeric
+@attribute 'उपयोग यंत्र' numeric
+@attribute 'उपयोग यंत्र के' numeric
+@attribute 'उपयोग साग' numeric
+@attribute 'उपयोग साग के' numeric
+@attribute 'उपयोग साग सलाद' numeric
+@attribute 'उपयोग सिंचाई' numeric
+@attribute 'उपयोग सिंचाई यात्रा' numeric
+@attribute 'उपयोग होता' numeric
+@attribute 'उपयोग होता है' numeric
+@attribute 'उपयोग होने' numeric
+@attribute 'उपयोग होने वाला' numeric
+@attribute 'उपेक्षा करते' numeric
+@attribute 'उपेक्षा करते हुए' numeric
+@attribute 'उल्लंघन करने' numeric
+@attribute 'उल्लंघन करने से' numeric
+@attribute 'उसकी महत्वपूर्ण' numeric
+@attribute 'उसकी महत्वपूर्ण शारीरिक' numeric
+@attribute 'उसके अनेक' numeric
+@attribute 'उसके अनेक प्रकार' numeric
+@attribute 'उसके विकास' numeric
+@attribute 'उसके विकास की' numeric
+@attribute 'उसे प्राप्त' numeric
+@attribute 'उसे प्राप्त होता' numeric
+@attribute 'ऊपर उठती' numeric
+@attribute 'ऊपर उठती है' numeric
+@attribute 'ऊपरी मंजिल' numeric
+@attribute 'ऊपरी मंजिल पर' numeric
+@attribute 'एक अधातु' numeric
+@attribute 'एक अधातु तत्व' numeric
+@attribute 'एक आदरसूचक' numeric
+@attribute 'एक आदरसूचक शब्द' numeric
+@attribute 'एक क्षुप' numeric
+@attribute 'एक क्षुप जो' numeric
+@attribute 'एक खनिज' numeric
+@attribute 'एक खनिज पदार्थ' numeric
+@attribute 'एक खाद्य' numeric
+@attribute 'एक खाद्य फल' numeric
+@attribute 'एक छोटा' numeric
+@attribute 'एक छोटा पौधा' numeric
+@attribute 'एक जटिल' numeric
+@attribute 'एक जटिल कार्बनिक' numeric
+@attribute 'एक झटके' numeric
+@attribute 'एक झटके में' numeric
+@attribute 'एक तत्व' numeric
+@attribute 'एक तत्व जो' numeric
+@attribute 'एक तरह' numeric
+@attribute 'एक तरह का' numeric
+@attribute 'एक तेल' numeric
+@attribute 'एक तेल जो' numeric
+@attribute 'एक नियत' numeric
+@attribute 'एक नियत समय' numeric
+@attribute 'एक पेड़' numeric
+@attribute 'एक पेड़ का' numeric
+@attribute 'एक पौधा' numeric
+@attribute 'एक पौधा जिसका' numeric
+@attribute 'एक पौधा जिसके' numeric
+@attribute 'एक पौधे' numeric
+@attribute 'एक पौधे से' numeric
+@attribute 'एक प्रकार' numeric
+@attribute 'एक प्रकार का' numeric
+@attribute 'एक प्रकार के' numeric
+@attribute 'एक बड़ा' numeric
+@attribute 'एक बड़ा वृक्ष' numeric
+@attribute 'एक बीज' numeric
+@attribute 'एक बीज जो' numeric
+@attribute 'एक राशि' numeric
+@attribute 'एक राशि से' numeric
+@attribute 'एक रासायनिक' numeric
+@attribute 'एक रासायनिक रेडियोधर्मी' numeric
+@attribute 'एक लंबा' numeric
+@attribute 'एक लंबा समय' numeric
+@attribute 'एक लता' numeric
+@attribute 'एक लता जिसका' numeric
+@attribute 'एक विशेष' numeric
+@attribute 'एक विशेष प्रकार' numeric
+@attribute 'एक संक्रामक' numeric
+@attribute 'एक संक्रामक रोग' numeric
+@attribute 'एक सदाबहार' numeric
+@attribute 'एक सदाबहार पेड़' numeric
+@attribute 'एक हीरे' numeric
+@attribute 'एक हीरे के' numeric
+@attribute 'ऐसा समय' numeric
+@attribute 'ऐसा समय जिसमें' numeric
+@attribute 'ओर आकृष्ट' numeric
+@attribute 'ओर आकृष्ट करने' numeric
+@attribute 'ओर गतिमान' numeric
+@attribute 'ओर गतिमान रहता' numeric
+@attribute 'ओर बढ़ता' numeric
+@attribute 'ओर बढ़ता रहता' numeric
+@attribute 'ओर मुड़ती' numeric
+@attribute 'ओर मुड़ती है' numeric
+@attribute 'और अनिवार्य' numeric
+@attribute 'और अनिवार्य होता' numeric
+@attribute 'और अमांगलिक' numeric
+@attribute 'और अमांगलिक कार्य' numeric
+@attribute 'और आधे' numeric
+@attribute 'और आधे सिंह' numeric
+@attribute 'और उसके' numeric
+@attribute 'और उसके अनेक' numeric
+@attribute 'और कमर' numeric
+@attribute 'और कमर के' numeric
+@attribute 'और कलाई' numeric
+@attribute 'और कलाई मुड़कर' numeric
+@attribute 'और जिनका' numeric
+@attribute 'और जिनका उल्लंघन' numeric
+@attribute 'और जिस' numeric
+@attribute 'और जिस पर' numeric
+@attribute 'और जिसका' numeric
+@attribute 'और जिसका अनुभव' numeric
+@attribute 'और जिसमें' numeric
+@attribute 'और जिसमें बंद' numeric
+@attribute 'और जिसमें बहुत' numeric
+@attribute 'और जिसमें वह' numeric
+@attribute 'और जिसमें शरीर' numeric
+@attribute 'और जो' numeric
+@attribute 'और जो बुखार' numeric
+@attribute 'और जो लार्वा' numeric
+@attribute 'और दाँतों' numeric
+@attribute 'और दाँतों से' numeric
+@attribute 'और पुरुष' numeric
+@attribute 'और पुरुष जाति' numeric
+@attribute 'और मसाले' numeric
+@attribute 'और मसाले के' numeric
+@attribute 'और युवा' numeric
+@attribute 'और युवा होने' numeric
+@attribute 'और योग' numeric
+@attribute 'और योग का' numeric
+@attribute 'और रात' numeric
+@attribute 'और रात का' numeric
+@attribute 'और रात बराबर' numeric
+@attribute 'और सारा' numeric
+@attribute 'और सारा शरीर' numeric
+@attribute 'और सूर्योदय' numeric
+@attribute 'और सूर्योदय के' numeric
+@attribute 'और स्तूप' numeric
+@attribute 'और स्तूप होता' numeric
+@attribute 'औषध के' numeric
+@attribute 'औषध के रूप' numeric
+@attribute 'औषधि के' numeric
+@attribute 'औषधि के रूप' numeric
+@attribute 'कक्ष और' numeric
+@attribute 'कक्ष और स्तूप' numeric
+@attribute 'कठिनता से' numeric
+@attribute 'कठिनता से मिले' numeric
+@attribute 'कन्डक्टर जो' numeric
+@attribute 'कन्डक्टर जो विद्युत' numeric
+@attribute 'कम प्रतिरोध' numeric
+@attribute 'कम प्रतिरोध क्षमता' numeric
+@attribute 'कम समय' numeric
+@attribute 'कम समय के' numeric
+@attribute 'कम समय में' numeric
+@attribute 'कमज़ोर हो' numeric
+@attribute 'कमज़ोर हो जाता' numeric
+@attribute 'कमर के' numeric
+@attribute 'कमर के बीच' numeric
+@attribute 'कमरा जिसका' numeric
+@attribute 'कमरा जिसका उपयोग' numeric
+@attribute 'कमल का' numeric
+@attribute 'कमल का मूल' numeric
+@attribute 'कमी हो' numeric
+@attribute 'कर सकती' numeric
+@attribute 'करके बनाया' numeric
+@attribute 'करके बनाया गया' numeric
+@attribute 'करता है' numeric
+@attribute 'करते हुए' numeric
+@attribute 'करते हुए कोई' numeric
+@attribute 'करने के' numeric
+@attribute 'करने के लिए' numeric
+@attribute 'करने में' numeric
+@attribute 'करने में सहायक' numeric
+@attribute 'करने वाला' numeric
+@attribute 'करने वाला दस्तावेज़' numeric
+@attribute 'करने से' numeric
+@attribute 'करने से मनुष्य' numeric
+@attribute 'करने से होता' numeric
+@attribute 'कर्करेखा से' numeric
+@attribute 'कर्करेखा से चलकर' numeric
+@attribute 'कलाई मुड़कर' numeric
+@attribute 'कलाई मुड़कर ऊपर' numeric
+@attribute 'कल्पना के' numeric
+@attribute 'कल्पना के रूप' numeric
+@attribute 'कष्टदायक और' numeric
+@attribute 'कष्टदायक और अमांगलिक' numeric
+@attribute 'का अंत' numeric
+@attribute 'का अंत और' numeric
+@attribute 'का आटा' numeric
+@attribute 'का आटा फलाहार' numeric
+@attribute 'का आरंभ' numeric
+@attribute 'का आरंभ होने' numeric
+@attribute 'का उपयोग' numeric
+@attribute 'का उपयोग मेवे' numeric
+@attribute 'का उलटफेर' numeric
+@attribute 'का एक' numeric
+@attribute 'का एक खनिज' numeric
+@attribute 'का एक बीज' numeric
+@attribute 'का काम' numeric
+@attribute 'का काम होता' numeric
+@attribute 'का काल' numeric
+@attribute 'का किसी' numeric
+@attribute 'का किसी स्थान' numeric
+@attribute 'का गरम' numeric
+@attribute 'का गरम पहनावा' numeric
+@attribute 'का चिकना' numeric
+@attribute 'का चिकना बहुत' numeric
+@attribute 'का चिकित्सा' numeric
+@attribute 'का चिकित्सा उपकरण' numeric
+@attribute 'का जन्म' numeric
+@attribute 'का जन्म होता' numeric
+@attribute 'का पत्ता' numeric
+@attribute 'का पत्ता जो' numeric
+@attribute 'का परिणाम' numeric
+@attribute 'का परिणाम जोकि' numeric
+@attribute 'का पारस्परिक' numeric
+@attribute 'का पारस्परिक स्नेह' numeric
+@attribute 'का पौधा' numeric
+@attribute 'का पौधा जिसका' numeric
+@attribute 'का फेफड़ा' numeric
+@attribute 'का फेफड़ा या' numeric
+@attribute 'का बहुत' numeric
+@attribute 'का बहुत साल' numeric
+@attribute 'का महीन' numeric
+@attribute 'का महीन चूर्ण' numeric
+@attribute 'का मासिक' numeric
+@attribute 'का मासिक धर्म' numeric
+@attribute 'का मूत्राघात' numeric
+@attribute 'का मूत्राघात या' numeric
+@attribute 'का मूल' numeric
+@attribute 'का मूल जो' numeric
+@attribute 'का रोग' numeric
+@attribute 'का रोग जो' numeric
+@attribute 'का वह' numeric
+@attribute 'का वह अंश' numeric
+@attribute 'का वह आयोग' numeric
+@attribute 'का वह उपकरण' numeric
+@attribute 'का वह घोष' numeric
+@attribute 'का वह जोड़' numeric
+@attribute 'का वह ढाँचा' numeric
+@attribute 'का वह दाँत' numeric
+@attribute 'का वह पुण्य' numeric
+@attribute 'का वह पुर्जा' numeric
+@attribute 'का वह प्रकार' numeric
+@attribute 'का वह बक्सा' numeric
+@attribute 'का वह भाग' numeric
+@attribute 'का वह रूप' numeric
+@attribute 'का वह लट्ठा' numeric
+@attribute 'का वह समय' numeric
+@attribute 'का वह समूह' numeric
+@attribute 'का वह स्थान' numeric
+@attribute 'का विवरण' numeric
+@attribute 'का विवरण प्रस्तुत' numeric
+@attribute 'का शिला-खण्ड' numeric
+@attribute 'का शिला-खण्ड जो' numeric
+@attribute 'का समय' numeric
+@attribute 'का समय या' numeric
+@attribute 'का सुगंधित' numeric
+@attribute 'का सुगंधित बीज' numeric
+@attribute 'का सोडियम' numeric
+@attribute 'का सोडियम लवण' numeric
+@attribute 'का स्वतंत्र' numeric
+@attribute 'का स्वतंत्र हिस्सा' numeric
+@attribute 'का हरा' numeric
+@attribute 'का हरा डंठल' numeric
+@attribute 'का हस्ताक्षर' numeric
+@attribute 'का हस्ताक्षर भी' numeric
+@attribute 'काँख और' numeric
+@attribute 'काँख और कमर' numeric
+@attribute 'कागजों का' numeric
+@attribute 'कागजों का वह' numeric
+@attribute 'काम किया' numeric
+@attribute 'काम किया जाए' numeric
+@attribute 'काम न' numeric
+@attribute 'काम न हो' numeric
+@attribute 'काम साथ' numeric
+@attribute 'काम साथ मिलकर' numeric
+@attribute 'काम होता' numeric
+@attribute 'काम होता है' numeric
+@attribute 'कामवासना के' numeric
+@attribute 'कामवासना के कारण' numeric
+@attribute 'कारण अन्न' numeric
+@attribute 'कारण अन्न बहुत' numeric
+@attribute 'कारण से' numeric
+@attribute 'कारण से गति' numeric
+@attribute 'कारण होता' numeric
+@attribute 'कारण होता है' numeric
+@attribute 'कार्बनिक यौगिक' numeric
+@attribute 'कार्बनिक यौगिक जिसका' numeric
+@attribute 'कार्य आदि' numeric
+@attribute 'कार्य आदि अशृंखलाबद्ध' numeric
+@attribute 'कार्य करता' numeric
+@attribute 'कार्य करता है' numeric
+@attribute 'कार्य पढ़ाई' numeric
+@attribute 'कार्य पढ़ाई खेल' numeric
+@attribute 'काल के' numeric
+@attribute 'काल के बीच' numeric
+@attribute 'काले रंग' numeric
+@attribute 'काले रंग का' numeric
+@attribute 'किए हुए' numeric
+@attribute 'किए हुए विचार' numeric
+@attribute 'किए हुए वे' numeric
+@attribute 'किया जाए' numeric
+@attribute 'किया जाता' numeric
+@attribute 'किया जाता है' numeric
+@attribute 'किया जानेवाला' numeric
+@attribute 'किया हुआ जलमार्ग' numeric
+@attribute 'किये जाने' numeric
+@attribute 'किये जाने वाले' numeric
+@attribute 'किसी अन्य' numeric
+@attribute 'किसी अन्य उपकरण' numeric
+@attribute 'किसी इष्ट' numeric
+@attribute 'किसी इष्ट अर्थात्' numeric
+@attribute 'किसी ऊपरी' numeric
+@attribute 'किसी ऊपरी मंजिल' numeric
+@attribute 'किसी एक' numeric
+@attribute 'किसी एक नियत' numeric
+@attribute 'किसी का' numeric
+@attribute 'किसी का जन्म' numeric
+@attribute 'किसी द्रव' numeric
+@attribute 'किसी द्रव के' numeric
+@attribute 'किसी पूज्य' numeric
+@attribute 'किसी पूज्य या' numeric
+@attribute 'किसी प्रकाशन' numeric
+@attribute 'किसी प्रकाशन का' numeric
+@attribute 'किसी भाग' numeric
+@attribute 'किसी भाग को' numeric
+@attribute 'किसी भी' numeric
+@attribute 'किसी भी यंत्र' numeric
+@attribute 'किसी मृत' numeric
+@attribute 'किसी मृत व्यक्ति' numeric
+@attribute 'किसी यंत्र' numeric
+@attribute 'किसी यंत्र आदि' numeric
+@attribute 'किसी वंश' numeric
+@attribute 'किसी वंश या' numeric
+@attribute 'किसी विशेष' numeric
+@attribute 'किसी विशेष अभिनयकर्ता' numeric
+@attribute 'किसी विशेष उद्देश्य' numeric
+@attribute 'किसी विशेष कारण' numeric
+@attribute 'किसी विशेष व्यक्ति' numeric
+@attribute 'किसी विशेष सिद्धांत' numeric
+@attribute 'किसी विषय पर' numeric
+@attribute 'किसी सूचना' numeric
+@attribute 'किसी सूचना विवरण' numeric
+@attribute 'किसी स्थान' numeric
+@attribute 'किसी स्थान पर' numeric
+@attribute 'की अक्रियाशील' numeric
+@attribute 'की अक्रियाशील अवस्था' numeric
+@attribute 'की अवस्था' numeric
+@attribute 'की अवस्था होती' numeric
+@attribute 'की आत्मा' numeric
+@attribute 'की आत्मा का' numeric
+@attribute 'की ओर' numeric
+@attribute 'की ओर गतिमान' numeric
+@attribute 'की ओर बढ़ता' numeric
+@attribute 'की ओर मुड़ती' numeric
+@attribute 'की कमी' numeric
+@attribute 'की कमी हो' numeric
+@attribute 'की चार' numeric
+@attribute 'की चार अवस्थाओं' numeric
+@attribute 'की जाति' numeric
+@attribute 'की जाति का' numeric
+@attribute 'की जाति के' numeric
+@attribute 'की जाने' numeric
+@attribute 'की जाने या' numeric
+@attribute 'की टोंटी' numeric
+@attribute 'की टोंटी लगी' numeric
+@attribute 'की तरह उपयोग' numeric
+@attribute 'की तरह होता' numeric
+@attribute 'की पंक्ति' numeric
+@attribute 'की पंक्ति के' numeric
+@attribute 'की सुन्दरता' numeric
+@attribute 'की सुन्दरता बढ़ाने' numeric
+@attribute 'की स्थिति' numeric
+@attribute 'की स्थिति और' numeric
+@attribute 'कीट का' numeric
+@attribute 'कीट का वह' numeric
+@attribute 'कीट के' numeric
+@attribute 'कीट के बीच' numeric
+@attribute 'कीड़ों के' numeric
+@attribute 'कीड़ों के आंतरिक' numeric
+@attribute 'कुछ अंश' numeric
+@attribute 'कुछ अंश को' numeric
+@attribute 'कुछ नियत' numeric
+@attribute 'कुछ नियत समय' numeric
+@attribute 'कुछ या' numeric
+@attribute 'कुछ या थोड़े' numeric
+@attribute 'कुछ लिखने' numeric
+@attribute 'कुछ लिखने के' numeric
+@attribute 'कुछ व्यक्तियों' numeric
+@attribute 'कुछ व्यक्तियों का' numeric
+@attribute 'कुछ समुद्री' numeric
+@attribute 'कुछ समुद्री कीड़ों' numeric
+@attribute 'कुल में' numeric
+@attribute 'कुल में उत्पन्न' numeric
+@attribute 'कृत्तिका नक्षत्र' numeric
+@attribute 'कृत्तिका नक्षत्र में' numeric
+@attribute 'के अंत' numeric
+@attribute 'के अंत में' numeric
+@attribute 'के अनुसार' numeric
+@attribute 'के अनुसार एक' numeric
+@attribute 'के अनुसार निकाला' numeric
+@attribute 'के अन्य' numeric
+@attribute 'के अन्य भागों' numeric
+@attribute 'के अभाव' numeric
+@attribute 'के अभाव में' numeric
+@attribute 'के आंतरिक' numeric
+@attribute 'के आंतरिक हड्डियों' numeric
+@attribute 'के आचार-व्यवहार' numeric
+@attribute 'के आचार-व्यवहार के' numeric
+@attribute 'के आरंभ' numeric
+@attribute 'के आरंभ से' numeric
+@attribute 'के एक' numeric
+@attribute 'के एक झटके' numeric
+@attribute 'के एक पेड़' numeric
+@attribute 'के कारण' numeric
+@attribute 'के कारण अन्न' numeric
+@attribute 'के कारण होता' numeric
+@attribute 'के किसी' numeric
+@attribute 'के किसी भाग' numeric
+@attribute 'के कुछ' numeric
+@attribute 'के कुछ अंश' numeric
+@attribute 'के घेरे' numeric
+@attribute 'के घेरे से' numeric
+@attribute 'के चौथे' numeric
+@attribute 'के चौथे अवतार' numeric
+@attribute 'के झाड़' numeric
+@attribute 'के झाड़ से' numeric
+@attribute 'के द्विपक्षीय' numeric
+@attribute 'के द्विपक्षीय या' numeric
+@attribute 'के नाम' numeric
+@attribute 'के नाम के' numeric
+@attribute 'के पिंड' numeric
+@attribute 'के पिंड के' numeric
+@attribute 'के पैसे' numeric
+@attribute 'के पैसे डालने' numeric
+@attribute 'के पौधे' numeric
+@attribute 'के पौधे से' numeric
+@attribute 'के प्रयुक्त' numeric
+@attribute 'के प्रयुक्त होता' numeric
+@attribute 'के प्राणियों' numeric
+@attribute 'के प्राणियों के' numeric
+@attribute 'के फल' numeric
+@attribute 'के फल से' numeric
+@attribute 'के फूलते' numeric
+@attribute 'के फूलते हुए' numeric
+@attribute 'के बहाव' numeric
+@attribute 'के बहाव दबाव' numeric
+@attribute 'के बारह' numeric
+@attribute 'के बारह बजे' numeric
+@attribute 'के बीच की' numeric
+@attribute 'के बीच कुछ' numeric
+@attribute 'के बीच के' numeric
+@attribute 'के बीच दो' numeric
+@attribute 'के बैक्टिरिया' numeric
+@attribute 'के बैक्टिरिया के' numeric
+@attribute 'के मरने' numeric
+@attribute 'के मरने या' numeric
+@attribute 'के रूप' numeric
+@attribute 'के रूप में' numeric
+@attribute 'के रोगों' numeric
+@attribute 'के रोगों को' numeric
+@attribute 'के लिए' numeric
+@attribute 'के लिए अंजन' numeric
+@attribute 'के लिए आँखों' numeric
+@attribute 'के लिए उपयोग' numeric
+@attribute 'के लिए किया' numeric
+@attribute 'के लिए की' numeric
+@attribute 'के लिए के' numeric
+@attribute 'के लिए चेन' numeric
+@attribute 'के लिए छोटी' numeric
+@attribute 'के लिए ठहर' numeric
+@attribute 'के लिए निर्धारित' numeric
+@attribute 'के लिए प्रयुक्त' numeric
+@attribute 'के लिए प्रार्थियों' numeric
+@attribute 'के लिए बड़ा' numeric
+@attribute 'के लिए बना' numeric
+@attribute 'के लिए मिलता' numeric
+@attribute 'के लिए या' numeric
+@attribute 'के लिए युद्ध' numeric
+@attribute 'के लिए राज्य' numeric
+@attribute 'के लिए वाहनों' numeric
+@attribute 'के लिए सहमति' numeric
+@attribute 'के लिए होता' numeric
+@attribute 'के लिए होने' numeric
+@attribute 'के वक्षस्थल' numeric
+@attribute 'के वक्षस्थल और' numeric
+@attribute 'के विचार' numeric
+@attribute 'के विचार से' numeric
+@attribute 'के विषुवत्' numeric
+@attribute 'के विषुवत् रेखा' numeric
+@attribute 'के सत्ताईस' numeric
+@attribute 'के सत्ताईस समूहों' numeric
+@attribute 'के समानान्तर' numeric
+@attribute 'के समानान्तर लगा' numeric
+@attribute 'के साँस' numeric
+@attribute 'के साँस या' numeric
+@attribute 'के साथ' numeric
+@attribute 'के साथ उनको' numeric
+@attribute 'के साथ शरीर' numeric
+@attribute 'के सामने' numeric
+@attribute 'के सामने रहे' numeric
+@attribute 'केले की' numeric
+@attribute 'केले की जाति' numeric
+@attribute 'केवल तेज़ी-मंदी' numeric
+@attribute 'केवल तेज़ी-मंदी के' numeric
+@attribute 'केवल संयुक्त' numeric
+@attribute 'केवल संयुक्त रूप' numeric
+@attribute 'को अपनी' numeric
+@attribute 'को अपनी ओर' numeric
+@attribute 'को अपने' numeric
+@attribute 'को अपने में' numeric
+@attribute 'को करने' numeric
+@attribute 'को करने में' numeric
+@attribute 'को चिकना' numeric
+@attribute 'को चिकना करने' numeric
+@attribute 'को जीवित' numeric
+@attribute 'को जीवित रखने' numeric
+@attribute 'को दूर' numeric
+@attribute 'को दूर करने' numeric
+@attribute 'को नियंत्रित' numeric
+@attribute 'को नियंत्रित करने' numeric
+@attribute 'को परिवर्तित' numeric
+@attribute 'को परिवर्तित करने' numeric
+@attribute 'को परिशोधित' numeric
+@attribute 'को परिशोधित करके' numeric
+@attribute 'को बैठाकर' numeric
+@attribute 'को बैठाकर हाथ' numeric
+@attribute 'को सुस्ताने' numeric
+@attribute 'को सुस्ताने जलपान' numeric
+@attribute 'को होता' numeric
+@attribute 'को होता है' numeric
+@attribute 'कोई अधेड़' numeric
+@attribute 'कोई अधेड़ हो' numeric
+@attribute 'कोई काम' numeric
+@attribute 'कोई काम न' numeric
+@attribute 'कोई काम साथ' numeric
+@attribute 'कोई कार्य' numeric
+@attribute 'कोई कार्य आदि' numeric
+@attribute 'कोई जवान' numeric
+@attribute 'कोई जवान हो' numeric
+@attribute 'कोई बूढ़ा' numeric
+@attribute 'कोई बूढ़ा हो' numeric
+@attribute 'कोई शिशु' numeric
+@attribute 'कोई शिशु होता' numeric
+@attribute 'कोई शुभ' numeric
+@attribute 'कोई शुभ काम' numeric
+@attribute 'कोमल तंतुओं' numeric
+@attribute 'कोमल तंतुओं के' numeric
+@attribute 'कोयले के' numeric
+@attribute 'कोयले के रूप' numeric
+@attribute 'कोष्ठक आदि' numeric
+@attribute 'कोष्ठक आदि के' numeric
+@attribute 'क्रियाओं को' numeric
+@attribute 'क्रियाओं को करने' numeric
+@attribute 'क्षमता वाला' numeric
+@attribute 'क्षमता वाला विद्युत' numeric
+@attribute 'क्षुप जो' numeric
+@attribute 'क्षुप जो औषध' numeric
+@attribute 'खड़े हुए' numeric
+@attribute 'खड़े हुए मनुष्य' numeric
+@attribute 'खनिज तेल' numeric
+@attribute 'खनिज तेल को' numeric
+@attribute 'खनिज पदार्थ' numeric
+@attribute 'खनिज पदार्थ का' numeric
+@attribute 'खनिज पदार्थ जो' numeric
+@attribute 'खरीद-बिक्री का' numeric
+@attribute 'खरीद-बिक्री का वह' numeric
+@attribute 'खाद्य फल' numeric
+@attribute 'खाद्य फल जिसकी' numeric
+@attribute 'खाद्य मसाले' numeric
+@attribute 'खाद्य मसाले के' numeric
+@attribute 'खाली समय' numeric
+@attribute 'खुला होता' numeric
+@attribute 'खुला होता है' numeric
+@attribute 'खेल आदि' numeric
+@attribute 'खेल आदि के' numeric
+@attribute 'गंधहीन स्वादहीन' numeric
+@attribute 'गंधहीन स्वादहीन व' numeric
+@attribute 'गड्डी के' numeric
+@attribute 'गड्डी के रूप' numeric
+@attribute 'गति को' numeric
+@attribute 'गति को परिवर्तित' numeric
+@attribute 'गति देने' numeric
+@attribute 'गति देने के' numeric
+@attribute 'गतिमान रहता' numeric
+@attribute 'गतिमान रहता है' numeric
+@attribute 'गद्य के' numeric
+@attribute 'गद्य के रूप' numeric
+@attribute 'गया एक' numeric
+@attribute 'गया एक तेल' numeric
+@attribute 'गया होता' numeric
+@attribute 'गया होता है' numeric
+@attribute 'गरम पहनावा' numeric
+@attribute 'गरम पहनावा जो' numeric
+@attribute 'गर्म होकर' numeric
+@attribute 'गर्म होकर पिघलने' numeric
+@attribute 'गर्मी या' numeric
+@attribute 'गर्मी या जलन' numeric
+@attribute 'गाड़ियों आदि' numeric
+@attribute 'गाड़ियों आदि में' numeric
+@attribute 'गाढ़ा तेल' numeric
+@attribute 'गाढ़ा तेल जिसका' numeric
+@attribute 'गिरी का' numeric
+@attribute 'गिरी का उपयोग' numeric
+@attribute 'गुजरता है' numeric
+@attribute 'गुण सान्निध्य' numeric
+@attribute 'गुण सान्निध्य या' numeric
+@attribute 'गैस के' numeric
+@attribute 'गैस के रूप' numeric
+@attribute 'गोल बीज' numeric
+@attribute 'गोल बीज जो' numeric
+@attribute 'ग्रंथों में' numeric
+@attribute 'ग्रंथों में प्रयुक्त' numeric
+@attribute 'ग्रहों की' numeric
+@attribute 'ग्रहों की स्थिति' numeric
+@attribute 'घटनाओं आदि' numeric
+@attribute 'घटनाओं आदि के' numeric
+@attribute 'घर की' numeric
+@attribute 'घर की तरह' numeric
+@attribute 'घावों के' numeric
+@attribute 'घावों के रूप' numeric
+@attribute 'घेरे से' numeric
+@attribute 'घेरे से सँभाला' numeric
+@attribute 'घोष जो' numeric
+@attribute 'घोष जो लोगों' numeric
+@attribute 'चंद्रमा अपने' numeric
+@attribute 'चंद्रमा अपने मार्ग' numeric
+@attribute 'चंद्रमा अश्लेषा' numeric
+@attribute 'चंद्रमा अश्लेषा नक्षत्र' numeric
+@attribute 'चंद्रमा उत्तरा-फाल्गुनी' numeric
+@attribute 'चंद्रमा उत्तरा-फाल्गुनी नक्षत्र' numeric
+@attribute 'चंद्रमा उत्तरा-भाद्रपद' numeric
+@attribute 'चंद्रमा उत्तरा-भाद्रपद नक्षत्र' numeric
+@attribute 'चंद्रमा कृत्तिका' numeric
+@attribute 'चंद्रमा कृत्तिका नक्षत्र' numeric
+@attribute 'चंद्रमा धनिष्ठा' numeric
+@attribute 'चंद्रमा धनिष्ठा नक्षत्र' numeric
+@attribute 'चंद्रमा पुष्य' numeric
+@attribute 'चंद्रमा पुष्य नक्षत्र' numeric
+@attribute 'चंद्रमा पूर्वभाद्रपद' numeric
+@attribute 'चंद्रमा पूर्वभाद्रपद नक्षत्र' numeric
+@attribute 'चंद्रमा पूर्वाषाढ़ा' numeric
+@attribute 'चंद्रमा पूर्वाषाढ़ा नक्षत्र' numeric
+@attribute 'चंद्रमा भरणी' numeric
+@attribute 'चंद्रमा भरणी नक्षत्र' numeric
+@attribute 'चंद्रमा मघा' numeric
+@attribute 'चंद्रमा मघा नक्षत्र' numeric
+@attribute 'चंद्रमा रेवती' numeric
+@attribute 'चंद्रमा रेवती नक्षत्र' numeric
+@attribute 'चंद्रमा रोहिणी' numeric
+@attribute 'चंद्रमा रोहिणी नक्षत्र' numeric
+@attribute 'चंद्रमा शतभिषा' numeric
+@attribute 'चंद्रमा शतभिषा नक्षत्र' numeric
+@attribute 'चंद्रमा स्वाति' numeric
+@attribute 'चंद्रमा स्वाति नक्षत्र' numeric
+@attribute 'चढ़ाने के' numeric
+@attribute 'चढ़ाने के लिए' numeric
+@attribute 'चन्द्रमा अश्विनी' numeric
+@attribute 'चन्द्रमा अश्विनी नक्षत्र' numeric
+@attribute 'चन्द्रमा आर्द्रा' numeric
+@attribute 'चन्द्रमा आर्द्रा नक्षत्र' numeric
+@attribute 'चन्द्रमा पूर्वा-फाल्गुनी' numeric
+@attribute 'चन्द्रमा पूर्वा-फाल्गुनी नक्षत्र' numeric
+@attribute 'चन्द्रमा विशाखा' numeric
+@attribute 'चन्द्रमा विशाखा नक्षत्र' numeric
+@attribute 'चन्द्रमा श्रवण' numeric
+@attribute 'चन्द्रमा श्रवण नक्षत्र' numeric
+@attribute 'चलकर बराबर' numeric
+@attribute 'चलकर बराबर दक्षिण' numeric
+@attribute 'चार अवस्थाओं' numeric
+@attribute 'चार अवस्थाओं में' numeric
+@attribute 'चालक यंत्र' numeric
+@attribute 'चालक यंत्र कन्डक्टर' numeric
+@attribute 'चिंतन के' numeric
+@attribute 'चिंतन के रूप' numeric
+@attribute 'चिकना करने' numeric
+@attribute 'चिकना करने के' numeric
+@attribute 'चिकना बहुत' numeric
+@attribute 'चिकना बहुत गाढ़ा' numeric
+@attribute 'चिकनी पत्तियोंवाला' numeric
+@attribute 'चिकनी पत्तियोंवाला एक' numeric
+@attribute 'चिकित्सा उपकरण' numeric
+@attribute 'चिकित्सा उपकरण जो' numeric
+@attribute 'चीज़ें गर्म' numeric
+@attribute 'चीज़ें गर्म होकर' numeric
+@attribute 'चुनने का' numeric
+@attribute 'चुनने का काम' numeric
+@attribute 'चूर्ण जिसका' numeric
+@attribute 'चूर्ण जिसका उपयोग' numeric
+@attribute 'चेन या' numeric
+@attribute 'चेन या बटन' numeric
+@attribute 'चौथे अवतार' numeric
+@attribute 'चौथे अवतार का' numeric
+@attribute 'छः मास' numeric
+@attribute 'छः मास का' numeric
+@attribute 'छाया पश्चिम' numeric
+@attribute 'छाया पश्चिम से' numeric
+@attribute 'छेद होते' numeric
+@attribute 'छेद होते हैं' numeric
+@attribute 'छोटा पौधा' numeric
+@attribute 'छोटा पौधा जिसका' numeric
+@attribute 'छोटी नदी' numeric
+@attribute 'छोटी नदी के' numeric
+@attribute 'छोटे घावों' numeric
+@attribute 'छोटे घावों के' numeric
+@attribute 'छोटे-छोटे छेद' numeric
+@attribute 'छोटे-छोटे छेद होते' numeric
+@attribute 'जटिल कार्बनिक' numeric
+@attribute 'जटिल कार्बनिक यौगिक' numeric
+@attribute 'जन्म होता' numeric
+@attribute 'जन्म होता है' numeric
+@attribute 'जन्म होने' numeric
+@attribute 'जन्म होने का' numeric
+@attribute 'जब किसी' numeric
+@attribute 'जब किसी का' numeric
+@attribute 'जब कोई' numeric
+@attribute 'जब कोई अधेड़' numeric
+@attribute 'जब कोई काम' numeric
+@attribute 'जब कोई जवान' numeric
+@attribute 'जब कोई बूढ़ा' numeric
+@attribute 'जब कोई शुभ' numeric
+@attribute 'जब चंद्रमा' numeric
+@attribute 'जब चंद्रमा अपने' numeric
+@attribute 'जब चंद्रमा अश्लेषा' numeric
+@attribute 'जब चंद्रमा उत्तरा-फाल्गुनी' numeric
+@attribute 'जब चंद्रमा उत्तरा-भाद्रपद' numeric
+@attribute 'जब चंद्रमा कृत्तिका' numeric
+@attribute 'जब चंद्रमा धनिष्ठा' numeric
+@attribute 'जब चंद्रमा पुष्य' numeric
+@attribute 'जब चंद्रमा पूर्वभाद्रपद' numeric
+@attribute 'जब चंद्रमा पूर्वाषाढ़ा' numeric
+@attribute 'जब चंद्रमा भरणी' numeric
+@attribute 'जब चंद्रमा मघा' numeric
+@attribute 'जब चंद्रमा रेवती' numeric
+@attribute 'जब चंद्रमा रोहिणी' numeric
+@attribute 'जब चंद्रमा शतभिषा' numeric
+@attribute 'जब चंद्रमा स्वाति' numeric
+@attribute 'जब चन्द्रमा' numeric
+@attribute 'जब चन्द्रमा अश्विनी' numeric
+@attribute 'जब चन्द्रमा आर्द्रा' numeric
+@attribute 'जब चन्द्रमा पूर्वा-फाल्गुनी' numeric
+@attribute 'जब चन्द्रमा विशाखा' numeric
+@attribute 'जब चन्द्रमा श्रवण' numeric
+@attribute 'जब छाया' numeric
+@attribute 'जब छाया पश्चिम' numeric
+@attribute 'जब तक' numeric
+@attribute 'जब तक कोई' numeric
+@attribute 'जब दिन' numeric
+@attribute 'जब दिन का' numeric
+@attribute 'जब वस्तुएँ' numeric
+@attribute 'जब वस्तुएँ सस्ते' numeric
+@attribute 'जब सूर्य' numeric
+@attribute 'जब सूर्य एक' numeric
+@attribute 'जब सूर्य के' numeric
+@attribute 'जब सूर्य डूबता' numeric
+@attribute 'जब सूर्य दक्षिण' numeric
+@attribute 'जब सूर्य बराबर' numeric
+@attribute 'जब सूर्य मकर' numeric
+@attribute 'जब सूर्य मध्य' numeric
+@attribute 'जलन के' numeric
+@attribute 'जलन के रूप' numeric
+@attribute 'जलपान आदि' numeric
+@attribute 'जलपान आदि करने' numeric
+@attribute 'जलमार्ग जिसका' numeric
+@attribute 'जलमार्ग जिसका उपयोग' numeric
+@attribute 'जलमार्ग या' numeric
+@attribute 'जलमार्ग या वह' numeric
+@attribute 'जवान हो' numeric
+@attribute 'जहाँ पसलियाँ' numeric
+@attribute 'जहाँ पसलियाँ होती' numeric
+@attribute 'जहाँ प्रार्थना' numeric
+@attribute 'जहाँ प्रार्थना करने' numeric
+@attribute 'जहाँ से हाथ' numeric
+@attribute 'जागते रहने' numeric
+@attribute 'जागते रहने पर' numeric
+@attribute 'जाता है' numeric
+@attribute 'जाता है और' numeric
+@attribute 'जाति का' numeric
+@attribute 'जाति का बहुत' numeric
+@attribute 'जाति के' numeric
+@attribute 'जाति के एक' numeric
+@attribute 'जाति के प्राणियों' numeric
+@attribute 'जाती हैं' numeric
+@attribute 'जाती हैं और' numeric
+@attribute 'जाने देने' numeric
+@attribute 'जाने देने के' numeric
+@attribute 'जाने या' numeric
+@attribute 'जाने या होने' numeric
+@attribute 'जाने वाले' numeric
+@attribute 'जाने वाले धार्मिक' numeric
+@attribute 'जिनका उल्लंघन' numeric
+@attribute 'जिनका उल्लंघन करने' numeric
+@attribute 'जिनका पालन' numeric
+@attribute 'जिनका पालन सबके' numeric
+@attribute 'जिम्मे लोकसेवा' numeric
+@attribute 'जिम्मे लोकसेवा संबंधी' numeric
+@attribute 'जिस पर बच्चों' numeric
+@attribute 'जिस पर सहमति' numeric
+@attribute 'जिसका अनुभव' numeric
+@attribute 'जिसका अनुभव गर्मी' numeric
+@attribute 'जिसका उच्चारण' numeric
+@attribute 'जिसका उच्चारण श्वास' numeric
+@attribute 'जिसका उपयोग' numeric
+@attribute 'जिसका उपयोग आँखों' numeric
+@attribute 'जिसका उपयोग आवास' numeric
+@attribute 'जिसका उपयोग औषध' numeric
+@attribute 'जिसका उपयोग औषधि' numeric
+@attribute 'जिसका उपयोग तंतु' numeric
+@attribute 'जिसका उपयोग बैठक' numeric
+@attribute 'जिसका उपयोग यंत्र' numeric
+@attribute 'जिसका उपयोग साग' numeric
+@attribute 'जिसका उपयोग सिंचाई' numeric
+@attribute 'जिसका औषध' numeric
+@attribute 'जिसका औषध के' numeric
+@attribute 'जिसका व्यवहार' numeric
+@attribute 'जिसका व्यवहार मादक' numeric
+@attribute 'जिसकी गिरी' numeric
+@attribute 'जिसकी गिरी का' numeric
+@attribute 'जिसके जिम्मे' numeric
+@attribute 'जिसके जिम्मे लोकसेवा' numeric
+@attribute 'जिसके प्रभाव' numeric
+@attribute 'जिसके प्रभाव से' numeric
+@attribute 'जिसके बीजों' numeric
+@attribute 'जिसके बीजों का' numeric
+@attribute 'जिसमें अतिवृष्टि' numeric
+@attribute 'जिसमें अतिवृष्टि या' numeric
+@attribute 'जिसमें कोई' numeric
+@attribute 'जिसमें कोई काम' numeric
+@attribute 'जिसमें पानी' numeric
+@attribute 'जिसमें पानी की' numeric
+@attribute 'जिसमें पाल' numeric
+@attribute 'जिसमें पाल बाँधते' numeric
+@attribute 'जिसमें बंद' numeric
+@attribute 'जिसमें बंद करने' numeric
+@attribute 'जिसमें बहुत' numeric
+@attribute 'जिसमें बहुत छोटे-छोटे' numeric
+@attribute 'जिसमें मनमाने' numeric
+@attribute 'जिसमें मनमाने तरीके' numeric
+@attribute 'जिसमें रंग-बिरंगे' numeric
+@attribute 'जिसमें रंग-बिरंगे फूल' numeric
+@attribute 'जिसमें वह' numeric
+@attribute 'जिसमें वह प्रायः' numeric
+@attribute 'जिसमें वाक्' numeric
+@attribute 'जिसमें वाक् चिंतन' numeric
+@attribute 'जिसमें विधवा' numeric
+@attribute 'जिसमें विधवा या' numeric
+@attribute 'जिसमें शरीर' numeric
+@attribute 'जिसमें शरीर सूखने' numeric
+@attribute 'जिसमें सूर्य' numeric
+@attribute 'जिसमें सूर्य कर्करेखा' numeric
+@attribute 'जीवित रखने' numeric
+@attribute 'जीवित रखने का' numeric
+@attribute 'जीवित रहने' numeric
+@attribute 'जीवित रहने वाला' numeric
+@attribute 'जो आगे' numeric
+@attribute 'जो आगे से' numeric
+@attribute 'जो आधे' numeric
+@attribute 'जो आधे पुरुष' numeric
+@attribute 'जो उसकी' numeric
+@attribute 'जो उसकी महत्वपूर्ण' numeric
+@attribute 'जो उसके' numeric
+@attribute 'जो उसके विकास' numeric
+@attribute 'जो एक' numeric
+@attribute 'जो एक प्रकार' numeric
+@attribute 'जो और' numeric
+@attribute 'जो और दाँतों' numeric
+@attribute 'जो औषध' numeric
+@attribute 'जो औषध के' numeric
+@attribute 'जो औषधि' numeric
+@attribute 'जो औषधि के' numeric
+@attribute 'जो किसी द्रव' numeric
+@attribute 'जो किसी पूज्य' numeric
+@attribute 'जो किसी प्रकाशन' numeric
+@attribute 'जो किसी विशेष' numeric
+@attribute 'जो किसी सूचना' numeric
+@attribute 'जो केवल' numeric
+@attribute 'जो केवल तेज़ी-मंदी' numeric
+@attribute 'जो कोमल' numeric
+@attribute 'जो कोमल तंतुओं' numeric
+@attribute 'जो खाद्य' numeric
+@attribute 'जो खाद्य मसाले' numeric
+@attribute 'जो गड्डी' numeric
+@attribute 'जो गड्डी के' numeric
+@attribute 'जो गाड़ियों' numeric
+@attribute 'जो गाड़ियों आदि' numeric
+@attribute 'जो गैस' numeric
+@attribute 'जो गैस के' numeric
+@attribute 'जो घर की' numeric
+@attribute 'जो दवा' numeric
+@attribute 'जो दवा और' numeric
+@attribute 'जो दवा के' numeric
+@attribute 'जो पतले' numeric
+@attribute 'जो पतले लम्बे' numeric
+@attribute 'जो प्रायः' numeric
+@attribute 'जो प्रायः औषध' numeric
+@attribute 'जो बहुत' numeric
+@attribute 'जो बहुत कम' numeric
+@attribute 'जो बहुधा' numeric
+@attribute 'जो बहुधा रूप' numeric
+@attribute 'जो बार्बिट्युरेट' numeric
+@attribute 'जो बार्बिट्युरेट की' numeric
+@attribute 'जो बुखार' numeric
+@attribute 'जो बुखार तथा' numeric
+@attribute 'जो मसाले' numeric
+@attribute 'जो मसाले के' numeric
+@attribute 'जो मोक्ष' numeric
+@attribute 'जो मोक्ष या' numeric
+@attribute 'जो लार्वा' numeric
+@attribute 'जो लार्वा तथा' numeric
+@attribute 'जो लोगों' numeric
+@attribute 'जो लोगों को' numeric
+@attribute 'जो विद्युत' numeric
+@attribute 'जो विद्युत धारा' numeric
+@attribute 'जो विशेषकर' numeric
+@attribute 'जो विशेषकर कल्पना' numeric
+@attribute 'जो विशेषकर बच्चों' numeric
+@attribute 'जो सामान्यतः' numeric
+@attribute 'जो सामान्यतः रंगहीन' numeric
+@attribute 'जो सार्वजनिक' numeric
+@attribute 'जो सार्वजनिक स्थानों' numeric
+@attribute 'जो सृष्टि' numeric
+@attribute 'जो सृष्टि के' numeric
+@attribute 'जो हाथ' numeric
+@attribute 'जो हाथ मुँह' numeric
+@attribute 'जोकि दुख' numeric
+@attribute 'जोकि दुख या' numeric
+@attribute 'जोड़ जहाँ' numeric
+@attribute 'जोड़ जहाँ से' numeric
+@attribute 'ज्योतिष के' numeric
+@attribute 'ज्योतिष के अनुसार' numeric
+@attribute 'ज्योतिष में' numeric
+@attribute 'ज्योतिष में ग्रहों' numeric
+@attribute 'झटके में' numeric
+@attribute 'झटके में होता' numeric
+@attribute 'झाड़ से' numeric
+@attribute 'झाड़ से प्राप्त' numeric
+@attribute 'टोंटी लगी' numeric
+@attribute 'टोंटी लगी होती' numeric
+@attribute 'ठहर जाना' numeric
+@attribute 'ठीक वह' numeric
+@attribute 'ठीक वह समय' numeric
+@attribute 'डंठल के' numeric
+@attribute 'डंठल के रूप' numeric
+@attribute 'डंठल जिसका' numeric
+@attribute 'डंठल जिसका उपयोग' numeric
+@attribute 'डठलों से' numeric
+@attribute 'डठलों से निकाला' numeric
+@attribute 'डालने के' numeric
+@attribute 'डालने के लिए' numeric
+@attribute 'डूबता है' numeric
+@attribute 'ढाँचा जो' numeric
+@attribute 'ढाँचा जो कोमल' numeric
+@attribute 'तंतु रेज़िन' numeric
+@attribute 'तंतु रेज़िन या' numeric
+@attribute 'तंतुओं के' numeric
+@attribute 'तंतुओं के पिंड' numeric
+@attribute 'तंत्र जिसमें' numeric
+@attribute 'तंत्र जिसमें मनमाने' numeric
+@attribute 'तक का' numeric
+@attribute 'तक का काल' numeric
+@attribute 'तक के' numeric
+@attribute 'तक के बीच' numeric
+@attribute 'तक कोई' numeric
+@attribute 'तक कोई शिशु' numeric
+@attribute 'तक जीवित' numeric
+@attribute 'तक जीवित रहने' numeric
+@attribute 'तक रहने' numeric
+@attribute 'तक रहने वाला' numeric
+@attribute 'तत्त्व जो' numeric
+@attribute 'तत्त्व जो गैस' numeric
+@attribute 'तत्व जो' numeric
+@attribute 'तत्व जो सामान्यतः' numeric
+@attribute 'तत्व जो सृष्टि' numeric
+@attribute 'तथा छोटे' numeric
+@attribute 'तथा छोटे घावों' numeric
+@attribute 'तथा जिसमें' numeric
+@attribute 'तथा जिसमें पानी' numeric
+@attribute 'तथा वयस्क' numeric
+@attribute 'तथा वयस्क कीट' numeric
+@attribute 'तरह उपयोग' numeric
+@attribute 'तरह उपयोग होता' numeric
+@attribute 'तरह का' numeric
+@attribute 'तरह का सुगंधित' numeric
+@attribute 'तरह होता' numeric
+@attribute 'तरह होता है' numeric
+@attribute 'तरीके से' numeric
+@attribute 'तरीके से उपेक्षा' numeric
+@attribute 'तरीके से लटका' numeric
+@attribute 'तलाक़ देने' numeric
+@attribute 'तलाक़ देने के' numeric
+@attribute 'तलाक़शुदा स्त्री' numeric
+@attribute 'तलाक़शुदा स्त्री दूसरी' numeric
+@attribute 'ताड़ के' numeric
+@attribute 'ताड़ के फूलते' numeric
+@attribute 'तापमान आदि' numeric
+@attribute 'तापमान आदि को' numeric
+@attribute 'तारों के' numeric
+@attribute 'तारों के सत्ताईस' numeric
+@attribute 'तीव्र अवस्था' numeric
+@attribute 'तीव्र अवस्था में' numeric
+@attribute 'तीसरी अवस्था' numeric
+@attribute 'तीसरी अवस्था जिसमें' numeric
+@attribute 'तेज़ी-मंदी के' numeric
+@attribute 'तेज़ी-मंदी के विचार' numeric
+@attribute 'तेल को' numeric
+@attribute 'तेल को परिशोधित' numeric
+@attribute 'तेल जिसका' numeric
+@attribute 'तेल जिसका उपयोग' numeric
+@attribute 'तेल जो' numeric
+@attribute 'तेल जो गाड़ियों' numeric
+@attribute 'तैयार किया' numeric
+@attribute 'तैयार किया हुआ' numeric
+@attribute 'थोड़े समय' numeric
+@attribute 'थोड़े समय के' numeric
+@attribute 'दंडित होता' numeric
+@attribute 'दंडित होता या' numeric
+@attribute 'दक्षिण की' numeric
+@attribute 'दक्षिण की ओर' numeric
+@attribute 'दक्षिण या' numeric
+@attribute 'दक्षिण या उत्तर' numeric
+@attribute 'दबाव समय' numeric
+@attribute 'दबाव समय तापमान' numeric
+@attribute 'दल आदि' numeric
+@attribute 'दल आदि का' numeric
+@attribute 'दलों के' numeric
+@attribute 'दलों के बीच' numeric
+@attribute 'दवा और' numeric
+@attribute 'दवा और मसाले' numeric
+@attribute 'दवा के' numeric
+@attribute 'दवा के रूप' numeric
+@attribute 'दस्तावेज़ जिसमें' numeric
+@attribute 'दस्तावेज़ जिसमें कोई' numeric
+@attribute 'दाँत जो' numeric
+@attribute 'दाँत जो और' numeric
+@attribute 'दाँतों की' numeric
+@attribute 'दाँतों की पंक्ति' numeric
+@attribute 'दाँतों से' numeric
+@attribute 'दाँतों से बड़ा' numeric
+@attribute 'दान के' numeric
+@attribute 'दान के पैसे' numeric
+@attribute 'दालचीनी की' numeric
+@attribute 'दालचीनी की जाति' numeric
+@attribute 'दिखाई देनेवाला' numeric
+@attribute 'दिखाई देनेवाला स्वप्न' numeric
+@attribute 'दिन और' numeric
+@attribute 'दिन और रात' numeric
+@attribute 'दिन का' numeric
+@attribute 'दिन का अंत' numeric
+@attribute 'दिन का वह' numeric
+@attribute 'दिन का समय' numeric
+@attribute 'दिन किये' numeric
+@attribute 'दिन किये जाने' numeric
+@attribute 'दिन तक' numeric
+@attribute 'दिन तक रहने' numeric
+@attribute 'दिशा की' numeric
+@attribute 'दिशा की ओर' numeric
+@attribute 'दिशा में' numeric
+@attribute 'दिशा में रहता' numeric
+@attribute 'दुख या' numeric
+@attribute 'दुख या सुख' numeric
+@attribute 'दूर करने' numeric
+@attribute 'दूर करने के' numeric
+@attribute 'दूसरा कोयले' numeric
+@attribute 'दूसरा कोयले के' numeric
+@attribute 'दूसरी राशि' numeric
+@attribute 'दूसरी राशि में' numeric
+@attribute 'दूसरी शादी' numeric
+@attribute 'दूसरी शादी नहीं' numeric
+@attribute 'दूसरे नियत' numeric
+@attribute 'दूसरे नियत समय' numeric
+@attribute 'दृश्य आदि' numeric
+@attribute 'दृश्य आदि जो' numeric
+@attribute 'देने के' numeric
+@attribute 'देने के बाद' numeric
+@attribute 'देने के लिए' numeric
+@attribute 'देनेवाला स्वप्न' numeric
+@attribute 'देनेवाला स्वप्न जो' numeric
+@attribute 'देनेवालों का' numeric
+@attribute 'देनेवालों का हस्ताक्षर' numeric
+@attribute 'देवी के' numeric
+@attribute 'देवी के नाम' numeric
+@attribute 'दो घटनाओं' numeric
+@attribute 'दो घटनाओं आदि' numeric
+@attribute 'दो या' numeric
+@attribute 'दो या दो' numeric
+@attribute 'दो रूपों' numeric
+@attribute 'दो रूपों में' numeric
+@attribute 'दो विषुवों' numeric
+@attribute 'दो विषुवों के' numeric
+@attribute 'दो से' numeric
+@attribute 'दो से अधिक' numeric
+@attribute 'दोनों दलों' numeric
+@attribute 'दोनों दलों के' numeric
+@attribute 'द्रव के' numeric
+@attribute 'द्रव के बहाव' numeric
+@attribute 'द्रव्य के' numeric
+@attribute 'द्रव्य के रूप' numeric
+@attribute 'द्वारा नियुक्त' numeric
+@attribute 'द्वारा नियुक्त कुछ' numeric
+@attribute 'द्वारा स्थिर' numeric
+@attribute 'द्वारा स्थिर किए' numeric
+@attribute 'द्विआणविक गैस' numeric
+@attribute 'द्विआणविक गैस के' numeric
+@attribute 'द्विपक्षीय या' numeric
+@attribute 'द्विपक्षीय या बहुपक्षीय' numeric
+@attribute 'धनिष्ठा नक्षत्र' numeric
+@attribute 'धनिष्ठा नक्षत्र में' numeric
+@attribute 'धर्म बंद' numeric
+@attribute 'धर्म बंद होने' numeric
+@attribute 'धारा के' numeric
+@attribute 'धारा के कुछ' numeric
+@attribute 'धार्मिक कर्म' numeric
+@attribute 'धीरे-धीरे कमज़ोर' numeric
+@attribute 'धीरे-धीरे कमज़ोर हो' numeric
+@attribute 'धोने के' numeric
+@attribute 'धोने के लिए' numeric
+@attribute 'न हो अथवा' numeric
+@attribute 'नक्षत्र में' numeric
+@attribute 'नक्षत्र में होता' numeric
+@attribute 'नदी के' numeric
+@attribute 'नदी के रूप' numeric
+@attribute 'नशीला रस' numeric
+@attribute 'नशीला रस जिसका' numeric
+@attribute 'नहीं कर' numeric
+@attribute 'नहीं कर सकती' numeric
+@attribute 'नहीं होता' numeric
+@attribute 'नहीं होता है' numeric
+@attribute 'नाटक ग्रंथों' numeric
+@attribute 'नाटक ग्रंथों में' numeric
+@attribute 'नाम के' numeric
+@attribute 'नाम के साथ' numeric
+@attribute 'नामावली जो' numeric
+@attribute 'नामावली जो किसी' numeric
+@attribute 'नावों के' numeric
+@attribute 'नावों के बीच' numeric
+@attribute 'निकलकर दूसरी' numeric
+@attribute 'निकलकर दूसरी राशि' numeric
+@attribute 'निकाला हुआ' numeric
+@attribute 'निकाला हुआ नशीला' numeric
+@attribute 'निकाला हुआ वह' numeric
+@attribute 'नियंत्रित करने' numeric
+@attribute 'नियंत्रित करने के' numeric
+@attribute 'नियत काल' numeric
+@attribute 'नियत काल के' numeric
+@attribute 'नियत समय के' numeric
+@attribute 'नियत समय तक' numeric
+@attribute 'नियम या' numeric
+@attribute 'नियम या विधान' numeric
+@attribute 'नियमावली आदि' numeric
+@attribute 'नियमावली आदि के' numeric
+@attribute 'नियुक्त करने' numeric
+@attribute 'नियुक्त करने के' numeric
+@attribute 'नियुक्त कुछ' numeric
+@attribute 'नियुक्त कुछ व्यक्तियों' numeric
+@attribute 'निर्धारित होता' numeric
+@attribute 'निर्धारित होता है' numeric
+@attribute 'निश्चित अवधि' numeric
+@attribute 'निश्चित अवधि के' numeric
+@attribute 'निश्चित आकार' numeric
+@attribute 'निश्चित आकार का' numeric
+@attribute 'निश्चित या' numeric
+@attribute 'निश्चित या उचित' numeric
+@attribute 'निष्क्रीय द्विआणविक' numeric
+@attribute 'निष्क्रीय द्विआणविक गैस' numeric
+@attribute 'नौका जिसका' numeric
+@attribute 'नौका जिसका उपयोग' numeric
+@attribute 'पंक्ति के' numeric
+@attribute 'पंक्ति के बीच' numeric
+@attribute 'पक्ष या' numeric
+@attribute 'पक्ष या दल' numeric
+@attribute 'पड़नेवाले स्थिर' numeric
+@attribute 'पड़नेवाले स्थिर तारों' numeric
+@attribute 'पढ़ाई खेल' numeric
+@attribute 'पढ़ाई खेल आदि' numeric
+@attribute 'पतले लम्बे' numeric
+@attribute 'पतले लम्बे डंठल' numeric
+@attribute 'पति के' numeric
+@attribute 'पति के मरने' numeric
+@attribute 'पत्ता जो' numeric
+@attribute 'पत्ता जो खाद्य' numeric
+@attribute 'पत्तियोंवाला एक' numeric
+@attribute 'पत्तियोंवाला एक क्षुप' numeric
+@attribute 'पदार्थ का' numeric
+@attribute 'पदार्थ का महीन' numeric
+@attribute 'पदार्थ जो' numeric
+@attribute 'पदार्थ जो प्रायः' numeric
+@attribute 'पदों पर' numeric
+@attribute 'पदों पर नियुक्त' numeric
+@attribute 'पर गद्य' numeric
+@attribute 'पर गद्य के' numeric
+@attribute 'पर थोड़े' numeric
+@attribute 'पर थोड़े समय' numeric
+@attribute 'पर दान' numeric
+@attribute 'पर दान के' numeric
+@attribute 'पर दिखाई' numeric
+@attribute 'पर दिखाई देनेवाला' numeric
+@attribute 'पर नहीं' numeric
+@attribute 'पर नियुक्त' numeric
+@attribute 'पर नियुक्त करने' numeric
+@attribute 'पर पहुँचने' numeric
+@attribute 'पर पहुँचने से' numeric
+@attribute 'पर पूरा' numeric
+@attribute 'पर पूरा नहीं' numeric
+@attribute 'पर बच्चों' numeric
+@attribute 'पर बच्चों को' numeric
+@attribute 'पर बना' numeric
+@attribute 'पर बना कमरा' numeric
+@attribute 'पर सहमति' numeric
+@attribute 'पर सहमति देनेवालों' numeric
+@attribute 'पर होने' numeric
+@attribute 'पर होने या' numeric
+@attribute 'परिणाम जोकि' numeric
+@attribute 'परिणाम जोकि दुख' numeric
+@attribute 'परिवर्तित करने' numeric
+@attribute 'परिवर्तित करने के' numeric
+@attribute 'परिशिष्ट के' numeric
+@attribute 'परिशिष्ट के रूप' numeric
+@attribute 'परिशोधित करके' numeric
+@attribute 'परिशोधित करके बनाया' numeric
+@attribute 'पश्चिम से' numeric
+@attribute 'पश्चिम से पूर्व' numeric
+@attribute 'पसलियाँ होती' numeric
+@attribute 'पसलियाँ होती हैं' numeric
+@attribute 'पहनावा जो' numeric
+@attribute 'पहनावा जो आगे' numeric
+@attribute 'पहुँचता है' numeric
+@attribute 'पहुँचने से' numeric
+@attribute 'पहुँचने से दिन' numeric
+@attribute 'पात्र जो' numeric
+@attribute 'पात्र जो हाथ' numeric
+@attribute 'पानी की' numeric
+@attribute 'पानी की टोंटी' numeric
+@attribute 'पारस्परिक स्नेह' numeric
+@attribute 'पारस्परिक स्नेह जो' numeric
+@attribute 'पार्टियों के' numeric
+@attribute 'पार्टियों के बीच' numeric
+@attribute 'पाल बाँधते' numeric
+@attribute 'पाल बाँधते हैं' numeric
+@attribute 'पालन सबके' numeric
+@attribute 'पालन सबके लिए' numeric
+@attribute 'पिंड के' numeric
+@attribute 'पिंड के रूप' numeric
+@attribute 'पिघलने या' numeric
+@attribute 'पिघलने या भाप' numeric
+@attribute 'पुण्य स्थल' numeric
+@attribute 'पुण्य स्थल जहाँ' numeric
+@attribute 'पुरुष और' numeric
+@attribute 'पुरुष और आधे' numeric
+@attribute 'पुरुष जाति' numeric
+@attribute 'पुरुष जाति के' numeric
+@attribute 'पुर्जा जो' numeric
+@attribute 'पुर्जा जो किसी' numeric
+@attribute 'पुष्य नक्षत्र' numeric
+@attribute 'पुष्य नक्षत्र में' numeric
+@attribute 'पूज्य या' numeric
+@attribute 'पूज्य या आदरणीय' numeric
+@attribute 'पूरा नहीं होता' numeric
+@attribute 'पूर्व की' numeric
+@attribute 'पूर्व की ओर' numeric
+@attribute 'पूर्वभाद्रपद नक्षत्र' numeric
+@attribute 'पूर्वभाद्रपद नक्षत्र में' numeric
+@attribute 'पूर्वा-फाल्गुनी नक्षत्र' numeric
+@attribute 'पूर्वा-फाल्गुनी नक्षत्र में' numeric
+@attribute 'पूर्वाषाढ़ा नक्षत्र' numeric
+@attribute 'पूर्वाषाढ़ा नक्षत्र में' numeric
+@attribute 'पेड़ का' numeric
+@attribute 'पेड़ का पत्ता' numeric
+@attribute 'पेड़ के' numeric
+@attribute 'पेड़ के फल' numeric
+@attribute 'पेशाब बंद' numeric
+@attribute 'पेशाब बंद होने' numeric
+@attribute 'पैसे डालने' numeric
+@attribute 'पैसे डालने के' numeric
+@attribute 'पौधा जिसका' numeric
+@attribute 'पौधा जिसका उपयोग' numeric
+@attribute 'पौधा जिसका औषध' numeric
+@attribute 'पौधा जिसके' numeric
+@attribute 'पौधा जिसके बीजों' numeric
+@attribute 'पौधे से' numeric
+@attribute 'पौधे से प्राप्त' numeric
+@attribute 'प्याज का' numeric
+@attribute 'प्याज का हरा' numeric
+@attribute 'प्रकट किए' numeric
+@attribute 'प्रकट किए हुए' numeric
+@attribute 'प्रकट होता' numeric
+@attribute 'प्रकट होता है' numeric
+@attribute 'प्रकार का' numeric
+@attribute 'प्रकार का गरम' numeric
+@attribute 'प्रकार का चिकना' numeric
+@attribute 'प्रकार का पौधा' numeric
+@attribute 'प्रकार का मूत्राघात' numeric
+@attribute 'प्रकार का रोग' numeric
+@attribute 'प्रकार का सोडियम' numeric
+@attribute 'प्रकार के' numeric
+@attribute 'प्रकार के झाड़' numeric
+@attribute 'प्रकार के पौधे' numeric
+@attribute 'प्रकार के बैक्टिरिया' numeric
+@attribute 'प्रकार के रोगों' numeric
+@attribute 'प्रकार जो' numeric
+@attribute 'प्रकार जो केवल' numeric
+@attribute 'प्रकाशन का' numeric
+@attribute 'प्रकाशन का स्वतंत्र' numeric
+@attribute 'प्रतिरोध क्षमता' numeric
+@attribute 'प्रतिरोध क्षमता वाला' numeric
+@attribute 'प्रभाव से' numeric
+@attribute 'प्रभाव से चीज़ें' numeric
+@attribute 'प्रयुक्त वह' numeric
+@attribute 'प्रयुक्त वह विशेष' numeric
+@attribute 'प्रयुक्त होता' numeric
+@attribute 'प्रयुक्त होता है' numeric
+@attribute 'प्रयोग होता' numeric
+@attribute 'प्रयोग होता है' numeric
+@attribute 'प्रवेश करता' numeric
+@attribute 'प्रवेश करता है' numeric
+@attribute 'प्रवेश करने' numeric
+@attribute 'प्रवेश करने से' numeric
+@attribute 'प्रस्तुत करने' numeric
+@attribute 'प्रस्तुत करने वाला' numeric
+@attribute 'प्राकृतिक विद्युत' numeric
+@attribute 'प्राकृतिक विद्युत या' numeric
+@attribute 'प्राणियों के' numeric
+@attribute 'प्राणियों के बीच' numeric
+@attribute 'प्राप्त गोल' numeric
+@attribute 'प्राप्त गोल बीज' numeric
+@attribute 'प्राप्त फल' numeric
+@attribute 'प्राप्त फल जो' numeric
+@attribute 'प्राप्त सुखाया' numeric
+@attribute 'प्राप्त सुखाया हुआ' numeric
+@attribute 'प्राप्त सुगन्धित' numeric
+@attribute 'प्राप्त सुगन्धित बीज' numeric
+@attribute 'प्राप्त होता' numeric
+@attribute 'प्राप्त होता है' numeric
+@attribute 'प्रायः औषध' numeric
+@attribute 'प्रायः औषध के' numeric
+@attribute 'प्रायः कष्टदायक' numeric
+@attribute 'प्रायः कष्टदायक और' numeric
+@attribute 'प्रार्थना करने' numeric
+@attribute 'प्रार्थना करने के' numeric
+@attribute 'प्रार्थियों में' numeric
+@attribute 'प्रार्थियों में से' numeric
+@attribute 'प्लास्टिक बनाने' numeric
+@attribute 'प्लास्टिक बनाने के' numeric
+@attribute 'प्लैस्टिसाइज़र के' numeric
+@attribute 'प्लैस्टिसाइज़र के रूप' numeric
+@attribute 'फल जिसकी' numeric
+@attribute 'फल जिसकी गिरी' numeric
+@attribute 'फल जो' numeric
+@attribute 'फल जो औषधि' numeric
+@attribute 'फल से' numeric
+@attribute 'फल से प्राप्त' numeric
+@attribute 'फलाहार के' numeric
+@attribute 'फलाहार के रूप' numeric
+@attribute 'फलित ज्योतिष' numeric
+@attribute 'फलित ज्योतिष के' numeric
+@attribute 'फलित ज्योतिष में' numeric
+@attribute 'फूल लगते' numeric
+@attribute 'फूल लगते हैं' numeric
+@attribute 'फूलते हुए' numeric
+@attribute 'फूलते हुए डठलों' numeric
+@attribute 'फेफड़ा या' numeric
+@attribute 'फेफड़ा या संक्रमित' numeric
+@attribute 'फेफड़ों में' numeric
+@attribute 'फेफड़ों में लेकिन' numeric
+@attribute 'बंद करने' numeric
+@attribute 'बंद करने के' numeric
+@attribute 'बंद होने' numeric
+@attribute 'बंद होने का' numeric
+@attribute 'बक्सा जो' numeric
+@attribute 'बक्सा जो सार्वजनिक' numeric
+@attribute 'बच्चों को' numeric
+@attribute 'बच्चों को बैठाकर' numeric
+@attribute 'बच्चों को होता' numeric
+@attribute 'बजे का' numeric
+@attribute 'बजे का समय' numeric
+@attribute 'बटन लगा' numeric
+@attribute 'बटन लगा होता' numeric
+@attribute 'बड़ा कक्ष' numeric
+@attribute 'बड़ा कक्ष और' numeric
+@attribute 'बड़ा वृक्ष' numeric
+@attribute 'बड़ा वृक्ष जिसमें' numeric
+@attribute 'बड़ा होता' numeric
+@attribute 'बड़ा होता है' numeric
+@attribute 'बड़ी नावों' numeric
+@attribute 'बड़ी नावों के' numeric
+@attribute 'बढ़ता रहता' numeric
+@attribute 'बढ़ता रहता है' numeric
+@attribute 'बढ़ाने और' numeric
+@attribute 'बढ़ाने और उसके' numeric
+@attribute 'बना कमरा' numeric
+@attribute 'बना कमरा जिसका' numeric
+@attribute 'बना वह' numeric
+@attribute 'बना वह पात्र' numeric
+@attribute 'बना सादे' numeric
+@attribute 'बना सादे कागजों' numeric
+@attribute 'बनाने के' numeric
+@attribute 'बनाने के लिए' numeric
+@attribute 'बनाया गया' numeric
+@attribute 'बनाया गया एक' numeric
+@attribute 'बनाया गया होता' numeric
+@attribute 'बराबर उत्तर' numeric
+@attribute 'बराबर उत्तर दिशा' numeric
+@attribute 'बराबर दक्षिण' numeric
+@attribute 'बराबर दक्षिण की' numeric
+@attribute 'बराबर होते' numeric
+@attribute 'बराबर होते हैं' numeric
+@attribute 'बहाव दबाव' numeric
+@attribute 'बहाव दबाव समय' numeric
+@attribute 'बहुत अधिक' numeric
+@attribute 'बहुत अधिक उन्नति' numeric
+@attribute 'बहुत अधिक समय' numeric
+@attribute 'बहुत कम' numeric
+@attribute 'बहुत कम समय' numeric
+@attribute 'बहुत गाढ़ा' numeric
+@attribute 'बहुत गाढ़ा तेल' numeric
+@attribute 'बहुत छोटे-छोटे' numeric
+@attribute 'बहुत छोटे-छोटे छेद' numeric
+@attribute 'बहुत साल' numeric
+@attribute 'बहुत साल तक' numeric
+@attribute 'बहुत ही' numeric
+@attribute 'बहुत ही कठिनता' numeric
+@attribute 'बहुधा रूप' numeric
+@attribute 'बहुधा रूप गुण' numeric
+@attribute 'बहुपक्षीय समझौतों' numeric
+@attribute 'बहुपक्षीय समझौतों का' numeric
+@attribute 'बाँधते हैं' numeric
+@attribute 'बाँह के' numeric
+@attribute 'बाँह के बीच' numeric
+@attribute 'बाद का वह' numeric
+@attribute 'बारह बजे' numeric
+@attribute 'बारह बजे का' numeric
+@attribute 'बार्बिट्युरेट की' numeric
+@attribute 'बार्बिट्युरेट की तरह' numeric
+@attribute 'बीच का काल' numeric
+@attribute 'बीच का पारस्परिक' numeric
+@attribute 'बीच का वह' numeric
+@attribute 'बीच का समय' numeric
+@attribute 'बीच की' numeric
+@attribute 'बीच की अवस्था' numeric
+@attribute 'बीच कुछ' numeric
+@attribute 'बीच कुछ नियत' numeric
+@attribute 'बीच के' numeric
+@attribute 'बीच के द्विपक्षीय' numeric
+@attribute 'बीच दो' numeric
+@attribute 'बीच दो रूपों' numeric
+@attribute 'बीच में थोड़े' numeric
+@attribute 'बीज जो' numeric
+@attribute 'बीज जो दवा' numeric
+@attribute 'बीज जो मसाले' numeric
+@attribute 'बीजों का' numeric
+@attribute 'बीजों का आटा' numeric
+@attribute 'बुखार तथा' numeric
+@attribute 'बुखार तथा छोटे' numeric
+@attribute 'बुना हुआ' numeric
+@attribute 'बुना हुआ एक' numeric
+@attribute 'बूढ़ा हो' numeric
+@attribute 'बैक्टिरिया के' numeric
+@attribute 'बैक्टिरिया के साँस' numeric
+@attribute 'बैठक आदि' numeric
+@attribute 'बैठक आदि के' numeric
+@attribute 'बैठाकर हाथ' numeric
+@attribute 'बैठाकर हाथ के' numeric
+@attribute 'बौद्धों का' numeric
+@attribute 'बौद्धों का वह' numeric
+@attribute 'भगवान विष्णु' numeric
+@attribute 'भगवान विष्णु के' numeric
+@attribute 'भरणी नक्षत्र' numeric
+@attribute 'भरणी नक्षत्र में' numeric
+@attribute 'भवन सामग्री' numeric
+@attribute 'भवन सामग्री आदि' numeric
+@attribute 'भवनों में' numeric
+@attribute 'भवनों में बना' numeric
+@attribute 'भाग को' numeric
+@attribute 'भाग को चिकना' numeric
+@attribute 'भाग जहाँ' numeric
+@attribute 'भाग जहाँ पसलियाँ' numeric
+@attribute 'भागों में भी' numeric
+@attribute 'भाप के' numeric
+@attribute 'भाप के रूप' numeric
+@attribute 'भिन्न खरीद-बिक्री' numeric
+@attribute 'भिन्न खरीद-बिक्री का' numeric
+@attribute 'भी यंत्र' numeric
+@attribute 'भी यंत्र का' numeric
+@attribute 'भी होता' numeric
+@attribute 'भी होता है' numeric
+@attribute 'भी ।' numeric
+@attribute 'भी । इसमें' numeric
+@attribute 'भीतर सक्रिय' numeric
+@attribute 'भीतर सक्रिय होता' numeric
+@attribute 'भीतर ही' numeric
+@attribute 'भीतर ही भीतर' numeric
+@attribute 'भोजन के' numeric
+@attribute 'भोजन के साथ' numeric
+@attribute 'मंजिल पर' numeric
+@attribute 'मंजिल पर बना' numeric
+@attribute 'मकर राशि' numeric
+@attribute 'मकर राशि में' numeric
+@attribute 'मघा नक्षत्र' numeric
+@attribute 'मघा नक्षत्र में' numeric
+@attribute 'मध्य आकाश' numeric
+@attribute 'मध्य आकाश में' numeric
+@attribute 'मनमाने तरीके' numeric
+@attribute 'मनमाने तरीके से' numeric
+@attribute 'मनुष्य के' numeric
+@attribute 'मनुष्य के वक्षस्थल' numeric
+@attribute 'मनुष्य दंडित' numeric
+@attribute 'मनुष्य दंडित होता' numeric
+@attribute 'मनुष्यों के' numeric
+@attribute 'मनुष्यों के आचार-व्यवहार' numeric
+@attribute 'मनोरंजन का' numeric
+@attribute 'मनोरंजन का वह' numeric
+@attribute 'मरने या' numeric
+@attribute 'मरने या तलाक़' numeric
+@attribute 'मसाले के' numeric
+@attribute 'मसाले के रूप' numeric
+@attribute 'महत्वपूर्ण शारीरिक' numeric
+@attribute 'महत्वपूर्ण शारीरिक क्रियाओं' numeric
+@attribute 'महीन चूर्ण' numeric
+@attribute 'महीन चूर्ण जिसका' numeric
+@attribute 'मांसल चिकनी' numeric
+@attribute 'मांसल चिकनी पत्तियोंवाला' numeric
+@attribute 'मादक द्रव्य' numeric
+@attribute 'मादक द्रव्य के' numeric
+@attribute 'मार्ग में' numeric
+@attribute 'मार्ग में पड़नेवाले' numeric
+@attribute 'मास का' numeric
+@attribute 'मास का वह' numeric
+@attribute 'मासिक धर्म' numeric
+@attribute 'मासिक धर्म बंद' numeric
+@attribute 'मिलकर करने' numeric
+@attribute 'मिलकर करने के' numeric
+@attribute 'मिलता है' numeric
+@attribute 'मिलता है एक' numeric
+@attribute 'मिले या' numeric
+@attribute 'मिले या अन्न' numeric
+@attribute 'मुँह धोने' numeric
+@attribute 'मुँह धोने के' numeric
+@attribute 'मुक्ति के' numeric
+@attribute 'मुक्ति के अभाव' numeric
+@attribute 'मुड़कर ऊपर' numeric
+@attribute 'मुड़कर ऊपर उठती' numeric
+@attribute 'मुड़ती है' numeric
+@attribute 'मुसलमानों में' numeric
+@attribute 'मुसलमानों में पति' numeric
+@attribute 'मूत्र या' numeric
+@attribute 'मूत्र या पेशाब' numeric
+@attribute 'मूत्राघात या' numeric
+@attribute 'मूत्राघात या मूत्र' numeric
+@attribute 'मूल जो' numeric
+@attribute 'मूल जो पतले' numeric
+@attribute 'मृत व्यक्ति' numeric
+@attribute 'मृत व्यक्ति की' numeric
+@attribute 'में ईंधन' numeric
+@attribute 'में ईंधन के' numeric
+@attribute 'में उत्पन्न' numeric
+@attribute 'में उत्पन्न यह' numeric
+@attribute 'में उपयोग' numeric
+@attribute 'में उपयोग होता' numeric
+@attribute 'में उपयोग होने' numeric
+@attribute 'में उसे' numeric
+@attribute 'में उसे प्राप्त' numeric
+@attribute 'में ग्रहों' numeric
+@attribute 'में ग्रहों की' numeric
+@attribute 'में तैयार' numeric
+@attribute 'में तैयार किया' numeric
+@attribute 'में था' numeric
+@attribute 'में थोड़े' numeric
+@attribute 'में थोड़े समय' numeric
+@attribute 'में दूसरा' numeric
+@attribute 'में दूसरा कोयले' numeric
+@attribute 'में पड़नेवाले' numeric
+@attribute 'में पड़नेवाले स्थिर' numeric
+@attribute 'में पति' numeric
+@attribute 'में पति के' numeric
+@attribute 'में परिशिष्ट' numeric
+@attribute 'में परिशिष्ट के' numeric
+@attribute 'में पहुँचता' numeric
+@attribute 'में पहुँचता है' numeric
+@attribute 'में प्रकट' numeric
+@attribute 'में प्रकट होता' numeric
+@attribute 'में प्रयुक्त' numeric
+@attribute 'में प्रयुक्त वह' numeric
+@attribute 'में प्रयुक्त होता' numeric
+@attribute 'में प्रयोग' numeric
+@attribute 'में प्रयोग होता' numeric
+@attribute 'में प्रवेश' numeric
+@attribute 'में प्रवेश करता' numeric
+@attribute 'में प्रवेश करने' numeric
+@attribute 'में बना' numeric
+@attribute 'में बना वह' numeric
+@attribute 'में बहुत' numeric
+@attribute 'में बहुत अधिक' numeric
+@attribute 'में भी' numeric
+@attribute 'में भी ।' numeric
+@attribute 'में भीतर' numeric
+@attribute 'में भीतर ही' numeric
+@attribute 'में मिलता' numeric
+@attribute 'में मिलता है' numeric
+@attribute 'में मिलें' numeric
+@attribute 'में रहता' numeric
+@attribute 'में रहता है' numeric
+@attribute 'में लिखकर' numeric
+@attribute 'में लिखकर प्रकट' numeric
+@attribute 'में लेकिन' numeric
+@attribute 'में लेकिन तीव्र' numeric
+@attribute 'में वह नामावली' numeric
+@attribute 'में शरीर' numeric
+@attribute 'में शरीर के' numeric
+@attribute 'में सहायक' numeric
+@attribute 'में सहायक होता' numeric
+@attribute 'में से' numeric
+@attribute 'में से उपयुक्त' numeric
+@attribute 'में से गुजरता' numeric
+@attribute 'में से तीसरी' numeric
+@attribute 'में से होकर' numeric
+@attribute 'में हो' numeric
+@attribute 'में हो जाती' numeric
+@attribute 'में होता' numeric
+@attribute 'में होता है' numeric
+@attribute 'मेवे के' numeric
+@attribute 'मेवे के रूप' numeric
+@attribute 'मोक्ष या' numeric
+@attribute 'मोक्ष या मुक्ति' numeric
+@attribute 'यंत्र आदि' numeric
+@attribute 'यंत्र आदि का' numeric
+@attribute 'यंत्र कन्डक्टर' numeric
+@attribute 'यंत्र कन्डक्टर जो' numeric
+@attribute 'यंत्र का' numeric
+@attribute 'यंत्र का वह' numeric
+@attribute 'यंत्र के' numeric
+@attribute 'यंत्र के किसी' numeric
+@attribute 'यह शब्द' numeric
+@attribute 'यह शब्द केवल' numeric
+@attribute 'या अग्नि' numeric
+@attribute 'या अग्नि से' numeric
+@attribute 'या अनावृष्टि' numeric
+@attribute 'या अनावृष्टि के' numeric
+@attribute 'या अन्न' numeric
+@attribute 'या अन्न की' numeric
+@attribute 'या अभिघटक' numeric
+@attribute 'या अभिघटक प्लैस्टिसाइज़र' numeric
+@attribute 'या अभिनय' numeric
+@attribute 'या अभिनय के' numeric
+@attribute 'या आदरणीय' numeric
+@attribute 'या आदरणीय स्त्री' numeric
+@attribute 'या आवश्यकता' numeric
+@attribute 'या आवश्यकता से' numeric
+@attribute 'या उचित' numeric
+@attribute 'या उचित समय' numeric
+@attribute 'या उत्तर' numeric
+@attribute 'या उत्तर दिशा' numeric
+@attribute 'या उन्हें' numeric
+@attribute 'या उन्हें करने' numeric
+@attribute 'या कामवासना' numeric
+@attribute 'या कामवासना के' numeric
+@attribute 'या किया' numeric
+@attribute 'या किया जानेवाला' numeric
+@attribute 'या कुल' numeric
+@attribute 'या कुल में' numeric
+@attribute 'या गति' numeric
+@attribute 'या गति देने' numeric
+@attribute 'या चढ़ाने' numeric
+@attribute 'या चढ़ाने के' numeric
+@attribute 'या जलन' numeric
+@attribute 'या जलन के' numeric
+@attribute 'या जो घर' numeric
+@attribute 'या तलाक़' numeric
+@attribute 'या तलाक़ देने' numeric
+@attribute 'या तलाक़शुदा' numeric
+@attribute 'या तलाक़शुदा स्त्री' numeric
+@attribute 'या थोड़े' numeric
+@attribute 'या थोड़े समय' numeric
+@attribute 'या दल' numeric
+@attribute 'या दल आदि' numeric
+@attribute 'या देवी' numeric
+@attribute 'या देवी के' numeric
+@attribute 'या दो' numeric
+@attribute 'या दो से' numeric
+@attribute 'या पेशाब' numeric
+@attribute 'या पेशाब बंद' numeric
+@attribute 'या प्लास्टिक' numeric
+@attribute 'या प्लास्टिक बनाने' numeric
+@attribute 'या बंद' numeric
+@attribute 'या बंद होने' numeric
+@attribute 'या बटन' numeric
+@attribute 'या बटन लगा' numeric
+@attribute 'या बहुपक्षीय' numeric
+@attribute 'या बहुपक्षीय समझौतों' numeric
+@attribute 'या भाप' numeric
+@attribute 'या भाप के' numeric
+@attribute 'या भोजन' numeric
+@attribute 'या भोजन के' numeric
+@attribute 'या मुक्ति' numeric
+@attribute 'या मुक्ति के' numeric
+@attribute 'या मूत्र' numeric
+@attribute 'या मूत्र या' numeric
+@attribute 'या रात' numeric
+@attribute 'या रात के' numeric
+@attribute 'या लकड़ी' numeric
+@attribute 'या लकड़ी का' numeric
+@attribute 'या वह' numeric
+@attribute 'या वह जलमार्ग' numeric
+@attribute 'या वह समय' numeric
+@attribute 'या विधान' numeric
+@attribute 'या विधान जिनका' numeric
+@attribute 'या विपत्ति' numeric
+@attribute 'या विपत्ति का' numeric
+@attribute 'या संक्रमित' numeric
+@attribute 'या संक्रमित अंग' numeric
+@attribute 'या समिति' numeric
+@attribute 'या समिति जिसके' numeric
+@attribute 'या सुख' numeric
+@attribute 'या सुख के' numeric
+@attribute 'या हो' numeric
+@attribute 'या हो सकता' numeric
+@attribute 'या हो सकने' numeric
+@attribute 'या होने' numeric
+@attribute 'या होने वाली' numeric
+@attribute 'यात्रा आदि' numeric
+@attribute 'यात्रा आदि के' numeric
+@attribute 'यानि समय' numeric
+@attribute 'यानि समय पर' numeric
+@attribute 'युद्ध बंद' numeric
+@attribute 'युद्ध बंद करने' numeric
+@attribute 'युद्धरत दोनों' numeric
+@attribute 'युद्धरत दोनों दलों' numeric
+@attribute 'युवा होने' numeric
+@attribute 'युवा होने के' numeric
+@attribute 'योग का' numeric
+@attribute 'योग का परिणाम' numeric
+@attribute 'यौगिक जिसका' numeric
+@attribute 'यौगिक जिसका उपयोग' numeric
+@attribute 'रंग का' numeric
+@attribute 'रंग का एक' numeric
+@attribute 'रंग-बिरंगे फूल' numeric
+@attribute 'रंग-बिरंगे फूल लगते' numeric
+@attribute 'रंगहीन गंधहीन' numeric
+@attribute 'रंगहीन गंधहीन स्वादहीन' numeric
+@attribute 'रखने का' numeric
+@attribute 'रखने का चिकित्सा' numeric
+@attribute 'रस जिसका' numeric
+@attribute 'रस जिसका व्यवहार' numeric
+@attribute 'रसायनशास्त्र के' numeric
+@attribute 'रसायनशास्त्र के अनुसार' numeric
+@attribute 'रहता है' numeric
+@attribute 'रहता है यानि' numeric
+@attribute 'रहने पर' numeric
+@attribute 'रहने पर दिखाई' numeric
+@attribute 'रहने वाला' numeric
+@attribute 'रहने वाला एक' numeric
+@attribute 'राज्य द्वारा' numeric
+@attribute 'राज्य द्वारा नियुक्त' numeric
+@attribute 'राज्य द्वारा स्थिर' numeric
+@attribute 'रात का' numeric
+@attribute 'रात का आरंभ' numeric
+@attribute 'रात के' numeric
+@attribute 'रात के बारह' numeric
+@attribute 'रात के बीच' numeric
+@attribute 'रात बराबर' numeric
+@attribute 'रात बराबर होते' numeric
+@attribute 'राशि में' numeric
+@attribute 'राशि में प्रवेश' numeric
+@attribute 'राशि से' numeric
+@attribute 'राशि से निकलकर' numeric
+@attribute 'रासायनिक रेडियोधर्मी' numeric
+@attribute 'रासायनिक रेडियोधर्मी तत्त्व' numeric
+@attribute 'रूप गुण' numeric
+@attribute 'रूप गुण सान्निध्य' numeric
+@attribute 'रूप जो' numeric
+@attribute 'रूप जो आधे' numeric
+@attribute 'रूप जो उसके' numeric
+@attribute 'रूप जो मोक्ष' numeric
+@attribute 'रूप में' numeric
+@attribute 'रूप में उपयोग' numeric
+@attribute 'रूप में तैयार' numeric
+@attribute 'रूप में था' numeric
+@attribute 'रूप में दूसरा' numeric
+@attribute 'रूप में प्रकट' numeric
+@attribute 'रूप में प्रयुक्त' numeric
+@attribute 'रूप में प्रयोग' numeric
+@attribute 'रूप में भीतर' numeric
+@attribute 'रूप में लिखकर' numeric
+@attribute 'रूप में वह' numeric
+@attribute 'रूप में हो' numeric
+@attribute 'रूप में होता' numeric
+@attribute 'रूपों में' numeric
+@attribute 'रूपों में मिलता' numeric
+@attribute 'रेखा पर' numeric
+@attribute 'रेखा पर पहुँचने' numeric
+@attribute 'रेज़िन या' numeric
+@attribute 'रेज़िन या प्लास्टिक' numeric
+@attribute 'रेडियोधर्मी तत्त्व' numeric
+@attribute 'रेडियोधर्मी तत्त्व जो' numeric
+@attribute 'रेवती नक्षत्र' numeric
+@attribute 'रेवती नक्षत्र में' numeric
+@attribute 'रोग जो' numeric
+@attribute 'रोग जो एक' numeric
+@attribute 'रोग जो विशेषकर' numeric
+@attribute 'रोगी का' numeric
+@attribute 'रोगी का फेफड़ा' numeric
+@attribute 'रोगी को' numeric
+@attribute 'रोगी को जीवित' numeric
+@attribute 'रोगों को' numeric
+@attribute 'रोगों को दूर' numeric
+@attribute 'रोहिणी नक्षत्र' numeric
+@attribute 'रोहिणी नक्षत्र में' numeric
+@attribute 'लंबा समय' numeric
+@attribute 'लकड़ी का' numeric
+@attribute 'लकड़ी का वह' numeric
+@attribute 'लगता है' numeric
+@attribute 'लगते हैं' numeric
+@attribute 'लगते हैं जिसका' numeric
+@attribute 'लगा हुआ' numeric
+@attribute 'लगा हुआ कम' numeric
+@attribute 'लगा होता' numeric
+@attribute 'लगा होता है' numeric
+@attribute 'लगी होती' numeric
+@attribute 'लगी होती है' numeric
+@attribute 'लटका रहता' numeric
+@attribute 'लटका रहता है' numeric
+@attribute 'लट्ठा जिसमें' numeric
+@attribute 'लट्ठा जिसमें पाल' numeric
+@attribute 'लता जिसका' numeric
+@attribute 'लता जिसका उपयोग' numeric
+@attribute 'लम्बे डंठल' numeric
+@attribute 'लम्बे डंठल के' numeric
+@attribute 'लवण जो' numeric
+@attribute 'लवण जो बार्बिट्युरेट' numeric
+@attribute 'लाभ करने' numeric
+@attribute 'लाभ करने के' numeric
+@attribute 'लार्वा तथा' numeric
+@attribute 'लार्वा तथा वयस्क' numeric
+@attribute 'लिए अंजन' numeric
+@attribute 'लिए अंजन के' numeric
+@attribute 'लिए आँखों' numeric
+@attribute 'लिए आँखों के' numeric
+@attribute 'लिए आवश्यक' numeric
+@attribute 'लिए आवश्यक और' numeric
+@attribute 'लिए उपयोग' numeric
+@attribute 'लिए उपयोग होता' numeric
+@attribute 'लिए किया' numeric
+@attribute 'लिए किया जाता' numeric
+@attribute 'लिए की' numeric
+@attribute 'लिए की जाने' numeric
+@attribute 'लिए के' numeric
+@attribute 'लिए के प्रयुक्त' numeric
+@attribute 'लिए चेन' numeric
+@attribute 'लिए चेन या' numeric
+@attribute 'लिए छोटी' numeric
+@attribute 'लिए छोटी नदी' numeric
+@attribute 'लिए ठहर' numeric
+@attribute 'लिए ठहर जाना' numeric
+@attribute 'लिए निर्धारित' numeric
+@attribute 'लिए निर्धारित होता' numeric
+@attribute 'लिए प्रयुक्त' numeric
+@attribute 'लिए प्रयुक्त होता' numeric
+@attribute 'लिए प्रार्थियों' numeric
+@attribute 'लिए प्रार्थियों में' numeric
+@attribute 'लिए बड़ा' numeric
+@attribute 'लिए बड़ा कक्ष' numeric
+@attribute 'लिए बना' numeric
+@attribute 'लिए बना सादे' numeric
+@attribute 'लिए मिलता' numeric
+@attribute 'लिए मिलता है' numeric
+@attribute 'लिए या' numeric
+@attribute 'लिए या अभिघटक' numeric
+@attribute 'लिए या गति' numeric
+@attribute 'लिए युद्ध' numeric
+@attribute 'लिए युद्ध बंद' numeric
+@attribute 'लिए राज्य' numeric
+@attribute 'लिए राज्य द्वारा' numeric
+@attribute 'लिए वाहनों' numeric
+@attribute 'लिए वाहनों का' numeric
+@attribute 'लिए सहमति' numeric
+@attribute 'लिए सहमति होती' numeric
+@attribute 'लिए होता' numeric
+@attribute 'लिए होता है' numeric
+@attribute 'लिए होने' numeric
+@attribute 'लिए होने या' numeric
+@attribute 'लिए होने वाला' numeric
+@attribute 'लिखकर प्रकट' numeric
+@attribute 'लिखकर प्रकट किए' numeric
+@attribute 'लिखने के' numeric
+@attribute 'लिखने के लिए' numeric
+@attribute 'लेकिन तीव्र' numeric
+@attribute 'लेकिन तीव्र अवस्था' numeric
+@attribute 'लेने वाली' numeric
+@attribute 'लेने वाली शासन' numeric
+@attribute 'लोकसेवा संबंधी' numeric
+@attribute 'लोकसेवा संबंधी पदों' numeric
+@attribute 'लोगों को' numeric
+@attribute 'लोगों को अपनी' numeric
+@attribute 'लोगों को सुस्ताने' numeric
+@attribute 'लोहे या' numeric
+@attribute 'लोहे या लकड़ी' numeric
+@attribute 'व निष्क्रीय' numeric
+@attribute 'व निष्क्रीय द्विआणविक' numeric
+@attribute 'वंश या' numeric
+@attribute 'वंश या कुल' numeric
+@attribute 'वक्षस्थल और' numeric
+@attribute 'वक्षस्थल और कमर' numeric
+@attribute 'वनस्पति जिसका' numeric
+@attribute 'वनस्पति जिसका उपयोग' numeric
+@attribute 'वयस्क कीट' numeric
+@attribute 'वयस्क कीट के' numeric
+@attribute 'वस्तुएँ सस्ते' numeric
+@attribute 'वस्तुएँ सस्ते में' numeric
+@attribute 'वह अंश' numeric
+@attribute 'वह अंश जिसका' numeric
+@attribute 'वह अंश जो' numeric
+@attribute 'वह अवकाश' numeric
+@attribute 'वह अवकाश जो' numeric
+@attribute 'वह आयोग' numeric
+@attribute 'वह आयोग या' numeric
+@attribute 'वह घोष' numeric
+@attribute 'वह घोष जो' numeric
+@attribute 'वह जलमार्ग' numeric
+@attribute 'वह जलमार्ग जिसका' numeric
+@attribute 'वह जोड़' numeric
+@attribute 'वह जोड़ जहाँ' numeric
+@attribute 'वह ढाँचा' numeric
+@attribute 'वह ढाँचा जो' numeric
+@attribute 'वह तंत्र' numeric
+@attribute 'वह तंत्र जिसमें' numeric
+@attribute 'वह दाँत' numeric
+@attribute 'वह दाँत जो' numeric
+@attribute 'वह दृश्य' numeric
+@attribute 'वह दृश्य आदि' numeric
+@attribute 'वह नामावली' numeric
+@attribute 'वह नामावली जो' numeric
+@attribute 'वह निश्चित' numeric
+@attribute 'वह निश्चित आकार' numeric
+@attribute 'वह नौका' numeric
+@attribute 'वह नौका जिसका' numeric
+@attribute 'वह पात्र' numeric
+@attribute 'वह पात्र जो' numeric
+@attribute 'वह पुण्य' numeric
+@attribute 'वह पुण्य स्थल' numeric
+@attribute 'वह पुर्जा' numeric
+@attribute 'वह पुर्जा जो' numeric
+@attribute 'वह प्रकार' numeric
+@attribute 'वह प्रकार जो' numeric
+@attribute 'वह प्राकृतिक' numeric
+@attribute 'वह प्राकृतिक विद्युत' numeric
+@attribute 'वह प्रायः' numeric
+@attribute 'वह प्रायः कष्टदायक' numeric
+@attribute 'वह बक्सा' numeric
+@attribute 'वह बक्सा जो' numeric
+@attribute 'वह भाग' numeric
+@attribute 'वह भाग जहाँ' numeric
+@attribute 'वह रूप' numeric
+@attribute 'वह रूप जो' numeric
+@attribute 'वह लट्ठा' numeric
+@attribute 'वह लट्ठा जिसमें' numeric
+@attribute 'वह वनस्पति' numeric
+@attribute 'वह वनस्पति जिसका' numeric
+@attribute 'वह विशेष' numeric
+@attribute 'वह विशेष संबोधनसूचक' numeric
+@attribute 'वह समय' numeric
+@attribute 'वह समय जब' numeric
+@attribute 'वह समय जिसमें' numeric
+@attribute 'वह समूह' numeric
+@attribute 'वह समूह जो' numeric
+@attribute 'वह स्थान' numeric
+@attribute 'वह स्थान जिस' numeric
+@attribute 'वाक् चिंतन' numeric
+@attribute 'वाक् चिंतन के' numeric
+@attribute 'वाणी की' numeric
+@attribute 'वाणी की चार' numeric
+@attribute 'वाला एक' numeric
+@attribute 'वाला एक बड़ा' numeric
+@attribute 'वाला दस्तावेज़' numeric
+@attribute 'वाला दस्तावेज़ जिसमें' numeric
+@attribute 'वाला वह' numeric
+@attribute 'वाला वह अवकाश' numeric
+@attribute 'वाला वह निश्चित' numeric
+@attribute 'वाला विद्युत' numeric
+@attribute 'वाला विद्युत चालक' numeric
+@attribute 'वाली शक्ति' numeric
+@attribute 'वाली शक्ति जिसके' numeric
+@attribute 'वाली शासन' numeric
+@attribute 'वाली शासन प्रणाली' numeric
+@attribute 'वाली संधि' numeric
+@attribute 'वाले धार्मिक' numeric
+@attribute 'वाले धार्मिक कर्म' numeric
+@attribute 'वाहनों का' numeric
+@attribute 'वाहनों का किसी' numeric
+@attribute 'विकास की' numeric
+@attribute 'विकास की अक्रियाशील' numeric
+@attribute 'विचार जो' numeric
+@attribute 'विचार जो किसी' numeric
+@attribute 'विचार से' numeric
+@attribute 'विचार से अतिरिक्त' numeric
+@attribute 'विद्युत चालक' numeric
+@attribute 'विद्युत चालक यंत्र' numeric
+@attribute 'विद्युत धारा' numeric
+@attribute 'विद्युत धारा के' numeric
+@attribute 'विद्युत या' numeric
+@attribute 'विद्युत या अग्नि' numeric
+@attribute 'विधवा या' numeric
+@attribute 'विधवा या तलाक़शुदा' numeric
+@attribute 'विधान जिनका' numeric
+@attribute 'विधान जिनका पालन' numeric
+@attribute 'विनाश या' numeric
+@attribute 'विनाश या बंद' numeric
+@attribute 'विपत्ति का' numeric
+@attribute 'विपत्ति का समय' numeric
+@attribute 'विवरण नियमावली' numeric
+@attribute 'विवरण नियमावली आदि' numeric
+@attribute 'विवरण प्रस्तुत' numeric
+@attribute 'विवरण प्रस्तुत करने' numeric
+@attribute 'विशाखा नक्षत्र' numeric
+@attribute 'विशाखा नक्षत्र में' numeric
+@attribute 'विशेष अभिनयकर्ता' numeric
+@attribute 'विशेष अभिनयकर्ता या' numeric
+@attribute 'विशेष उद्देश्य' numeric
+@attribute 'विशेष उद्देश्य से' numeric
+@attribute 'विशेष कारण' numeric
+@attribute 'विशेष कारण से' numeric
+@attribute 'विशेष प्रकार' numeric
+@attribute 'विशेष प्रकार के' numeric
+@attribute 'विशेष व्यक्ति' numeric
+@attribute 'विशेष व्यक्ति के' numeric
+@attribute 'विशेष संबोधनसूचक' numeric
+@attribute 'विशेष संबोधनसूचक शब्द' numeric
+@attribute 'विशेष सिद्धांत' numeric
+@attribute 'विशेष सिद्धांत पक्ष' numeric
+@attribute 'विशेषकर कल्पना' numeric
+@attribute 'विशेषकर कल्पना के' numeric
+@attribute 'विशेषकर फेफड़ों' numeric
+@attribute 'विशेषकर फेफड़ों में' numeric
+@attribute 'विशेषकर बच्चों' numeric
+@attribute 'विशेषकर बच्चों को' numeric
+@attribute 'विषय पर' numeric
+@attribute 'विषय पर गद्य' numeric
+@attribute 'विषुवत् रेखा' numeric
+@attribute 'विषुवत् रेखा पर' numeric
+@attribute 'विषुवों के' numeric
+@attribute 'विषुवों के बीच' numeric
+@attribute 'विष्णु के' numeric
+@attribute 'विष्णु के चौथे' numeric
+@attribute 'वृक्ष जिसमें' numeric
+@attribute 'वृक्ष जिसमें रंग-बिरंगे' numeric
+@attribute 'वे नियम' numeric
+@attribute 'वे नियम या' numeric
+@attribute 'व्यक्ति की' numeric
+@attribute 'व्यक्ति की आत्मा' numeric
+@attribute 'व्यक्ति के' numeric
+@attribute 'व्यक्ति के लिए' numeric
+@attribute 'व्यक्ति चुनने' numeric
+@attribute 'व्यक्ति चुनने का' numeric
+@attribute 'व्यक्तियों का' numeric
+@attribute 'व्यक्तियों का वह' numeric
+@attribute 'व्यवहार मादक' numeric
+@attribute 'व्यवहार मादक द्रव्य' numeric
+@attribute 'व्यापार से' numeric
+@attribute 'व्यापार से भिन्न' numeric
+@attribute 'शक्ति जिसके' numeric
+@attribute 'शक्ति जिसके प्रभाव' numeric
+@attribute 'शतभिषा नक्षत्र' numeric
+@attribute 'शतभिषा नक्षत्र में' numeric
+@attribute 'शब्द का' numeric
+@attribute 'शब्द का वह' numeric
+@attribute 'शब्द केवल' numeric
+@attribute 'शब्द केवल संयुक्त' numeric
+@attribute 'शब्द जो' numeric
+@attribute 'शब्द जो किसी' numeric
+@attribute 'शरीर के' numeric
+@attribute 'शरीर के अन्य' numeric
+@attribute 'शरीर धीरे-धीरे' numeric
+@attribute 'शरीर धीरे-धीरे कमज़ोर' numeric
+@attribute 'शरीर में' numeric
+@attribute 'शरीर में प्रवेश' numeric
+@attribute 'शरीर सूखने' numeric
+@attribute 'शरीर सूखने लगता' numeric
+@attribute 'शादी नहीं' numeric
+@attribute 'शादी नहीं कर' numeric
+@attribute 'शारीरिक क्रियाओं' numeric
+@attribute 'शारीरिक क्रियाओं को' numeric
+@attribute 'शासन प्रणाली' numeric
+@attribute 'शिला-खण्ड जो' numeric
+@attribute 'शिला-खण्ड जो किसी' numeric
+@attribute 'शिशु होता' numeric
+@attribute 'शिशु होता है' numeric
+@attribute 'शुभ काम' numeric
+@attribute 'शुभ काम किया' numeric
+@attribute 'शैशव और' numeric
+@attribute 'शैशव और युवा' numeric
+@attribute 'श्रवण नक्षत्र' numeric
+@attribute 'श्रवण नक्षत्र में' numeric
+@attribute 'श्वास के' numeric
+@attribute 'श्वास के एक' numeric
+@attribute 'सँभाला जाता' numeric
+@attribute 'सँभाला जाता है' numeric
+@attribute 'संकट या' numeric
+@attribute 'संकट या विपत्ति' numeric
+@attribute 'संक्रमित अंग' numeric
+@attribute 'संक्रमित अंग सड़ता' numeric
+@attribute 'संक्रामक रोग' numeric
+@attribute 'संक्रामक रोग जो' numeric
+@attribute 'संबंधी पदों' numeric
+@attribute 'संबंधी पदों पर' numeric
+@attribute 'संबोधनसूचक शब्द' numeric
+@attribute 'संबोधनसूचक शब्द जो' numeric
+@attribute 'संबोधित करने' numeric
+@attribute 'संबोधित करने के' numeric
+@attribute 'संयुक्त रूप' numeric
+@attribute 'संयुक्त रूप में' numeric
+@attribute 'सकता है' numeric
+@attribute 'सकने वाला' numeric
+@attribute 'सक्रिय होता' numeric
+@attribute 'सक्रिय होता है' numeric
+@attribute 'सड़ता जाता' numeric
+@attribute 'सड़ता जाता है' numeric
+@attribute 'सत्ताईस समूहों' numeric
+@attribute 'सत्ताईस समूहों में' numeric
+@attribute 'सदाबहार पेड़' numeric
+@attribute 'सदाबहार पेड़ के' numeric
+@attribute 'सफ़ेद रंग' numeric
+@attribute 'सफ़ेद रंग का' numeric
+@attribute 'सबके लिए' numeric
+@attribute 'सबके लिए आवश्यक' numeric
+@attribute 'समझौतों का' numeric
+@attribute 'समझौतों का विवरण' numeric
+@attribute 'समय का' numeric
+@attribute 'समय का उलटफेर' numeric
+@attribute 'समय के लिए' numeric
+@attribute 'समय जब' numeric
+@attribute 'समय जब किसी' numeric
+@attribute 'समय जब कोई' numeric
+@attribute 'समय जब चंद्रमा' numeric
+@attribute 'समय जब चन्द्रमा' numeric
+@attribute 'समय जब छाया' numeric
+@attribute 'समय जब तक' numeric
+@attribute 'समय जब दिन' numeric
+@attribute 'समय जब वस्तुएँ' numeric
+@attribute 'समय जब सूर्य' numeric
+@attribute 'समय जिसमें' numeric
+@attribute 'समय जिसमें अतिवृष्टि' numeric
+@attribute 'समय जिसमें विधवा' numeric
+@attribute 'समय जिसमें सूर्य' numeric
+@attribute 'समय तक' numeric
+@attribute 'समय तक का' numeric
+@attribute 'समय तक के' numeric
+@attribute 'समय तापमान' numeric
+@attribute 'समय तापमान आदि' numeric
+@attribute 'समय पर' numeric
+@attribute 'समय पर नहीं' numeric
+@attribute 'समय पर पूरा' numeric
+@attribute 'समय पर होने' numeric
+@attribute 'समय में बहुत' numeric
+@attribute 'समय या रात' numeric
+@attribute 'समय या वह' numeric
+@attribute 'समय लेने' numeric
+@attribute 'समय लेने वाली' numeric
+@attribute 'समय से दूसरे' numeric
+@attribute 'समानान्तर लगा' numeric
+@attribute 'समानान्तर लगा हुआ' numeric
+@attribute 'समिति जिसके' numeric
+@attribute 'समिति जिसके जिम्मे' numeric
+@attribute 'समुद्री कीड़ों' numeric
+@attribute 'समुद्री कीड़ों के' numeric
+@attribute 'समूह जो' numeric
+@attribute 'समूह जो गड्डी' numeric
+@attribute 'समूहों में' numeric
+@attribute 'समूहों में से' numeric
+@attribute 'सलाद आदि' numeric
+@attribute 'सलाद आदि के' numeric
+@attribute 'सवारी उतारने' numeric
+@attribute 'सवारी उतारने या' numeric
+@attribute 'सस्ते में' numeric
+@attribute 'सस्ते में मिलें' numeric
+@attribute 'सहमति देनेवालों' numeric
+@attribute 'सहमति देनेवालों का' numeric
+@attribute 'सहमति होती' numeric
+@attribute 'सहमति होती है' numeric
+@attribute 'सहायक होता' numeric
+@attribute 'सहायक होता है' numeric
+@attribute 'साँस या' numeric
+@attribute 'साँस या भोजन' numeric
+@attribute 'साग के' numeric
+@attribute 'साग के रूप' numeric
+@attribute 'साग सलाद' numeric
+@attribute 'साग सलाद आदि' numeric
+@attribute 'साथ उनको' numeric
+@attribute 'साथ उनको संबोधित' numeric
+@attribute 'साथ मिलकर' numeric
+@attribute 'साथ मिलकर करने' numeric
+@attribute 'साथ शरीर' numeric
+@attribute 'साथ शरीर में' numeric
+@attribute 'सादे कागजों' numeric
+@attribute 'सादे कागजों का' numeric
+@attribute 'साधारण व्यापार' numeric
+@attribute 'साधारण व्यापार से' numeric
+@attribute 'सान्निध्य या' numeric
+@attribute 'सान्निध्य या कामवासना' numeric
+@attribute 'सामग्री आदि' numeric
+@attribute 'सामग्री आदि के' numeric
+@attribute 'सामने रहे' numeric
+@attribute 'सामान्यतः रंगहीन' numeric
+@attribute 'सामान्यतः रंगहीन गंधहीन' numeric
+@attribute 'सारा शरीर' numeric
+@attribute 'सारा शरीर धीरे-धीरे' numeric
+@attribute 'सार्वजनिक स्थानों' numeric
+@attribute 'सार्वजनिक स्थानों आदि' numeric
+@attribute 'साल तक' numeric
+@attribute 'साल तक जीवित' numeric
+@attribute 'सिंचाई यात्रा' numeric
+@attribute 'सिंचाई यात्रा आदि' numeric
+@attribute 'सिंह के' numeric
+@attribute 'सिंह के रूप' numeric
+@attribute 'सिद्धांत पक्ष' numeric
+@attribute 'सिद्धांत पक्ष या' numeric
+@attribute 'सुख के' numeric
+@attribute 'सुख के रूप' numeric
+@attribute 'सुखाया हुआ' numeric
+@attribute 'सुखाया हुआ सुगंधित' numeric
+@attribute 'सुगंधित बीज' numeric
+@attribute 'सुगंधित बीज जो' numeric
+@attribute 'सुगन्धित बीज' numeric
+@attribute 'सुगन्धित बीज जो' numeric
+@attribute 'सुन्दरता बढ़ाने' numeric
+@attribute 'सुन्दरता बढ़ाने और' numeric
+@attribute 'सुस्ताने जलपान' numeric
+@attribute 'सुस्ताने जलपान आदि' numeric
+@attribute 'सूखने लगता' numeric
+@attribute 'सूखने लगता है' numeric
+@attribute 'सूचना विवरण' numeric
+@attribute 'सूचना विवरण नियमावली' numeric
+@attribute 'सूर्य एक' numeric
+@attribute 'सूर्य एक राशि' numeric
+@attribute 'सूर्य कर्करेखा' numeric
+@attribute 'सूर्य कर्करेखा से' numeric
+@attribute 'सूर्य के' numeric
+@attribute 'सूर्य के विषुवत्' numeric
+@attribute 'सूर्य डूबता' numeric
+@attribute 'सूर्य डूबता है' numeric
+@attribute 'सूर्य दक्षिण' numeric
+@attribute 'सूर्य दक्षिण या' numeric
+@attribute 'सूर्य बराबर' numeric
+@attribute 'सूर्य बराबर उत्तर' numeric
+@attribute 'सूर्य मकर' numeric
+@attribute 'सूर्य मकर राशि' numeric
+@attribute 'सूर्य मध्य' numeric
+@attribute 'सूर्य मध्य आकाश' numeric
+@attribute 'सूर्यास्त और' numeric
+@attribute 'सूर्यास्त और सूर्योदय' numeric
+@attribute 'सूर्योदय के' numeric
+@attribute 'सूर्योदय के बीच' numeric
+@attribute 'सृष्टि के' numeric
+@attribute 'सृष्टि के आरंभ' numeric
+@attribute 'सृष्टि के बीच' numeric
+@attribute 'से अतिरिक्त' numeric
+@attribute 'से अतिरिक्त लाभ' numeric
+@attribute 'से अधिक' numeric
+@attribute 'से अधिक पार्टियों' numeric
+@attribute 'से अधिक समय' numeric
+@attribute 'से उत्पन्न' numeric
+@attribute 'से उत्पन्न होने' numeric
+@attribute 'से उपयुक्त' numeric
+@attribute 'से उपयुक्त व्यक्ति' numeric
+@attribute 'से उपेक्षा' numeric
+@attribute 'से उपेक्षा करते' numeric
+@attribute 'से किसी इष्ट' numeric
+@attribute 'से खुला' numeric
+@attribute 'से खुला होता' numeric
+@attribute 'से गति' numeric
+@attribute 'से गति को' numeric
+@attribute 'से गुजरता' numeric
+@attribute 'से गुजरता है' numeric
+@attribute 'से चलकर' numeric
+@attribute 'से चलकर बराबर' numeric
+@attribute 'से चीज़ें' numeric
+@attribute 'से चीज़ें गर्म' numeric
+@attribute 'से तीसरी' numeric
+@attribute 'से तीसरी अवस्था' numeric
+@attribute 'से दिन' numeric
+@attribute 'से दिन और' numeric
+@attribute 'से दूसरे' numeric
+@attribute 'से दूसरे नियत' numeric
+@attribute 'से निकलकर' numeric
+@attribute 'से निकलकर दूसरी' numeric
+@attribute 'से निकाला' numeric
+@attribute 'से निकाला हुआ' numeric
+@attribute 'से पूर्व' numeric
+@attribute 'से पूर्व की' numeric
+@attribute 'से प्राप्त' numeric
+@attribute 'से प्राप्त गोल' numeric
+@attribute 'से प्राप्त फल' numeric
+@attribute 'से प्राप्त सुखाया' numeric
+@attribute 'से प्राप्त सुगन्धित' numeric
+@attribute 'से बड़ा' numeric
+@attribute 'से बड़ा होता' numeric
+@attribute 'से बनाया' numeric
+@attribute 'से बनाया गया' numeric
+@attribute 'से भिन्न खरीद-बिक्री' numeric
+@attribute 'से मनुष्य' numeric
+@attribute 'से मनुष्य दंडित' numeric
+@attribute 'से मिले' numeric
+@attribute 'से मिले या' numeric
+@attribute 'से लटका' numeric
+@attribute 'से लटका रहता' numeric
+@attribute 'से सँभाला' numeric
+@attribute 'से सँभाला जाता' numeric
+@attribute 'से हाथ' numeric
+@attribute 'से हाथ और' numeric
+@attribute 'से होकर' numeric
+@attribute 'से होकर जाने' numeric
+@attribute 'से होता' numeric
+@attribute 'से होता है' numeric
+@attribute 'सोडियम लवण' numeric
+@attribute 'सोडियम लवण जो' numeric
+@attribute 'स्तूप होता' numeric
+@attribute 'स्तूप होता है' numeric
+@attribute 'स्त्रियों का' numeric
+@attribute 'स्त्रियों का मासिक' numeric
+@attribute 'स्त्री और' numeric
+@attribute 'स्त्री और पुरुष' numeric
+@attribute 'स्त्री दूसरी' numeric
+@attribute 'स्त्री दूसरी शादी' numeric
+@attribute 'स्त्री या' numeric
+@attribute 'स्त्री या देवी' numeric
+@attribute 'स्थल जहाँ' numeric
+@attribute 'स्थल जहाँ प्रार्थना' numeric
+@attribute 'स्थान जिस' numeric
+@attribute 'स्थान जिस पर' numeric
+@attribute 'स्थान पर' numeric
+@attribute 'स्थान पर थोड़े' numeric
+@attribute 'स्थानों आदि' numeric
+@attribute 'स्थानों आदि पर' numeric
+@attribute 'स्थिति और' numeric
+@attribute 'स्थिति और योग' numeric
+@attribute 'स्थिर किए' numeric
+@attribute 'स्थिर किए हुए' numeric
+@attribute 'स्थिर तारों' numeric
+@attribute 'स्थिर तारों के' numeric
+@attribute 'स्नेह जो' numeric
+@attribute 'स्नेह जो बहुधा' numeric
+@attribute 'स्वतंत्र हिस्सा' numeric
+@attribute 'स्वतंत्र हिस्सा होता' numeric
+@attribute 'स्वप्न जो' numeric
+@attribute 'स्वप्न जो विशेषकर' numeric
+@attribute 'स्वाति नक्षत्र' numeric
+@attribute 'स्वाति नक्षत्र में' numeric
+@attribute 'स्वादहीन व' numeric
+@attribute 'स्वादहीन व निष्क्रीय' numeric
+@attribute 'हड्डियों का' numeric
+@attribute 'हड्डियों का वह' numeric
+@attribute 'हर एक' numeric
+@attribute 'हर एक दिन' numeric
+@attribute 'हर दिन' numeric
+@attribute 'हर दिन किये' numeric
+@attribute 'हरा डंठल' numeric
+@attribute 'हरा डंठल जिसका' numeric
+@attribute 'हस्ताक्षर भी' numeric
+@attribute 'हस्ताक्षर भी होता' numeric
+@attribute 'हाथ और' numeric
+@attribute 'हाथ और कलाई' numeric
+@attribute 'हाथ के' numeric
+@attribute 'हाथ के घेरे' numeric
+@attribute 'हाथ मुँह' numeric
+@attribute 'हाथ मुँह धोने' numeric
+@attribute 'हिस्सा होता' numeric
+@attribute 'हिस्सा होता है' numeric
+@attribute 'ही कठिनता' numeric
+@attribute 'ही कठिनता से' numeric
+@attribute 'ही भीतर' numeric
+@attribute 'ही भीतर सक्रिय' numeric
+@attribute 'हीरे के' numeric
+@attribute 'हीरे के रूप' numeric
+@attribute 'हुआ एक' numeric
+@attribute 'हुआ एक प्रकार' numeric
+@attribute 'हुआ कम' numeric
+@attribute 'हुआ कम प्रतिरोध' numeric
+@attribute 'हुआ जलमार्ग' numeric
+@attribute 'हुआ जलमार्ग या' numeric
+@attribute 'हुआ नशीला' numeric
+@attribute 'हुआ नशीला रस' numeric
+@attribute 'हुआ वह' numeric
+@attribute 'हुआ वह समय' numeric
+@attribute 'हुआ सुगंधित' numeric
+@attribute 'हुआ सुगंधित बीज' numeric
+@attribute 'हुए कोई' numeric
+@attribute 'हुए कोई कार्य' numeric
+@attribute 'हुए डठलों' numeric
+@attribute 'हुए डठलों से' numeric
+@attribute 'हुए मनुष्य' numeric
+@attribute 'हुए मनुष्य के' numeric
+@attribute 'हुए विचार' numeric
+@attribute 'हुए विचार जो' numeric
+@attribute 'हुए वे' numeric
+@attribute 'हुए वे नियम' numeric
+@attribute 'है एक' numeric
+@attribute 'है एक हीरे' numeric
+@attribute 'है और' numeric
+@attribute 'है और जिनका' numeric
+@attribute 'है और जिस' numeric
+@attribute 'है और जिसमें' numeric
+@attribute 'है और जो' numeric
+@attribute 'है और सारा' numeric
+@attribute 'है तथा' numeric
+@attribute 'है तथा जिसमें' numeric
+@attribute 'है या' numeric
+@attribute 'है या आवश्यकता' numeric
+@attribute 'है या उन्हें' numeric
+@attribute 'है या जो' numeric
+@attribute 'है यानि' numeric
+@attribute 'है यानि समय' numeric
+@attribute 'है विशेषकर' numeric
+@attribute 'है विशेषकर फेफड़ों' numeric
+@attribute 'हैं और' numeric
+@attribute 'हैं और जिसका' numeric
+@attribute 'हैं जिसका' numeric
+@attribute 'हैं जिसका उपयोग' numeric
+@attribute 'हो अथवा' numeric
+@attribute 'हो अथवा खाली' numeric
+@attribute 'हो जाता' numeric
+@attribute 'हो जाता है' numeric
+@attribute 'हो जाती' numeric
+@attribute 'हो जाती हैं' numeric
+@attribute 'हो सकता' numeric
+@attribute 'हो सकता है' numeric
+@attribute 'हो सकने' numeric
+@attribute 'हो सकने वाला' numeric
+@attribute 'होकर जाने' numeric
+@attribute 'होकर जाने देने' numeric
+@attribute 'होकर पिघलने' numeric
+@attribute 'होकर पिघलने या' numeric
+@attribute 'होता या' numeric
+@attribute 'होता या हो' numeric
+@attribute 'होता है' numeric
+@attribute 'होता है और' numeric
+@attribute 'होता है तथा' numeric
+@attribute 'होता है या' numeric
+@attribute 'होता है विशेषकर' numeric
+@attribute 'होती है और' numeric
+@attribute 'होती हैं' numeric
+@attribute 'होते हैं' numeric
+@attribute 'होने का' numeric
+@attribute 'होने का रोग' numeric
+@attribute 'होने का समय' numeric
+@attribute 'होने के' numeric
+@attribute 'होने के बीच' numeric
+@attribute 'होने को' numeric
+@attribute 'होने को होता' numeric
+@attribute 'होने या किया' numeric
+@attribute 'होने या हो' numeric
+@attribute 'होने वाला' numeric
+@attribute 'होने वाला वह' numeric
+@attribute 'होने वाली शक्ति' numeric
+@attribute 'होने वाली संधि' numeric
+@attribute '। इसमें' numeric
+@attribute '। इसमें रोगी' numeric
+
+@data
+
+
+Classifier Model
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 0.74 seconds
+Time taken to test model on training data: 0.19 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         210               92.511  %
+Incorrectly Classified Instances        17                7.489  %
+Kappa statistic                          0.8647
+Mean absolute error                      0.126 
+Root mean squared error                  0.2293
+Relative absolute error                 44.5725 %
+Root relative squared error             61.1841 %
+Total Number of Instances              227     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.724     0          1         0.724     0.84       0.987    past
+                 0.69      0          1         0.69      0.816      0.987    present
+                 1         0.065      0.675     1         0.806      0.993    future
+                 1         0.047      0.973     1         0.986      1        neutral
+Weighted Avg.    0.925     0.037      0.944     0.925     0.924      0.996
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+  21   0   5   3 |   a = past
+   0  20   8   1 |   b = present
+   0   0  27   0 |   c = future
+   0   0   0 142 |   d = neutral
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         200               88.1057 %
+Incorrectly Classified Instances        27               11.8943 %
+Kappa statistic                          0.7752
+Mean absolute error                      0.148 
+Root mean squared error                  0.2505
+Relative absolute error                 52.325  %
+Root relative squared error             66.8213 %
+Total Number of Instances              227     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.621     0.01       0.9       0.621     0.735      0.923    past
+                 0.655     0.005      0.95      0.655     0.776      0.955    present
+                 0.778     0.045      0.7       0.778     0.737      0.947    future
+                 1         0.176      0.904     1         0.95       0.996    neutral
+Weighted Avg.    0.881     0.118      0.885     0.881     0.875      0.976
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+  18   0   5   6 |   a = past
+   1  19   4   5 |   b = present
+   1   1  21   4 |   c = future
+   0   0   0 142 |   d = neutral
+

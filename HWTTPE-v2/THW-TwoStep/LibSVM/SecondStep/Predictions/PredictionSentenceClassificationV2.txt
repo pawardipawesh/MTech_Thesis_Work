@@ -1,0 +1,946 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1   3:future   3:future       0.334 
+     2   3:future  4:neutral   +   0.41 
+     3  2:present  4:neutral   +   0.41 
+     4   3:future  4:neutral   +   0.41 
+     5  2:present  2:present       0.384 
+     6     1:past   3:future   +   0.402 
+     7     1:past     1:past       0.332 
+     8  2:present  2:present       0.331 
+     9     1:past     1:past       0.332 
+    10     1:past     1:past       0.332 
+    11   3:future   3:future       0.408 
+    12     1:past  4:neutral   +   0.41 
+    13  2:present  2:present       0.408 
+    14   3:future   3:future       0.391 
+    15  2:present  2:present       0.408 
+    16  2:present  2:present       0.408 
+    17     1:past   3:future   +   0.335 
+    18     1:past     1:past       0.332 
+    19     1:past   3:future   +   0.371 
+    20   3:future  4:neutral   +   0.41 
+    21     1:past  4:neutral   +   0.41 
+    22  2:present  2:present       0.408 
+    23     1:past     1:past       0.332 
+    24  2:present  2:present       0.393 
+    25  2:present  2:present       0.408 
+    26     1:past     1:past       0.332 
+    27  2:present  4:neutral   +   0.41 
+    28  2:present  2:present       0.408 
+    29   3:future  2:present   +   0.383 
+    30  2:present   3:future   +   0.338 
+    31     1:past     1:past       0.424 
+    32   3:future     1:past   +   0.365 
+    33  2:present   3:future   +   0.346 
+    34   3:future  4:neutral   +   0.41 
+    35  2:present  2:present       0.408 
+    36     1:past   3:future   +   0.339 
+    37     1:past     1:past       0.332 
+    38  2:present  4:neutral   +   0.41 
+    39  2:present  4:neutral   +   0.41 
+    40     1:past  2:present   +   0.408 
+    41     1:past  4:neutral   +   0.41 
+    42  2:present   3:future   +   0.408 
+    43     1:past     1:past       0.379 
+    44     1:past  4:neutral   +   0.41 
+    45     1:past  4:neutral   +   0.41 
+    46  2:present   3:future   +   0.346 
+    47     1:past  4:neutral   +   0.41 
+    48   3:future  2:present   +   0.42 
+    49  2:present  4:neutral   +   0.41 
+    50  2:present   3:future   +   0.34 
+    51  2:present   3:future   +   0.34 
+    52  2:present  2:present       0.408 
+    53  2:present  2:present       0.408 
+    54  2:present  2:present       0.408 
+    55     1:past     1:past       0.332 
+    56   3:future  2:present   +   0.335 
+    57  2:present  4:neutral   +   0.41 
+    58     1:past     1:past       0.332 
+    59  2:present  2:present       0.408 
+    60  2:present  4:neutral   +   0.41 
+    61  2:present  4:neutral   +   0.41 
+    62   3:future  4:neutral   +   0.41 
+    63  2:present  4:neutral   +   0.41 
+    64  2:present  2:present       0.408 
+    65  2:present  2:present       0.357 
+    66     1:past  4:neutral   +   0.41 
+    67  2:present  2:present       0.384 
+    68  2:present  2:present       0.408 
+    69  2:present  2:present       0.384 
+    70     1:past  4:neutral   +   0.41 
+    71     1:past  4:neutral   +   0.41 
+    72     1:past  4:neutral   +   0.41 
+    73  2:present   3:future   +   0.337 
+    74  2:present  4:neutral   +   0.41 
+    75     1:past     1:past       0.423 
+    76   3:future   3:future       0.379 
+    77  2:present  2:present       0.408 
+    78  2:present  2:present       0.364 
+    79  2:present  2:present       0.366 
+    80  2:present  2:present       0.355 
+    81  2:present  2:present       0.346 
+    82  2:present  2:present       0.345 
+    83     1:past     1:past       0.361 
+    84  2:present  2:present       0.408 
+    85  2:present  2:present       0.376 
+    86   3:future   3:future       0.408 
+    87     1:past     1:past       0.332 
+    88     1:past   3:future   +   0.334 
+    89  2:present   3:future   +   0.334 
+    90     1:past  2:present   +   0.408 
+    91  2:present  2:present       0.343 
+    92   3:future   3:future       0.334 
+    93  2:present  2:present       0.408 
+    94     1:past  2:present   +   0.334 
+    95  2:present  2:present       0.339 
+    96     1:past     1:past       0.332 
+    97  2:present  2:present       0.408 
+    98   3:future  2:present   +   0.348 
+    99     1:past     1:past       0.332 
+   100     1:past  4:neutral   +   0.41 
+   101  2:present  2:present       0.408 
+   102  2:present  2:present       0.408 
+   103  2:present  2:present       0.336 
+   104  2:present  2:present       0.408 
+   105   3:future  2:present   +   0.384 
+   106  2:present  2:present       0.355 
+   107     1:past  2:present   +   0.376 
+   108  2:present  2:present       0.332 
+   109     1:past  4:neutral   +   0.41 
+   110  2:present  2:present       0.384 
+   111     1:past  2:present   +   0.352 
+   112  2:present  2:present       0.408 
+   113   3:future  4:neutral   +   0.41 
+   114  2:present  2:present       0.341 
+   115  2:present  4:neutral   +   0.41 
+   116   3:future  4:neutral   +   0.41 
+   117  2:present  2:present       0.408 
+   118  2:present  2:present       0.408 
+   119   3:future  4:neutral   +   0.41 
+   120   3:future     1:past   +   0.332 
+   121  2:present  4:neutral   +   0.41 
+   122  2:present  2:present       0.336 
+   123     1:past  4:neutral   +   0.41 
+   124     1:past  2:present   +   0.355 
+   125  2:present  2:present       0.408 
+   126  2:present  2:present       0.333 
+   127  2:present  2:present       0.408 
+   128     1:past     1:past       0.332 
+   129   3:future   3:future       0.334 
+   130  2:present  4:neutral   +   0.41 
+   131   3:future   3:future       0.334 
+   132   3:future  4:neutral   +   0.41 
+   133  2:present  2:present       0.408 
+   134  2:present  2:present       0.408 
+   135  2:present  2:present       0.35 
+   136  2:present   3:future   +   0.34 
+   137  2:present     1:past   +   0.332 
+   138  2:present   3:future   +   0.346 
+   139  2:present   3:future   +   0.346 
+   140   3:future  4:neutral   +   0.41 
+   141  2:present  2:present       0.408 
+   142     1:past  4:neutral   +   0.41 
+   143  2:present  2:present       0.348 
+   144  2:present  2:present       0.392 
+   145  2:present  2:present       0.408 
+   146     1:past     1:past       0.332 
+   147  2:present  2:present       0.408 
+   148  2:present  4:neutral   +   0.41 
+   149     1:past  4:neutral   +   0.41 
+   150  2:present   3:future   +   0.34 
+   151  2:present  2:present       0.384 
+   152   3:future  4:neutral   +   0.41 
+   153     1:past     1:past       0.332 
+   154   3:future  2:present   +   0.335 
+   155  2:present  2:present       0.408 
+   156  2:present  2:present       0.384 
+   157     1:past  2:present   +   0.334 
+   158     1:past     1:past       0.332 
+   159  2:present  2:present       0.408 
+   160  2:present  2:present       0.384 
+   161  2:present  2:present       0.408 
+   162   3:future  4:neutral   +   0.41 
+   163   3:future  4:neutral   +   0.41 
+   164  2:present  2:present       0.376 
+   165  2:present  2:present       0.408 
+   166  2:present  2:present       0.384 
+   167  2:present  2:present       0.384 
+   168     1:past   3:future   +   0.339 
+   169  2:present  2:present       0.408 
+   170     1:past  4:neutral   +   0.41 
+   171     1:past     1:past       0.332 
+   172  2:present  4:neutral   +   0.41 
+   173  2:present  4:neutral   +   0.41 
+   174  2:present  2:present       0.408 
+   175  2:present  2:present       0.384 
+   176   3:future  4:neutral   +   0.41 
+   177  2:present  2:present       0.408 
+   178   3:future     1:past   +   0.423 
+   179  2:present  2:present       0.408 
+   180   3:future   3:future       0.391 
+   181  2:present  4:neutral   +   0.41 
+   182  2:present  2:present       0.394 
+   183   3:future   3:future       0.334 
+   184     1:past     1:past       0.332 
+   185     1:past     1:past       0.332 
+   186  2:present  4:neutral   +   0.41 
+   187  2:present   3:future   +   0.336 
+   188  2:present  4:neutral   +   0.41 
+   189  2:present  4:neutral   +   0.41 
+   190  2:present  4:neutral   +   0.41 
+   191   3:future  4:neutral   +   0.41 
+   192  2:present  2:present       0.408 
+   193  2:present  2:present       0.408 
+   194     1:past     1:past       0.332 
+   195     1:past  4:neutral   +   0.41 
+   196  2:present  4:neutral   +   0.41 
+   197  2:present     1:past   +   0.365 
+   198  2:present   3:future   +   0.399 
+   199  2:present  4:neutral   +   0.41 
+   200  2:present  4:neutral   +   0.41 
+   201  2:present  4:neutral   +   0.41 
+   202     1:past  4:neutral   +   0.41 
+   203  2:present  4:neutral   +   0.41 
+   204  2:present  4:neutral   +   0.41 
+   205  2:present  2:present       0.341 
+   206  2:present     1:past   +   0.323 
+   207   3:future     1:past   +   0.424 
+   208  2:present  4:neutral   +   0.41 
+   209  2:present  2:present       0.408 
+   210  2:present     1:past   +   0.332 
+   211     1:past  4:neutral   +   0.41 
+   212  2:present  2:present       0.387 
+   213     1:past     1:past       0.332 
+   214  2:present  2:present       0.384 
+   215  2:present  2:present       0.408 
+   216   3:future   3:future       0.334 
+   217  2:present  2:present       0.408 
+   218  2:present  4:neutral   +   0.41 
+   219   3:future  2:present   +   0.383 
+   220   3:future   3:future       0.334 
+   221  2:present  4:neutral   +   0.41 
+   222     1:past  4:neutral   +   0.41 
+   223  2:present  2:present       0.408 
+   224  2:present  4:neutral   +   0.41 
+   225     1:past  4:neutral   +   0.41 
+   226     1:past  4:neutral   +   0.41 
+   227     1:past     1:past       0.332 
+   228     1:past  2:present   +   0.334 
+   229     1:past  2:present   +   0.337 
+   230     1:past  4:neutral   +   0.41 
+   231   3:future  4:neutral   +   0.41 
+   232     1:past     1:past       0.365 
+   233  2:present  2:present       0.355 
+   234   3:future  2:present   +   0.338 
+   235  2:present  2:present       0.361 
+   236  2:present  2:present       0.408 
+   237     1:past  4:neutral   +   0.41 
+   238     1:past     1:past       0.332 
+   239  2:present  2:present       0.408 
+   240     1:past  4:neutral   +   0.41 
+   241     1:past  4:neutral   +   0.41 
+   242     1:past     1:past       0.338 
+   243     1:past     1:past       0.332 
+   244  2:present   3:future   +   0.345 
+   245  2:present  2:present       0.408 
+   246  2:present  4:neutral   +   0.41 
+   247   3:future  2:present   +   0.408 
+   248     1:past  4:neutral   +   0.41 
+   249  2:present  2:present       0.408 
+   250  2:present  2:present       0.384 
+   251   3:future  4:neutral   +   0.41 
+   252  2:present  2:present       0.408 
+   253  2:present  4:neutral   +   0.41 
+   254  2:present   3:future   +   0.346 
+   255   3:future  4:neutral   +   0.41 
+   256   3:future   3:future       0.334 
+   257  2:present  4:neutral   +   0.41 
+   258   3:future   3:future       0.384 
+   259  2:present   3:future   +   0.337 
+   260  2:present  2:present       0.408 
+   261   3:future   3:future       0.334 
+   262   3:future  4:neutral   +   0.41 
+   263  2:present  4:neutral   +   0.41 
+   264  2:present  2:present       0.341 
+   265  2:present  2:present       0.408 
+   266  2:present   3:future   +   0.329 
+   267  2:present  2:present       0.408 
+   268  2:present  2:present       0.37 
+   269     1:past  4:neutral   +   0.41 
+   270  2:present  4:neutral   +   0.41 
+   271  2:present  4:neutral   +   0.41 
+   272  2:present  2:present       0.355 
+   273  2:present  2:present       0.408 
+   274     1:past     1:past       0.332 
+   275  2:present  2:present       0.408 
+   276  2:present  2:present       0.435 
+   277     1:past     1:past       0.332 
+   278  2:present  2:present       0.339 
+   279     1:past  2:present   +   0.337 
+   280  2:present   3:future   +   0.346 
+   281  2:present   3:future   +   0.334 
+   282  2:present  2:present       0.408 
+   283  2:present  2:present       0.347 
+   284     1:past     1:past       0.332 
+   285  2:present  4:neutral   +   0.41 
+   286  2:present  4:neutral   +   0.41 
+   287  2:present  2:present       0.408 
+   288  2:present  2:present       0.357 
+   289  2:present  2:present       0.408 
+   290     1:past  4:neutral   +   0.41 
+   291  2:present  2:present       0.408 
+   292     1:past  4:neutral   +   0.41 
+   293  2:present  2:present       0.408 
+   294     1:past  4:neutral   +   0.41 
+   295     1:past     1:past       0.332 
+   296  2:present  2:present       0.408 
+   297     1:past  4:neutral   +   0.41 
+   298     1:past     1:past       0.332 
+   299  2:present   3:future   +   0.384 
+   300  2:present  2:present       0.408 
+   301  2:present  2:present       0.357 
+   302  2:present  4:neutral   +   0.41 
+   303  2:present  4:neutral   +   0.41 
+   304  2:present   3:future   +   0.339 
+   305     1:past  4:neutral   +   0.41 
+   306     1:past     1:past       0.332 
+   307     1:past   3:future   +   0.402 
+   308  2:present  2:present       0.408 
+   309  2:present  2:present       0.408 
+   310  2:present  2:present       0.408 
+   311  2:present  2:present       0.38 
+   312  2:present  2:present       0.408 
+   313  2:present  4:neutral   +   0.41 
+   314  2:present  2:present       0.382 
+   315  2:present  2:present       0.335 
+   316  2:present  2:present       0.408 
+   317     1:past  2:present   +   0.337 
+   318  2:present  4:neutral   +   0.41 
+   319  2:present  2:present       0.376 
+   320  2:present  4:neutral   +   0.41 
+   321     1:past     1:past       0.367 
+   322     1:past     1:past       0.332 
+   323     1:past     1:past       0.332 
+   324  2:present  4:neutral   +   0.41 
+   325  2:present  4:neutral   +   0.41 
+   326   3:future     1:past   +   0.372 
+   327  2:present  2:present       0.408 
+   328  2:present  2:present       0.364 
+   329   3:future  4:neutral   +   0.41 
+   330     1:past     1:past       0.332 
+   331   3:future   3:future       0.408 
+   332   3:future  4:neutral   +   0.41 
+   333  2:present  2:present       0.408 
+   334  2:present  2:present       0.376 
+   335  2:present  2:present       0.408 
+   336     1:past  4:neutral   +   0.41 
+   337  2:present  2:present       0.408 
+   338  2:present  2:present       0.408 
+   339  2:present  2:present       0.408 
+   340  2:present  2:present       0.408 
+   341  2:present  4:neutral   +   0.41 
+   342  2:present  2:present       0.384 
+   343  2:present  2:present       0.37 
+   344  2:present  2:present       0.408 
+   345  2:present  2:present       0.384 
+   346  2:present  2:present       0.408 
+   347  2:present  2:present       0.408 
+   348  2:present  2:present       0.346 
+   349   3:future  4:neutral   +   0.41 
+   350   3:future  4:neutral   +   0.41 
+   351     1:past     1:past       0.332 
+   352  2:present  2:present       0.408 
+   353  2:present  4:neutral   +   0.41 
+   354   3:future   3:future       0.334 
+   355  2:present  2:present       0.408 
+   356     1:past     1:past       0.332 
+   357  2:present  2:present       0.334 
+   358  2:present  4:neutral   +   0.41 
+   359   3:future   3:future       0.334 
+   360   3:future   3:future       0.312 
+   361  2:present  4:neutral   +   0.41 
+   362     1:past   3:future   +   0.339 
+   363  2:present  2:present       0.373 
+   364     1:past     1:past       0.332 
+   365  2:present  4:neutral   +   0.41 
+   366   3:future  4:neutral   +   0.41 
+   367  2:present  2:present       0.408 
+   368  2:present  2:present       0.344 
+   369  2:present  2:present       0.408 
+   370  2:present  2:present       0.408 
+   371     1:past   3:future   +   0.408 
+   372  2:present  2:present       0.408 
+   373  2:present  4:neutral   +   0.41 
+   374  2:present  2:present       0.337 
+   375   3:future  4:neutral   +   0.41 
+   376     1:past  4:neutral   +   0.41 
+   377  2:present  4:neutral   +   0.41 
+   378  2:present  2:present       0.37 
+   379  2:present  2:present       0.384 
+   380   3:future     1:past   +   0.323 
+   381     1:past     1:past       0.404 
+   382  2:present  2:present       0.408 
+   383  2:present  2:present       0.408 
+   384   3:future   3:future       0.334 
+   385     1:past  4:neutral   +   0.41 
+   386     1:past  2:present   +   0.334 
+   387  2:present  2:present       0.408 
+   388   3:future   3:future       0.334 
+   389   3:future   3:future       0.334 
+   390     1:past     1:past       0.326 
+   391  2:present  4:neutral   +   0.41 
+   392   3:future  4:neutral   +   0.41 
+   393   3:future  4:neutral   +   0.41 
+   394  2:present  4:neutral   +   0.41 
+   395  2:present  4:neutral   +   0.41 
+   396     1:past  4:neutral   +   0.41 
+   397  2:present  2:present       0.359 
+   398  2:present  2:present       0.408 
+   399  2:present  2:present       0.36 
+   400     1:past   3:future   +   0.408 
+   401  2:present   3:future   +   0.364 
+   402   3:future     1:past   +   0.326 
+   403   3:future   3:future       0.395 
+   404   3:future     1:past   +   0.332 
+   405  2:present  2:present       0.408 
+   406  2:present  2:present       0.408 
+   407   3:future  4:neutral   +   0.41 
+   408  2:present  2:present       0.332 
+   409  2:present  2:present       0.408 
+   410     1:past   3:future   +   0.328 
+   411  2:present  4:neutral   +   0.41 
+   412  2:present  2:present       0.333 
+   413  2:present  2:present       0.408 
+   414     1:past  2:present   +   0.355 
+   415  2:present  2:present       0.384 
+   416   3:future  4:neutral   +   0.41 
+   417  2:present  2:present       0.408 
+   418     1:past     1:past       0.332 
+   419     1:past     1:past       0.332 
+   420  2:present  2:present       0.408 
+   421  2:present  2:present       0.408 
+   422     1:past  2:present   +   0.337 
+   423     1:past     1:past       0.332 
+   424  2:present  2:present       0.384 
+   425  2:present  4:neutral   +   0.41 
+   426  2:present  2:present       0.344 
+   427     1:past  4:neutral   +   0.41 
+   428   3:future   3:future       0.334 
+   429     1:past   3:future   +   0.374 
+   430     1:past  2:present   +   0.353 
+   431     1:past  4:neutral   +   0.41 
+   432  2:present  4:neutral   +   0.41 
+   433  2:present  4:neutral   +   0.41 
+   434   3:future  2:present   +   0.408 
+   435  2:present  2:present       0.408 
+   436  2:present  2:present       0.408 
+   437  2:present  2:present       0.408 
+   438     1:past     1:past       0.332 
+   439  2:present  2:present       0.408 
+   440     1:past     1:past       0.351 
+   441  2:present  2:present       0.408 
+   442  2:present   3:future   +   0.342 
+   443     1:past     1:past       0.332 
+   444  2:present  2:present       0.435 
+   445   3:future  4:neutral   +   0.41 
+   446     1:past  4:neutral   +   0.41 
+   447  2:present  2:present       0.408 
+   448     1:past  4:neutral   +   0.41 
+   449     1:past     1:past       0.337 
+   450     1:past  4:neutral   +   0.41 
+   451     1:past   3:future   +   0.354 
+   452  2:present  2:present       0.408 
+   453  2:present  2:present       0.408 
+   454     1:past  4:neutral   +   0.41 
+   455     1:past     1:past       0.376 
+   456   3:future   3:future       0.334 
+   457     1:past   3:future   +   0.402 
+   458     1:past     1:past       0.332 
+   459  2:present  4:neutral   +   0.41 
+   460  2:present  4:neutral   +   0.41 
+   461     1:past  4:neutral   +   0.41 
+   462     1:past   3:future   +   0.339 
+   463  2:present  2:present       0.408 
+   464  2:present  2:present       0.408 
+   465     1:past  4:neutral   +   0.41 
+   466  2:present  2:present       0.408 
+   467  2:present  2:present       0.408 
+   468  2:present  2:present       0.341 
+   469  2:present  2:present       0.408 
+   470  2:present  2:present       0.408 
+   471  2:present  2:present       0.341 
+   472  2:present  2:present       0.408 
+   473  2:present  2:present       0.408 
+   474  2:present  2:present       0.408 
+   475  2:present  4:neutral   +   0.41 
+   476     1:past   3:future   +   0.402 
+   477  2:present   3:future   +   0.347 
+   478  2:present   3:future   +   0.334 
+   479  2:present  2:present       0.408 
+   480  2:present  2:present       0.408 
+   481  2:present  2:present       0.408 
+   482  2:present  2:present       0.408 
+   483  2:present  2:present       0.384 
+   484  2:present  2:present       0.408 
+   485  2:present  2:present       0.408 
+   486     1:past     1:past       0.332 
+   487     1:past  4:neutral   +   0.41 
+   488  2:present  4:neutral   +   0.41 
+   489  2:present  2:present       0.377 
+   490     1:past     1:past       0.335 
+   491  2:present  2:present       0.367 
+   492  2:present  4:neutral   +   0.41 
+   493   3:future   3:future       0.334 
+   494  2:present  2:present       0.408 
+   495  2:present  2:present       0.333 
+   496  2:present  2:present       0.384 
+   497  2:present  2:present       0.408 
+   498  2:present  2:present       0.333 
+   499     1:past  2:present   +   0.334 
+   500  2:present  2:present       0.408 
+   501  2:present  2:present       0.408 
+   502     1:past  4:neutral   +   0.41 
+   503     1:past  4:neutral   +   0.41 
+   504  2:present  2:present       0.384 
+   505     1:past  4:neutral   +   0.41 
+   506  2:present  2:present       0.353 
+   507     1:past     1:past       0.332 
+   508     1:past  2:present   +   0.383 
+   509  2:present  2:present       0.384 
+   510     1:past  4:neutral   +   0.41 
+   511  2:present  4:neutral   +   0.41 
+   512     1:past  4:neutral   +   0.41 
+   513  2:present  2:present       0.341 
+   514  2:present  2:present       0.384 
+   515  2:present  2:present       0.408 
+   516  2:present  2:present       0.408 
+   517  2:present  4:neutral   +   0.41 
+   518     1:past  4:neutral   +   0.41 
+   519  2:present  2:present       0.384 
+   520  2:present  2:present       0.408 
+   521     1:past     1:past       0.359 
+   522     1:past  2:present   +   0.353 
+   523  2:present  4:neutral   +   0.41 
+   524  2:present  2:present       0.408 
+   525  2:present  2:present       0.408 
+   526   3:future   3:future       0.408 
+   527  2:present  4:neutral   +   0.41 
+   528  2:present  2:present       0.384 
+   529  2:present   3:future   +   0.382 
+   530  2:present  2:present       0.355 
+   531  2:present  2:present       0.408 
+   532  2:present  2:present       0.342 
+   533   3:future   3:future       0.335 
+   534  2:present  2:present       0.408 
+   535  2:present  2:present       0.408 
+   536  2:present  2:present       0.408 
+   537  2:present  4:neutral   +   0.41 
+   538  2:present  2:present       0.408 
+   539  2:present  2:present       0.408 
+   540  2:present  2:present       0.408 
+   541     1:past     1:past       0.332 
+   542   3:future   3:future       0.393 
+   543  2:present  2:present       0.376 
+   544     1:past  2:present   +   0.351 
+   545     1:past     1:past       0.332 
+   546  2:present  2:present       0.408 
+   547     1:past  4:neutral   +   0.41 
+   548     1:past  4:neutral   +   0.41 
+   549  2:present  2:present       0.339 
+   550  2:present  2:present       0.435 
+   551  2:present  2:present       0.408 
+   552  2:present  2:present       0.381 
+   553  2:present  2:present       0.408 
+   554  2:present  2:present       0.408 
+   555  2:present  2:present       0.394 
+   556     1:past   3:future   +   0.39 
+   557     1:past   3:future   +   0.39 
+   558  2:present  2:present       0.376 
+   559     1:past  4:neutral   +   0.41 
+   560  2:present  2:present       0.408 
+   561  2:present  4:neutral   +   0.41 
+   562     1:past  4:neutral   +   0.41 
+   563  2:present  2:present       0.384 
+   564  2:present  2:present       0.408 
+   565  2:present  2:present       0.408 
+   566  2:present  2:present       0.408 
+   567  2:present  4:neutral   +   0.41 
+   568  2:present  2:present       0.408 
+   569  2:present  2:present       0.408 
+   570  2:present  2:present       0.408 
+   571  2:present  2:present       0.408 
+   572  2:present  2:present       0.408 
+   573  2:present  2:present       0.408 
+   574   3:future  4:neutral   +   0.41 
+   575   3:future  2:present   +   0.384 
+   576     1:past  4:neutral   +   0.41 
+   577   3:future  2:present   +   0.355 
+   578     1:past  4:neutral   +   0.41 
+   579  2:present  2:present       0.408 
+   580  2:present  2:present       0.408 
+   581     1:past     1:past       0.332 
+   582   3:future  4:neutral   +   0.41 
+   583   3:future  4:neutral   +   0.41 
+   584  2:present   3:future   +   0.338 
+   585  2:present  2:present       0.408 
+   586  2:present  2:present       0.408 
+   587  2:present  2:present       0.408 
+   588     1:past  4:neutral   +   0.41 
+   589  2:present   3:future   +   0.339 
+   590  2:present  4:neutral   +   0.41 
+   591  2:present   3:future   +   0.365 
+   592     1:past  4:neutral   +   0.41 
+   593   3:future   3:future       0.334 
+   594  2:present  2:present       0.408 
+   595  2:present  2:present       0.369 
+   596  2:present  2:present       0.408 
+   597  2:present  2:present       0.408 
+   598  2:present  2:present       0.408 
+   599  2:present  2:present       0.408 
+   600  2:present  2:present       0.367 
+   601  2:present  2:present       0.408 
+   602  2:present  2:present       0.341 
+   603  2:present  2:present       0.382 
+   604     1:past     1:past       0.332 
+   605  2:present  2:present       0.408 
+   606     1:past     1:past       0.332 
+   607  2:present  2:present       0.408 
+   608     1:past  4:neutral   +   0.41 
+   609     1:past     1:past       0.335 
+   610  2:present  2:present       0.408 
+   611  2:present  2:present       0.338 
+   612  2:present  2:present       0.379 
+   613  2:present  2:present       0.36 
+   614  2:present  4:neutral   +   0.41 
+   615  2:present  2:present       0.351 
+   616  2:present  4:neutral   +   0.41 
+   617     1:past     1:past       0.332 
+   618     1:past     1:past       0.365 
+   619   3:future   3:future       0.391 
+   620     1:past     1:past       0.332 
+   621     1:past  2:present   +   0.353 
+   622  2:present  2:present       0.371 
+   623  2:present  2:present       0.408 
+   624  2:present  2:present       0.408 
+   625  2:present  2:present       0.408 
+   626  2:present  2:present       0.376 
+   627  2:present  2:present       0.408 
+   628  2:present  2:present       0.408 
+   629   3:future  4:neutral   +   0.41 
+   630  2:present  2:present       0.334 
+   631   3:future     1:past   +   0.368 
+   632   3:future  4:neutral   +   0.41 
+   633  2:present  2:present       0.384 
+   634   3:future   3:future       0.408 
+   635  2:present   3:future   +   0.329 
+   636  2:present  2:present       0.408 
+   637  2:present  4:neutral   +   0.41 
+   638     1:past     1:past       0.332 
+   639  2:present  2:present       0.408 
+   640  2:present  2:present       0.341 
+   641  2:present  2:present       0.408 
+   642     1:past     1:past       0.332 
+   643  2:present  2:present       0.384 
+   644  2:present   3:future   +   0.408 
+   645     1:past     1:past       0.332 
+   646     1:past     1:past       0.332 
+   647     1:past   3:future   +   0.339 
+   648  2:present  4:neutral   +   0.41 
+   649     1:past     1:past       0.332 
+   650  2:present  2:present       0.408 
+   651     1:past     1:past       0.332 
+   652   3:future  2:present   +   0.348 
+   653     1:past  4:neutral   +   0.41 
+   654  2:present  2:present       0.408 
+   655  2:present  4:neutral   +   0.41 
+   656   3:future  4:neutral   +   0.41 
+   657     1:past  2:present   +   0.408 
+   658     1:past  4:neutral   +   0.41 
+   659  2:present  2:present       0.408 
+   660     1:past   3:future   +   0.338 
+   661     1:past  4:neutral   +   0.41 
+   662  2:present  2:present       0.408 
+   663   3:future  2:present   +   0.387 
+   664  2:present   3:future   +   0.337 
+   665  2:present  2:present       0.408 
+   666  2:present  4:neutral   +   0.41 
+   667  2:present  4:neutral   +   0.41 
+   668  2:present  2:present       0.408 
+   669  2:present  2:present       0.355 
+   670   3:future   3:future       0.347 
+   671     1:past     1:past       0.359 
+   672     1:past     1:past       0.338 
+   673     1:past  4:neutral   +   0.41 
+   674     1:past  2:present   +   0.353 
+   675  2:present  2:present       0.408 
+   676     1:past     1:past       0.332 
+   677  2:present  2:present       0.384 
+   678     1:past  4:neutral   +   0.41 
+   679  2:present  2:present       0.408 
+   680     1:past   3:future   +   0.407 
+   681     1:past  2:present   +   0.364 
+   682  2:present  2:present       0.34 
+   683     1:past  4:neutral   +   0.41 
+   684  2:present  2:present       0.382 
+   685  2:present  2:present       0.338 
+   686   3:future   3:future       0.399 
+   687  2:present  4:neutral   +   0.41 
+   688  2:present  2:present       0.408 
+   689     1:past  2:present   +   0.337 
+   690  2:present  2:present       0.408 
+   691  2:present  2:present       0.353 
+   692  2:present  2:present       0.408 
+   693  2:present  2:present       0.408 
+   694  2:present  2:present       0.408 
+   695     1:past   3:future   +   0.408 
+   696     1:past     1:past       0.332 
+   697  2:present  2:present       0.363 
+   698     1:past   3:future   +   0.408 
+   699     1:past  4:neutral   +   0.41 
+   700     1:past     1:past       0.332 
+   701     1:past   3:future   +   0.408 
+   702     1:past     1:past       0.323 
+   703  2:present  2:present       0.384 
+   704  2:present  2:present       0.408 
+   705  2:present  2:present       0.353 
+   706  2:present  2:present       0.408 
+   707     1:past     1:past       0.332 
+   708  2:present  2:present       0.384 
+   709     1:past  4:neutral   +   0.41 
+   710  2:present  2:present       0.408 
+   711   3:future  4:neutral   +   0.41 
+   712     1:past  2:present   +   0.364 
+   713  2:present  2:present       0.34 
+   714     1:past  4:neutral   +   0.41 
+   715     1:past  4:neutral   +   0.41 
+   716     1:past  4:neutral   +   0.41 
+   717  2:present  2:present       0.408 
+   718  2:present  2:present       0.37 
+   719     1:past   3:future   +   0.341 
+   720  2:present  2:present       0.38 
+   721     1:past     1:past       0.359 
+   722   3:future   3:future       0.408 
+   723     1:past     1:past       0.332 
+   724   3:future  2:present   +   0.335 
+   725  2:present  2:present       0.384 
+   726  2:present  2:present       0.384 
+   727  2:present  2:present       0.384 
+   728  2:present  2:present       0.384 
+   729  2:present  2:present       0.408 
+   730  2:present  2:present       0.376 
+   731     1:past   3:future   +   0.339 
+   732  2:present  2:present       0.368 
+   733     1:past  2:present   +   0.383 
+   734   3:future  4:neutral   +   0.41 
+   735     1:past     1:past       0.423 
+   736  2:present  2:present       0.408 
+   737     1:past  4:neutral   +   0.41 
+   738   3:future  4:neutral   +   0.41 
+   739     1:past     1:past       0.379 
+   740   3:future   3:future       0.312 
+   741  2:present  4:neutral   +   0.41 
+   742     1:past  4:neutral   +   0.41 
+   743     1:past  4:neutral   +   0.41 
+   744     1:past     1:past       0.332 
+   745   3:future   3:future       0.408 
+   746     1:past  4:neutral   +   0.41 
+   747  2:present  4:neutral   +   0.41 
+   748     1:past   3:future   +   0.338 
+   749     1:past  4:neutral   +   0.41 
+   750     1:past  2:present   +   0.345 
+   751   3:future  2:present   +   0.345 
+   752   3:future  4:neutral   +   0.41 
+   753  2:present  2:present       0.408 
+   754   3:future  4:neutral   +   0.41 
+   755   3:future  2:present   +   0.408 
+   756   3:future   3:future       0.354 
+   757     1:past   3:future   +   0.341 
+   758     1:past     1:past       0.332 
+   759  2:present  2:present       0.384 
+   760     1:past   3:future   +   0.334 
+   761  2:present  2:present       0.353 
+   762  2:present  2:present       0.353 
+   763  2:present  4:neutral   +   0.41 
+   764  2:present  2:present       0.354 
+   765  2:present  2:present       0.435 
+   766     1:past     1:past       0.332 
+   767     1:past  4:neutral   +   0.41 
+   768  2:present  2:present       0.408 
+   769  2:present  2:present       0.408 
+   770  2:present  4:neutral   +   0.41 
+   771  2:present  2:present       0.353 
+   772     1:past  2:present   +   0.341 
+   773   3:future  4:neutral   +   0.41 
+   774  2:present  2:present       0.345 
+   775  2:present  2:present       0.384 
+   776     1:past     1:past       0.332 
+   777     1:past     1:past       0.332 
+   778     1:past  4:neutral   +   0.41 
+   779  2:present  2:present       0.408 
+   780  2:present  2:present       0.408 
+   781  2:present  2:present       0.408 
+   782   3:future   3:future       0.408 
+   783   3:future   3:future       0.334 
+   784     1:past     1:past       0.332 
+   785     1:past   3:future   +   0.402 
+   786   3:future   3:future       0.334 
+   787     1:past  4:neutral   +   0.41 
+   788  2:present  2:present       0.408 
+   789  2:present  2:present       0.408 
+   790     1:past  4:neutral   +   0.41 
+   791  2:present  2:present       0.408 
+   792  2:present  2:present       0.376 
+   793  2:present  2:present       0.408 
+   794     1:past  4:neutral   +   0.41 
+   795     1:past  4:neutral   +   0.41 
+   796     1:past  4:neutral   +   0.41 
+   797     1:past  4:neutral   +   0.41 
+   798  2:present  2:present       0.408 
+   799  2:present  2:present       0.408 
+   800  2:present  2:present       0.408 
+   801     1:past  4:neutral   +   0.41 
+   802     1:past     1:past       0.332 
+   803  2:present     1:past   +   0.332 
+   804  2:present  2:present       0.408 
+   805  2:present   3:future   +   0.397 
+   806  2:present  2:present       0.408 
+   807  2:present  2:present       0.341 
+   808  2:present  4:neutral   +   0.41 
+   809     1:past   3:future   +   0.408 
+   810  2:present   3:future   +   0.337 
+   811  2:present  4:neutral   +   0.41 
+   812     1:past  2:present   +   0.374 
+   813     1:past     1:past       0.332 
+   814     1:past     1:past       0.337 
+   815  2:present  2:present       0.384 
+   816  2:present  4:neutral   +   0.41 
+   817  2:present  2:present       0.408 
+   818  2:present  4:neutral   +   0.41 
+   819     1:past  4:neutral   +   0.41 
+   820  2:present     1:past   +   0.368 
+   821  2:present  2:present       0.408 
+   822     1:past  4:neutral   +   0.41 
+   823  2:present  2:present       0.408 
+   824   3:future  4:neutral   +   0.41 
+   825     1:past  4:neutral   +   0.41 
+   826  2:present     1:past   +   0.332 
+   827     1:past     1:past       0.332 
+   828  2:present  2:present       0.336 
+   829     1:past   3:future   +   0.334 
+   830   3:future   3:future       0.408 
+   831  2:present  2:present       0.341 
+   832     1:past   3:future   +   0.402 
+   833   3:future  4:neutral   +   0.41 
+   834     1:past     1:past       0.332 
+   835  2:present  2:present       0.408 
+   836  2:present  4:neutral   +   0.41 
+   837  2:present  4:neutral   +   0.41 
+   838   3:future     1:past   +   0.332 
+   839   3:future  4:neutral   +   0.41 
+   840   3:future  2:present   +   0.408 
+   841     1:past  2:present   +   0.36 
+   842     1:past   3:future   +   0.408 
+   843     1:past  4:neutral   +   0.41 
+   844  2:present  2:present       0.338 
+   845  2:present  2:present       0.383 
+   846  2:present   3:future   +   0.408 
+   847  2:present  2:present       0.355 
+   848     1:past   3:future   +   0.408 
+   849     1:past  2:present   +   0.333 
+   850   3:future     1:past   +   0.365 
+   851     1:past  2:present   +   0.382 
+   852     1:past     1:past       0.359 
+   853     1:past  4:neutral   +   0.41 
+   854     1:past     1:past       0.399 
+   855  2:present     1:past   +   0.332 
+   856     1:past  4:neutral   +   0.41 
+   857  2:present   3:future   +   0.346 
+   858  2:present  2:present       0.408 
+   859     1:past  4:neutral   +   0.41 
+   860  2:present  4:neutral   +   0.41 
+   861  2:present  2:present       0.408 
+   862   3:future  4:neutral   +   0.41 
+   863     1:past  4:neutral   +   0.41 
+   864     1:past  4:neutral   +   0.41 
+   865     1:past     1:past       0.332 
+   866  2:present  2:present       0.326 
+   867  2:present  2:present       0.408 
+   868     1:past   3:future   +   0.391 
+   869     1:past  4:neutral   +   0.41 
+   870  2:present   3:future   +   0.362 
+   871  2:present  2:present       0.408 
+   872     1:past  4:neutral   +   0.41 
+   873  2:present  2:present       0.408 
+   874     1:past  4:neutral   +   0.41 
+   875  2:present  2:present       0.408 
+   876  2:present  2:present       0.384 
+   877  2:present  2:present       0.384 
+   878  2:present  2:present       0.408 
+   879   3:future   3:future       0.334 
+   880  2:present  2:present       0.408 
+   881   3:future   3:future       0.334 
+   882  2:present  2:present       0.369 
+   883   3:future   3:future       0.334 
+   884  2:present  2:present       0.408 
+   885  2:present  2:present       0.408 
+   886   3:future   3:future       0.334 
+   887  2:present  4:neutral   +   0.41 
+   888  2:present  2:present       0.382 
+   889  2:present  2:present       0.408 
+   890  2:present  2:present       0.353 
+   891  2:present   3:future   +   0.408 
+   892     1:past  4:neutral   +   0.41 
+   893  2:present  4:neutral   +   0.41 
+   894     1:past   3:future   +   0.349 
+   895     1:past  4:neutral   +   0.41 
+   896  2:present  4:neutral   +   0.41 
+   897   3:future  4:neutral   +   0.41 
+   898  2:present   3:future   +   0.435 
+   899     1:past  4:neutral   +   0.41 
+   900     1:past     1:past       0.332 
+   901     1:past     1:past       0.323 
+   902     1:past  2:present   +   0.376 
+   903     1:past   3:future   +   0.355 
+   904  2:present  2:present       0.408 
+   905     1:past  2:present   +   0.335 
+   906   3:future   3:future       0.408 
+   907     1:past   3:future   +   0.402 
+   908  2:present  2:present       0.408 
+   909     1:past     1:past       0.351 
+   910  2:present  2:present       0.408 
+   911     1:past   3:future   +   0.402 
+   912  2:present  2:present       0.384 
+   913  2:present  4:neutral   +   0.41 
+   914  2:present   3:future   +   0.339 
+   915     1:past     1:past       0.332 
+   916     1:past  4:neutral   +   0.41 
+   917  2:present  2:present       0.341 
+   918  2:present   3:future   +   0.333 
+   919  2:present  2:present       0.368 
+   920  2:present  2:present       0.408 
+   921  2:present  2:present       0.408 
+   922  2:present  4:neutral   +   0.41 
+   923  2:present  2:present       0.408 
+   924     1:past     1:past       0.332 
+   925     1:past     1:past       0.332 
+   926  2:present  2:present       0.408 
+   927   3:future  2:present   +   0.387 
+   928   3:future   3:future       0.408 
+   929  2:present  2:present       0.408 
+   930     1:past  4:neutral   +   0.41 
+   931  2:present  2:present       0.355 
+   932  2:present  4:neutral   +   0.41 
+   933  2:present  4:neutral   +   0.41 
+   934   3:future   3:future       0.408 
+   935  2:present  4:neutral   +   0.41 
+   936  2:present   3:future   +   0.408 
+   937  2:present  4:neutral   +   0.41 
+   938  2:present  2:present       0.408 
+   939  2:present  4:neutral   +   0.41 
+   940  2:present  4:neutral   +   0.41 
+

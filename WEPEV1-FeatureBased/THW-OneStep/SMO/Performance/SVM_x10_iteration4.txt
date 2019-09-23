@@ -1,0 +1,5036 @@
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R first -W 1000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.functions.SMO -- -C 2 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0" -M 
+
+FilteredClassifier using weka.classifiers.functions.SMO -C 2.0 -L 0.001 -P 1.0E-12 -N 0 -M -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0" on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 1000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'TrainSetWE-weka.filters.unsupervised.attribute.Reorder-R1-201,202-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute v1 numeric
+@attribute v2 numeric
+@attribute v3 numeric
+@attribute v4 numeric
+@attribute v5 numeric
+@attribute v6 numeric
+@attribute v7 numeric
+@attribute v8 numeric
+@attribute v9 numeric
+@attribute v10 numeric
+@attribute v11 numeric
+@attribute v12 numeric
+@attribute v13 numeric
+@attribute v14 numeric
+@attribute v15 numeric
+@attribute v16 numeric
+@attribute v17 numeric
+@attribute v18 numeric
+@attribute v19 numeric
+@attribute v20 numeric
+@attribute v21 numeric
+@attribute v22 numeric
+@attribute v23 numeric
+@attribute v24 numeric
+@attribute v25 numeric
+@attribute v26 numeric
+@attribute v27 numeric
+@attribute v28 numeric
+@attribute v29 numeric
+@attribute v30 numeric
+@attribute v31 numeric
+@attribute v32 numeric
+@attribute v33 numeric
+@attribute v34 numeric
+@attribute v35 numeric
+@attribute v36 numeric
+@attribute v37 numeric
+@attribute v38 numeric
+@attribute v39 numeric
+@attribute v40 numeric
+@attribute v41 numeric
+@attribute v42 numeric
+@attribute v43 numeric
+@attribute v44 numeric
+@attribute v45 numeric
+@attribute v46 numeric
+@attribute v47 numeric
+@attribute v48 numeric
+@attribute v49 numeric
+@attribute v50 numeric
+@attribute v51 numeric
+@attribute v52 numeric
+@attribute v53 numeric
+@attribute v54 numeric
+@attribute v55 numeric
+@attribute v56 numeric
+@attribute v57 numeric
+@attribute v58 numeric
+@attribute v59 numeric
+@attribute v60 numeric
+@attribute v61 numeric
+@attribute v62 numeric
+@attribute v63 numeric
+@attribute v64 numeric
+@attribute v65 numeric
+@attribute v66 numeric
+@attribute v67 numeric
+@attribute v68 numeric
+@attribute v69 numeric
+@attribute v70 numeric
+@attribute v71 numeric
+@attribute v72 numeric
+@attribute v73 numeric
+@attribute v74 numeric
+@attribute v75 numeric
+@attribute v76 numeric
+@attribute v77 numeric
+@attribute v78 numeric
+@attribute v79 numeric
+@attribute v80 numeric
+@attribute v81 numeric
+@attribute v82 numeric
+@attribute v83 numeric
+@attribute v84 numeric
+@attribute v85 numeric
+@attribute v86 numeric
+@attribute v87 numeric
+@attribute v88 numeric
+@attribute v89 numeric
+@attribute v90 numeric
+@attribute v91 numeric
+@attribute v92 numeric
+@attribute v93 numeric
+@attribute v94 numeric
+@attribute v95 numeric
+@attribute v96 numeric
+@attribute v97 numeric
+@attribute v98 numeric
+@attribute v99 numeric
+@attribute v100 numeric
+@attribute v101 numeric
+@attribute v102 numeric
+@attribute v103 numeric
+@attribute v104 numeric
+@attribute v105 numeric
+@attribute v106 numeric
+@attribute v107 numeric
+@attribute v108 numeric
+@attribute v109 numeric
+@attribute v110 numeric
+@attribute v111 numeric
+@attribute v112 numeric
+@attribute v113 numeric
+@attribute v114 numeric
+@attribute v115 numeric
+@attribute v116 numeric
+@attribute v117 numeric
+@attribute v118 numeric
+@attribute v119 numeric
+@attribute v120 numeric
+@attribute v121 numeric
+@attribute v122 numeric
+@attribute v123 numeric
+@attribute v124 numeric
+@attribute v125 numeric
+@attribute v126 numeric
+@attribute v127 numeric
+@attribute v128 numeric
+@attribute v129 numeric
+@attribute v130 numeric
+@attribute v131 numeric
+@attribute v132 numeric
+@attribute v133 numeric
+@attribute v134 numeric
+@attribute v135 numeric
+@attribute v136 numeric
+@attribute v137 numeric
+@attribute v138 numeric
+@attribute v139 numeric
+@attribute v140 numeric
+@attribute v141 numeric
+@attribute v142 numeric
+@attribute v143 numeric
+@attribute v144 numeric
+@attribute v145 numeric
+@attribute v146 numeric
+@attribute v147 numeric
+@attribute v148 numeric
+@attribute v149 numeric
+@attribute v150 numeric
+@attribute v151 numeric
+@attribute v152 numeric
+@attribute v153 numeric
+@attribute v154 numeric
+@attribute v155 numeric
+@attribute v156 numeric
+@attribute v157 numeric
+@attribute v158 numeric
+@attribute v159 numeric
+@attribute v160 numeric
+@attribute v161 numeric
+@attribute v162 numeric
+@attribute v163 numeric
+@attribute v164 numeric
+@attribute v165 numeric
+@attribute v166 numeric
+@attribute v167 numeric
+@attribute v168 numeric
+@attribute v169 numeric
+@attribute v170 numeric
+@attribute v171 numeric
+@attribute v172 numeric
+@attribute v173 numeric
+@attribute v174 numeric
+@attribute v175 numeric
+@attribute v176 numeric
+@attribute v177 numeric
+@attribute v178 numeric
+@attribute v179 numeric
+@attribute v180 numeric
+@attribute v181 numeric
+@attribute v182 numeric
+@attribute v183 numeric
+@attribute v184 numeric
+@attribute v185 numeric
+@attribute v186 numeric
+@attribute v187 numeric
+@attribute v188 numeric
+@attribute v189 numeric
+@attribute v190 numeric
+@attribute v191 numeric
+@attribute v192 numeric
+@attribute v193 numeric
+@attribute v194 numeric
+@attribute v195 numeric
+@attribute v196 numeric
+@attribute v197 numeric
+@attribute v198 numeric
+@attribute v199 numeric
+@attribute v200 numeric
+@attribute tense {atemporal,future,neutral,present,past}
+@attribute * numeric
+@attribute अंदर numeric
+@attribute अक्षर numeric
+@attribute अट्ठारह numeric
+@attribute अधिक numeric
+@attribute अधिकार numeric
+@attribute अधिकारी numeric
+@attribute अनिष्ट numeric
+@attribute अनौचित्य numeric
+@attribute अन्य numeric
+@attribute अपने numeric
+@attribute अप्सरा numeric
+@attribute अभिनय numeric
+@attribute अभिमान numeric
+@attribute अरुणाचल numeric
+@attribute अवश्य numeric
+@attribute अवस्था numeric
+@attribute अव्यवस्थित numeric
+@attribute असाधारण numeric
+@attribute आकृति numeric
+@attribute आता numeric
+@attribute आदि numeric
+@attribute आनंदित numeric
+@attribute आना numeric
+@attribute आने numeric
+@attribute आनेवाला numeric
+@attribute आयरलैंड numeric
+@attribute आया numeric
+@attribute आवास numeric
+@attribute आशा numeric
+@attribute आसानी numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इकतीसवाँ numeric
+@attribute इच्छा numeric
+@attribute इतना numeric
+@attribute इस numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute उगाए numeric
+@attribute उच्चारण numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उड़ीसा numeric
+@attribute उत्तरी numeric
+@attribute उत्पन्न numeric
+@attribute उत्सुकता numeric
+@attribute उद्दिष्ट numeric
+@attribute उद्देश्य numeric
+@attribute उन्हें numeric
+@attribute उपन्यास numeric
+@attribute उपयुक्त numeric
+@attribute उपयोगिता numeric
+@attribute उलटा numeric
+@attribute उल्लंघन numeric
+@attribute उष्णता numeric
+@attribute उसकी numeric
+@attribute उसको numeric
+@attribute उसपर numeric
+@attribute उसे numeric
+@attribute ऊपर numeric
+@attribute एक numeric
+@attribute एकादशी numeric
+@attribute ऐसी numeric
+@attribute ओझल numeric
+@attribute ओर numeric
+@attribute और numeric
+@attribute औषध numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कभी numeric
+@attribute कम numeric
+@attribute कम्प्यूटर numeric
+@attribute करता numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute करनेवाला numeric
+@attribute कर्नाटक numeric
+@attribute कश्मीर numeric
+@attribute कहते numeric
+@attribute कहा numeric
+@attribute का numeric
+@attribute काग़ज़ numeric
+@attribute काम numeric
+@attribute कारण numeric
+@attribute कार्तिक numeric
+@attribute कार्य numeric
+@attribute कि numeric
+@attribute किंगडम numeric
+@attribute कितनी numeric
+@attribute किया numeric
+@attribute किस numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कीड़ों numeric
+@attribute कुछ numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute के numeric
+@attribute को numeric
+@attribute कोई numeric
+@attribute कोयल numeric
+@attribute क्रांतिकारी numeric
+@attribute क्रिकेट numeric
+@attribute क्रिया numeric
+@attribute क्रिया-कलापों numeric
+@attribute खाते numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute खेल numeric
+@attribute गई numeric
+@attribute गतिविधि numeric
+@attribute गया numeric
+@attribute गिनती numeric
+@attribute ग्रेट numeric
+@attribute घट numeric
+@attribute घटने numeric
+@attribute घर numeric
+@attribute घात numeric
+@attribute चतुर्थी numeric
+@attribute चमत्कारपूर्ण numeric
+@attribute चरित्र numeric
+@attribute चलता numeric
+@attribute चले numeric
+@attribute चार numeric
+@attribute चारों numeric
+@attribute चाहिए numeric
+@attribute चीज़ों numeric
+@attribute छत्तीसगढ़ numeric
+@attribute छापकर numeric
+@attribute छियालीस numeric
+@attribute छोटी numeric
+@attribute जगह numeric
+@attribute जम्मू numeric
+@attribute जर्मनी numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute जा numeric
+@attribute जाति numeric
+@attribute जानने numeric
+@attribute जानेवाले numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जिला numeric
+@attribute जिस numeric
+@attribute जिसका numeric
+@attribute जिसकी numeric
+@attribute जिसके numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जीत numeric
+@attribute जूही numeric
+@attribute जैसी numeric
+@attribute जो numeric
+@attribute जोड़ numeric
+@attribute ज्ञान numeric
+@attribute झील numeric
+@attribute ट्यूनीश numeric
+@attribute ठठरी numeric
+@attribute ढंग numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तमिलनाडु numeric
+@attribute तरफ़ numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute तार numeric
+@attribute तासीर numeric
+@attribute थल numeric
+@attribute दबदबा numeric
+@attribute दर्शकों numeric
+@attribute दल numeric
+@attribute दिखाया numeric
+@attribute दिशा numeric
+@attribute दुश्मन numeric
+@attribute दूसरी numeric
+@attribute दूसरे numeric
+@attribute दूसरों numeric
+@attribute दृष्टि numeric
+@attribute देख-रेख numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देनेवाला numeric
+@attribute देश numeric
+@attribute देशों numeric
+@attribute दो numeric
+@attribute द्वारा numeric
+@attribute धातु numeric
+@attribute धीरे-धीरे numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute ध्यान numeric
+@attribute न numeric
+@attribute नई numeric
+@attribute नज़दीक numeric
+@attribute नष्ट numeric
+@attribute नाटक numeric
+@attribute निजी numeric
+@attribute निपुण numeric
+@attribute नियंत्रण numeric
+@attribute निवासी numeric
+@attribute निश्चित numeric
+@attribute नीचे numeric
+@attribute पंजाब numeric
+@attribute पक्ष numeric
+@attribute पड़ता numeric
+@attribute पद numeric
+@attribute पदार्थ numeric
+@attribute पर numeric
+@attribute परस्थिति numeric
+@attribute परिषद numeric
+@attribute परेशानी numeric
+@attribute पलटन numeric
+@attribute पश्चिम numeric
+@attribute पसंद numeric
+@attribute पहाड़ numeric
+@attribute पहुँचकर numeric
+@attribute पाए numeric
+@attribute पात्र numeric
+@attribute पायी numeric
+@attribute पार numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पीछे numeric
+@attribute पीड़ा numeric
+@attribute पुलिस numeric
+@attribute पेड़ numeric
+@attribute पेश numeric
+@attribute पोषण numeric
+@attribute पौधा numeric
+@attribute प्रकट numeric
+@attribute प्रकार numeric
+@attribute प्रचलित numeric
+@attribute प्रतिष्ठा numeric
+@attribute प्रत्याशा numeric
+@attribute प्रत्येक numeric
+@attribute प्रदर्शित numeric
+@attribute प्रदेश numeric
+@attribute प्रभाव numeric
+@attribute प्रमुख numeric
+@attribute प्रयोग numeric
+@attribute प्रवृत्त numeric
+@attribute प्रशासनिक numeric
+@attribute प्रसिद्ध numeric
+@attribute प्रांत numeric
+@attribute प्राप्त numeric
+@attribute प्रेरणा numeric
+@attribute फल numeric
+@attribute फूल numeric
+@attribute फूलवाला numeric
+@attribute फौज numeric
+@attribute बँधी numeric
+@attribute बंगाल numeric
+@attribute बगीचे numeric
+@attribute बड़ी numeric
+@attribute बताना numeric
+@attribute बतानेवाला numeric
+@attribute बदलकर numeric
+@attribute बनते numeric
+@attribute बना numeric
+@attribute बनाई numeric
+@attribute बनाना numeric
+@attribute बनाने numeric
+@attribute बनी numeric
+@attribute बर्तन numeric
+@attribute बहुत numeric
+@attribute बाजी numeric
+@attribute बात numeric
+@attribute बातों numeric
+@attribute बादशाह numeric
+@attribute बाप-दादा numeric
+@attribute बारे numeric
+@attribute बिना numeric
+@attribute बीती numeric
+@attribute बीस numeric
+@attribute बेरोक-टोक numeric
+@attribute बोलना numeric
+@attribute ब्रिटिश numeric
+@attribute ब्रिटेन numeric
+@attribute भविष्य numeric
+@attribute भाग numeric
+@attribute भारत numeric
+@attribute भारतीय numeric
+@attribute भाव numeric
+@attribute भी numeric
+@attribute मजेदार numeric
+@attribute मन numeric
+@attribute महत्व numeric
+@attribute महाराष्ट्र numeric
+@attribute महीने numeric
+@attribute मात्रा numeric
+@attribute मान numeric
+@attribute मान्य numeric
+@attribute मास numeric
+@attribute मीठे numeric
+@attribute मुहरा numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मे numeric
+@attribute में numeric
+@attribute मोर numeric
+@attribute यह numeric
+@attribute या numeric
+@attribute यूनाइटेड numeric
+@attribute रंग numeric
+@attribute रंगमंच numeric
+@attribute रंगों numeric
+@attribute रखना numeric
+@attribute रखने numeric
+@attribute रत्नों numeric
+@attribute रह numeric
+@attribute रहता numeric
+@attribute रहने numeric
+@attribute रहनेवाला numeric
+@attribute रहा numeric
+@attribute राज्य numeric
+@attribute राष्ट्र numeric
+@attribute रिश्ता numeric
+@attribute रूप numeric
+@attribute रेखाओं numeric
+@attribute रोजगार numeric
+@attribute लगना numeric
+@attribute लगाया numeric
+@attribute लगी numeric
+@attribute लाक्षणिक numeric
+@attribute लाना numeric
+@attribute लाल numeric
+@attribute लिए numeric
+@attribute लिखकर numeric
+@attribute लिखना numeric
+@attribute लिया numeric
+@attribute लेना numeric
+@attribute लोगों numeric
+@attribute वंश numeric
+@attribute वनस्पतियाँ numeric
+@attribute वरिष्ठ numeric
+@attribute वर्णमाला numeric
+@attribute वस्तु numeric
+@attribute वस्तुओं numeric
+@attribute वह numeric
+@attribute वाद numeric
+@attribute वाला numeric
+@attribute वाले numeric
+@attribute विजय numeric
+@attribute विज्ञान numeric
+@attribute विदेश numeric
+@attribute विलक्ष्ण numeric
+@attribute विवाद numeric
+@attribute विशेष numeric
+@attribute विशेषज्ञ numeric
+@attribute विश्व numeric
+@attribute विश्वास numeric
+@attribute वृक्ष numeric
+@attribute वेश-भूषा numeric
+@attribute व्यंजन numeric
+@attribute व्यक्ति numeric
+@attribute व्यक्तियों numeric
+@attribute व्यभिचार numeric
+@attribute व्यर्थ numeric
+@attribute व्यवहार numeric
+@attribute शक्ति numeric
+@attribute शतरंज numeric
+@attribute शत्रु numeric
+@attribute शरीर numeric
+@attribute शहर numeric
+@attribute शासिका numeric
+@attribute शिक्षा numeric
+@attribute संख्या numeric
+@attribute संग्राम numeric
+@attribute संपादित numeric
+@attribute संबंधित numeric
+@attribute संबंधी numeric
+@attribute संस्था numeric
+@attribute सकता numeric
+@attribute सके numeric
+@attribute सज्जित numeric
+@attribute सत्ता numeric
+@attribute सन् numeric
+@attribute सफेद numeric
+@attribute सब numeric
+@attribute सबसे numeric
+@attribute समाज numeric
+@attribute समुद्री numeric
+@attribute समूह numeric
+@attribute सरकार numeric
+@attribute सर्व numeric
+@attribute सलाह numeric
+@attribute साथ numeric
+@attribute साधारण numeric
+@attribute सामने numeric
+@attribute सामान्य numeric
+@attribute साम्राज्य numeric
+@attribute सिख numeric
+@attribute सीमा numeric
+@attribute सुंदरता numeric
+@attribute सुनने numeric
+@attribute सुनी numeric
+@attribute सुविधाजनक numeric
+@attribute से numeric
+@attribute सेना numeric
+@attribute सेवा numeric
+@attribute सेवाओं numeric
+@attribute सौ numeric
+@attribute स्तर numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थापित numeric
+@attribute स्थिति numeric
+@attribute स्पष्ट numeric
+@attribute स्वतंत्रता numeric
+@attribute स्वर numeric
+@attribute स्वस्थ numeric
+@attribute हँसी numeric
+@attribute हर numeric
+@attribute हरियाणा numeric
+@attribute हारती numeric
+@attribute हिंदी numeric
+@attribute हिमालय numeric
+@attribute ही numeric
+@attribute हुई numeric
+@attribute है numeric
+@attribute हैं numeric
+@attribute हो numeric
+@attribute होता numeric
+@attribute होती numeric
+@attribute होते numeric
+@attribute होना numeric
+@attribute होने numeric
+@attribute अंगों numeric
+@attribute अनुमान numeric
+@attribute अयोग्य numeric
+@attribute अवस्थाओं numeric
+@attribute आगे numeric
+@attribute आज numeric
+@attribute आठ numeric
+@attribute आनेवाले numeric
+@attribute उपरांत numeric
+@attribute उससे numeric
+@attribute कह numeric
+@attribute काल numeric
+@attribute क्रियाओं numeric
+@attribute घटना numeric
+@attribute चलकर numeric
+@attribute जानेवाला numeric
+@attribute दिन numeric
+@attribute दी numeric
+@attribute धृतराष्ट्र numeric
+@attribute निंदा numeric
+@attribute निकलने numeric
+@attribute ने numeric
+@attribute पहला numeric
+@attribute पहले numeric
+@attribute पुत्र numeric
+@attribute बताए numeric
+@attribute बताता numeric
+@attribute बाद numeric
+@attribute बोलनेवाली numeric
+@attribute मनुष्य numeric
+@attribute मुख numeric
+@attribute रहनेवाली numeric
+@attribute वर्तमान numeric
+@attribute वाली numeric
+@attribute व्याकरण numeric
+@attribute शब्द numeric
+@attribute संदर्भित numeric
+@attribute सत्य numeric
+@attribute समय numeric
+@attribute सार्थक numeric
+@attribute होकर numeric
+@attribute होनेवाला numeric
+@attribute अंत numeric
+@attribute अतिवृष्टि numeric
+@attribute अनावृष्टि numeric
+@attribute अन्न numeric
+@attribute आंत्र-ज्वर numeric
+@attribute आए numeric
+@attribute आघात numeric
+@attribute आती numeric
+@attribute आरंभ numeric
+@attribute आवाज numeric
+@attribute उठाकर numeric
+@attribute उड़ने numeric
+@attribute उतना numeric
+@attribute ऐसा numeric
+@attribute ऐसे numeric
+@attribute कठिनता numeric
+@attribute कफ़ numeric
+@attribute कमी numeric
+@attribute कर numeric
+@attribute काटती numeric
+@attribute कीड़ा numeric
+@attribute खून numeric
+@attribute गरीबी numeric
+@attribute गोलियाँ numeric
+@attribute चलना numeric
+@attribute चान्द्र numeric
+@attribute चूसती numeric
+@attribute चैत numeric
+@attribute छीकें numeric
+@attribute छोटा numeric
+@attribute छोड़ना numeric
+@attribute जब numeric
+@attribute जल्दी numeric
+@attribute जाए numeric
+@attribute जाने numeric
+@attribute जोर numeric
+@attribute डालना numeric
+@attribute तक numeric
+@attribute तथा numeric
+@attribute तरह numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तिथि numeric
+@attribute देने numeric
+@attribute नहीं numeric
+@attribute नाक numeric
+@attribute निकलता numeric
+@attribute निर्यात numeric
+@attribute नौवीं numeric
+@attribute पति numeric
+@attribute पानी numeric
+@attribute पूरी numeric
+@attribute पेट numeric
+@attribute पैर numeric
+@attribute फसल numeric
+@attribute बंद numeric
+@attribute बंदूक numeric
+@attribute बाहर numeric
+@attribute बीच numeric
+@attribute मरने numeric
+@attribute मल numeric
+@attribute मादा numeric
+@attribute मिले numeric
+@attribute मुँह numeric
+@attribute मुसलमानों numeric
+@attribute मौत numeric
+@attribute युवा numeric
+@attribute रात numeric
+@attribute रुका numeric
+@attribute रोग numeric
+@attribute लंबा numeric
+@attribute लगने numeric
+@attribute विधवा numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute शादी numeric
+@attribute शैशव numeric
+@attribute संकट numeric
+@attribute संभावनावाली numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute सारी numeric
+@attribute स्त्री numeric
+@attribute हथेली numeric
+@attribute अध्ययन numeric
+@attribute आधुनिक numeric
+@attribute इसी numeric
+@attribute क्षण numeric
+@attribute चल numeric
+@attribute छाप numeric
+@attribute जाता numeric
+@attribute तहत numeric
+@attribute दर्शाता numeric
+@attribute परिवर्तन numeric
+@attribute प्राणिविज्ञान numeric
+@attribute मूल numeric
+@attribute वक़्त numeric
+@attribute विद्यमान numeric
+@attribute विशेषताओं numeric
+@attribute विषय numeric
+@attribute शाखा numeric
+@attribute शारीरिक numeric
+@attribute सिद्धांत numeric
+@attribute सूचक numeric
+@attribute उपस्थित numeric
+@attribute क्रम numeric
+@attribute चुका numeric
+@attribute नक्काशी numeric
+@attribute निकाला numeric
+@attribute न्यायालय numeric
+@attribute पुराने numeric
+@attribute पूर्व numeric
+@attribute बीता numeric
+@attribute बीते numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute हस्तांतरण numeric
+@attribute हाथ numeric
+@attribute हुआ numeric
+@attribute हुए numeric
+
+@data
+
+
+Classifier Model
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: atemporal, future
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.001  * (normalized) v1
+ +       0.0404 * (normalized) v2
+ +       0.0843 * (normalized) v3
+ +       0.0738 * (normalized) v4
+ +       0.0249 * (normalized) v5
+ +       0.0418 * (normalized) v6
+ +      -0.0331 * (normalized) v7
+ +       0.0759 * (normalized) v8
+ +      -0.1044 * (normalized) v9
+ +       0.0234 * (normalized) v10
+ +       0.0461 * (normalized) v11
+ +      -0.0276 * (normalized) v12
+ +      -0.0534 * (normalized) v13
+ +      -0.095  * (normalized) v14
+ +      -0.0162 * (normalized) v15
+ +      -0.1287 * (normalized) v16
+ +      -0.0245 * (normalized) v17
+ +       0.0662 * (normalized) v18
+ +      -0.044  * (normalized) v19
+ +      -0.0289 * (normalized) v20
+ +       0.1267 * (normalized) v21
+ +      -0.0751 * (normalized) v22
+ +      -0.1397 * (normalized) v23
+ +      -0.0771 * (normalized) v24
+ +      -0.1469 * (normalized) v25
+ +       0.1339 * (normalized) v26
+ +      -0.1804 * (normalized) v27
+ +       0.0919 * (normalized) v28
+ +       0.0159 * (normalized) v29
+ +      -0.0358 * (normalized) v30
+ +       0.0141 * (normalized) v31
+ +      -0.0962 * (normalized) v32
+ +      -0.1574 * (normalized) v33
+ +       0.0084 * (normalized) v34
+ +       0.0662 * (normalized) v35
+ +       0.0667 * (normalized) v36
+ +      -0.0642 * (normalized) v37
+ +      -0.0282 * (normalized) v38
+ +      -0.0399 * (normalized) v39
+ +      -0.0214 * (normalized) v40
+ +       0.169  * (normalized) v41
+ +       0.0494 * (normalized) v42
+ +      -0.0585 * (normalized) v43
+ +       0.038  * (normalized) v44
+ +       0.2568 * (normalized) v45
+ +      -0.0884 * (normalized) v46
+ +       0.0488 * (normalized) v47
+ +       0.0134 * (normalized) v48
+ +      -0.1851 * (normalized) v49
+ +      -0.0619 * (normalized) v50
+ +       0.1159 * (normalized) v51
+ +      -0.078  * (normalized) v52
+ +      -0.0169 * (normalized) v53
+ +       0.0198 * (normalized) v54
+ +      -0.041  * (normalized) v55
+ +      -0.0642 * (normalized) v56
+ +       0.0118 * (normalized) v57
+ +       0.0392 * (normalized) v58
+ +       0.0075 * (normalized) v59
+ +      -0.1618 * (normalized) v60
+ +      -0.1065 * (normalized) v61
+ +       0.1574 * (normalized) v62
+ +      -0.1989 * (normalized) v63
+ +       0.081  * (normalized) v64
+ +      -0.1625 * (normalized) v65
+ +      -0.0762 * (normalized) v66
+ +      -0.0092 * (normalized) v67
+ +      -0.1307 * (normalized) v68
+ +       0.0516 * (normalized) v69
+ +       0.0124 * (normalized) v70
+ +      -0.0738 * (normalized) v71
+ +      -0.0341 * (normalized) v72
+ +      -0.086  * (normalized) v73
+ +      -0.0099 * (normalized) v74
+ +      -0.0682 * (normalized) v75
+ +       0.0205 * (normalized) v76
+ +      -0.2285 * (normalized) v77
+ +      -0.1531 * (normalized) v78
+ +       0.062  * (normalized) v79
+ +       0.0606 * (normalized) v80
+ +       0.0289 * (normalized) v81
+ +       0.0054 * (normalized) v82
+ +       0.0932 * (normalized) v83
+ +       0.0683 * (normalized) v84
+ +      -0.0661 * (normalized) v85
+ +       0.0579 * (normalized) v86
+ +      -0.13   * (normalized) v87
+ +       0.1299 * (normalized) v88
+ +      -0.135  * (normalized) v89
+ +       0.0095 * (normalized) v90
+ +      -0.088  * (normalized) v91
+ +      -0.0149 * (normalized) v92
+ +       0.0432 * (normalized) v93
+ +      -0.0999 * (normalized) v94
+ +      -0.0022 * (normalized) v95
+ +      -0.134  * (normalized) v96
+ +      -0.0701 * (normalized) v97
+ +       0.2329 * (normalized) v98
+ +      -0.0017 * (normalized) v99
+ +       0.0973 * (normalized) v100
+ +      -0.0647 * (normalized) v101
+ +       0.055  * (normalized) v102
+ +      -0.0626 * (normalized) v103
+ +       0.0885 * (normalized) v104
+ +      -0.092  * (normalized) v105
+ +      -0.0586 * (normalized) v106
+ +      -0.0218 * (normalized) v107
+ +      -0.0092 * (normalized) v108
+ +      -0.0172 * (normalized) v109
+ +       0.0171 * (normalized) v110
+ +      -0.157  * (normalized) v111
+ +      -0.1529 * (normalized) v112
+ +       0.0444 * (normalized) v113
+ +      -0.0009 * (normalized) v114
+ +       0.0675 * (normalized) v115
+ +      -0.0318 * (normalized) v116
+ +      -0.0422 * (normalized) v117
+ +      -0.0032 * (normalized) v118
+ +      -0.0138 * (normalized) v119
+ +      -0.0968 * (normalized) v120
+ +       0.1483 * (normalized) v121
+ +      -0.1148 * (normalized) v122
+ +      -0.0034 * (normalized) v123
+ +      -0.0069 * (normalized) v124
+ +      -0.0797 * (normalized) v125
+ +       0.0971 * (normalized) v126
+ +       0.1519 * (normalized) v127
+ +       0.0365 * (normalized) v128
+ +      -0.0431 * (normalized) v129
+ +       0.0375 * (normalized) v130
+ +      -0.0202 * (normalized) v131
+ +       0.039  * (normalized) v132
+ +      -0.1071 * (normalized) v133
+ +       0.0229 * (normalized) v134
+ +       0.1202 * (normalized) v135
+ +      -0.0093 * (normalized) v136
+ +      -0.0831 * (normalized) v137
+ +      -0.1126 * (normalized) v138
+ +       0.0204 * (normalized) v139
+ +      -0.0958 * (normalized) v140
+ +      -0.0841 * (normalized) v141
+ +       0.0363 * (normalized) v142
+ +      -0.2182 * (normalized) v143
+ +       0.0012 * (normalized) v144
+ +      -0.0484 * (normalized) v145
+ +       0.0504 * (normalized) v146
+ +       0.1053 * (normalized) v147
+ +       0.0266 * (normalized) v148
+ +       0.0423 * (normalized) v149
+ +       0.0891 * (normalized) v150
+ +      -0.0714 * (normalized) v151
+ +      -0.0782 * (normalized) v152
+ +      -0.026  * (normalized) v153
+ +      -0.0779 * (normalized) v154
+ +       0.035  * (normalized) v155
+ +       0.2196 * (normalized) v156
+ +       0.131  * (normalized) v157
+ +       0.0085 * (normalized) v158
+ +       0.0448 * (normalized) v159
+ +       0.1126 * (normalized) v160
+ +      -0.0351 * (normalized) v161
+ +       0.0365 * (normalized) v162
+ +       0.0307 * (normalized) v163
+ +       0.0703 * (normalized) v164
+ +      -0.1489 * (normalized) v165
+ +       0.0255 * (normalized) v166
+ +       0.0842 * (normalized) v167
+ +      -0.1221 * (normalized) v168
+ +      -0.0264 * (normalized) v169
+ +       0.0662 * (normalized) v170
+ +      -0.0581 * (normalized) v171
+ +       0.0539 * (normalized) v172
+ +       0.0312 * (normalized) v173
+ +       0.0361 * (normalized) v174
+ +      -0.0139 * (normalized) v175
+ +       0.085  * (normalized) v176
+ +       0.1195 * (normalized) v177
+ +      -0.0813 * (normalized) v178
+ +       0.0742 * (normalized) v179
+ +       0.1695 * (normalized) v180
+ +      -0.0769 * (normalized) v181
+ +       0.048  * (normalized) v182
+ +       0.0025 * (normalized) v183
+ +      -0.0313 * (normalized) v184
+ +       0.0003 * (normalized) v185
+ +       0.1189 * (normalized) v186
+ +       0.0325 * (normalized) v187
+ +      -0.0651 * (normalized) v188
+ +      -0.2064 * (normalized) v189
+ +       0.0828 * (normalized) v190
+ +       0.1466 * (normalized) v191
+ +       0.058  * (normalized) v192
+ +      -0.1029 * (normalized) v193
+ +      -0.0696 * (normalized) v194
+ +      -0.1194 * (normalized) v195
+ +       0.0027 * (normalized) v196
+ +       0.162  * (normalized) v197
+ +       0.1137 * (normalized) v198
+ +      -0.2153 * (normalized) v199
+ +      -0.0097 * (normalized) v200
+ +      -0.0137 * (normalized) अंदर
+ +      -0.0461 * (normalized) अक्षर
+ +      -0.014  * (normalized) अधिक
+ +      -0.0884 * (normalized) अपने
+ +      -0.062  * (normalized) अप्सरा
+ +      -0.0063 * (normalized) अभिनय
+ +      -0.0156 * (normalized) अभिमान
+ +      -0.0066 * (normalized) अरुणाचल
+ +       0.084  * (normalized) अवश्य
+ +      -0.0041 * (normalized) अवस्था
+ +      -0.0599 * (normalized) असाधारण
+ +      -0.0079 * (normalized) आकृति
+ +      -0.0754 * (normalized) आदि
+ +      -0.0441 * (normalized) आनंदित
+ +       0.185  * (normalized) आने
+ +      -0.0323 * (normalized) आनेवाला
+ +      -0.0176 * (normalized) आयरलैंड
+ +      -0.0098 * (normalized) आया
+ +      -0.0872 * (normalized) आशा
+ +      -0.0461 * (normalized) इकतीसवाँ
+ +       0.1168 * (normalized) इच्छा
+ +      -0.0114 * (normalized) इतना
+ +      -0.08   * (normalized) इस
+ +      -0.0461 * (normalized) इसे
+ +      -0.0461 * (normalized) उच्चारण
+ +      -0.0599 * (normalized) उठने
+ +      -0.0156 * (normalized) उठनेवाला
+ +      -0.058  * (normalized) उत्पन्न
+ +      -0.0596 * (normalized) उत्सुकता
+ +      -0.0009 * (normalized) उपन्यास
+ +      -0.0063 * (normalized) उपयुक्त
+ +      -0.0124 * (normalized) उलटा
+ +      -0.0137 * (normalized) उष्णता
+ +      -0.0124 * (normalized) उसे
+ +      -0.1393 * (normalized) एक
+ +      -0.0597 * (normalized) एकादशी
+ +       0      * (normalized) ऐसी
+ +      -0.0063 * (normalized) ओझल
+ +      -0.0728 * (normalized) ओर
+ +      -0.1406 * (normalized) और
+ +      -0.0137 * (normalized) औषध
+ +      -0.0009 * (normalized) कथा
+ +      -0.0009 * (normalized) कथानक
+ +      -0.0268 * (normalized) कम
+ +      -0.0244 * (normalized) कम्प्यूटर
+ +      -0.0923 * (normalized) करता
+ +      -0.0903 * (normalized) करना
+ +      -0.0545 * (normalized) करने
+ +      -0.0461 * (normalized) कहते
+ +      -0.0126 * (normalized) कहा
+ +      -0.016  * (normalized) का
+ +      -0.0206 * (normalized) काम
+ +      -0.106  * (normalized) कारण
+ +      -0.0597 * (normalized) कार्तिक
+ +      -0.0244 * (normalized) कार्य
+ +      -0.0494 * (normalized) किया
+ +      -0.0364 * (normalized) किसी
+ +      -0.2141 * (normalized) की
+ +      -0.0044 * (normalized) कीड़ों
+ +      -0.0133 * (normalized) कुछ
+ +      -0.0549 * (normalized) कृष्ण
+ +      -0.0597 * (normalized) कृष्णपक्ष
+ +       0.0169 * (normalized) के
+ +       0.0012 * (normalized) को
+ +      -0.0138 * (normalized) कोई
+ +      -0.0976 * (normalized) क्रिया
+ +      -0.0441 * (normalized) क्रिया-कलापों
+ +      -0.0137 * (normalized) खाद्य
+ +       0.0893 * (normalized) गई
+ +      -0.0352 * (normalized) गया
+ +      -0.0367 * (normalized) गिनती
+ +      -0.0176 * (normalized) ग्रेट
+ +      -0.0124 * (normalized) घट
+ +      -0.0431 * (normalized) घटने
+ +      -0.0549 * (normalized) चतुर्थी
+ +      -0.0009 * (normalized) चरित्र
+ +      -0.0667 * (normalized) चलता
+ +      -0.0098 * (normalized) छापकर
+ +      -0.0667 * (normalized) जल्दी-जल्दी
+ +      -0.0575 * (normalized) जहाँ
+ +      -0.0395 * (normalized) जा
+ +      -0.0596 * (normalized) जानने
+ +      -0.0596 * (normalized) जिज्ञासा
+ +      -0.018  * (normalized) जितना
+ +      -0.0066 * (normalized) जिला
+ +      -0.0147 * (normalized) जिस
+ +      -0.0393 * (normalized) जिसका
+ +       0.1583 * (normalized) जिसकी
+ +      -0.0617 * (normalized) जिसके
+ +      -0.0665 * (normalized) जिसने
+ +      -0.1044 * (normalized) जिसमें
+ +       0      * (normalized) जिससे
+ +      -0.0098 * (normalized) जिसे
+ +      -0.0789 * (normalized) जीत
+ +      -0.0872 * (normalized) जैसी
+ +      -0.0494 * (normalized) जो
+ +      -0.0044 * (normalized) ठठरी
+ +      -0.0289 * (normalized) ढंग
+ +      -0.0728 * (normalized) तरफ़
+ +      -0.0137 * (normalized) ताप
+ +      -0.0137 * (normalized) तापकारक
+ +      -0.0137 * (normalized) तासीर
+ +      -0.0063 * (normalized) दर्शकों
+ +      -0.0009 * (normalized) दिखाया
+ +      -0.0041 * (normalized) दुश्मन
+ +       0      * (normalized) दूसरी
+ +      -0.0063 * (normalized) दृष्टि
+ +      -0.0599 * (normalized) देखने
+ +      -0.0205 * (normalized) देखी
+ +      -0.1044 * (normalized) देनेवाला
+ +      -0.0685 * (normalized) द्वारा
+ +      -0.0431 * (normalized) धीरे-धीरे
+ +      -0.0804 * (normalized) ध्यान
+ +      -0.0267 * (normalized) न
+ +      -0.0599 * (normalized) नई
+ +      -0.0431 * (normalized) नष्ट
+ +      -0.0063 * (normalized) नाटक
+ +      -0.1167 * (normalized) निश्चित
+ +      -0.0549 * (normalized) पक्ष
+ +      -0.019  * (normalized) पद
+ +      -0.0137 * (normalized) पदार्थ
+ +      -0.1208 * (normalized) पर
+ +      -0.1167 * (normalized) परस्थिति
+ +      -0.0289 * (normalized) परेशानी
+ +      -0.0137 * (normalized) पहुँचकर
+ +      -0.0063 * (normalized) पात्र
+ +      -0.0665 * (normalized) पायी
+ +       0      * (normalized) पास
+ +      -0.0063 * (normalized) पीछे
+ +      -0.1044 * (normalized) पीड़ा
+ +      -0.0847 * (normalized) पेड़
+ +      -0.0545 * (normalized) प्रकट
+ +      -0.0044 * (normalized) प्रकार
+ +      -0.0098 * (normalized) प्रचलित
+ +      -0.0872 * (normalized) प्रत्याशा
+ +      -0.0549 * (normalized) प्रत्येक
+ +      -0.0599 * (normalized) प्रदर्शित
+ +      -0.0066 * (normalized) प्रदेश
+ +      -0.0137 * (normalized) प्रभाव
+ +      -0.019  * (normalized) प्रमुख
+ +      -0.019  * (normalized) प्रशासनिक
+ +      -0.0156 * (normalized) प्राप्त
+ +      -0.0326 * (normalized) बताना
+ +      -0.1806 * (normalized) बतानेवाला
+ +      -0.0443 * (normalized) बना
+ +      -0.0079 * (normalized) बनी
+ +      -0.0268 * (normalized) बहुत
+ +      -0.0124 * (normalized) बाजी
+ +       0.0245 * (normalized) बात
+ +      -0.0443 * (normalized) बाप-दादा
+ +      -0.0482 * (normalized) बारे
+ +      -0.0289 * (normalized) बिना
+ +      -0.0205 * (normalized) बीती
+ +      -0.0176 * (normalized) ब्रिटेन
+ +      -0.01   * (normalized) भविष्य
+ +      -0.0063 * (normalized) भाग
+ +      -0.0066 * (normalized) भारत
+ +      -0.012  * (normalized) भारतीय
+ +      -0.1047 * (normalized) भाव
+ +      -0.0192 * (normalized) भी
+ +      -0.13   * (normalized) मन
+ +      -0.0156 * (normalized) महत्व
+ +      -0.0549 * (normalized) महीने
+ +      -0.0597 * (normalized) मास
+ +      -0.0461 * (normalized) मूर्धन्य
+ +      -0.0461 * (normalized) मूर्धा
+ +      -0.0645 * (normalized) में
+ +      -0.0513 * (normalized) या
+ +      -0.0063 * (normalized) रंगमंच
+ +      -0.0079 * (normalized) रंगों
+ +      -0.0044 * (normalized) रत्नों
+ +      -0.0331 * (normalized) रहता
+ +      -0.0124 * (normalized) रहा
+ +      -0.0066 * (normalized) राज्य
+ +      -0.0443 * (normalized) रिश्ता
+ +      -0.1712 * (normalized) रूप
+ +      -0.0079 * (normalized) रेखाओं
+ +       0.1682 * (normalized) लगाया
+ +      -0.0205 * (normalized) लाना
+ +      -0.0044 * (normalized) लाल
+ +      -0.0667 * (normalized) लिखकर
+ +      -0.0665 * (normalized) लिया
+ +      -0.0124 * (normalized) लेना
+ +      -0.0443 * (normalized) वंश
+ +      -0.0461 * (normalized) वर्णमाला
+ +      -0.0359 * (normalized) वस्तु
+ +       0.1241 * (normalized) वह
+ +      -0.0126 * (normalized) वाद
+ +       0.3787 * (normalized) वाला
+ +      -0.0665 * (normalized) विजय
+ +      -0.0599 * (normalized) विलक्ष्ण
+ +      -0.0126 * (normalized) विवाद
+ +      -0.0665 * (normalized) विश्व
+ +      -0.0147 * (normalized) विश्वास
+ +      -0.0063 * (normalized) वेश-भूषा
+ +      -0.0461 * (normalized) व्यंजन
+ +      -0.0175 * (normalized) व्यक्ति
+ +      -0.0268 * (normalized) व्यक्तियों
+ +      -0.0786 * (normalized) व्यभिचार
+ +      -0.0126 * (normalized) व्यर्थ
+ +      -0.0441 * (normalized) व्यवहार
+ +      -0.0041 * (normalized) शत्रु
+ +      -0.0137 * (normalized) शरीर
+ +      -0.0176 * (normalized) शासिका
+ +      -0.0268 * (normalized) संख्या
+ +       0.0441 * (normalized) संबंधित
+ +      -0.0443 * (normalized) संबंधी
+ +      -0.018  * (normalized) सकता
+ +      -0.0304 * (normalized) सके
+ +      -0.0063 * (normalized) सज्जित
+ +      -0.014  * (normalized) सबसे
+ +      -0.0044 * (normalized) समुद्री
+ +      -0.0098 * (normalized) सर्व
+ +      -0.0596 * (normalized) साथ
+ +      -0.0098 * (normalized) साधारण
+ +      -0.0644 * (normalized) सामने
+ +      -0.0599 * (normalized) सुनने
+ +      -0.0331 * (normalized) सुनी
+ +      -0.0289 * (normalized) सुविधाजनक
+ +       0.0775 * (normalized) से
+ +      -0.019  * (normalized) सेवा
+ +      -0.0323 * (normalized) सौ
+ +      -0.0461 * (normalized) स्थल
+ +      -0.0396 * (normalized) स्थान
+ +       0      * (normalized) स्थिति
+ +      -0.0545 * (normalized) स्पष्ट
+ +      -0.1167 * (normalized) हर
+ +      -0.0124 * (normalized) हारती
+ +      -0.0461 * (normalized) हिंदी
+ +       0.1237 * (normalized) ही
+ +      -0.0408 * (normalized) हुई
+ +       0.034  * (normalized) है
+ +      -0.0524 * (normalized) हैं
+ +      -0.2037 * (normalized) हो
+ +      -0.0244 * (normalized) होता
+ +      -0.0044 * (normalized) होती
+ +      -0.0063 * (normalized) होते
+ +      -0.0599 * (normalized) होना
+ +       0.0743 * (normalized) होने
+ +       0.032  * (normalized) अंगों
+ +       0.1926 * (normalized) अनुमान
+ +       0.1274 * (normalized) अयोग्य
+ +       0.0909 * (normalized) अवस्थाओं
+ +       0.2354 * (normalized) आगे
+ +       0.1567 * (normalized) आज
+ +       0.032  * (normalized) आठ
+ +       0.1013 * (normalized) आनेवाले
+ +       0.0512 * (normalized) उपरांत
+ +       0.0441 * (normalized) उससे
+ +       0.1004 * (normalized) कह
+ +       0.2873 * (normalized) काल
+ +       0.0909 * (normalized) क्रियाओं
+ +       0.2006 * (normalized) घटना
+ +       0.1004 * (normalized) चलकर
+ +       0.1926 * (normalized) जानेवाला
+ +       0.0988 * (normalized) दिन
+ +       0.1004 * (normalized) दी
+ +       0.0818 * (normalized) धृतराष्ट्र
+ +       0.1274 * (normalized) निंदा
+ +       0.1072 * (normalized) निकलने
+ +       0.1004 * (normalized) ने
+ +       0.0554 * (normalized) पहला
+ +       0.3943 * (normalized) पहले
+ +       0.0818 * (normalized) पुत्र
+ +       0.0512 * (normalized) बताए
+ +       0.0909 * (normalized) बताता
+ +       0.2079 * (normalized) बाद
+ +       0.0669 * (normalized) बोलनेवाली
+ +       0.1072 * (normalized) मनुष्य
+ +       0.1072 * (normalized) मुख
+ +       0.2006 * (normalized) रहनेवाली
+ +       0.0573 * (normalized) वर्तमान
+ +       0.1004 * (normalized) वाली
+ +       0.0909 * (normalized) व्याकरण
+ +       0.1072 * (normalized) शब्द
+ +       0.0512 * (normalized) संदर्भित
+ +       0.0669 * (normalized) सत्य
+ +       0.2347 * (normalized) समय
+ +       0.1072 * (normalized) सार्थक
+ +       0.2006 * (normalized) होकर
+ +       0.1039 * (normalized) होनेवाला
+ +       0.114 
+
+Number of kernel evaluations: 5330 (88.538% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                 Class
+Variable     atemporal
+======================
+pred          -52.6089
+Intercept     -35.6414
+
+
+Odds Ratios...
+                 Class
+Variable     atemporal
+======================
+pred                 0
+
+
+Classifier for classes: atemporal, neutral
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.1015 * (normalized) v1
+ +       0.0302 * (normalized) v2
+ +      -0.1425 * (normalized) v3
+ +      -0.0104 * (normalized) v4
+ +       0.0863 * (normalized) v5
+ +      -0.013  * (normalized) v6
+ +       0.0485 * (normalized) v7
+ +      -0.0259 * (normalized) v8
+ +      -0.0407 * (normalized) v9
+ +      -0.1504 * (normalized) v10
+ +       0.041  * (normalized) v11
+ +       0.0933 * (normalized) v12
+ +       0.0988 * (normalized) v13
+ +      -0.1189 * (normalized) v14
+ +       0.0134 * (normalized) v15
+ +      -0.0168 * (normalized) v16
+ +      -0.0843 * (normalized) v17
+ +       0.0264 * (normalized) v18
+ +      -0.1472 * (normalized) v19
+ +       0.0098 * (normalized) v20
+ +       0.118  * (normalized) v21
+ +       0.0373 * (normalized) v22
+ +      -0.078  * (normalized) v23
+ +      -0.2711 * (normalized) v24
+ +       0.0606 * (normalized) v25
+ +       0.1427 * (normalized) v26
+ +      -0.2143 * (normalized) v27
+ +      -0.0422 * (normalized) v28
+ +       0.1642 * (normalized) v29
+ +      -0.1252 * (normalized) v30
+ +      -0.2276 * (normalized) v31
+ +      -0.0144 * (normalized) v32
+ +      -0.0987 * (normalized) v33
+ +       0.0873 * (normalized) v34
+ +       0.0269 * (normalized) v35
+ +      -0.0133 * (normalized) v36
+ +       0.082  * (normalized) v37
+ +       0.0556 * (normalized) v38
+ +       0.0359 * (normalized) v39
+ +       0.0871 * (normalized) v40
+ +       0.086  * (normalized) v41
+ +      -0.0049 * (normalized) v42
+ +       0.1905 * (normalized) v43
+ +      -0.0861 * (normalized) v44
+ +      -0.0516 * (normalized) v45
+ +       0.0251 * (normalized) v46
+ +      -0.0997 * (normalized) v47
+ +       0.1566 * (normalized) v48
+ +      -0.0761 * (normalized) v49
+ +      -0.081  * (normalized) v50
+ +      -0.1438 * (normalized) v51
+ +       0.0902 * (normalized) v52
+ +       0.0247 * (normalized) v53
+ +       0.0374 * (normalized) v54
+ +       0.0427 * (normalized) v55
+ +       0.1234 * (normalized) v56
+ +      -0.0484 * (normalized) v57
+ +       0.1055 * (normalized) v58
+ +      -0.1427 * (normalized) v59
+ +       0.1487 * (normalized) v60
+ +      -0.177  * (normalized) v61
+ +       0.1504 * (normalized) v62
+ +      -0.2534 * (normalized) v63
+ +      -0.0894 * (normalized) v64
+ +      -0.0858 * (normalized) v65
+ +      -0.1991 * (normalized) v66
+ +       0.1141 * (normalized) v67
+ +      -0.0046 * (normalized) v68
+ +       0.0152 * (normalized) v69
+ +      -0.0163 * (normalized) v70
+ +       0.1093 * (normalized) v71
+ +      -0.0385 * (normalized) v72
+ +      -0.1068 * (normalized) v73
+ +      -0.0351 * (normalized) v74
+ +       0.0338 * (normalized) v75
+ +       0.0616 * (normalized) v76
+ +      -0.0506 * (normalized) v77
+ +      -0.0003 * (normalized) v78
+ +      -0.07   * (normalized) v79
+ +       0.0157 * (normalized) v80
+ +      -0.1222 * (normalized) v81
+ +      -0.0884 * (normalized) v82
+ +       0.0236 * (normalized) v83
+ +      -0.0715 * (normalized) v84
+ +      -0.0368 * (normalized) v85
+ +       0.1359 * (normalized) v86
+ +       0.0632 * (normalized) v87
+ +      -0.066  * (normalized) v88
+ +      -0.0933 * (normalized) v89
+ +       0.1618 * (normalized) v90
+ +      -0.0516 * (normalized) v91
+ +      -0.1474 * (normalized) v92
+ +      -0.0839 * (normalized) v93
+ +       0.1121 * (normalized) v94
+ +       0.0566 * (normalized) v95
+ +      -0.0217 * (normalized) v96
+ +       0.0445 * (normalized) v97
+ +       0.1054 * (normalized) v98
+ +       0.0978 * (normalized) v99
+ +      -0.1166 * (normalized) v100
+ +      -0.0894 * (normalized) v101
+ +      -0.1377 * (normalized) v102
+ +      -0.0074 * (normalized) v103
+ +       0.0874 * (normalized) v104
+ +       0.0105 * (normalized) v105
+ +      -0.195  * (normalized) v106
+ +      -0.2069 * (normalized) v107
+ +       0.1515 * (normalized) v108
+ +       0.0439 * (normalized) v109
+ +      -0.1003 * (normalized) v110
+ +       0.119  * (normalized) v111
+ +      -0.0193 * (normalized) v112
+ +      -0.1338 * (normalized) v113
+ +      -0.1106 * (normalized) v114
+ +       0.1304 * (normalized) v115
+ +      -0.0065 * (normalized) v116
+ +      -0.0079 * (normalized) v117
+ +      -0.0756 * (normalized) v118
+ +       0.1123 * (normalized) v119
+ +      -0.0383 * (normalized) v120
+ +       0.0479 * (normalized) v121
+ +       0.1185 * (normalized) v122
+ +      -0.2008 * (normalized) v123
+ +       0.0329 * (normalized) v124
+ +      -0.2091 * (normalized) v125
+ +      -0.1041 * (normalized) v126
+ +      -0.0201 * (normalized) v127
+ +       0.0551 * (normalized) v128
+ +      -0.1746 * (normalized) v129
+ +       0.0157 * (normalized) v130
+ +      -0.086  * (normalized) v131
+ +       0.0854 * (normalized) v132
+ +      -0.1577 * (normalized) v133
+ +      -0.0522 * (normalized) v134
+ +      -0.1536 * (normalized) v135
+ +       0.074  * (normalized) v136
+ +      -0.1403 * (normalized) v137
+ +      -0.0029 * (normalized) v138
+ +      -0.0687 * (normalized) v139
+ +      -0.193  * (normalized) v140
+ +      -0.0439 * (normalized) v141
+ +      -0.1475 * (normalized) v142
+ +       0.0879 * (normalized) v143
+ +      -0.0541 * (normalized) v144
+ +      -0.0121 * (normalized) v145
+ +       0.0063 * (normalized) v146
+ +       0.1312 * (normalized) v147
+ +       0.0872 * (normalized) v148
+ +      -0.0849 * (normalized) v149
+ +      -0.036  * (normalized) v150
+ +      -0.0442 * (normalized) v151
+ +      -0.0986 * (normalized) v152
+ +       0.1228 * (normalized) v153
+ +      -0.0845 * (normalized) v154
+ +       0.1775 * (normalized) v155
+ +      -0.1316 * (normalized) v156
+ +       0.0523 * (normalized) v157
+ +       0.0053 * (normalized) v158
+ +       0.0328 * (normalized) v159
+ +      -0.0949 * (normalized) v160
+ +      -0.1436 * (normalized) v161
+ +      -0.0233 * (normalized) v162
+ +      -0.0576 * (normalized) v163
+ +      -0.0499 * (normalized) v164
+ +      -0.011  * (normalized) v165
+ +      -0.0489 * (normalized) v166
+ +      -0.0364 * (normalized) v167
+ +      -0.2683 * (normalized) v168
+ +       0.1647 * (normalized) v169
+ +       0.1468 * (normalized) v170
+ +      -0.0019 * (normalized) v171
+ +       0.0881 * (normalized) v172
+ +      -0.0554 * (normalized) v173
+ +       0.0736 * (normalized) v174
+ +      -0.1434 * (normalized) v175
+ +       0.0829 * (normalized) v176
+ +       0.1503 * (normalized) v177
+ +      -0.0625 * (normalized) v178
+ +      -0.1144 * (normalized) v179
+ +      -0.0137 * (normalized) v180
+ +      -0.0744 * (normalized) v181
+ +       0.0043 * (normalized) v182
+ +      -0.0355 * (normalized) v183
+ +       0.022  * (normalized) v184
+ +      -0.0703 * (normalized) v185
+ +      -0.0287 * (normalized) v186
+ +       0.0551 * (normalized) v187
+ +      -0.0272 * (normalized) v188
+ +      -0.0222 * (normalized) v189
+ +      -0.1593 * (normalized) v190
+ +       0.1046 * (normalized) v191
+ +       0.0314 * (normalized) v192
+ +      -0.1116 * (normalized) v193
+ +       0.1464 * (normalized) v194
+ +       0.0537 * (normalized) v195
+ +       0.0342 * (normalized) v196
+ +      -0.1391 * (normalized) v197
+ +       0.1233 * (normalized) v198
+ +      -0.0631 * (normalized) v199
+ +       0.0646 * (normalized) v200
+ +       0.2189 * (normalized) *
+ +      -0.0266 * (normalized) अंदर
+ +      -0.0156 * (normalized) अक्षर
+ +       0.0218 * (normalized) अधिक
+ +      -0.0038 * (normalized) अधिकारी
+ +      -0.0135 * (normalized) अनौचित्य
+ +      -0.0289 * (normalized) अपने
+ +      -0.0015 * (normalized) अप्सरा
+ +      -0.0182 * (normalized) अरुणाचल
+ +      -0.0548 * (normalized) अवश्य
+ +      -0.0417 * (normalized) अवस्था
+ +      -0.0106 * (normalized) असाधारण
+ +      -0.0202 * (normalized) आकृति
+ +      -0.0398 * (normalized) आदि
+ +      -0.0075 * (normalized) आना
+ +      -0.0106 * (normalized) आने
+ +      -0.1002 * (normalized) आनेवाला
+ +      -0.058  * (normalized) आशा
+ +      -0.0156 * (normalized) इकतीसवाँ
+ +      -0.149  * (normalized) इतना
+ +      -0.1329 * (normalized) इस
+ +      -0.0156 * (normalized) इसे
+ +      -0.0297 * (normalized) इस्राइल
+ +      -0.0156 * (normalized) उच्चारण
+ +      -0.0106 * (normalized) उठने
+ +      -0.055  * (normalized) उड़ीसा
+ +      -0.0555 * (normalized) उत्पन्न
+ +      -0.0153 * (normalized) उलटा
+ +      -0.0135 * (normalized) उल्लंघन
+ +      -0.0266 * (normalized) उष्णता
+ +       0.0603 * (normalized) उसकी
+ +      -0.0229 * (normalized) उसे
+ +       0.0237 * (normalized) एक
+ +      -0.1401 * (normalized) एकादशी
+ +      -0.0601 * (normalized) ऐसी
+ +      -0.0703 * (normalized) ओर
+ +       0.0944 * (normalized) और
+ +      -0.0266 * (normalized) औषध
+ +      -0.0683 * (normalized) कम
+ +      -0.0266 * (normalized) करता
+ +      -0.1293 * (normalized) करना
+ +      -0.0075 * (normalized) करने
+ +      -0.0156 * (normalized) कहते
+ +      -0.0154 * (normalized) कहा
+ +       0.0087 * (normalized) का
+ +      -0.0088 * (normalized) काग़ज़
+ +      -0.0692 * (normalized) काम
+ +      -0.0032 * (normalized) कारण
+ +      -0.1401 * (normalized) कार्तिक
+ +      -0.0135 * (normalized) कार्य
+ +      -0.0135 * (normalized) कि
+ +       0.0306 * (normalized) किया
+ +       0.0632 * (normalized) किसी
+ +      -0.0491 * (normalized) की
+ +      -0.0044 * (normalized) कीड़ों
+ +      -0.0153 * (normalized) कुछ
+ +      -0.1193 * (normalized) कृष्ण
+ +      -0.1401 * (normalized) कृष्णपक्ष
+ +       0.0407 * (normalized) के
+ +      -0.0284 * (normalized) को
+ +      -0.0489 * (normalized) कोई
+ +      -0.1041 * (normalized) कोयल
+ +      -0.0257 * (normalized) क्रांतिकारी
+ +      -0.1433 * (normalized) क्रिया
+ +      -0.0088 * (normalized) खाते
+ +      -0.0266 * (normalized) खाद्य
+ +      -0.0053 * (normalized) खेल
+ +      -0.058  * (normalized) गई
+ +      -0.0135 * (normalized) गतिविधि
+ +       0      * (normalized) गया
+ +      -0.1046 * (normalized) गिनती
+ +      -0.0153 * (normalized) घट
+ +      -0.138  * (normalized) घटने
+ +      -0.0053 * (normalized) घात
+ +      -0.1193 * (normalized) चतुर्थी
+ +      -0.1417 * (normalized) चलता
+ +      -0.0075 * (normalized) चले
+ +      -0.04   * (normalized) चारों
+ +      -0.0663 * (normalized) छत्तीसगढ़
+ +      -0.0053 * (normalized) जगह
+ +      -0.0064 * (normalized) जर्मनी
+ +      -0.0256 * (normalized) जल्दी-जल्दी
+ +      -0.0843 * (normalized) जहाँ
+ +      -0.0396 * (normalized) जा
+ +      -0.0234 * (normalized) जाति
+ +      -0.0483 * (normalized) जितना
+ +       0      * (normalized) जिला
+ +      -0.0099 * (normalized) जिसका
+ +      -0.0014 * (normalized) जिसकी
+ +      -0.0156 * (normalized) जिसके
+ +      -0.0114 * (normalized) जिसने
+ +      -0.0371 * (normalized) जिसमें
+ +       0.0077 * (normalized) जिससे
+ +      -0.0268 * (normalized) जीत
+ +      -0.0234 * (normalized) जूही
+ +      -0.058  * (normalized) जैसी
+ +      -0.1396 * (normalized) जो
+ +      -0.0262 * (normalized) जोड़
+ +      -0.0044 * (normalized) ठठरी
+ +      -0.0697 * (normalized) ढंग
+ +      -0.0304 * (normalized) तरफ़
+ +      -0.0266 * (normalized) ताप
+ +      -0.0266 * (normalized) तापकारक
+ +      -0.0106 * (normalized) तार
+ +      -0.0266 * (normalized) तासीर
+ +      -0.0417 * (normalized) दुश्मन
+ +       0.0396 * (normalized) दूसरी
+ +      -0.0106 * (normalized) देखने
+ +      -0.0212 * (normalized) देखी
+ +      -0.1503 * (normalized) देनेवाला
+ +      -0.0038 * (normalized) देश
+ +      -0.0262 * (normalized) दो
+ +      -0.0075 * (normalized) द्वारा
+ +      -0.0106 * (normalized) धातु
+ +      -0.138  * (normalized) धीरे-धीरे
+ +      -0.0454 * (normalized) ध्यान
+ +      -0.0584 * (normalized) न
+ +      -0.0106 * (normalized) नई
+ +      -0.04   * (normalized) नज़दीक
+ +      -0.138  * (normalized) नष्ट
+ +      -0.0549 * (normalized) निपुण
+ +      -0.0297 * (normalized) निवासी
+ +      -0.0548 * (normalized) निश्चित
+ +      -0.0578 * (normalized) पंजाब
+ +       0.1655 * (normalized) पक्ष
+ +      -0.0053 * (normalized) पड़ता
+ +      -0.0266 * (normalized) पदार्थ
+ +       0.014  * (normalized) पर
+ +      -0.0548 * (normalized) परस्थिति
+ +      -0.0697 * (normalized) परेशानी
+ +      -0.0149 * (normalized) पश्चिम
+ +      -0.0075 * (normalized) पसंद
+ +      -0.0266 * (normalized) पहुँचकर
+ +      -0.0135 * (normalized) पाए
+ +      -0.0114 * (normalized) पायी
+ +      -0.0075 * (normalized) पास
+ +      -0.1503 * (normalized) पीड़ा
+ +      -0.0038 * (normalized) पुलिस
+ +      -0.1134 * (normalized) पेड़
+ +      -0.0234 * (normalized) पौधा
+ +      -0.018  * (normalized) प्रकार
+ +      -0.0548 * (normalized) प्रतिष्ठा
+ +      -0.058  * (normalized) प्रत्याशा
+ +      -0.1193 * (normalized) प्रत्येक
+ +      -0.0106 * (normalized) प्रदर्शित
+ +      -0.0182 * (normalized) प्रदेश
+ +      -0.0266 * (normalized) प्रभाव
+ +      -0.0257 * (normalized) प्रमुख
+ +      -0.0106 * (normalized) प्रसिद्ध
+ +      -0.0262 * (normalized) प्राप्त
+ +      -0.0075 * (normalized) प्रेरणा
+ +      -0.0234 * (normalized) फूलवाला
+ +      -0.0149 * (normalized) बंगाल
+ +      -0.0224 * (normalized) बतानेवाला
+ +      -0.0106 * (normalized) बनते
+ +      -0.0289 * (normalized) बना
+ +      -0.0549 * (normalized) बनाना
+ +      -0.0202 * (normalized) बनी
+ +      -0.0106 * (normalized) बर्तन
+ +       0.3878 * (normalized) बहुत
+ +      -0.0153 * (normalized) बाजी
+ +      -0.1091 * (normalized) बात
+ +      -0.0053 * (normalized) बादशाह
+ +      -0.0289 * (normalized) बाप-दादा
+ +      -0.0697 * (normalized) बिना
+ +      -0.0212 * (normalized) बीती
+ +      -0.0262 * (normalized) बीस
+ +      -0.0179 * (normalized) बोलना
+ +      -0.0142 * (normalized) भविष्य
+ +      -0.0182 * (normalized) भारत
+ +      -0.0186 * (normalized) भारतीय
+ +      -0.033  * (normalized) भाव
+ +      -0.1587 * (normalized) भी
+ +      -0.0106 * (normalized) मन
+ +      -0.1193 * (normalized) महीने
+ +      -0.0548 * (normalized) मान
+ +       0.1448 * (normalized) मास
+ +      -0.1041 * (normalized) मीठे
+ +      -0.0053 * (normalized) मुहरा
+ +      -0.0156 * (normalized) मूर्धन्य
+ +      -0.0156 * (normalized) मूर्धा
+ +      -0.0756 * (normalized) में
+ +      -0.1041 * (normalized) मोर
+ +      -0.1279 * (normalized) या
+ +      -0.0106 * (normalized) रंग
+ +      -0.0202 * (normalized) रंगों
+ +      -0.0135 * (normalized) रखना
+ +      -0.0053 * (normalized) रखने
+ +      -0.0044 * (normalized) रत्नों
+ +      -0.0789 * (normalized) रहता
+ +       0.0122 * (normalized) रहने
+ +      -0.0064 * (normalized) रहनेवाला
+ +      -0.0153 * (normalized) रहा
+ +      -0.076  * (normalized) राज्य
+ +      -0.0289 * (normalized) रिश्ता
+ +      -0.0776 * (normalized) रूप
+ +      -0.0202 * (normalized) रेखाओं
+ +      -0.0075 * (normalized) लगना
+ +      -0.0212 * (normalized) लाना
+ +      -0.015  * (normalized) लाल
+ +       0.0654 * (normalized) लिए
+ +      -0.1417 * (normalized) लिखकर
+ +      -0.0088 * (normalized) लिखना
+ +      -0.0114 * (normalized) लिया
+ +      -0.0153 * (normalized) लेना
+ +      -0.0289 * (normalized) वंश
+ +      -0.0038 * (normalized) वरिष्ठ
+ +      -0.0156 * (normalized) वर्णमाला
+ +      -0.0203 * (normalized) वस्तु
+ +       0.0331 * (normalized) वह
+ +      -0.0154 * (normalized) वाद
+ +       0.4281 * (normalized) वाला
+ +      -0.0114 * (normalized) विजय
+ +      -0.0106 * (normalized) विलक्ष्ण
+ +      -0.0154 * (normalized) विवाद
+ +      -0.0114 * (normalized) विश्व
+ +      -0.0156 * (normalized) व्यंजन
+ +      -0.0699 * (normalized) व्यक्ति
+ +      -0.0789 * (normalized) व्यक्तियों
+ +      -0.0154 * (normalized) व्यर्थ
+ +      -0.0075 * (normalized) शक्ति
+ +      -0.0053 * (normalized) शतरंज
+ +      -0.0417 * (normalized) शत्रु
+ +      -0.0266 * (normalized) शरीर
+ +      -0.134  * (normalized) शहर
+ +      -0.1051 * (normalized) संख्या
+ +      -0.0257 * (normalized) संग्राम
+ +      -0.0289 * (normalized) संबंधी
+ +      -0.0798 * (normalized) सकता
+ +      -0.0234 * (normalized) सफेद
+ +      -0.0636 * (normalized) सबसे
+ +      -0.0044 * (normalized) समुद्री
+ +       0      * (normalized) सामने
+ +      -0.0228 * (normalized) सामान्य
+ +      -0.0135 * (normalized) सीमा
+ +      -0.0075 * (normalized) सुंदरता
+ +      -0.0106 * (normalized) सुनने
+ +      -0.0366 * (normalized) सुनी
+ +      -0.0697 * (normalized) सुविधाजनक
+ +       0.0021 * (normalized) से
+ +      -0.0038 * (normalized) सेवाओं
+ +      -0.1002 * (normalized) सौ
+ +      -0.0038 * (normalized) स्तर
+ +      -0.0156 * (normalized) स्थल
+ +      -0.1002 * (normalized) स्थान
+ +       0.1654 * (normalized) स्थिति
+ +      -0.0257 * (normalized) स्वतंत्रता
+ +      -0.1041 * (normalized) स्वर
+ +       0.0647 * (normalized) हर
+ +      -0.0153 * (normalized) हारती
+ +      -0.0156 * (normalized) हिंदी
+ +       0.075  * (normalized) ही
+ +      -0.0568 * (normalized) हुई
+ +       0.0493 * (normalized) है
+ +      -0.0014 * (normalized) हैं
+ +      -0.2249 * (normalized) हो
+ +       0.0149 * (normalized) होता
+ +      -0.0044 * (normalized) होती
+ +      -0.0106 * (normalized) होना
+ +       0.105  * (normalized) होने
+ +       0.0122 * (normalized) आठ
+ +       0.0925 * (normalized) दिन
+ +       0.0471 * (normalized) बाद
+ +       0.6066 * (normalized) समय
+ +       0.0149 * (normalized) अंत
+ +       0.0414 * (normalized) अतिवृष्टि
+ +       0.0414 * (normalized) अनावृष्टि
+ +       0.0414 * (normalized) अन्न
+ +       0.118  * (normalized) आंत्र-ज्वर
+ +       0.0499 * (normalized) आए
+ +       0.0702 * (normalized) आघात
+ +       0.0248 * (normalized) आती
+ +       0.0149 * (normalized) आरंभ
+ +       0.0862 * (normalized) आवाज
+ +       0.116  * (normalized) उठाकर
+ +       0.0296 * (normalized) उड़ने
+ +       0.0499 * (normalized) उतना
+ +       0.0414 * (normalized) ऐसा
+ +       0.0862 * (normalized) ऐसे
+ +       0.0414 * (normalized) कठिनता
+ +       0.0248 * (normalized) कफ़
+ +       0.0414 * (normalized) कमी
+ +       0.1017 * (normalized) कर
+ +       0.0296 * (normalized) काटती
+ +       0.1    * (normalized) कीड़ा
+ +       0.0296 * (normalized) खून
+ +       0.1595 * (normalized) गरीबी
+ +       0.0731 * (normalized) गोलियाँ
+ +       0.116  * (normalized) चलना
+ +       0.2848 * (normalized) चान्द्र
+ +       0.0296 * (normalized) चूसती
+ +       0.0703 * (normalized) चैत
+ +       0.0248 * (normalized) छीकें
+ +       0.0296 * (normalized) छोटा
+ +       0.0731 * (normalized) छोड़ना
+ +       0.0149 * (normalized) जब
+ +       0.0731 * (normalized) जाए
+ +       0.0702 * (normalized) जाने
+ +       0.0862 * (normalized) जोर
+ +       0.1882 * (normalized) डालना
+ +       0.0122 * (normalized) तक
+ +       0.0248 * (normalized) तथा
+ +       0.118  * (normalized) तरह
+ +       0.0471 * (normalized) तलाक़
+ +       0.0471 * (normalized) तलाक़शुदा
+ +       0.2848 * (normalized) तिथि
+ +       0.0471 * (normalized) देने
+ +       0.1171 * (normalized) नहीं
+ +       0.0248 * (normalized) नाक
+ +       0.0248 * (normalized) निकलता
+ +       0.0546 * (normalized) निर्यात
+ +       0.2848 * (normalized) नौवीं
+ +       0.0471 * (normalized) पति
+ +       0.0248 * (normalized) पानी
+ +       0.0702 * (normalized) पूरी
+ +       0.0499 * (normalized) पेट
+ +       0.116  * (normalized) पैर
+ +       0.0703 * (normalized) फसल
+ +       0.2318 * (normalized) बंद
+ +       0.0731 * (normalized) बंदूक
+ +       0.106  * (normalized) बीच
+ +       0.0471 * (normalized) मरने
+ +       0.0296 * (normalized) मादा
+ +       0.0414 * (normalized) मिले
+ +       0.0248 * (normalized) मुँह
+ +       0.0471 * (normalized) मुसलमानों
+ +       0.0731 * (normalized) मौत
+ +       0.106  * (normalized) युवा
+ +       0.0149 * (normalized) रात
+ +       0.0248 * (normalized) रोग
+ +       0.0855 * (normalized) लंबा
+ +       0.1249 * (normalized) लगने
+ +       0.0471 * (normalized) विधवा
+ +       0.2318 * (normalized) विनाश
+ +       0.2745 * (normalized) विपत्ति
+ +       0.0471 * (normalized) शादी
+ +       0.106  * (normalized) शैशव
+ +       0.1882 * (normalized) संकट
+ +       0.1882 * (normalized) संभावनावाली
+ +       0.0471 * (normalized) सकती
+ +       0.2018 * (normalized) सकने
+ +       0.0731 * (normalized) सारी
+ +       0.0471 * (normalized) स्त्री
+ +       0.0702 * (normalized) हथेली
+ +       0.7601
+
+Number of kernel evaluations: 6010 (92.511% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                 Class
+Variable     atemporal
+======================
+pred           -56.144
+Intercept     -33.1065
+
+
+Odds Ratios...
+                 Class
+Variable     atemporal
+======================
+pred                 0
+
+
+Classifier for classes: atemporal, present
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0861 * (normalized) v1
+ +      -0.1522 * (normalized) v2
+ +      -0.0495 * (normalized) v3
+ +      -0.0038 * (normalized) v4
+ +       0.0273 * (normalized) v5
+ +       0.0117 * (normalized) v6
+ +       0.1641 * (normalized) v7
+ +       0.03   * (normalized) v8
+ +      -0.1822 * (normalized) v9
+ +      -0.1018 * (normalized) v10
+ +       0.0049 * (normalized) v11
+ +       0.1476 * (normalized) v12
+ +      -0.0975 * (normalized) v13
+ +       0.0112 * (normalized) v14
+ +       0.1343 * (normalized) v15
+ +       0.0271 * (normalized) v16
+ +      -0.011  * (normalized) v17
+ +       0.1575 * (normalized) v18
+ +       0.1512 * (normalized) v19
+ +      -0.0202 * (normalized) v20
+ +       0.0157 * (normalized) v21
+ +      -0.0076 * (normalized) v22
+ +       0.0734 * (normalized) v23
+ +       0.0104 * (normalized) v24
+ +      -0.0966 * (normalized) v25
+ +       0.1306 * (normalized) v26
+ +      -0.1849 * (normalized) v27
+ +      -0.0445 * (normalized) v28
+ +      -0.0288 * (normalized) v29
+ +      -0.0161 * (normalized) v30
+ +      -0.0886 * (normalized) v31
+ +      -0.0854 * (normalized) v32
+ +      -0.1077 * (normalized) v33
+ +      -0.0107 * (normalized) v34
+ +       0.0457 * (normalized) v35
+ +       0.1008 * (normalized) v36
+ +       0.0558 * (normalized) v37
+ +      -0.0185 * (normalized) v38
+ +       0.2081 * (normalized) v39
+ +       0.0146 * (normalized) v40
+ +       0.1495 * (normalized) v41
+ +       0.0644 * (normalized) v42
+ +      -0.0605 * (normalized) v43
+ +       0.1445 * (normalized) v44
+ +       0.176  * (normalized) v45
+ +      -0.1335 * (normalized) v46
+ +       0.0203 * (normalized) v47
+ +      -0.0177 * (normalized) v48
+ +      -0.0877 * (normalized) v49
+ +      -0.0603 * (normalized) v50
+ +       0.0427 * (normalized) v51
+ +      -0.1177 * (normalized) v52
+ +      -0.0612 * (normalized) v53
+ +      -0.0836 * (normalized) v54
+ +       0.1339 * (normalized) v55
+ +       0.0135 * (normalized) v56
+ +       0.0292 * (normalized) v57
+ +       0.0104 * (normalized) v58
+ +      -0.0681 * (normalized) v59
+ +      -0.0799 * (normalized) v60
+ +      -0.0039 * (normalized) v61
+ +      -0.0955 * (normalized) v62
+ +      -0.1323 * (normalized) v63
+ +       0.035  * (normalized) v64
+ +      -0.081  * (normalized) v65
+ +       0.0438 * (normalized) v66
+ +       0.1029 * (normalized) v67
+ +      -0.2599 * (normalized) v68
+ +       0.0203 * (normalized) v69
+ +      -0.0551 * (normalized) v70
+ +      -0.0274 * (normalized) v71
+ +       0.0213 * (normalized) v72
+ +      -0.1583 * (normalized) v73
+ +       0.0291 * (normalized) v74
+ +      -0.0816 * (normalized) v75
+ +       0.0081 * (normalized) v76
+ +      -0.1119 * (normalized) v77
+ +       0.0004 * (normalized) v78
+ +      -0.0561 * (normalized) v79
+ +      -0.0985 * (normalized) v80
+ +       0.1251 * (normalized) v81
+ +      -0.05   * (normalized) v82
+ +       0.162  * (normalized) v83
+ +       0      * (normalized) v84
+ +      -0.1124 * (normalized) v85
+ +       0.0028 * (normalized) v86
+ +      -0.1016 * (normalized) v87
+ +      -0.0287 * (normalized) v88
+ +      -0.0498 * (normalized) v89
+ +       0.0301 * (normalized) v90
+ +       0.0311 * (normalized) v91
+ +      -0.0035 * (normalized) v92
+ +      -0.0186 * (normalized) v93
+ +      -0.0821 * (normalized) v94
+ +       0.189  * (normalized) v95
+ +      -0.0497 * (normalized) v96
+ +      -0.0986 * (normalized) v97
+ +       0.0493 * (normalized) v98
+ +      -0.1107 * (normalized) v99
+ +       0.0609 * (normalized) v100
+ +      -0.0676 * (normalized) v101
+ +      -0.1923 * (normalized) v102
+ +      -0.1332 * (normalized) v103
+ +       0.0422 * (normalized) v104
+ +       0.0535 * (normalized) v105
+ +       0.0835 * (normalized) v106
+ +      -0.0984 * (normalized) v107
+ +      -0.1634 * (normalized) v108
+ +       0.0534 * (normalized) v109
+ +       0.0258 * (normalized) v110
+ +      -0.0375 * (normalized) v111
+ +      -0.1374 * (normalized) v112
+ +       0.0238 * (normalized) v113
+ +      -0.0733 * (normalized) v114
+ +       0.0904 * (normalized) v115
+ +       0.0289 * (normalized) v116
+ +      -0.0564 * (normalized) v117
+ +      -0.0804 * (normalized) v118
+ +      -0.0485 * (normalized) v119
+ +      -0.0863 * (normalized) v120
+ +      -0.0147 * (normalized) v121
+ +      -0.0135 * (normalized) v122
+ +      -0.1408 * (normalized) v123
+ +      -0.0998 * (normalized) v124
+ +      -0.0827 * (normalized) v125
+ +       0.1097 * (normalized) v126
+ +       0.0196 * (normalized) v127
+ +       0.0017 * (normalized) v128
+ +      -0.1347 * (normalized) v129
+ +      -0.0977 * (normalized) v130
+ +       0.0176 * (normalized) v131
+ +       0.1154 * (normalized) v132
+ +      -0.0914 * (normalized) v133
+ +       0.071  * (normalized) v134
+ +       0.0596 * (normalized) v135
+ +       0.1924 * (normalized) v136
+ +      -0.0897 * (normalized) v137
+ +      -0.0485 * (normalized) v138
+ +      -0.0113 * (normalized) v139
+ +       0.0358 * (normalized) v140
+ +      -0.0061 * (normalized) v141
+ +       0.0181 * (normalized) v142
+ +       0.0351 * (normalized) v143
+ +       0.0177 * (normalized) v144
+ +      -0.078  * (normalized) v145
+ +       0.0463 * (normalized) v146
+ +      -0.0882 * (normalized) v147
+ +      -0.0243 * (normalized) v148
+ +      -0.0096 * (normalized) v149
+ +      -0.0883 * (normalized) v150
+ +       0.0234 * (normalized) v151
+ +      -0.007  * (normalized) v152
+ +      -0.112  * (normalized) v153
+ +      -0.0402 * (normalized) v154
+ +       0.0467 * (normalized) v155
+ +       0.0357 * (normalized) v156
+ +      -0.0074 * (normalized) v157
+ +       0.1511 * (normalized) v158
+ +       0.0095 * (normalized) v159
+ +      -0.0361 * (normalized) v160
+ +      -0.1844 * (normalized) v161
+ +      -0.1344 * (normalized) v162
+ +       0.074  * (normalized) v163
+ +       0.0222 * (normalized) v164
+ +      -0.1551 * (normalized) v165
+ +       0.0147 * (normalized) v166
+ +       0.0795 * (normalized) v167
+ +      -0.0208 * (normalized) v168
+ +       0.083  * (normalized) v169
+ +       0.1244 * (normalized) v170
+ +      -0.0612 * (normalized) v171
+ +      -0.2113 * (normalized) v172
+ +      -0.0082 * (normalized) v173
+ +       0.0065 * (normalized) v174
+ +      -0.0077 * (normalized) v175
+ +      -0.0497 * (normalized) v176
+ +       0.1433 * (normalized) v177
+ +      -0.0777 * (normalized) v178
+ +       0.1534 * (normalized) v179
+ +       0.0079 * (normalized) v180
+ +      -0.0089 * (normalized) v181
+ +      -0.1629 * (normalized) v182
+ +      -0.1114 * (normalized) v183
+ +       0.0792 * (normalized) v184
+ +       0.008  * (normalized) v185
+ +       0.1243 * (normalized) v186
+ +      -0.2106 * (normalized) v187
+ +      -0.0361 * (normalized) v188
+ +      -0.104  * (normalized) v189
+ +       0.0157 * (normalized) v190
+ +       0.0935 * (normalized) v191
+ +       0.1365 * (normalized) v192
+ +      -0.03   * (normalized) v193
+ +      -0.0348 * (normalized) v194
+ +      -0.0011 * (normalized) v195
+ +       0.0865 * (normalized) v196
+ +       0.0589 * (normalized) v197
+ +       0.1172 * (normalized) v198
+ +      -0.1432 * (normalized) v199
+ +       0.0582 * (normalized) v200
+ +      -0.0171 * (normalized) अंदर
+ +      -0.0469 * (normalized) अक्षर
+ +      -0.0552 * (normalized) अधिक
+ +      -0.009  * (normalized) अधिकार
+ +      -0.037  * (normalized) अन्य
+ +      -0.0172 * (normalized) अपने
+ +      -0.002  * (normalized) अभिनय
+ +      -0.0322 * (normalized) अवश्य
+ +      -0.0098 * (normalized) अव्यवस्थित
+ +      -0.0128 * (normalized) असाधारण
+ +      -0.0119 * (normalized) आकृति
+ +      -0.0385 * (normalized) आदि
+ +      -0.0046 * (normalized) आनंदित
+ +      -0.0128 * (normalized) आने
+ +      -0.0519 * (normalized) आनेवाला
+ +      -0.0018 * (normalized) आयरलैंड
+ +      -0.0358 * (normalized) आया
+ +      -0.037  * (normalized) आवास
+ +      -0.0823 * (normalized) आशा
+ +      -0.0055 * (normalized) आसानी
+ +      -0.0114 * (normalized) आहार
+ +      -0.0114 * (normalized) आहार-विज्ञान
+ +      -0.0469 * (normalized) इकतीसवाँ
+ +      -0.0323 * (normalized) इतना
+ +       0.1143 * (normalized) इस
+ +      -0.0469 * (normalized) इसे
+ +      -0.0469 * (normalized) उच्चारण
+ +      -0.0128 * (normalized) उठने
+ +      -0.0018 * (normalized) उत्तरी
+ +      -0.0297 * (normalized) उत्पन्न
+ +      -0.037  * (normalized) उद्देश्य
+ +      -0.0114 * (normalized) उन्हें
+ +      -0.0077 * (normalized) उपन्यास
+ +      -0.002  * (normalized) उपयुक्त
+ +      -0.0074 * (normalized) उपयोगिता
+ +      -0.0101 * (normalized) उलटा
+ +      -0.0171 * (normalized) उष्णता
+ +      -0.009  * (normalized) उसको
+ +      -0.009  * (normalized) उसपर
+ +      -0.0156 * (normalized) उसे
+ +      -0.0151 * (normalized) ऊपर
+ +      -0.1372 * (normalized) एक
+ +      -0.0055 * (normalized) ऐसी
+ +      -0.002  * (normalized) ओझल
+ +      -0.0377 * (normalized) ओर
+ +      -0.0704 * (normalized) और
+ +      -0.0171 * (normalized) औषध
+ +      -0.0077 * (normalized) कथा
+ +      -0.0077 * (normalized) कथानक
+ +      -0.0055 * (normalized) कभी
+ +      -0.0905 * (normalized) कम्प्यूटर
+ +      -0.0171 * (normalized) करता
+ +      -0.0789 * (normalized) करना
+ +      -0.0145 * (normalized) करने
+ +      -0.0053 * (normalized) करनेवाला
+ +      -0.0469 * (normalized) कहते
+ +      -0.019  * (normalized) कहा
+ +      -0.0126 * (normalized) का
+ +      -0.0055 * (normalized) काम
+ +      -0.0595 * (normalized) कारण
+ +       0.0345 * (normalized) कार्य
+ +      -0.0169 * (normalized) कि
+ +      -0.0018 * (normalized) किंगडम
+ +      -0.0114 * (normalized) कितनी
+ +       0.0245 * (normalized) किया
+ +      -0.0114 * (normalized) किस
+ +      -0.0543 * (normalized) किसी
+ +      -0.1154 * (normalized) की
+ +      -0.0252 * (normalized) कुछ
+ +      -0.0385 * (normalized) कृष्ण
+ +      -0.1956 * (normalized) के
+ +       0.0776 * (normalized) को
+ +      -0.0039 * (normalized) कोई
+ +      -0.0053 * (normalized) क्रिकेट
+ +      -0.1037 * (normalized) क्रिया
+ +      -0.0046 * (normalized) क्रिया-कलापों
+ +      -0.0171 * (normalized) खाद्य
+ +      -0.0114 * (normalized) खाना
+ +      -0.0823 * (normalized) गई
+ +      -0.134  * (normalized) गया
+ +      -0.0519 * (normalized) गिनती
+ +      -0.0018 * (normalized) ग्रेट
+ +      -0.0101 * (normalized) घट
+ +      -0.0947 * (normalized) घटने
+ +      -0.0385 * (normalized) चतुर्थी
+ +      -0.0077 * (normalized) चरित्र
+ +      -0.0705 * (normalized) चलता
+ +      -0.0018 * (normalized) चार
+ +      -0.0114 * (normalized) चाहिए
+ +      -0.0098 * (normalized) चीज़ों
+ +      -0.0358 * (normalized) छापकर
+ +      -0.0066 * (normalized) जर्मनी
+ +      -0.0705 * (normalized) जल्दी-जल्दी
+ +      -0.0925 * (normalized) जहाँ
+ +      -0.0209 * (normalized) जा
+ +      -0.0503 * (normalized) जितना
+ +      -0.008  * (normalized) जिला
+ +       0.0553 * (normalized) जिस
+ +      -0.046  * (normalized) जिसका
+ +      -0.0245 * (normalized) जिसकी
+ +       0.0088 * (normalized) जिसके
+ +      -0.0376 * (normalized) जिसने
+ +      -0.009  * (normalized) जिसपर
+ +       0.0675 * (normalized) जिसमें
+ +      -0.0219 * (normalized) जिससे
+ +      -0.0358 * (normalized) जिसे
+ +      -0.0363 * (normalized) जीत
+ +      -0.0823 * (normalized) जैसी
+ +       0.0978 * (normalized) जो
+ +      -0.0157 * (normalized) जोड़
+ +      -0.0114 * (normalized) ज्ञान
+ +      -0.0148 * (normalized) झील
+ +      -0.0572 * (normalized) ट्यूनीश
+ +      -0.008  * (normalized) तमिलनाडु
+ +      -0.0377 * (normalized) तरफ़
+ +      -0.0171 * (normalized) ताप
+ +      -0.0171 * (normalized) तापकारक
+ +      -0.0219 * (normalized) तार
+ +      -0.0171 * (normalized) तासीर
+ +      -0.0021 * (normalized) दबदबा
+ +      -0.002  * (normalized) दर्शकों
+ +      -0.0077 * (normalized) दिखाया
+ +      -0.0151 * (normalized) दिशा
+ +      -0.0074 * (normalized) दूसरी
+ +      -0.0171 * (normalized) दृष्टि
+ +      -0.0053 * (normalized) देख-रेख
+ +      -0.0128 * (normalized) देखने
+ +      -0.0114 * (normalized) देता
+ +      -0.0811 * (normalized) देनेवाला
+ +      -0.0018 * (normalized) देशों
+ +      -0.0157 * (normalized) दो
+ +      -0.0952 * (normalized) द्वारा
+ +      -0.0219 * (normalized) धातु
+ +      -0.0947 * (normalized) धीरे-धीरे
+ +      -0.0128 * (normalized) ध्यान
+ +      -0.0358 * (normalized) न
+ +      -0.0128 * (normalized) नई
+ +      -0.0947 * (normalized) नष्ट
+ +      -0.002  * (normalized) नाटक
+ +      -0.009  * (normalized) निजी
+ +      -0.009  * (normalized) नियंत्रण
+ +      -0.0322 * (normalized) निश्चित
+ +      -0.0151 * (normalized) नीचे
+ +      -0.0385 * (normalized) पक्ष
+ +      -0.0074 * (normalized) पड़ता
+ +      -0.0193 * (normalized) पद
+ +      -0.0171 * (normalized) पदार्थ
+ +      -0.0827 * (normalized) पर
+ +      -0.0322 * (normalized) परस्थिति
+ +      -0.0053 * (normalized) परिषद
+ +      -0.0112 * (normalized) पहाड़
+ +      -0.0171 * (normalized) पहुँचकर
+ +      -0.002  * (normalized) पात्र
+ +      -0.0262 * (normalized) पायी
+ +      -0.0148 * (normalized) पार
+ +      -0.037  * (normalized) पास
+ +      -0.037  * (normalized) पासपोर्ट
+ +      -0.002  * (normalized) पीछे
+ +      -0.0811 * (normalized) पीड़ा
+ +      -0.049  * (normalized) पेड़
+ +      -0.0114 * (normalized) पोषण
+ +      -0.0114 * (normalized) प्रकार
+ +      -0.0358 * (normalized) प्रचलित
+ +      -0.0823 * (normalized) प्रत्याशा
+ +      -0.0385 * (normalized) प्रत्येक
+ +      -0.0128 * (normalized) प्रदर्शित
+ +      -0.0266 * (normalized) प्रभाव
+ +      -0.0193 * (normalized) प्रमुख
+ +       0.0555 * (normalized) प्रयोग
+ +      -0.0193 * (normalized) प्रशासनिक
+ +      -0.0219 * (normalized) प्रसिद्ध
+ +      -0.0271 * (normalized) प्राप्त
+ +      -0.0993 * (normalized) बतानेवाला
+ +      -0.009  * (normalized) बदलकर
+ +      -0.0219 * (normalized) बनते
+ +      -0.0125 * (normalized) बना
+ +      -0.0018 * (normalized) बनाने
+ +      -0.0119 * (normalized) बनी
+ +      -0.0219 * (normalized) बर्तन
+ +      -0.0101 * (normalized) बाजी
+ +      -0.112  * (normalized) बात
+ +       0.048  * (normalized) बातों
+ +      -0.0125 * (normalized) बाप-दादा
+ +      -0.0157 * (normalized) बीस
+ +      -0.0055 * (normalized) बेरोक-टोक
+ +      -0.0018 * (normalized) ब्रिटेन
+ +      -0.0626 * (normalized) भविष्य
+ +      -0.002  * (normalized) भाग
+ +      -0.0491 * (normalized) भारतीय
+ +      -0.0081 * (normalized) भाव
+ +      -0.0421 * (normalized) भी
+ +      -0.0128 * (normalized) मन
+ +      -0.0074 * (normalized) महत्व
+ +      -0.0385 * (normalized) महीने
+ +      -0.0114 * (normalized) मात्रा
+ +      -0.0074 * (normalized) मान्य
+ +      -0.0469 * (normalized) मूर्धन्य
+ +      -0.0469 * (normalized) मूर्धा
+ +      -0.0114 * (normalized) मे
+ +      -0.0907 * (normalized) में
+ +      -0.0114 * (normalized) यह
+ +      -0.1565 * (normalized) या
+ +      -0.0018 * (normalized) यूनाइटेड
+ +      -0.0219 * (normalized) रंग
+ +      -0.002  * (normalized) रंगमंच
+ +      -0.0119 * (normalized) रंगों
+ +      -0.037  * (normalized) रह
+ +      -0.002  * (normalized) रहता
+ +      -0.0114 * (normalized) रहने
+ +      -0.0066 * (normalized) रहनेवाला
+ +       0.0908 * (normalized) रहा
+ +       0      * (normalized) राज्य
+ +      -0.009  * (normalized) राष्ट्र
+ +      -0.0125 * (normalized) रिश्ता
+ +      -0.0371 * (normalized) रूप
+ +      -0.0119 * (normalized) रेखाओं
+ +      -0.037  * (normalized) रोजगार
+ +      -0.0905 * (normalized) लगाया
+ +      -0.0151 * (normalized) लाक्षणिक
+ +      -0.0219 * (normalized) लाल
+ +      -0.0169 * (normalized) लिए
+ +      -0.0705 * (normalized) लिखकर
+ +      -0.0262 * (normalized) लिया
+ +      -0.0101 * (normalized) लेना
+ +      -0.0114 * (normalized) लोगों
+ +      -0.0125 * (normalized) वंश
+ +      -0.0469 * (normalized) वर्णमाला
+ +      -0.0124 * (normalized) वस्तु
+ +       0.1519 * (normalized) वह
+ +      -0.019  * (normalized) वाद
+ +      -0.0128 * (normalized) वाला
+ +      -0.0018 * (normalized) वाले
+ +      -0.0262 * (normalized) विजय
+ +      -0.0114 * (normalized) विज्ञान
+ +      -0.037  * (normalized) विदेश
+ +      -0.0128 * (normalized) विलक्ष्ण
+ +      -0.019  * (normalized) विवाद
+ +      -0.0074 * (normalized) विशेष
+ +      -0.0114 * (normalized) विशेषज्ञ
+ +      -0.0262 * (normalized) विश्व
+ +      -0.01   * (normalized) वृक्ष
+ +      -0.002  * (normalized) वेश-भूषा
+ +      -0.0469 * (normalized) व्यंजन
+ +      -0.0147 * (normalized) व्यक्ति
+ +      -0.019  * (normalized) व्यर्थ
+ +      -0.0046 * (normalized) व्यवहार
+ +      -0.0171 * (normalized) शरीर
+ +      -0.0572 * (normalized) शहर
+ +      -0.037  * (normalized) शिक्षा
+ +      -0.0157 * (normalized) संख्या
+ +       0.0382 * (normalized) संबंधित
+ +       0.0279 * (normalized) संबंधी
+ +       0.0435 * (normalized) सकता
+ +      -0.0055 * (normalized) सके
+ +      -0.002  * (normalized) सज्जित
+ +      -0.009  * (normalized) सत्ता
+ +      -0.0552 * (normalized) सबसे
+ +      -0.009  * (normalized) सरकार
+ +      -0.0358 * (normalized) सर्व
+ +      -0.0114 * (normalized) सलाह
+ +      -0.0358 * (normalized) साधारण
+ +      -0.0358 * (normalized) सामने
+ +      -0.0844 * (normalized) सामान्य
+ +      -0.0128 * (normalized) सुनने
+ +      -0.019  * (normalized) सुनी
+ +      -0.0756 * (normalized) से
+ +      -0.0193 * (normalized) सेवा
+ +      -0.0519 * (normalized) सौ
+ +      -0.0469 * (normalized) स्थल
+ +      -0.0767 * (normalized) स्थान
+ +      -0.009  * (normalized) स्थापित
+ +      -0.0899 * (normalized) स्थिति
+ +      -0.0114 * (normalized) स्वस्थ
+ +      -0.0322 * (normalized) हर
+ +      -0.0101 * (normalized) हारती
+ +      -0.0469 * (normalized) हिंदी
+ +      -0.0148 * (normalized) हिमालय
+ +      -0.0125 * (normalized) ही
+ +      -0.022  * (normalized) हुई
+ +       0.0842 * (normalized) है
+ +      -0.0708 * (normalized) हैं
+ +      -0.0306 * (normalized) हो
+ +       0.058  * (normalized) होता
+ +      -0.002  * (normalized) होते
+ +      -0.0182 * (normalized) होना
+ +      -0.0927 * (normalized) होने
+ +       0.0926 * (normalized) अंगों
+ +       0.0405 * (normalized) अवस्थाओं
+ +       0.121  * (normalized) काल
+ +       0.0405 * (normalized) क्रियाओं
+ +       0.136  * (normalized) दिन
+ +       0.0405 * (normalized) बताता
+ +       0.2569 * (normalized) वर्तमान
+ +       0.0405 * (normalized) व्याकरण
+ +       0.4119 * (normalized) समय
+ +       0.0553 * (normalized) पूरी
+ +       0.0926 * (normalized) अध्ययन
+ +       0.0678 * (normalized) इसी
+ +       0.0678 * (normalized) क्षण
+ +       0.1379 * (normalized) चल
+ +       0.0553 * (normalized) छाप
+ +       0.0926 * (normalized) जाता
+ +       0.0926 * (normalized) तहत
+ +       0.1038 * (normalized) दर्शाता
+ +       0.2736 * (normalized) परिवर्तन
+ +       0.0926 * (normalized) प्राणिविज्ञान
+ +       0.0946 * (normalized) मूल
+ +       0.0678 * (normalized) वक़्त
+ +       0.2603 * (normalized) विद्यमान
+ +       0.0553 * (normalized) विशेषताओं
+ +       0.1251 * (normalized) विषय
+ +       0.0926 * (normalized) शाखा
+ +       0.0926 * (normalized) शारीरिक
+ +       0.0015 * (normalized) सिद्धांत
+ +       0.1251 * (normalized) सूचक
+ +       0.6002
+
+Number of kernel evaluations: 5298 (89.944% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                 Class
+Variable     atemporal
+======================
+pred          -52.9801
+Intercept     -33.9032
+
+
+Odds Ratios...
+                 Class
+Variable     atemporal
+======================
+pred                 0
+
+
+Classifier for classes: atemporal, past
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0975 * (normalized) v1
+ +      -0.1117 * (normalized) v2
+ +      -0.0094 * (normalized) v3
+ +      -0.0888 * (normalized) v4
+ +       0.0496 * (normalized) v5
+ +       0.0037 * (normalized) v6
+ +       0.0273 * (normalized) v7
+ +      -0.0031 * (normalized) v8
+ +      -0.1593 * (normalized) v9
+ +      -0.082  * (normalized) v10
+ +      -0.0108 * (normalized) v11
+ +       0.0755 * (normalized) v12
+ +      -0.0755 * (normalized) v13
+ +       0      * (normalized) v14
+ +       0.1009 * (normalized) v15
+ +      -0.0747 * (normalized) v16
+ +      -0.0935 * (normalized) v17
+ +      -0.0099 * (normalized) v18
+ +      -0.0103 * (normalized) v19
+ +      -0.1096 * (normalized) v20
+ +      -0.007  * (normalized) v21
+ +       0.0108 * (normalized) v22
+ +      -0.0412 * (normalized) v23
+ +       0.0054 * (normalized) v24
+ +      -0.0692 * (normalized) v25
+ +       0.1102 * (normalized) v26
+ +      -0.0638 * (normalized) v27
+ +      -0.014  * (normalized) v28
+ +       0.0578 * (normalized) v29
+ +      -0.0725 * (normalized) v30
+ +      -0.0475 * (normalized) v31
+ +      -0.0276 * (normalized) v32
+ +      -0.143  * (normalized) v33
+ +      -0.034  * (normalized) v34
+ +       0.0416 * (normalized) v35
+ +      -0.0739 * (normalized) v36
+ +       0.1219 * (normalized) v37
+ +       0.151  * (normalized) v38
+ +       0.1042 * (normalized) v39
+ +      -0.0133 * (normalized) v40
+ +       0.1508 * (normalized) v41
+ +      -0.0485 * (normalized) v42
+ +      -0.0106 * (normalized) v43
+ +       0.1091 * (normalized) v44
+ +       0.1695 * (normalized) v45
+ +      -0.0508 * (normalized) v46
+ +       0.059  * (normalized) v47
+ +       0.0774 * (normalized) v48
+ +      -0.1245 * (normalized) v49
+ +      -0.0918 * (normalized) v50
+ +       0.1089 * (normalized) v51
+ +      -0.0439 * (normalized) v52
+ +      -0.0198 * (normalized) v53
+ +       0.0036 * (normalized) v54
+ +      -0.0116 * (normalized) v55
+ +       0.0875 * (normalized) v56
+ +      -0.0486 * (normalized) v57
+ +      -0.0495 * (normalized) v58
+ +      -0.104  * (normalized) v59
+ +      -0.0357 * (normalized) v60
+ +      -0.0536 * (normalized) v61
+ +       0.0801 * (normalized) v62
+ +      -0.2017 * (normalized) v63
+ +       0.0772 * (normalized) v64
+ +      -0.073  * (normalized) v65
+ +      -0.0617 * (normalized) v66
+ +       0.1095 * (normalized) v67
+ +      -0.1342 * (normalized) v68
+ +      -0.1018 * (normalized) v69
+ +      -0.03   * (normalized) v70
+ +       0.0507 * (normalized) v71
+ +      -0.0472 * (normalized) v72
+ +      -0.1044 * (normalized) v73
+ +      -0.0413 * (normalized) v74
+ +      -0.1076 * (normalized) v75
+ +      -0.0636 * (normalized) v76
+ +      -0.1031 * (normalized) v77
+ +      -0.039  * (normalized) v78
+ +      -0.0265 * (normalized) v79
+ +       0.0502 * (normalized) v80
+ +       0.0655 * (normalized) v81
+ +      -0.0136 * (normalized) v82
+ +       0.1112 * (normalized) v83
+ +      -0.009  * (normalized) v84
+ +       0.033  * (normalized) v85
+ +      -0.0273 * (normalized) v86
+ +       0.0636 * (normalized) v87
+ +      -0.0169 * (normalized) v88
+ +      -0.0391 * (normalized) v89
+ +       0.0721 * (normalized) v90
+ +       0.0368 * (normalized) v91
+ +      -0.0267 * (normalized) v92
+ +       0.0592 * (normalized) v93
+ +       0.039  * (normalized) v94
+ +       0.0559 * (normalized) v95
+ +      -0.0466 * (normalized) v96
+ +      -0.0522 * (normalized) v97
+ +       0.0974 * (normalized) v98
+ +      -0.0866 * (normalized) v99
+ +       0.06   * (normalized) v100
+ +      -0.0268 * (normalized) v101
+ +      -0.1635 * (normalized) v102
+ +      -0.0909 * (normalized) v103
+ +       0.1062 * (normalized) v104
+ +      -0.0679 * (normalized) v105
+ +      -0.0764 * (normalized) v106
+ +       0.0004 * (normalized) v107
+ +       0.0199 * (normalized) v108
+ +      -0.0375 * (normalized) v109
+ +       0.0269 * (normalized) v110
+ +      -0.1315 * (normalized) v111
+ +       0.04   * (normalized) v112
+ +       0.0065 * (normalized) v113
+ +      -0.0823 * (normalized) v114
+ +       0.0841 * (normalized) v115
+ +      -0.0892 * (normalized) v116
+ +       0.0464 * (normalized) v117
+ +      -0.0276 * (normalized) v118
+ +      -0.0029 * (normalized) v119
+ +      -0.1497 * (normalized) v120
+ +       0.0072 * (normalized) v121
+ +       0.0194 * (normalized) v122
+ +      -0.1137 * (normalized) v123
+ +      -0.1293 * (normalized) v124
+ +      -0.1926 * (normalized) v125
+ +       0.0814 * (normalized) v126
+ +       0.0699 * (normalized) v127
+ +      -0.0291 * (normalized) v128
+ +      -0.2369 * (normalized) v129
+ +      -0.0794 * (normalized) v130
+ +      -0.0759 * (normalized) v131
+ +      -0.015  * (normalized) v132
+ +      -0.0466 * (normalized) v133
+ +       0.0244 * (normalized) v134
+ +      -0.0622 * (normalized) v135
+ +      -0.0277 * (normalized) v136
+ +      -0.0835 * (normalized) v137
+ +      -0.1266 * (normalized) v138
+ +      -0.0571 * (normalized) v139
+ +       0.057  * (normalized) v140
+ +      -0.0242 * (normalized) v141
+ +       0.0443 * (normalized) v142
+ +      -0.085  * (normalized) v143
+ +       0.1115 * (normalized) v144
+ +       0.0562 * (normalized) v145
+ +       0.0611 * (normalized) v146
+ +      -0.0123 * (normalized) v147
+ +      -0.002  * (normalized) v148
+ +       0.0269 * (normalized) v149
+ +      -0.0645 * (normalized) v150
+ +       0.1014 * (normalized) v151
+ +       0.0145 * (normalized) v152
+ +       0.0816 * (normalized) v153
+ +      -0.0339 * (normalized) v154
+ +      -0.1008 * (normalized) v155
+ +       0.0869 * (normalized) v156
+ +       0.078  * (normalized) v157
+ +      -0.009  * (normalized) v158
+ +       0.0668 * (normalized) v159
+ +       0.0091 * (normalized) v160
+ +      -0.1338 * (normalized) v161
+ +       0.002  * (normalized) v162
+ +      -0.0301 * (normalized) v163
+ +      -0.0444 * (normalized) v164
+ +      -0.0718 * (normalized) v165
+ +      -0.0282 * (normalized) v166
+ +      -0.0326 * (normalized) v167
+ +      -0.0998 * (normalized) v168
+ +      -0.0088 * (normalized) v169
+ +       0.0816 * (normalized) v170
+ +      -0.016  * (normalized) v171
+ +       0.0178 * (normalized) v172
+ +      -0.0384 * (normalized) v173
+ +       0.0061 * (normalized) v174
+ +      -0.0881 * (normalized) v175
+ +       0.0445 * (normalized) v176
+ +       0.079  * (normalized) v177
+ +      -0.1134 * (normalized) v178
+ +       0.0489 * (normalized) v179
+ +       0.0579 * (normalized) v180
+ +      -0.0201 * (normalized) v181
+ +      -0.0437 * (normalized) v182
+ +       0.0464 * (normalized) v183
+ +       0.0006 * (normalized) v184
+ +      -0.1143 * (normalized) v185
+ +       0.1595 * (normalized) v186
+ +      -0.0532 * (normalized) v187
+ +       0.0602 * (normalized) v188
+ +      -0.0556 * (normalized) v189
+ +      -0.0343 * (normalized) v190
+ +       0.0068 * (normalized) v191
+ +       0.0033 * (normalized) v192
+ +      -0.0774 * (normalized) v193
+ +      -0.0879 * (normalized) v194
+ +      -0.0389 * (normalized) v195
+ +      -0.0373 * (normalized) v196
+ +       0.101  * (normalized) v197
+ +       0.0774 * (normalized) v198
+ +       0.0306 * (normalized) v199
+ +      -0.0358 * (normalized) v200
+ +      -0.0123 * (normalized) अंदर
+ +      -0.0107 * (normalized) अक्षर
+ +      -0.0226 * (normalized) अधिक
+ +      -0.0089 * (normalized) अधिकार
+ +      -0.0096 * (normalized) अन्य
+ +      -0.0375 * (normalized) अपने
+ +      -0.0062 * (normalized) अभिनय
+ +      -0.0046 * (normalized) अभिमान
+ +      -0.0034 * (normalized) अवश्य
+ +      -0.0034 * (normalized) अवस्था
+ +      -0.0149 * (normalized) असाधारण
+ +      -0.0079 * (normalized) आकृति
+ +      -0.0202 * (normalized) आदि
+ +      -0.0149 * (normalized) आने
+ +      -0.0692 * (normalized) आनेवाला
+ +      -0.0119 * (normalized) आयरलैंड
+ +      -0.0775 * (normalized) आया
+ +      -0.0096 * (normalized) आवास
+ +      -0.0589 * (normalized) आशा
+ +      -0.0052 * (normalized) आसानी
+ +      -0.0107 * (normalized) इकतीसवाँ
+ +      -0.0012 * (normalized) इतना
+ +      -0.0125 * (normalized) इस
+ +      -0.0107 * (normalized) इसे
+ +      -0.0107 * (normalized) उच्चारण
+ +      -0.0149 * (normalized) उठने
+ +      -0.0046 * (normalized) उठनेवाला
+ +      -0.0093 * (normalized) उत्तरी
+ +      -0.0498 * (normalized) उत्पन्न
+ +      -0.0096 * (normalized) उद्देश्य
+ +      -0.0062 * (normalized) उपयुक्त
+ +      -0.0388 * (normalized) उलटा
+ +      -0.0123 * (normalized) उष्णता
+ +      -0.0089 * (normalized) उसको
+ +      -0.0089 * (normalized) उसपर
+ +      -0.044  * (normalized) उसे
+ +      -0.031  * (normalized) ऊपर
+ +       0.0626 * (normalized) एक
+ +      -0.0316 * (normalized) एकादशी
+ +      -0.0052 * (normalized) ऐसी
+ +      -0.0062 * (normalized) ओझल
+ +      -0.0549 * (normalized) ओर
+ +      -0.0475 * (normalized) और
+ +      -0.0123 * (normalized) औषध
+ +      -0.0052 * (normalized) कभी
+ +      -0.0143 * (normalized) कम
+ +      -0.0482 * (normalized) कम्प्यूटर
+ +      -0.0134 * (normalized) करता
+ +      -0.0402 * (normalized) करना
+ +      -0.0141 * (normalized) करने
+ +      -0.004  * (normalized) कर्नाटक
+ +      -0.0107 * (normalized) कहते
+ +      -0.0156 * (normalized) कहा
+ +      -0.0501 * (normalized) का
+ +      -0.0052 * (normalized) काम
+ +      -0.0528 * (normalized) कारण
+ +      -0.0316 * (normalized) कार्तिक
+ +      -0.0482 * (normalized) कार्य
+ +      -0.0052 * (normalized) कि
+ +      -0.0093 * (normalized) किंगडम
+ +       0.1745 * (normalized) किया
+ +      -0.0586 * (normalized) किसी
+ +      -0.05   * (normalized) की
+ +      -0.0388 * (normalized) कुछ
+ +      -0.0161 * (normalized) कृष्ण
+ +      -0.0316 * (normalized) कृष्णपक्ष
+ +      -0.1966 * (normalized) के
+ +       0.0708 * (normalized) को
+ +      -0.0071 * (normalized) कोई
+ +      -0.0461 * (normalized) क्रिया
+ +      -0.0123 * (normalized) खाद्य
+ +       0.0697 * (normalized) गई
+ +      -0.0419 * (normalized) गया
+ +      -0.0692 * (normalized) गिनती
+ +      -0.0119 * (normalized) ग्रेट
+ +       0.1235 * (normalized) घट
+ +      -0.0372 * (normalized) घटने
+ +      -0.0161 * (normalized) चतुर्थी
+ +      -0.0002 * (normalized) चलता
+ +      -0.0093 * (normalized) चार
+ +      -0.0269 * (normalized) चारों
+ +      -0.0775 * (normalized) छापकर
+ +      -0.01   * (normalized) छोटी
+ +      -0.0002 * (normalized) जल्दी-जल्दी
+ +      -0.0687 * (normalized) जहाँ
+ +      -0.0732 * (normalized) जा
+ +      -0.0614 * (normalized) जितना
+ +      -0.0329 * (normalized) जिला
+ +      -0.0163 * (normalized) जिस
+ +      -0.0171 * (normalized) जिसका
+ +       0.1162 * (normalized) जिसकी
+ +      -0.0249 * (normalized) जिसके
+ +      -0.0203 * (normalized) जिसने
+ +      -0.0089 * (normalized) जिसपर
+ +      -0.0666 * (normalized) जिसमें
+ +      -0.0075 * (normalized) जिससे
+ +      -0.0775 * (normalized) जिसे
+ +      -0.0591 * (normalized) जीत
+ +      -0.0589 * (normalized) जैसी
+ +       0.1788 * (normalized) जो
+ +      -0.026  * (normalized) जोड़
+ +      -0.0018 * (normalized) झील
+ +      -0.0504 * (normalized) ट्यूनीश
+ +      -0.028  * (normalized) तरफ़
+ +      -0.0123 * (normalized) ताप
+ +      -0.0123 * (normalized) तापकारक
+ +      -0.0075 * (normalized) तार
+ +      -0.0123 * (normalized) तासीर
+ +      -0.0062 * (normalized) दर्शकों
+ +      -0.031  * (normalized) दिशा
+ +      -0.0034 * (normalized) दुश्मन
+ +       0      * (normalized) दूसरी
+ +       0.0832 * (normalized) दूसरे
+ +       0.0723 * (normalized) दृष्टि
+ +      -0.0149 * (normalized) देखने
+ +      -0.0366 * (normalized) देखी
+ +      -0.0666 * (normalized) देनेवाला
+ +      -0.0093 * (normalized) देशों
+ +      -0.026  * (normalized) दो
+ +      -0.0482 * (normalized) द्वारा
+ +      -0.0075 * (normalized) धातु
+ +      -0.0372 * (normalized) धीरे-धीरे
+ +      -0.0515 * (normalized) ध्यान
+ +      -0.0174 * (normalized) न
+ +      -0.0149 * (normalized) नई
+ +      -0.0269 * (normalized) नज़दीक
+ +      -0.0372 * (normalized) नष्ट
+ +      -0.0062 * (normalized) नाटक
+ +      -0.0089 * (normalized) निजी
+ +      -0.0089 * (normalized) नियंत्रण
+ +      -0.0034 * (normalized) निश्चित
+ +      -0.031  * (normalized) नीचे
+ +      -0.0161 * (normalized) पक्ष
+ +      -0.016  * (normalized) पद
+ +      -0.0123 * (normalized) पदार्थ
+ +      -0.0834 * (normalized) पर
+ +      -0.0034 * (normalized) परस्थिति
+ +      -0.0361 * (normalized) पश्चिम
+ +      -0.0123 * (normalized) पहुँचकर
+ +      -0.0062 * (normalized) पात्र
+ +      -0.0203 * (normalized) पायी
+ +      -0.0018 * (normalized) पार
+ +      -0.0096 * (normalized) पास
+ +      -0.0096 * (normalized) पासपोर्ट
+ +      -0.0062 * (normalized) पीछे
+ +      -0.0666 * (normalized) पीड़ा
+ +      -0.0218 * (normalized) पेड़
+ +       0      * (normalized) प्रकार
+ +      -0.0775 * (normalized) प्रचलित
+ +      -0.0589 * (normalized) प्रत्याशा
+ +      -0.0161 * (normalized) प्रत्येक
+ +      -0.0149 * (normalized) प्रदर्शित
+ +      -0.0123 * (normalized) प्रभाव
+ +      -0.016  * (normalized) प्रमुख
+ +      -0.016  * (normalized) प्रशासनिक
+ +      -0.0075 * (normalized) प्रसिद्ध
+ +      -0.0306 * (normalized) प्राप्त
+ +      -0.01   * (normalized) बँधी
+ +      -0.0361 * (normalized) बंगाल
+ +      -0.0574 * (normalized) बतानेवाला
+ +      -0.0089 * (normalized) बदलकर
+ +      -0.0075 * (normalized) बनते
+ +      -0.0375 * (normalized) बना
+ +      -0.0093 * (normalized) बनाने
+ +      -0.0079 * (normalized) बनी
+ +      -0.0075 * (normalized) बर्तन
+ +       0.067  * (normalized) बहुत
+ +      -0.0388 * (normalized) बाजी
+ +      -0.1135 * (normalized) बात
+ +      -0.0375 * (normalized) बाप-दादा
+ +      -0.0046 * (normalized) बारे
+ +      -0.0366 * (normalized) बीती
+ +      -0.026  * (normalized) बीस
+ +      -0.0052 * (normalized) बेरोक-टोक
+ +      -0.0119 * (normalized) ब्रिटेन
+ +      -0.0362 * (normalized) भविष्य
+ +      -0.0062 * (normalized) भाग
+ +      -0.0197 * (normalized) भारतीय
+ +      -0.0144 * (normalized) भाव
+ +      -0.029  * (normalized) भी
+ +      -0.0195 * (normalized) मन
+ +      -0.0046 * (normalized) महत्व
+ +      -0.0329 * (normalized) महाराष्ट्र
+ +      -0.0161 * (normalized) महीने
+ +      -0.0316 * (normalized) मास
+ +      -0.0107 * (normalized) मूर्धन्य
+ +      -0.0107 * (normalized) मूर्धा
+ +       0.1046 * (normalized) में
+ +       0.0044 * (normalized) या
+ +      -0.0093 * (normalized) यूनाइटेड
+ +      -0.0075 * (normalized) रंग
+ +      -0.0062 * (normalized) रंगमंच
+ +      -0.0079 * (normalized) रंगों
+ +      -0.0096 * (normalized) रह
+ +      -0.0205 * (normalized) रहता
+ +      -0.0484 * (normalized) रहा
+ +      -0.0089 * (normalized) राष्ट्र
+ +      -0.0375 * (normalized) रिश्ता
+ +      -0.0667 * (normalized) रूप
+ +      -0.0079 * (normalized) रेखाओं
+ +      -0.0096 * (normalized) रोजगार
+ +      -0.0482 * (normalized) लगाया
+ +      -0.01   * (normalized) लगी
+ +      -0.031  * (normalized) लाक्षणिक
+ +      -0.0366 * (normalized) लाना
+ +      -0.0075 * (normalized) लाल
+ +      -0.0052 * (normalized) लिए
+ +      -0.0002 * (normalized) लिखकर
+ +      -0.0203 * (normalized) लिया
+ +      -0.0388 * (normalized) लेना
+ +      -0.0375 * (normalized) वंश
+ +      -0.0107 * (normalized) वर्णमाला
+ +      -0.0079 * (normalized) वस्तु
+ +      -0.01   * (normalized) वस्तुओं
+ +       0.042  * (normalized) वह
+ +      -0.0156 * (normalized) वाद
+ +       0.1034 * (normalized) वाला
+ +      -0.0093 * (normalized) वाले
+ +      -0.0203 * (normalized) विजय
+ +      -0.0096 * (normalized) विदेश
+ +      -0.0149 * (normalized) विलक्ष्ण
+ +      -0.0156 * (normalized) विवाद
+ +      -0.0203 * (normalized) विश्व
+ +      -0.0163 * (normalized) विश्वास
+ +      -0.0062 * (normalized) वेश-भूषा
+ +      -0.0107 * (normalized) व्यंजन
+ +      -0.0146 * (normalized) व्यक्ति
+ +      -0.0143 * (normalized) व्यक्तियों
+ +      -0.0011 * (normalized) व्यभिचार
+ +      -0.0156 * (normalized) व्यर्थ
+ +      -0.0034 * (normalized) शत्रु
+ +      -0.0123 * (normalized) शरीर
+ +      -0.0757 * (normalized) शहर
+ +      -0.0025 * (normalized) शासिका
+ +      -0.0096 * (normalized) शिक्षा
+ +      -0.0403 * (normalized) संख्या
+ +      -0.0229 * (normalized) संबंधित
+ +      -0.0375 * (normalized) संबंधी
+ +      -0.0614 * (normalized) सकता
+ +      -0.0261 * (normalized) सके
+ +      -0.0062 * (normalized) सज्जित
+ +      -0.0089 * (normalized) सत्ता
+ +      -0.0226 * (normalized) सबसे
+ +      -0.01   * (normalized) समूह
+ +      -0.0089 * (normalized) सरकार
+ +      -0.0775 * (normalized) सर्व
+ +      -0.0006 * (normalized) साथ
+ +      -0.0775 * (normalized) साधारण
+ +      -0.0775 * (normalized) सामने
+ +      -0.0323 * (normalized) सामान्य
+ +      -0.0149 * (normalized) सुनने
+ +      -0.0522 * (normalized) सुनी
+ +       0.0611 * (normalized) से
+ +      -0.016  * (normalized) सेवा
+ +      -0.0692 * (normalized) सौ
+ +      -0.0107 * (normalized) स्थल
+ +      -0.1064 * (normalized) स्थान
+ +      -0.0089 * (normalized) स्थापित
+ +      -0.0375 * (normalized) स्थिति
+ +      -0.0034 * (normalized) हर
+ +      -0.0388 * (normalized) हारती
+ +      -0.0107 * (normalized) हिंदी
+ +      -0.0018 * (normalized) हिमालय
+ +      -0.0465 * (normalized) ही
+ +      -0.0934 * (normalized) हुई
+ +       0.097  * (normalized) है
+ +      -0.0244 * (normalized) हैं
+ +      -0.0988 * (normalized) हो
+ +      -0.0482 * (normalized) होता
+ +      -0.0062 * (normalized) होते
+ +      -0.0201 * (normalized) होना
+ +      -0.0639 * (normalized) होने
+ +       0.1139 * (normalized) अवस्थाओं
+ +       0.1563 * (normalized) आज
+ +       0.2428 * (normalized) काल
+ +       0.1139 * (normalized) क्रियाओं
+ +       0.1563 * (normalized) दिन
+ +       0.1286 * (normalized) दी
+ +       0.2933 * (normalized) पहले
+ +       0.1139 * (normalized) बताता
+ +       0.0691 * (normalized) वर्तमान
+ +       0.1139 * (normalized) व्याकरण
+ +       0.3119 * (normalized) समय
+ +       0.0413 * (normalized) बाहर
+ +       0.0409 * (normalized) उपस्थित
+ +       0.1095 * (normalized) क्रम
+ +       0.1623 * (normalized) चुका
+ +       0.0307 * (normalized) नक्काशी
+ +       0.0413 * (normalized) निकाला
+ +       0.0409 * (normalized) न्यायालय
+ +       0.0813 * (normalized) पुराने
+ +       0.1088 * (normalized) पूर्व
+ +       0.1622 * (normalized) बीता
+ +       0.1519 * (normalized) बीते
+ +       0.1286 * (normalized) सूचना
+ +       0.1286 * (normalized) सूचित
+ +       0.0838 * (normalized) हस्तांतरण
+ +       0.0838 * (normalized) हाथ
+ +       0.3385 * (normalized) हुआ
+ +       0.038  * (normalized) हुए
+ +       0.5298
+
+Number of kernel evaluations: 5068 (91.84% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                 Class
+Variable     atemporal
+======================
+pred           -52.152
+Intercept     -34.4121
+
+
+Odds Ratios...
+                 Class
+Variable     atemporal
+======================
+pred                 0
+
+
+Classifier for classes: future, neutral
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.0033 * (normalized) v1
+ +      -0.0375 * (normalized) v2
+ +      -0.0694 * (normalized) v3
+ +      -0.0212 * (normalized) v4
+ +      -0.0568 * (normalized) v5
+ +      -0.0078 * (normalized) v6
+ +       0.0361 * (normalized) v7
+ +      -0.0751 * (normalized) v8
+ +       0.0399 * (normalized) v9
+ +      -0.1101 * (normalized) v10
+ +       0.0305 * (normalized) v11
+ +      -0.0186 * (normalized) v12
+ +       0.1093 * (normalized) v13
+ +      -0.0074 * (normalized) v14
+ +       0.0694 * (normalized) v15
+ +       0.1165 * (normalized) v16
+ +      -0.0272 * (normalized) v17
+ +      -0.0541 * (normalized) v18
+ +       0.0148 * (normalized) v19
+ +      -0.0052 * (normalized) v20
+ +       0.045  * (normalized) v21
+ +       0.0784 * (normalized) v22
+ +       0.0837 * (normalized) v23
+ +      -0.0546 * (normalized) v24
+ +       0.1584 * (normalized) v25
+ +      -0.0246 * (normalized) v26
+ +       0.0378 * (normalized) v27
+ +      -0.0835 * (normalized) v28
+ +       0.0867 * (normalized) v29
+ +      -0.0796 * (normalized) v30
+ +      -0.0224 * (normalized) v31
+ +       0.0812 * (normalized) v32
+ +       0.072  * (normalized) v33
+ +       0.0518 * (normalized) v34
+ +      -0.0068 * (normalized) v35
+ +      -0.0248 * (normalized) v36
+ +       0.0597 * (normalized) v37
+ +       0.098  * (normalized) v38
+ +      -0.007  * (normalized) v39
+ +       0.078  * (normalized) v40
+ +      -0.1235 * (normalized) v41
+ +      -0.0478 * (normalized) v42
+ +       0.0245 * (normalized) v43
+ +      -0.0902 * (normalized) v44
+ +      -0.1246 * (normalized) v45
+ +       0.05   * (normalized) v46
+ +      -0.0068 * (normalized) v47
+ +       0.0418 * (normalized) v48
+ +       0.0492 * (normalized) v49
+ +       0.0675 * (normalized) v50
+ +      -0.1222 * (normalized) v51
+ +       0.0417 * (normalized) v52
+ +       0.086  * (normalized) v53
+ +       0.093  * (normalized) v54
+ +       0.0835 * (normalized) v55
+ +       0.1189 * (normalized) v56
+ +      -0.0081 * (normalized) v57
+ +       0.069  * (normalized) v58
+ +      -0.0923 * (normalized) v59
+ +       0.2139 * (normalized) v60
+ +       0.0204 * (normalized) v61
+ +      -0.0375 * (normalized) v62
+ +       0.0205 * (normalized) v63
+ +      -0.0876 * (normalized) v64
+ +      -0.0132 * (normalized) v65
+ +       0.0273 * (normalized) v66
+ +       0.0904 * (normalized) v67
+ +       0.0701 * (normalized) v68
+ +       0.1006 * (normalized) v69
+ +      -0.0873 * (normalized) v70
+ +       0.1558 * (normalized) v71
+ +      -0.0199 * (normalized) v72
+ +       0.0107 * (normalized) v73
+ +      -0.0432 * (normalized) v74
+ +       0.0707 * (normalized) v75
+ +      -0.0161 * (normalized) v76
+ +       0.1513 * (normalized) v77
+ +       0.1188 * (normalized) v78
+ +      -0.0523 * (normalized) v79
+ +      -0.089  * (normalized) v80
+ +      -0.1015 * (normalized) v81
+ +      -0.0427 * (normalized) v82
+ +      -0.0332 * (normalized) v83
+ +       0.0602 * (normalized) v84
+ +       0.0681 * (normalized) v85
+ +      -0.001  * (normalized) v86
+ +       0.0503 * (normalized) v87
+ +      -0.1307 * (normalized) v88
+ +      -0.0331 * (normalized) v89
+ +       0.0041 * (normalized) v90
+ +       0.0854 * (normalized) v91
+ +      -0.0574 * (normalized) v92
+ +      -0.0491 * (normalized) v93
+ +       0.1742 * (normalized) v94
+ +       0.0158 * (normalized) v95
+ +       0.0131 * (normalized) v96
+ +       0.1098 * (normalized) v97
+ +      -0.149  * (normalized) v98
+ +       0.0523 * (normalized) v99
+ +      -0.1089 * (normalized) v100
+ +      -0.0132 * (normalized) v101
+ +      -0.0483 * (normalized) v102
+ +       0.0615 * (normalized) v103
+ +      -0.06   * (normalized) v104
+ +       0.041  * (normalized) v105
+ +      -0.0847 * (normalized) v106
+ +      -0.0968 * (normalized) v107
+ +       0.1313 * (normalized) v108
+ +      -0.0054 * (normalized) v109
+ +      -0.0955 * (normalized) v110
+ +       0.1407 * (normalized) v111
+ +       0.064  * (normalized) v112
+ +      -0.1289 * (normalized) v113
+ +      -0.0804 * (normalized) v114
+ +       0.0165 * (normalized) v115
+ +      -0.0216 * (normalized) v116
+ +       0.0104 * (normalized) v117
+ +      -0.0155 * (normalized) v118
+ +       0.0769 * (normalized) v119
+ +       0.0708 * (normalized) v120
+ +      -0.0145 * (normalized) v121
+ +       0.051  * (normalized) v122
+ +      -0.1302 * (normalized) v123
+ +       0.0068 * (normalized) v124
+ +       0.0675 * (normalized) v125
+ +      -0.137  * (normalized) v126
+ +      -0.0609 * (normalized) v127
+ +      -0.036  * (normalized) v128
+ +      -0.0027 * (normalized) v129
+ +      -0.0339 * (normalized) v130
+ +      -0.0337 * (normalized) v131
+ +      -0.0084 * (normalized) v132
+ +      -0.088  * (normalized) v133
+ +      -0.0498 * (normalized) v134
+ +      -0.1682 * (normalized) v135
+ +       0.0406 * (normalized) v136
+ +      -0.0039 * (normalized) v137
+ +       0.0663 * (normalized) v138
+ +      -0.066  * (normalized) v139
+ +      -0.0312 * (normalized) v140
+ +      -0.0044 * (normalized) v141
+ +      -0.1243 * (normalized) v142
+ +       0.0823 * (normalized) v143
+ +       0.0612 * (normalized) v144
+ +       0.0105 * (normalized) v145
+ +      -0.0368 * (normalized) v146
+ +      -0.0118 * (normalized) v147
+ +      -0.0064 * (normalized) v148
+ +      -0.0343 * (normalized) v149
+ +      -0.165  * (normalized) v150
+ +       0.0298 * (normalized) v151
+ +       0.0051 * (normalized) v152
+ +      -0.0227 * (normalized) v153
+ +       0.0322 * (normalized) v154
+ +       0.0819 * (normalized) v155
+ +      -0.1865 * (normalized) v156
+ +      -0.1204 * (normalized) v157
+ +       0.0171 * (normalized) v158
+ +      -0.0143 * (normalized) v159
+ +      -0.1274 * (normalized) v160
+ +      -0.0573 * (normalized) v161
+ +       0.0061 * (normalized) v162
+ +      -0.0942 * (normalized) v163
+ +      -0.1054 * (normalized) v164
+ +       0.1405 * (normalized) v165
+ +      -0.0714 * (normalized) v166
+ +      -0.0889 * (normalized) v167
+ +      -0.0087 * (normalized) v168
+ +       0.0847 * (normalized) v169
+ +       0.0161 * (normalized) v170
+ +       0.0226 * (normalized) v171
+ +       0.0107 * (normalized) v172
+ +      -0.0373 * (normalized) v173
+ +       0.0153 * (normalized) v174
+ +      -0.0326 * (normalized) v175
+ +      -0.0134 * (normalized) v176
+ +       0.0055 * (normalized) v177
+ +       0.0439 * (normalized) v178
+ +      -0.1112 * (normalized) v179
+ +      -0.1444 * (normalized) v180
+ +       0.0293 * (normalized) v181
+ +       0.0066 * (normalized) v182
+ +       0.077  * (normalized) v183
+ +      -0.0074 * (normalized) v184
+ +      -0.0557 * (normalized) v185
+ +      -0.1251 * (normalized) v186
+ +       0.017  * (normalized) v187
+ +       0.0402 * (normalized) v188
+ +       0.1079 * (normalized) v189
+ +      -0.075  * (normalized) v190
+ +      -0.0469 * (normalized) v191
+ +      -0.0357 * (normalized) v192
+ +       0.0873 * (normalized) v193
+ +       0.0886 * (normalized) v194
+ +       0.1081 * (normalized) v195
+ +       0.0393 * (normalized) v196
+ +      -0.1778 * (normalized) v197
+ +      -0.0204 * (normalized) v198
+ +       0.0878 * (normalized) v199
+ +      -0.0344 * (normalized) v200
+ +       0.1139 * (normalized) *
+ +       0.0772 * (normalized) अधिक
+ +      -0.1525 * (normalized) अवश्य
+ +       0.0203 * (normalized) आदि
+ +      -0.5576 * (normalized) आने
+ +      -0.057  * (normalized) इच्छा
+ +       0.1136 * (normalized) एक
+ +       0.1382 * (normalized) और
+ +       0.0039 * (normalized) कम
+ +       0.0256 * (normalized) करना
+ +       0.1975 * (normalized) का
+ +       0.0395 * (normalized) कारण
+ +       0.1145 * (normalized) किया
+ +      -0.0269 * (normalized) किसी
+ +       0.0613 * (normalized) की
+ +      -0.0487 * (normalized) के
+ +      -0.0977 * (normalized) को
+ +      -0.057  * (normalized) गई
+ +       0.0121 * (normalized) जल्दी-जल्दी
+ +       0.0104 * (normalized) जितना
+ +      -0.0438 * (normalized) जिसकी
+ +       0.0886 * (normalized) जिसमें
+ +      -0.0753 * (normalized) जो
+ +       0.0491 * (normalized) दूसरी
+ +       0.0944 * (normalized) पक्ष
+ +       0.1573 * (normalized) पर
+ +       0.2099 * (normalized) बहुत
+ +      -0.2142 * (normalized) बात
+ +       0.0405 * (normalized) बोलना
+ +      -0.0163 * (normalized) भविष्य
+ +       0.0944 * (normalized) मास
+ +      -0.0316 * (normalized) में
+ +      -0.0968 * (normalized) या
+ +       0.0868 * (normalized) रहने
+ +      -0.1551 * (normalized) लगाया
+ +       0.0039 * (normalized) लिए
+ +      -0.0198 * (normalized) वह
+ +      -0.2014 * (normalized) वाला
+ +      -0.0703 * (normalized) से
+ +       0.0627 * (normalized) स्थिति
+ +       0.0488 * (normalized) हर
+ +      -0.0787 * (normalized) ही
+ +       0.006  * (normalized) है
+ +       0.0678 * (normalized) हो
+ +       0.0504 * (normalized) होता
+ +       0.2024 * (normalized) होने
+ +      -0.0515 * (normalized) अंगों
+ +      -0.1551 * (normalized) अनुमान
+ +      -0.0188 * (normalized) अयोग्य
+ +      -0.0576 * (normalized) अवस्थाओं
+ +      -0.1193 * (normalized) आगे
+ +      -0.1815 * (normalized) आज
+ +       0.0352 * (normalized) आठ
+ +      -0.0905 * (normalized) आनेवाले
+ +      -0.0754 * (normalized) उपरांत
+ +      -0.0617 * (normalized) कह
+ +      -0.3471 * (normalized) काल
+ +      -0.0576 * (normalized) क्रियाओं
+ +      -0.1525 * (normalized) घटना
+ +      -0.0617 * (normalized) चलकर
+ +      -0.1551 * (normalized) जानेवाला
+ +       0.0029 * (normalized) दिन
+ +      -0.0617 * (normalized) दी
+ +      -0.0274 * (normalized) धृतराष्ट्र
+ +      -0.0188 * (normalized) निंदा
+ +      -0.0607 * (normalized) निकलने
+ +      -0.0617 * (normalized) ने
+ +      -0.091  * (normalized) पहला
+ +      -0.3073 * (normalized) पहले
+ +      -0.0274 * (normalized) पुत्र
+ +      -0.0754 * (normalized) बताए
+ +      -0.0576 * (normalized) बताता
+ +      -0.2078 * (normalized) बाद
+ +      -0.0024 * (normalized) बोलनेवाली
+ +      -0.0607 * (normalized) मनुष्य
+ +      -0.0607 * (normalized) मुख
+ +      -0.1525 * (normalized) रहनेवाली
+ +      -0.0364 * (normalized) वर्तमान
+ +      -0.0617 * (normalized) वाली
+ +      -0.0576 * (normalized) व्याकरण
+ +      -0.0607 * (normalized) शब्द
+ +      -0.0754 * (normalized) संदर्भित
+ +      -0.0024 * (normalized) सत्य
+ +       0.1416 * (normalized) समय
+ +      -0.0607 * (normalized) सार्थक
+ +      -0.1525 * (normalized) होकर
+ +      -0.0163 * (normalized) होनेवाला
+ +       0.0504 * (normalized) अंत
+ +       0.0395 * (normalized) अतिवृष्टि
+ +       0.0395 * (normalized) अनावृष्टि
+ +       0.0395 * (normalized) अन्न
+ +       0.0125 * (normalized) आंत्र-ज्वर
+ +       0.0164 * (normalized) आए
+ +       0.1145 * (normalized) आघात
+ +       0.0504 * (normalized) आरंभ
+ +       0.0405 * (normalized) आवाज
+ +       0.0121 * (normalized) उठाकर
+ +       0.0132 * (normalized) उड़ने
+ +       0.0164 * (normalized) उतना
+ +       0.0395 * (normalized) ऐसा
+ +       0.0405 * (normalized) ऐसे
+ +       0.0395 * (normalized) कठिनता
+ +       0.0395 * (normalized) कमी
+ +       0.0732 * (normalized) कर
+ +       0.0132 * (normalized) काटती
+ +       0.0284 * (normalized) कीड़ा
+ +       0.0132 * (normalized) खून
+ +       0.0158 * (normalized) गरीबी
+ +       0.0121 * (normalized) चलना
+ +       0.0944 * (normalized) चान्द्र
+ +       0.0132 * (normalized) चूसती
+ +       0.0152 * (normalized) चैत
+ +       0.0132 * (normalized) छोटा
+ +       0.0504 * (normalized) जब
+ +       0.1145 * (normalized) जाने
+ +       0.0405 * (normalized) जोर
+ +       0.0627 * (normalized) डालना
+ +       0.0868 * (normalized) तक
+ +       0.0125 * (normalized) तरह
+ +       0.0491 * (normalized) तलाक़
+ +       0.0491 * (normalized) तलाक़शुदा
+ +       0.0944 * (normalized) तिथि
+ +       0.0491 * (normalized) देने
+ +       0.0595 * (normalized) नहीं
+ +       0.0242 * (normalized) निर्यात
+ +       0.0944 * (normalized) नौवीं
+ +       0.0491 * (normalized) पति
+ +       0.1145 * (normalized) पूरी
+ +       0.0164 * (normalized) पेट
+ +       0.0121 * (normalized) पैर
+ +       0.0152 * (normalized) फसल
+ +       0.1952 * (normalized) बंद
+ +       0.0746 * (normalized) बीच
+ +       0.0491 * (normalized) मरने
+ +       0.0132 * (normalized) मादा
+ +       0.0395 * (normalized) मिले
+ +       0.0491 * (normalized) मुसलमानों
+ +       0.0746 * (normalized) युवा
+ +       0.0504 * (normalized) रात
+ +       0.0513 * (normalized) लंबा
+ +       0.0393 * (normalized) लगने
+ +       0.0491 * (normalized) विधवा
+ +       0.1952 * (normalized) विनाश
+ +       0.1032 * (normalized) विपत्ति
+ +       0.0491 * (normalized) शादी
+ +       0.0746 * (normalized) शैशव
+ +       0.0627 * (normalized) संकट
+ +       0.0627 * (normalized) संभावनावाली
+ +       0.0491 * (normalized) सकती
+ +       0.2147 * (normalized) सकने
+ +       0.0491 * (normalized) स्त्री
+ +       0.1145 * (normalized) हथेली
+ +       0.2949
+
+Number of kernel evaluations: 1033 (95.069% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+               Class
+Variable      future
+====================
+pred         -22.135
+Intercept     2.6164
+
+
+Odds Ratios...
+               Class
+Variable      future
+====================
+pred               0
+
+
+Classifier for classes: future, present
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.1642 * (normalized) v1
+ +      -0.2197 * (normalized) v2
+ +      -0.1014 * (normalized) v3
+ +      -0.0056 * (normalized) v4
+ +       0.0604 * (normalized) v5
+ +       0.0212 * (normalized) v6
+ +       0.1511 * (normalized) v7
+ +      -0.0108 * (normalized) v8
+ +      -0.1437 * (normalized) v9
+ +      -0.0652 * (normalized) v10
+ +       0.0334 * (normalized) v11
+ +       0.0499 * (normalized) v12
+ +      -0.0213 * (normalized) v13
+ +       0.0709 * (normalized) v14
+ +       0.1066 * (normalized) v15
+ +       0.1892 * (normalized) v16
+ +      -0.004  * (normalized) v17
+ +       0.067  * (normalized) v18
+ +       0.2121 * (normalized) v19
+ +       0.1472 * (normalized) v20
+ +      -0.0318 * (normalized) v21
+ +       0.0062 * (normalized) v22
+ +       0.0402 * (normalized) v23
+ +       0.045  * (normalized) v24
+ +       0.0557 * (normalized) v25
+ +      -0.0003 * (normalized) v26
+ +      -0.1318 * (normalized) v27
+ +      -0.1129 * (normalized) v28
+ +      -0.0044 * (normalized) v29
+ +       0.0737 * (normalized) v30
+ +      -0.0199 * (normalized) v31
+ +       0.0695 * (normalized) v32
+ +       0.0457 * (normalized) v33
+ +      -0.0183 * (normalized) v34
+ +      -0.0338 * (normalized) v35
+ +       0.0312 * (normalized) v36
+ +       0.1891 * (normalized) v37
+ +       0.0371 * (normalized) v38
+ +       0.1467 * (normalized) v39
+ +      -0.0039 * (normalized) v40
+ +      -0.1027 * (normalized) v41
+ +       0.0264 * (normalized) v42
+ +      -0.029  * (normalized) v43
+ +       0.1308 * (normalized) v44
+ +       0.1008 * (normalized) v45
+ +      -0.0417 * (normalized) v46
+ +       0.0083 * (normalized) v47
+ +      -0.035  * (normalized) v48
+ +      -0.028  * (normalized) v49
+ +       0.0975 * (normalized) v50
+ +       0.0525 * (normalized) v51
+ +      -0.0957 * (normalized) v52
+ +      -0.0015 * (normalized) v53
+ +      -0.1481 * (normalized) v54
+ +       0.1202 * (normalized) v55
+ +      -0.023  * (normalized) v56
+ +       0.0402 * (normalized) v57
+ +       0.0897 * (normalized) v58
+ +       0.0261 * (normalized) v59
+ +       0.0384 * (normalized) v60
+ +       0.0957 * (normalized) v61
+ +      -0.1338 * (normalized) v62
+ +      -0.1725 * (normalized) v63
+ +      -0.01   * (normalized) v64
+ +      -0.0088 * (normalized) v65
+ +       0.0833 * (normalized) v66
+ +       0.0967 * (normalized) v67
+ +      -0.1723 * (normalized) v68
+ +       0.0039 * (normalized) v69
+ +      -0.0146 * (normalized) v70
+ +       0.0575 * (normalized) v71
+ +      -0.0453 * (normalized) v72
+ +      -0.0192 * (normalized) v73
+ +       0.0128 * (normalized) v74
+ +      -0.0423 * (normalized) v75
+ +      -0.126  * (normalized) v76
+ +      -0.0184 * (normalized) v77
+ +       0.0961 * (normalized) v78
+ +      -0.0239 * (normalized) v79
+ +      -0.1181 * (normalized) v80
+ +       0.0334 * (normalized) v81
+ +      -0.1003 * (normalized) v82
+ +      -0.0389 * (normalized) v83
+ +       0.1517 * (normalized) v84
+ +      -0.0185 * (normalized) v85
+ +      -0.1172 * (normalized) v86
+ +       0.0285 * (normalized) v87
+ +      -0.1145 * (normalized) v88
+ +       0.0002 * (normalized) v89
+ +      -0.0065 * (normalized) v90
+ +       0.1495 * (normalized) v91
+ +       0.0146 * (normalized) v92
+ +       0.066  * (normalized) v93
+ +       0.1499 * (normalized) v94
+ +       0.1141 * (normalized) v95
+ +       0.044  * (normalized) v96
+ +      -0.0462 * (normalized) v97
+ +      -0.0653 * (normalized) v98
+ +      -0.0304 * (normalized) v99
+ +      -0.0691 * (normalized) v100
+ +       0.0301 * (normalized) v101
+ +      -0.1001 * (normalized) v102
+ +       0.034  * (normalized) v103
+ +      -0.059  * (normalized) v104
+ +       0.0987 * (normalized) v105
+ +       0.0165 * (normalized) v106
+ +      -0.0101 * (normalized) v107
+ +      -0.0378 * (normalized) v108
+ +       0.0661 * (normalized) v109
+ +       0.0361 * (normalized) v110
+ +       0.1279 * (normalized) v111
+ +      -0.0526 * (normalized) v112
+ +       0.0253 * (normalized) v113
+ +       0.0235 * (normalized) v114
+ +      -0.0883 * (normalized) v115
+ +      -0.0381 * (normalized) v116
+ +      -0.1064 * (normalized) v117
+ +      -0.0776 * (normalized) v118
+ +       0.1166 * (normalized) v119
+ +       0.0073 * (normalized) v120
+ +      -0.0743 * (normalized) v121
+ +       0.0915 * (normalized) v122
+ +      -0.1119 * (normalized) v123
+ +       0.0042 * (normalized) v124
+ +       0.0337 * (normalized) v125
+ +       0.0505 * (normalized) v126
+ +      -0.143  * (normalized) v127
+ +      -0.0274 * (normalized) v128
+ +      -0.0338 * (normalized) v129
+ +      -0.1273 * (normalized) v130
+ +      -0.051  * (normalized) v131
+ +       0.1282 * (normalized) v132
+ +       0.0562 * (normalized) v133
+ +      -0.0062 * (normalized) v134
+ +       0.0113 * (normalized) v135
+ +       0.1931 * (normalized) v136
+ +      -0.0107 * (normalized) v137
+ +      -0.0054 * (normalized) v138
+ +       0.0631 * (normalized) v139
+ +       0.0139 * (normalized) v140
+ +       0.1325 * (normalized) v141
+ +      -0.0929 * (normalized) v142
+ +       0.1641 * (normalized) v143
+ +      -0.0601 * (normalized) v144
+ +      -0.1384 * (normalized) v145
+ +      -0.0606 * (normalized) v146
+ +      -0.0401 * (normalized) v147
+ +       0.011  * (normalized) v148
+ +       0.011  * (normalized) v149
+ +      -0.237  * (normalized) v150
+ +       0.0563 * (normalized) v151
+ +      -0.0153 * (normalized) v152
+ +      -0.0476 * (normalized) v153
+ +       0.081  * (normalized) v154
+ +       0.0022 * (normalized) v155
+ +      -0.0143 * (normalized) v156
+ +      -0.063  * (normalized) v157
+ +       0.0804 * (normalized) v158
+ +      -0.0093 * (normalized) v159
+ +      -0.1159 * (normalized) v160
+ +      -0.1468 * (normalized) v161
+ +      -0.2586 * (normalized) v162
+ +       0.1179 * (normalized) v163
+ +      -0.0021 * (normalized) v164
+ +      -0.0597 * (normalized) v165
+ +      -0.0128 * (normalized) v166
+ +      -0.0515 * (normalized) v167
+ +       0.0475 * (normalized) v168
+ +       0.0013 * (normalized) v169
+ +       0.0122 * (normalized) v170
+ +       0.0837 * (normalized) v171
+ +      -0.0703 * (normalized) v172
+ +      -0.0002 * (normalized) v173
+ +       0.0018 * (normalized) v174
+ +       0.0371 * (normalized) v175
+ +      -0.1155 * (normalized) v176
+ +      -0.0392 * (normalized) v177
+ +      -0.0149 * (normalized) v178
+ +       0.0663 * (normalized) v179
+ +      -0.063  * (normalized) v180
+ +       0.0946 * (normalized) v181
+ +      -0.1548 * (normalized) v182
+ +      -0.1884 * (normalized) v183
+ +       0.0527 * (normalized) v184
+ +       0.1515 * (normalized) v185
+ +       0.0848 * (normalized) v186
+ +      -0.1866 * (normalized) v187
+ +       0.0366 * (normalized) v188
+ +      -0.0394 * (normalized) v189
+ +      -0.0548 * (normalized) v190
+ +       0.0733 * (normalized) v191
+ +       0.0101 * (normalized) v192
+ +       0.0808 * (normalized) v193
+ +       0.0293 * (normalized) v194
+ +       0.0765 * (normalized) v195
+ +       0.0199 * (normalized) v196
+ +      -0.0703 * (normalized) v197
+ +       0.1768 * (normalized) v198
+ +       0.0633 * (normalized) v199
+ +       0.0358 * (normalized) v200
+ +      -0.1074 * (normalized) अवश्य
+ +      -0.4572 * (normalized) आने
+ +      -0.0979 * (normalized) इच्छा
+ +       0.2007 * (normalized) इस
+ +      -0.0059 * (normalized) एक
+ +       0.0501 * (normalized) का
+ +       0.0832 * (normalized) कार्य
+ +       0.0109 * (normalized) किया
+ +      -0.0481 * (normalized) किसी
+ +      -0.0089 * (normalized) की
+ +      -0.185  * (normalized) के
+ +      -0.0192 * (normalized) को
+ +      -0.0979 * (normalized) गई
+ +       0.0341 * (normalized) जिस
+ +      -0.0979 * (normalized) जिसकी
+ +       0.0109 * (normalized) जिसके
+ +       0.0118 * (normalized) जिसमें
+ +       0.183  * (normalized) जो
+ +       0.0215 * (normalized) पर
+ +      -0.1074 * (normalized) बात
+ +       0.0341 * (normalized) बातों
+ +      -0.0133 * (normalized) भविष्य
+ +       0.0386 * (normalized) में
+ +      -0.1336 * (normalized) या
+ +       0.0554 * (normalized) रहा
+ +      -0.1088 * (normalized) लगाया
+ +       0.143  * (normalized) वह
+ +      -0.4816 * (normalized) वाला
+ +       0.1026 * (normalized) संबंधित
+ +       0.0216 * (normalized) संबंधी
+ +       0.0074 * (normalized) सकता
+ +      -0.5739 * (normalized) से
+ +      -0.0686 * (normalized) ही
+ +       0.0298 * (normalized) है
+ +       0.1155 * (normalized) हो
+ +       0.0118 * (normalized) होता
+ +      -0.0678 * (normalized) होने
+ +      -0.0135 * (normalized) अंगों
+ +      -0.1088 * (normalized) अनुमान
+ +      -0.0151 * (normalized) अयोग्य
+ +       0.0188 * (normalized) अवस्थाओं
+ +      -1.1416 * (normalized) आगे
+ +      -0.1513 * (normalized) आज
+ +      -0.0244 * (normalized) आठ
+ +      -0.1513 * (normalized) आनेवाले
+ +      -0.0763 * (normalized) उपरांत
+ +      -0.1873 * (normalized) काल
+ +       0.0188 * (normalized) क्रियाओं
+ +      -0.1074 * (normalized) घटना
+ +      -0.1088 * (normalized) जानेवाला
+ +       0.0874 * (normalized) दिन
+ +      -0.0059 * (normalized) धृतराष्ट्र
+ +      -0.0151 * (normalized) निंदा
+ +      -0.2601 * (normalized) पहले
+ +      -0.0059 * (normalized) पुत्र
+ +      -0.0763 * (normalized) बताए
+ +       0.0188 * (normalized) बताता
+ +      -0.2276 * (normalized) बाद
+ +      -0.029  * (normalized) बोलनेवाली
+ +      -0.1074 * (normalized) रहनेवाली
+ +       0.2973 * (normalized) वर्तमान
+ +       0.0188 * (normalized) व्याकरण
+ +      -0.0763 * (normalized) संदर्भित
+ +      -0.029  * (normalized) सत्य
+ +       0.0817 * (normalized) समय
+ +      -0.1074 * (normalized) होकर
+ +      -0.0133 * (normalized) होनेवाला
+ +       0.0341 * (normalized) पूरी
+ +       0.0109 * (normalized) अध्ययन
+ +       0.1267 * (normalized) इसी
+ +       0.1267 * (normalized) क्षण
+ +       0.0554 * (normalized) चल
+ +       0.0341 * (normalized) छाप
+ +       0.0109 * (normalized) जाता
+ +       0.0109 * (normalized) तहत
+ +       0.1133 * (normalized) दर्शाता
+ +       0.0949 * (normalized) परिवर्तन
+ +       0.0109 * (normalized) प्राणिविज्ञान
+ +       0.1267 * (normalized) वक़्त
+ +       0.3315 * (normalized) विद्यमान
+ +       0.0341 * (normalized) विशेषताओं
+ +       0.0832 * (normalized) विषय
+ +       0.0109 * (normalized) शाखा
+ +       0.0109 * (normalized) शारीरिक
+ +       0.0216 * (normalized) सिद्धांत
+ +       0.0832 * (normalized) सूचक
+ -       0.0923
+
+Number of kernel evaluations: 804 (94.454% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                Class
+Variable       future
+=====================
+pred         -16.4851
+Intercept     -0.2056
+
+
+Odds Ratios...
+                Class
+Variable       future
+=====================
+pred                0
+
+
+Classifier for classes: future, past
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0591 * (normalized) v1
+ +      -0.1414 * (normalized) v2
+ +       0.0397 * (normalized) v3
+ +      -0.0426 * (normalized) v4
+ +       0.0194 * (normalized) v5
+ +       0.0278 * (normalized) v6
+ +       0.078  * (normalized) v7
+ +      -0.0354 * (normalized) v8
+ +      -0.1514 * (normalized) v9
+ +      -0.1259 * (normalized) v10
+ +      -0.088  * (normalized) v11
+ +       0.0476 * (normalized) v12
+ +      -0.1004 * (normalized) v13
+ +       0.0077 * (normalized) v14
+ +       0.1273 * (normalized) v15
+ +       0.0527 * (normalized) v16
+ +      -0.042  * (normalized) v17
+ +      -0.0098 * (normalized) v18
+ +       0.0891 * (normalized) v19
+ +       0.012  * (normalized) v20
+ +      -0.0744 * (normalized) v21
+ +       0.0831 * (normalized) v22
+ +       0.0842 * (normalized) v23
+ +       0.0879 * (normalized) v24
+ +       0.0747 * (normalized) v25
+ +      -0.0377 * (normalized) v26
+ +       0.0072 * (normalized) v27
+ +      -0.0309 * (normalized) v28
+ +      -0.0053 * (normalized) v29
+ +      -0.0465 * (normalized) v30
+ +       0.0406 * (normalized) v31
+ +       0.0538 * (normalized) v32
+ +       0.0345 * (normalized) v33
+ +      -0.0912 * (normalized) v34
+ +      -0.1228 * (normalized) v35
+ +      -0.0923 * (normalized) v36
+ +       0.1907 * (normalized) v37
+ +       0.2178 * (normalized) v38
+ +       0.0643 * (normalized) v39
+ +      -0.0714 * (normalized) v40
+ +      -0.0363 * (normalized) v41
+ +      -0.0577 * (normalized) v42
+ +      -0.0431 * (normalized) v43
+ +       0.1565 * (normalized) v44
+ +       0.0506 * (normalized) v45
+ +      -0.0673 * (normalized) v46
+ +       0.1078 * (normalized) v47
+ +       0.0387 * (normalized) v48
+ +      -0.0197 * (normalized) v49
+ +       0.0305 * (normalized) v50
+ +       0.0098 * (normalized) v51
+ +      -0.0508 * (normalized) v52
+ +       0.0288 * (normalized) v53
+ +       0.0251 * (normalized) v54
+ +      -0.0232 * (normalized) v55
+ +       0.1555 * (normalized) v56
+ +      -0.0418 * (normalized) v57
+ +      -0.0357 * (normalized) v58
+ +      -0.035  * (normalized) v59
+ +       0.0465 * (normalized) v60
+ +       0.0313 * (normalized) v61
+ +      -0.0111 * (normalized) v62
+ +      -0.1665 * (normalized) v63
+ +       0.0207 * (normalized) v64
+ +       0.0418 * (normalized) v65
+ +      -0.0428 * (normalized) v66
+ +       0.1011 * (normalized) v67
+ +      -0.0487 * (normalized) v68
+ +      -0.0727 * (normalized) v69
+ +      -0.1287 * (normalized) v70
+ +       0.0709 * (normalized) v71
+ +       0.0406 * (normalized) v72
+ +      -0.1041 * (normalized) v73
+ +       0.0299 * (normalized) v74
+ +      -0.0873 * (normalized) v75
+ +      -0.1487 * (normalized) v76
+ +       0.0332 * (normalized) v77
+ +       0.0354 * (normalized) v78
+ +       0.013  * (normalized) v79
+ +      -0.0108 * (normalized) v80
+ +      -0.0357 * (normalized) v81
+ +      -0.0244 * (normalized) v82
+ +      -0.0038 * (normalized) v83
+ +       0.0546 * (normalized) v84
+ +       0.0792 * (normalized) v85
+ +      -0.0365 * (normalized) v86
+ +       0.1467 * (normalized) v87
+ +      -0.1182 * (normalized) v88
+ +       0.029  * (normalized) v89
+ +       0.0731 * (normalized) v90
+ +       0.1191 * (normalized) v91
+ +       0.038  * (normalized) v92
+ +       0.0328 * (normalized) v93
+ +       0.216  * (normalized) v94
+ +       0.0799 * (normalized) v95
+ +       0.0585 * (normalized) v96
+ +       0.0346 * (normalized) v97
+ +      -0.0889 * (normalized) v98
+ +       0.0029 * (normalized) v99
+ +      -0.096  * (normalized) v100
+ +       0.0109 * (normalized) v101
+ +      -0.1031 * (normalized) v102
+ +      -0.022  * (normalized) v103
+ +      -0.0524 * (normalized) v104
+ +       0.0183 * (normalized) v105
+ +      -0.0707 * (normalized) v106
+ +      -0.019  * (normalized) v107
+ +       0.0577 * (normalized) v108
+ +      -0.007  * (normalized) v109
+ +      -0.0285 * (normalized) v110
+ +      -0.0115 * (normalized) v111
+ +       0.0993 * (normalized) v112
+ +      -0.0559 * (normalized) v113
+ +       0.0075 * (normalized) v114
+ +      -0.1046 * (normalized) v115
+ +      -0.1193 * (normalized) v116
+ +       0.0016 * (normalized) v117
+ +       0.0202 * (normalized) v118
+ +       0.1382 * (normalized) v119
+ +      -0.0217 * (normalized) v120
+ +      -0.0775 * (normalized) v121
+ +       0.052  * (normalized) v122
+ +      -0.1318 * (normalized) v123
+ +      -0.1308 * (normalized) v124
+ +      -0.0841 * (normalized) v125
+ +       0.0255 * (normalized) v126
+ +       0.0186 * (normalized) v127
+ +      -0.1416 * (normalized) v128
+ +      -0.1767 * (normalized) v129
+ +      -0.0811 * (normalized) v130
+ +      -0.0609 * (normalized) v131
+ +      -0.0192 * (normalized) v132
+ +       0.0504 * (normalized) v133
+ +       0.0165 * (normalized) v134
+ +      -0.1125 * (normalized) v135
+ +       0.0148 * (normalized) v136
+ +      -0.0352 * (normalized) v137
+ +      -0.0939 * (normalized) v138
+ +      -0.1055 * (normalized) v139
+ +       0.1117 * (normalized) v140
+ +       0.0604 * (normalized) v141
+ +      -0.0865 * (normalized) v142
+ +       0.0294 * (normalized) v143
+ +       0.0705 * (normalized) v144
+ +      -0.0198 * (normalized) v145
+ +      -0.0014 * (normalized) v146
+ +       0.0333 * (normalized) v147
+ +       0.0356 * (normalized) v148
+ +       0.0609 * (normalized) v149
+ +      -0.2271 * (normalized) v150
+ +       0.0695 * (normalized) v151
+ +       0.0286 * (normalized) v152
+ +      -0.0332 * (normalized) v153
+ +      -0.0634 * (normalized) v154
+ +      -0.1339 * (normalized) v155
+ +       0.0114 * (normalized) v156
+ +      -0.0298 * (normalized) v157
+ +       0.0207 * (normalized) v158
+ +       0.0015 * (normalized) v159
+ +      -0.0886 * (normalized) v160
+ +      -0.0704 * (normalized) v161
+ +      -0.0525 * (normalized) v162
+ +       0.0233 * (normalized) v163
+ +      -0.002  * (normalized) v164
+ +       0.0033 * (normalized) v165
+ +      -0.0307 * (normalized) v166
+ +      -0.106  * (normalized) v167
+ +      -0.0512 * (normalized) v168
+ +       0.0478 * (normalized) v169
+ +       0.0129 * (normalized) v170
+ +       0.0871 * (normalized) v171
+ +       0.005  * (normalized) v172
+ +      -0.0501 * (normalized) v173
+ +      -0.0535 * (normalized) v174
+ +      -0.0546 * (normalized) v175
+ +       0.001  * (normalized) v176
+ +      -0.0572 * (normalized) v177
+ +       0.0022 * (normalized) v178
+ +      -0.0464 * (normalized) v179
+ +      -0.0398 * (normalized) v180
+ +       0.0677 * (normalized) v181
+ +      -0.0848 * (normalized) v182
+ +       0.0484 * (normalized) v183
+ +      -0.0106 * (normalized) v184
+ +      -0.1281 * (normalized) v185
+ +       0.0971 * (normalized) v186
+ +      -0.0914 * (normalized) v187
+ +       0.0739 * (normalized) v188
+ +       0.0931 * (normalized) v189
+ +      -0.1405 * (normalized) v190
+ +       0.0205 * (normalized) v191
+ +      -0.0675 * (normalized) v192
+ +       0.03   * (normalized) v193
+ +      -0.0524 * (normalized) v194
+ +       0.1037 * (normalized) v195
+ +      -0.0373 * (normalized) v196
+ +      -0.131  * (normalized) v197
+ +       0.0636 * (normalized) v198
+ +       0.3051 * (normalized) v199
+ +       0.0324 * (normalized) v200
+ +      -0.0915 * (normalized) अवश्य
+ +      -0.6263 * (normalized) आने
+ +      -0.0492 * (normalized) इच्छा
+ +       0.0329 * (normalized) इस
+ +       0.3848 * (normalized) एक
+ +       0.0351 * (normalized) का
+ +       0.1463 * (normalized) किया
+ +      -0.068  * (normalized) किसी
+ +       0.0806 * (normalized) की
+ +      -0.2849 * (normalized) के
+ +      -0.2138 * (normalized) को
+ +       0.057  * (normalized) गई
+ +       0      * (normalized) गया
+ +       0.0936 * (normalized) घट
+ +       0.057  * (normalized) जिसकी
+ +       0.2279 * (normalized) जो
+ +       0      * (normalized) दूसरे
+ +       0.1242 * (normalized) दृष्टि
+ +       0.0784 * (normalized) न
+ +       0.0732 * (normalized) बहुत
+ +      -0.1592 * (normalized) बात
+ +      -0.1061 * (normalized) भविष्य
+ +       0.099  * (normalized) में
+ +       0.0434 * (normalized) या
+ +      -0.1516 * (normalized) लगाया
+ +      -0.0149 * (normalized) वह
+ +      -0.2019 * (normalized) वाला
+ +       0.0521 * (normalized) संबंधित
+ +      -0.0896 * (normalized) से
+ +      -0.1384 * (normalized) ही
+ +       0.0528 * (normalized) है
+ +       0.1607 * (normalized) हो
+ +      -0.1005 * (normalized) होने
+ +      -0.0009 * (normalized) अंगों
+ +      -0.1516 * (normalized) अनुमान
+ +       0.0528 * (normalized) अवस्थाओं
+ +      -0.6598 * (normalized) आगे
+ +       0.0778 * (normalized) आज
+ +      -0.0009 * (normalized) आठ
+ +      -0.2665 * (normalized) आनेवाले
+ +      -0.0401 * (normalized) उपरांत
+ +      -0.0677 * (normalized) कह
+ +      -0.0395 * (normalized) काल
+ +       0.0528 * (normalized) क्रियाओं
+ +      -0.0915 * (normalized) घटना
+ +      -0.0677 * (normalized) चलकर
+ +      -0.1516 * (normalized) जानेवाला
+ +       0.206  * (normalized) दिन
+ +       0.0385 * (normalized) दी
+ +      -0.0405 * (normalized) धृतराष्ट्र
+ +      -0.0677 * (normalized) ने
+ +      -0.081  * (normalized) पहला
+ +       0.1158 * (normalized) पहले
+ +      -0.0405 * (normalized) पुत्र
+ +      -0.0401 * (normalized) बताए
+ +       0.0528 * (normalized) बताता
+ +      -0.3876 * (normalized) बाद
+ +       0      * (normalized) बोलनेवाली
+ +      -0.0915 * (normalized) रहनेवाली
+ +      -0.2952 * (normalized) वर्तमान
+ +      -0.0677 * (normalized) वाली
+ +       0.0528 * (normalized) व्याकरण
+ +      -0.0401 * (normalized) संदर्भित
+ +       0      * (normalized) सत्य
+ +       0.1049 * (normalized) समय
+ +      -0.0915 * (normalized) होकर
+ +      -0.1061 * (normalized) होनेवाला
+ +       0.0066 * (normalized) बाहर
+ +       0.0335 * (normalized) उपस्थित
+ +       0.1242 * (normalized) क्रम
+ +       0.0936 * (normalized) चुका
+ +       0.0066 * (normalized) निकाला
+ +       0.0335 * (normalized) न्यायालय
+ +       0.0732 * (normalized) पुराने
+ +       0.1253 * (normalized) पूर्व
+ +       0.4728 * (normalized) बीता
+ +       0.6449 * (normalized) बीते
+ +       0.1062 * (normalized) सूचना
+ +       0.1062 * (normalized) सूचित
+ +       0      * (normalized) हस्तांतरण
+ +       0      * (normalized) हाथ
+ +       0.3907 * (normalized) हुआ
+ +       0.3242
+
+Number of kernel evaluations: 770 (93.698% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                Class
+Variable       future
+=====================
+pred         -16.8171
+Intercept     -0.1901
+
+
+Odds Ratios...
+                Class
+Variable       future
+=====================
+pred                0
+
+
+Classifier for classes: neutral, present
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0327 * (normalized) v1
+ +      -0.149  * (normalized) v2
+ +      -0.0285 * (normalized) v3
+ +       0.0702 * (normalized) v4
+ +       0.0404 * (normalized) v5
+ +      -0.0093 * (normalized) v6
+ +       0.1274 * (normalized) v7
+ +       0.1016 * (normalized) v8
+ +      -0.1049 * (normalized) v9
+ +       0.0353 * (normalized) v10
+ +      -0.0123 * (normalized) v11
+ +       0.0443 * (normalized) v12
+ +      -0.1369 * (normalized) v13
+ +       0.0661 * (normalized) v14
+ +       0.056  * (normalized) v15
+ +       0.0386 * (normalized) v16
+ +       0.0508 * (normalized) v17
+ +       0.0915 * (normalized) v18
+ +       0.1811 * (normalized) v19
+ +       0.0055 * (normalized) v20
+ +      -0.0063 * (normalized) v21
+ +      -0.0395 * (normalized) v22
+ +       0.0534 * (normalized) v23
+ +       0.0565 * (normalized) v24
+ +      -0.0944 * (normalized) v25
+ +       0.0406 * (normalized) v26
+ +       0.0013 * (normalized) v27
+ +       0.0143 * (normalized) v28
+ +      -0.0683 * (normalized) v29
+ +       0.0718 * (normalized) v30
+ +       0.0184 * (normalized) v31
+ +       0.0036 * (normalized) v32
+ +      -0.0564 * (normalized) v33
+ +      -0.1079 * (normalized) v34
+ +      -0.0807 * (normalized) v35
+ +       0.0527 * (normalized) v36
+ +      -0.0011 * (normalized) v37
+ +      -0.1007 * (normalized) v38
+ +       0.1081 * (normalized) v39
+ +      -0.046  * (normalized) v40
+ +       0.0787 * (normalized) v41
+ +       0.0543 * (normalized) v42
+ +      -0.0119 * (normalized) v43
+ +       0.1692 * (normalized) v44
+ +       0.097  * (normalized) v45
+ +      -0.083  * (normalized) v46
+ +       0.0972 * (normalized) v47
+ +      -0.0537 * (normalized) v48
+ +      -0.0815 * (normalized) v49
+ +      -0.081  * (normalized) v50
+ +       0.093  * (normalized) v51
+ +      -0.0885 * (normalized) v52
+ +      -0.1422 * (normalized) v53
+ +      -0.1445 * (normalized) v54
+ +       0.0476 * (normalized) v55
+ +      -0.0622 * (normalized) v56
+ +       0.0484 * (normalized) v57
+ +      -0.0972 * (normalized) v58
+ +       0.127  * (normalized) v59
+ +      -0.1382 * (normalized) v60
+ +       0.0577 * (normalized) v61
+ +      -0.0652 * (normalized) v62
+ +      -0.0028 * (normalized) v63
+ +       0.075  * (normalized) v64
+ +       0.0278 * (normalized) v65
+ +       0.0995 * (normalized) v66
+ +      -0.0537 * (normalized) v67
+ +      -0.1333 * (normalized) v68
+ +      -0.0581 * (normalized) v69
+ +       0.0555 * (normalized) v70
+ +      -0.1278 * (normalized) v71
+ +       0.0532 * (normalized) v72
+ +      -0.0321 * (normalized) v73
+ +       0.0568 * (normalized) v74
+ +      -0.0548 * (normalized) v75
+ +      -0.006  * (normalized) v76
+ +      -0.0906 * (normalized) v77
+ +      -0.0192 * (normalized) v78
+ +      -0.0217 * (normalized) v79
+ +      -0.0569 * (normalized) v80
+ +       0.1101 * (normalized) v81
+ +      -0.0091 * (normalized) v82
+ +       0.0961 * (normalized) v83
+ +      -0.0047 * (normalized) v84
+ +      -0.0897 * (normalized) v85
+ +      -0.0381 * (normalized) v86
+ +      -0.0735 * (normalized) v87
+ +       0.0279 * (normalized) v88
+ +       0.0125 * (normalized) v89
+ +       0.0255 * (normalized) v90
+ +       0.0522 * (normalized) v91
+ +       0.0865 * (normalized) v92
+ +       0.089  * (normalized) v93
+ +      -0.0817 * (normalized) v94
+ +       0.0229 * (normalized) v95
+ +       0.046  * (normalized) v96
+ +      -0.1013 * (normalized) v97
+ +       0.0279 * (normalized) v98
+ +      -0.0038 * (normalized) v99
+ +       0.0686 * (normalized) v100
+ +       0.0225 * (normalized) v101
+ +      -0.085  * (normalized) v102
+ +      -0.0069 * (normalized) v103
+ +       0.0466 * (normalized) v104
+ +      -0.0067 * (normalized) v105
+ +       0.0338 * (normalized) v106
+ +       0.0447 * (normalized) v107
+ +      -0.2057 * (normalized) v108
+ +       0.0201 * (normalized) v109
+ +       0.1017 * (normalized) v110
+ +      -0.09   * (normalized) v111
+ +      -0.0689 * (normalized) v112
+ +       0.1348 * (normalized) v113
+ +       0.047  * (normalized) v114
+ +      -0.0516 * (normalized) v115
+ +       0.0105 * (normalized) v116
+ +      -0.0901 * (normalized) v117
+ +       0.0053 * (normalized) v118
+ +      -0.091  * (normalized) v119
+ +      -0.0216 * (normalized) v120
+ +       0.0187 * (normalized) v121
+ +      -0.0338 * (normalized) v122
+ +      -0.0029 * (normalized) v123
+ +      -0.0595 * (normalized) v124
+ +      -0.014  * (normalized) v125
+ +       0.1632 * (normalized) v126
+ +      -0.0144 * (normalized) v127
+ +       0.0383 * (normalized) v128
+ +      -0.0225 * (normalized) v129
+ +      -0.0569 * (normalized) v130
+ +      -0.0586 * (normalized) v131
+ +       0.0603 * (normalized) v132
+ +       0.0147 * (normalized) v133
+ +       0.053  * (normalized) v134
+ +       0.1923 * (normalized) v135
+ +       0.0879 * (normalized) v136
+ +      -0.023  * (normalized) v137
+ +      -0.0155 * (normalized) v138
+ +       0.1159 * (normalized) v139
+ +       0.077  * (normalized) v140
+ +       0.0284 * (normalized) v141
+ +       0.0502 * (normalized) v142
+ +      -0.0054 * (normalized) v143
+ +      -0.11   * (normalized) v144
+ +      -0.1009 * (normalized) v145
+ +       0.0276 * (normalized) v146
+ +      -0.0612 * (normalized) v147
+ +      -0.0551 * (normalized) v148
+ +      -0.0162 * (normalized) v149
+ +       0.0502 * (normalized) v150
+ +       0.0182 * (normalized) v151
+ +       0.0348 * (normalized) v152
+ +      -0.092  * (normalized) v153
+ +      -0.0034 * (normalized) v154
+ +       0.0054 * (normalized) v155
+ +       0.1075 * (normalized) v156
+ +       0.0489 * (normalized) v157
+ +       0.0765 * (normalized) v158
+ +       0.0365 * (normalized) v159
+ +      -0.0219 * (normalized) v160
+ +      -0.0744 * (normalized) v161
+ +      -0.1555 * (normalized) v162
+ +       0.1239 * (normalized) v163
+ +       0.1361 * (normalized) v164
+ +      -0.1735 * (normalized) v165
+ +       0.0483 * (normalized) v166
+ +       0.008  * (normalized) v167
+ +       0.0979 * (normalized) v168
+ +      -0.0287 * (normalized) v169
+ +       0.0208 * (normalized) v170
+ +      -0.0304 * (normalized) v171
+ +      -0.1887 * (normalized) v172
+ +       0.0394 * (normalized) v173
+ +      -0.0501 * (normalized) v174
+ +       0.0911 * (normalized) v175
+ +      -0.0693 * (normalized) v176
+ +       0.0319 * (normalized) v177
+ +      -0.0119 * (normalized) v178
+ +       0.1549 * (normalized) v179
+ +       0.0977 * (normalized) v180
+ +       0.0641 * (normalized) v181
+ +      -0.1044 * (normalized) v182
+ +      -0.1434 * (normalized) v183
+ +       0.0207 * (normalized) v184
+ +       0.1642 * (normalized) v185
+ +       0.1243 * (normalized) v186
+ +      -0.152  * (normalized) v187
+ +      -0.0475 * (normalized) v188
+ +      -0.0722 * (normalized) v189
+ +       0.0826 * (normalized) v190
+ +       0.0887 * (normalized) v191
+ +       0.0784 * (normalized) v192
+ +       0.009  * (normalized) v193
+ +      -0.0469 * (normalized) v194
+ +      -0.0604 * (normalized) v195
+ +      -0.0188 * (normalized) v196
+ +       0.1129 * (normalized) v197
+ +       0.0856 * (normalized) v198
+ +      -0.1276 * (normalized) v199
+ +       0.0439 * (normalized) v200
+ +      -0.1947 * (normalized) *
+ +      -0.1826 * (normalized) अधिक
+ +      -0.0021 * (normalized) आदि
+ +       0.1918 * (normalized) इस
+ +      -0.1954 * (normalized) एक
+ +      -0.1467 * (normalized) और
+ +      -0.0027 * (normalized) करना
+ +      -0.2241 * (normalized) का
+ +      -0.0096 * (normalized) कारण
+ +       0.1051 * (normalized) कार्य
+ +       0.0105 * (normalized) किया
+ +      -0.0405 * (normalized) किसी
+ +      -0.0245 * (normalized) की
+ +      -0.1022 * (normalized) के
+ +       0.1396 * (normalized) को
+ +       0.031  * (normalized) जिस
+ +       0.0309 * (normalized) जिसके
+ +       0.0052 * (normalized) जिसमें
+ +       0.2239 * (normalized) जो
+ +      -0.0263 * (normalized) दूसरी
+ +      -0.0641 * (normalized) पक्ष
+ +      -0.116  * (normalized) पर
+ +       0.0158 * (normalized) प्रयोग
+ +      -0.3749 * (normalized) बहुत
+ +       0.031  * (normalized) बातों
+ +      -0.0043 * (normalized) बोलना
+ +      -0.0641 * (normalized) मास
+ +      -0.0041 * (normalized) में
+ +      -0.0519 * (normalized) या
+ +      -0.0169 * (normalized) रहता
+ +       0.1056 * (normalized) रहा
+ +       0.1274 * (normalized) वह
+ +      -0.1734 * (normalized) वाला
+ +       0.0222 * (normalized) संबंधित
+ +       0.0158 * (normalized) संबंधी
+ +       0.0366 * (normalized) सकता
+ +      -0.0061 * (normalized) से
+ +      -0.0791 * (normalized) स्थिति
+ +      -0.0526 * (normalized) हर
+ +      -0.0088 * (normalized) ही
+ +      -0.0394 * (normalized) है
+ +       0.1645 * (normalized) हो
+ +      -0.0295 * (normalized) होता
+ +      -0.3318 * (normalized) होने
+ +       0.0309 * (normalized) अंगों
+ +       0.034  * (normalized) अवस्थाओं
+ +       0.0437 * (normalized) काल
+ +       0.034  * (normalized) क्रियाओं
+ +       0.085  * (normalized) दिन
+ +       0.034  * (normalized) बताता
+ +      -0.0263 * (normalized) बाद
+ +       0.2171 * (normalized) वर्तमान
+ +       0.034  * (normalized) व्याकरण
+ +      -0.016  * (normalized) समय
+ +      -0.0875 * (normalized) अंत
+ +      -0.0096 * (normalized) अतिवृष्टि
+ +      -0.0096 * (normalized) अनावृष्टि
+ +      -0.0096 * (normalized) अन्न
+ +      -0.0273 * (normalized) आंत्र-ज्वर
+ +      -0.0204 * (normalized) आघात
+ +      -0.0875 * (normalized) आरंभ
+ +      -0.0043 * (normalized) आवाज
+ +      -0.0096 * (normalized) ऐसा
+ +      -0.0043 * (normalized) ऐसे
+ +      -0.0096 * (normalized) कठिनता
+ +      -0.0096 * (normalized) कमी
+ +      -0.0501 * (normalized) कर
+ +      -0.0048 * (normalized) गरीबी
+ +      -0.0641 * (normalized) चान्द्र
+ +      -0.0875 * (normalized) जब
+ +      -0.0169 * (normalized) जल्दी
+ +      -0.0204 * (normalized) जाने
+ +      -0.0043 * (normalized) जोर
+ +      -0.0791 * (normalized) डालना
+ +      -0.0273 * (normalized) तरह
+ +      -0.0263 * (normalized) तलाक़
+ +      -0.0263 * (normalized) तलाक़शुदा
+ +      -0.0641 * (normalized) तिथि
+ +      -0.0263 * (normalized) देने
+ +      -0.105  * (normalized) नहीं
+ +      -0.0169 * (normalized) निकलता
+ +      -0.0238 * (normalized) निर्यात
+ +      -0.0641 * (normalized) नौवीं
+ +      -0.0263 * (normalized) पति
+ +       0.0105 * (normalized) पूरी
+ +      -0.0169 * (normalized) पेट
+ +      -0.2669 * (normalized) बंद
+ +      -0.0169 * (normalized) बाहर
+ +      -0.0423 * (normalized) बीच
+ +      -0.0263 * (normalized) मरने
+ +      -0.0169 * (normalized) मल
+ +      -0.0096 * (normalized) मिले
+ +      -0.0263 * (normalized) मुसलमानों
+ +      -0.0423 * (normalized) युवा
+ +      -0.0875 * (normalized) रात
+ +      -0.0169 * (normalized) रुका
+ +      -0.0169 * (normalized) रोग
+ +      -0.1155 * (normalized) लंबा
+ +      -0.0238 * (normalized) लगने
+ +      -0.0263 * (normalized) विधवा
+ +      -0.2669 * (normalized) विनाश
+ +      -0.0834 * (normalized) विपत्ति
+ +      -0.0263 * (normalized) शादी
+ +      -0.0423 * (normalized) शैशव
+ +      -0.0791 * (normalized) संकट
+ +      -0.0791 * (normalized) संभावनावाली
+ +      -0.0263 * (normalized) सकती
+ +      -0.1291 * (normalized) सकने
+ +      -0.0263 * (normalized) स्त्री
+ +      -0.0204 * (normalized) हथेली
+ +       0.0309 * (normalized) अध्ययन
+ +       0.1059 * (normalized) इसी
+ +       0.1059 * (normalized) क्षण
+ +       0.1056 * (normalized) चल
+ +       0.031  * (normalized) छाप
+ +       0.0309 * (normalized) जाता
+ +       0.0309 * (normalized) तहत
+ +       0.1931 * (normalized) दर्शाता
+ +       0.1631 * (normalized) परिवर्तन
+ +       0.0309 * (normalized) प्राणिविज्ञान
+ +       0.1059 * (normalized) वक़्त
+ +       0.6095 * (normalized) विद्यमान
+ +       0.031  * (normalized) विशेषताओं
+ +       0.1051 * (normalized) विषय
+ +       0.0309 * (normalized) शाखा
+ +       0.0309 * (normalized) शारीरिक
+ +       0.1051 * (normalized) सूचक
+ -       0.2266
+
+Number of kernel evaluations: 1047 (90.677% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                Class
+Variable      neutral
+=====================
+pred         -22.0629
+Intercept     -1.9194
+
+
+Odds Ratios...
+                Class
+Variable      neutral
+=====================
+pred                0
+
+
+Classifier for classes: neutral, past
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0607 * (normalized) v1
+ +      -0.0918 * (normalized) v2
+ +       0.062  * (normalized) v3
+ +       0.0151 * (normalized) v4
+ +       0.1223 * (normalized) v5
+ +       0.0377 * (normalized) v6
+ +      -0.0005 * (normalized) v7
+ +       0.0813 * (normalized) v8
+ +      -0.1592 * (normalized) v9
+ +       0.0665 * (normalized) v10
+ +      -0.0522 * (normalized) v11
+ +       0.0547 * (normalized) v12
+ +      -0.172  * (normalized) v13
+ +       0.0543 * (normalized) v14
+ +       0.0278 * (normalized) v15
+ +      -0.0787 * (normalized) v16
+ +      -0.0059 * (normalized) v17
+ +      -0.0268 * (normalized) v18
+ +      -0.0101 * (normalized) v19
+ +      -0.1293 * (normalized) v20
+ +      -0.0003 * (normalized) v21
+ +       0.0211 * (normalized) v22
+ +      -0.024  * (normalized) v23
+ +       0.046  * (normalized) v24
+ +      -0.0865 * (normalized) v25
+ +       0.0805 * (normalized) v26
+ +       0.0569 * (normalized) v27
+ +       0.0637 * (normalized) v28
+ +      -0.0351 * (normalized) v29
+ +       0.0153 * (normalized) v30
+ +      -0.0113 * (normalized) v31
+ +       0.0122 * (normalized) v32
+ +      -0.1069 * (normalized) v33
+ +      -0.1239 * (normalized) v34
+ +      -0.0249 * (normalized) v35
+ +      -0.0957 * (normalized) v36
+ +       0.1097 * (normalized) v37
+ +       0.0603 * (normalized) v38
+ +       0.0501 * (normalized) v39
+ +      -0.056  * (normalized) v40
+ +       0.1274 * (normalized) v41
+ +      -0.0404 * (normalized) v42
+ +       0.0306 * (normalized) v43
+ +       0.2153 * (normalized) v44
+ +       0.1531 * (normalized) v45
+ +      -0.0868 * (normalized) v46
+ +       0.1208 * (normalized) v47
+ +      -0.0111 * (normalized) v48
+ +      -0.1122 * (normalized) v49
+ +      -0.0866 * (normalized) v50
+ +       0.1537 * (normalized) v51
+ +      -0.0103 * (normalized) v52
+ +      -0.1031 * (normalized) v53
+ +      -0.0683 * (normalized) v54
+ +      -0.0206 * (normalized) v55
+ +       0.0433 * (normalized) v56
+ +      -0.0104 * (normalized) v57
+ +      -0.1589 * (normalized) v58
+ +       0.0258 * (normalized) v59
+ +      -0.1116 * (normalized) v60
+ +      -0.0174 * (normalized) v61
+ +       0.1146 * (normalized) v62
+ +      -0.0572 * (normalized) v63
+ +       0.0912 * (normalized) v64
+ +       0.0678 * (normalized) v65
+ +      -0.0411 * (normalized) v66
+ +       0.0482 * (normalized) v67
+ +      -0.09   * (normalized) v68
+ +      -0.1869 * (normalized) v69
+ +      -0.0582 * (normalized) v70
+ +      -0.0289 * (normalized) v71
+ +      -0.0247 * (normalized) v72
+ +      -0.0809 * (normalized) v73
+ +       0.0201 * (normalized) v74
+ +      -0.0507 * (normalized) v75
+ +      -0.0565 * (normalized) v76
+ +      -0.1025 * (normalized) v77
+ +      -0.0852 * (normalized) v78
+ +       0.0087 * (normalized) v79
+ +       0.1331 * (normalized) v80
+ +       0.1013 * (normalized) v81
+ +       0.0088 * (normalized) v82
+ +       0.057  * (normalized) v83
+ +      -0.021  * (normalized) v84
+ +      -0.0161 * (normalized) v85
+ +      -0.066  * (normalized) v86
+ +       0.0308 * (normalized) v87
+ +       0.0173 * (normalized) v88
+ +       0.0661 * (normalized) v89
+ +       0.043  * (normalized) v90
+ +       0.0329 * (normalized) v91
+ +       0.094  * (normalized) v92
+ +       0.1128 * (normalized) v93
+ +      -0.0239 * (normalized) v94
+ +       0.0039 * (normalized) v95
+ +       0.0565 * (normalized) v96
+ +      -0.0669 * (normalized) v97
+ +       0.0806 * (normalized) v98
+ +      -0.0482 * (normalized) v99
+ +       0.0501 * (normalized) v100
+ +      -0.0269 * (normalized) v101
+ +      -0.0588 * (normalized) v102
+ +      -0.0571 * (normalized) v103
+ +       0.0619 * (normalized) v104
+ +      -0.0411 * (normalized) v105
+ +      -0.0009 * (normalized) v106
+ +       0.101  * (normalized) v107
+ +      -0.0542 * (normalized) v108
+ +      -0.0459 * (normalized) v109
+ +       0.0964 * (normalized) v110
+ +      -0.1501 * (normalized) v111
+ +       0.0129 * (normalized) v112
+ +       0.1313 * (normalized) v113
+ +      -0.0054 * (normalized) v114
+ +      -0.0319 * (normalized) v115
+ +      -0.0701 * (normalized) v116
+ +       0.0263 * (normalized) v117
+ +       0.0164 * (normalized) v118
+ +      -0.0185 * (normalized) v119
+ +      -0.0764 * (normalized) v120
+ +      -0.0196 * (normalized) v121
+ +      -0.0478 * (normalized) v122
+ +      -0.0292 * (normalized) v123
+ +      -0.0678 * (normalized) v124
+ +      -0.1458 * (normalized) v125
+ +       0.1661 * (normalized) v126
+ +       0.0779 * (normalized) v127
+ +      -0.066  * (normalized) v128
+ +      -0.1115 * (normalized) v129
+ +      -0.09   * (normalized) v130
+ +      -0.0431 * (normalized) v131
+ +      -0.0299 * (normalized) v132
+ +       0.1527 * (normalized) v133
+ +       0.0274 * (normalized) v134
+ +       0.0654 * (normalized) v135
+ +      -0.0834 * (normalized) v136
+ +      -0.0009 * (normalized) v137
+ +      -0.0884 * (normalized) v138
+ +       0.0336 * (normalized) v139
+ +       0.1724 * (normalized) v140
+ +       0.0187 * (normalized) v141
+ +       0.1477 * (normalized) v142
+ +      -0.0527 * (normalized) v143
+ +       0.0567 * (normalized) v144
+ +       0.018  * (normalized) v145
+ +       0.0458 * (normalized) v146
+ +      -0.0144 * (normalized) v147
+ +       0.0803 * (normalized) v148
+ +       0.0193 * (normalized) v149
+ +      -0.0256 * (normalized) v150
+ +       0.0787 * (normalized) v151
+ +       0.0072 * (normalized) v152
+ +       0.1184 * (normalized) v153
+ +      -0.0579 * (normalized) v154
+ +      -0.0901 * (normalized) v155
+ +       0.1512 * (normalized) v156
+ +       0.1229 * (normalized) v157
+ +      -0.0447 * (normalized) v158
+ +       0.0949 * (normalized) v159
+ +       0.0026 * (normalized) v160
+ +      -0.0384 * (normalized) v161
+ +      -0.0466 * (normalized) v162
+ +       0.0706 * (normalized) v163
+ +       0.0246 * (normalized) v164
+ +      -0.0824 * (normalized) v165
+ +       0.0356 * (normalized) v166
+ +      -0.0007 * (normalized) v167
+ +      -0.0473 * (normalized) v168
+ +      -0.0585 * (normalized) v169
+ +       0.0409 * (normalized) v170
+ +      -0.0255 * (normalized) v171
+ +      -0.008  * (normalized) v172
+ +       0.0182 * (normalized) v173
+ +      -0.0466 * (normalized) v174
+ +       0.0459 * (normalized) v175
+ +       0.012  * (normalized) v176
+ +       0.012  * (normalized) v177
+ +      -0.038  * (normalized) v178
+ +       0.111  * (normalized) v179
+ +       0.1771 * (normalized) v180
+ +       0.0468 * (normalized) v181
+ +      -0.0588 * (normalized) v182
+ +       0.0566 * (normalized) v183
+ +      -0.0176 * (normalized) v184
+ +      -0.0982 * (normalized) v185
+ +       0.1983 * (normalized) v186
+ +      -0.0911 * (normalized) v187
+ +       0.0151 * (normalized) v188
+ +      -0.0481 * (normalized) v189
+ +       0.0161 * (normalized) v190
+ +       0.0814 * (normalized) v191
+ +       0.0621 * (normalized) v192
+ +      -0.0596 * (normalized) v193
+ +      -0.0991 * (normalized) v194
+ +       0.0018 * (normalized) v195
+ +      -0.1099 * (normalized) v196
+ +       0.0614 * (normalized) v197
+ +       0.0261 * (normalized) v198
+ +       0.0576 * (normalized) v199
+ +       0.0353 * (normalized) v200
+ +      -0.2199 * (normalized) *
+ +      -0.1577 * (normalized) अधिक
+ +      -0.0034 * (normalized) आदि
+ +       0.045  * (normalized) एक
+ +      -0.116  * (normalized) और
+ +      -0.0043 * (normalized) करना
+ +      -0.1752 * (normalized) का
+ +      -0.0143 * (normalized) कारण
+ +       0.0936 * (normalized) किया
+ +      -0.0351 * (normalized) किसी
+ +      -0.0238 * (normalized) की
+ +      -0.1101 * (normalized) के
+ +       0.0314 * (normalized) को
+ +       0.0625 * (normalized) गई
+ +       0.0231 * (normalized) गया
+ +       0.1398 * (normalized) घट
+ +      -0.0082 * (normalized) जितना
+ +       0.0625 * (normalized) जिसकी
+ +      -0.0433 * (normalized) जिसमें
+ +       0.1928 * (normalized) जो
+ +      -0.029  * (normalized) दूसरी
+ +       0.0231 * (normalized) दूसरे
+ +       0.0077 * (normalized) दृष्टि
+ +       0.0049 * (normalized) न
+ +      -0.0556 * (normalized) पक्ष
+ +      -0.1022 * (normalized) पर
+ +      -0.1796 * (normalized) बहुत
+ +      -0.0068 * (normalized) बोलना
+ +      -0.0556 * (normalized) मास
+ +       0.2322 * (normalized) में
+ +       0.1514 * (normalized) या
+ +      -0.0666 * (normalized) रहने
+ +       0.0025 * (normalized) वह
+ +       0.0065 * (normalized) वाला
+ +       0.1128 * (normalized) से
+ +      -0.0453 * (normalized) स्थिति
+ +      -0.0451 * (normalized) हर
+ +      -0.0133 * (normalized) ही
+ +       0.0314 * (normalized) है
+ +       0.0584 * (normalized) हो
+ +      -0.0642 * (normalized) होता
+ +      -0.2503 * (normalized) होने
+ +       0.0956 * (normalized) अवस्थाओं
+ +       0.2778 * (normalized) आज
+ +      -0.0666 * (normalized) आठ
+ +       0.4022 * (normalized) काल
+ +       0.0956 * (normalized) क्रियाओं
+ +       0.1669 * (normalized) दिन
+ +       0.0625 * (normalized) दी
+ +       0.2855 * (normalized) पहले
+ +       0.0956 * (normalized) बताता
+ +      -0.029  * (normalized) बाद
+ +       0.0049 * (normalized) वर्तमान
+ +       0.0956 * (normalized) व्याकरण
+ +      -0.1564 * (normalized) समय
+ +      -0.0642 * (normalized) अंत
+ +      -0.0143 * (normalized) अतिवृष्टि
+ +      -0.0143 * (normalized) अनावृष्टि
+ +      -0.0143 * (normalized) अन्न
+ +      -0.0103 * (normalized) आंत्र-ज्वर
+ +      -0.013  * (normalized) आए
+ +      -0.0619 * (normalized) आघात
+ +      -0.0642 * (normalized) आरंभ
+ +      -0.0068 * (normalized) आवाज
+ +      -0.013  * (normalized) उतना
+ +      -0.0143 * (normalized) ऐसा
+ +      -0.0068 * (normalized) ऐसे
+ +      -0.0143 * (normalized) कठिनता
+ +      -0.0143 * (normalized) कमी
+ +      -0.0305 * (normalized) कर
+ +      -0.0259 * (normalized) कीड़ा
+ +      -0.0556 * (normalized) चान्द्र
+ +      -0.0259 * (normalized) चैत
+ +      -0.0642 * (normalized) जब
+ +      -0.0619 * (normalized) जाने
+ +      -0.0068 * (normalized) जोर
+ +      -0.0453 * (normalized) डालना
+ +      -0.0666 * (normalized) तक
+ +      -0.0103 * (normalized) तरह
+ +      -0.029  * (normalized) तलाक़
+ +      -0.029  * (normalized) तलाक़शुदा
+ +      -0.0556 * (normalized) तिथि
+ +      -0.029  * (normalized) देने
+ +      -0.074  * (normalized) नहीं
+ +      -0.0016 * (normalized) निर्यात
+ +      -0.0556 * (normalized) नौवीं
+ +      -0.029  * (normalized) पति
+ +      -0.0619 * (normalized) पूरी
+ +      -0.013  * (normalized) पेट
+ +      -0.0259 * (normalized) फसल
+ +      -0.1654 * (normalized) बंद
+ +       0.0218 * (normalized) बाहर
+ +      -0.0519 * (normalized) बीच
+ +      -0.029  * (normalized) मरने
+ +      -0.0143 * (normalized) मिले
+ +      -0.029  * (normalized) मुसलमानों
+ +      -0.0519 * (normalized) युवा
+ +      -0.0642 * (normalized) रात
+ +      -0.1746 * (normalized) लंबा
+ +      -0.0274 * (normalized) लगने
+ +      -0.029  * (normalized) विधवा
+ +      -0.1654 * (normalized) विनाश
+ +      -0.0521 * (normalized) विपत्ति
+ +      -0.029  * (normalized) शादी
+ +      -0.0519 * (normalized) शैशव
+ +      -0.0453 * (normalized) संकट
+ +      -0.0453 * (normalized) संभावनावाली
+ +      -0.029  * (normalized) सकती
+ +      -0.1153 * (normalized) सकने
+ +      -0.029  * (normalized) स्त्री
+ +      -0.0619 * (normalized) हथेली
+ +       0.0282 * (normalized) उपस्थित
+ +       0.0077 * (normalized) क्रम
+ +       0.1398 * (normalized) चुका
+ +       0.02   * (normalized) नक्काशी
+ +       0.0218 * (normalized) निकाला
+ +       0.0282 * (normalized) न्यायालय
+ +       0.1501 * (normalized) पुराने
+ +       0.1501 * (normalized) पूर्व
+ +       0.3917 * (normalized) बीता
+ +       0.1844 * (normalized) बीते
+ +       0.0625 * (normalized) सूचना
+ +       0.0625 * (normalized) सूचित
+ +       0.0231 * (normalized) हस्तांतरण
+ +       0.0231 * (normalized) हाथ
+ +       0.3538 * (normalized) हुआ
+ +       0.0888 * (normalized) हुए
+ -       0.6482
+
+Number of kernel evaluations: 1031 (88.289% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                Class
+Variable      neutral
+=====================
+pred         -21.3119
+Intercept      -2.255
+
+
+Odds Ratios...
+                Class
+Variable      neutral
+=====================
+pred                0
+
+
+Classifier for classes: present, past
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.069  * (normalized) v1
+ +       0.0676 * (normalized) v2
+ +       0.1479 * (normalized) v3
+ +      -0.0665 * (normalized) v4
+ +       0.088  * (normalized) v5
+ +      -0.0394 * (normalized) v6
+ +      -0.111  * (normalized) v7
+ +      -0.0164 * (normalized) v8
+ +      -0.0055 * (normalized) v9
+ +       0.0146 * (normalized) v10
+ +      -0.0479 * (normalized) v11
+ +      -0.0037 * (normalized) v12
+ +      -0.0881 * (normalized) v13
+ +      -0.0259 * (normalized) v14
+ +      -0.0326 * (normalized) v15
+ +      -0.1363 * (normalized) v16
+ +      -0.0185 * (normalized) v17
+ +      -0.0917 * (normalized) v18
+ +      -0.1608 * (normalized) v19
+ +      -0.0632 * (normalized) v20
+ +      -0.0436 * (normalized) v21
+ +       0.0412 * (normalized) v22
+ +      -0.0571 * (normalized) v23
+ +       0.0157 * (normalized) v24
+ +      -0.0144 * (normalized) v25
+ +       0.0305 * (normalized) v26
+ +       0.1002 * (normalized) v27
+ +       0.0258 * (normalized) v28
+ +      -0.0245 * (normalized) v29
+ +      -0.0801 * (normalized) v30
+ +       0.0086 * (normalized) v31
+ +      -0.0169 * (normalized) v32
+ +      -0.0134 * (normalized) v33
+ +      -0.0272 * (normalized) v34
+ +       0.0192 * (normalized) v35
+ +      -0.1715 * (normalized) v36
+ +       0.0748 * (normalized) v37
+ +       0.1818 * (normalized) v38
+ +      -0.0693 * (normalized) v39
+ +      -0.0434 * (normalized) v40
+ +      -0.0127 * (normalized) v41
+ +      -0.1013 * (normalized) v42
+ +      -0.053  * (normalized) v43
+ +       0.1197 * (normalized) v44
+ +       0.0018 * (normalized) v45
+ +      -0.0293 * (normalized) v46
+ +       0.0183 * (normalized) v47
+ +       0.0619 * (normalized) v48
+ +       0.0493 * (normalized) v49
+ +       0.0243 * (normalized) v50
+ +       0.0148 * (normalized) v51
+ +       0.0822 * (normalized) v52
+ +       0.026  * (normalized) v53
+ +       0.1284 * (normalized) v54
+ +      -0.1209 * (normalized) v55
+ +       0.1884 * (normalized) v56
+ +      -0.1021 * (normalized) v57
+ +      -0.0931 * (normalized) v58
+ +      -0.0829 * (normalized) v59
+ +       0.0271 * (normalized) v60
+ +      -0.0466 * (normalized) v61
+ +       0.1343 * (normalized) v62
+ +      -0.126  * (normalized) v63
+ +      -0.0037 * (normalized) v64
+ +       0.021  * (normalized) v65
+ +      -0.1463 * (normalized) v66
+ +       0.1297 * (normalized) v67
+ +       0.1096 * (normalized) v68
+ +      -0.0407 * (normalized) v69
+ +      -0.0586 * (normalized) v70
+ +       0.0656 * (normalized) v71
+ +       0.0435 * (normalized) v72
+ +      -0.005  * (normalized) v73
+ +      -0.0384 * (normalized) v74
+ +      -0.116  * (normalized) v75
+ +      -0.0239 * (normalized) v76
+ +       0.0734 * (normalized) v77
+ +      -0.0524 * (normalized) v78
+ +       0.0359 * (normalized) v79
+ +       0.086  * (normalized) v80
+ +      -0.0361 * (normalized) v81
+ +       0.0829 * (normalized) v82
+ +       0.0097 * (normalized) v83
+ +      -0.12   * (normalized) v84
+ +       0.099  * (normalized) v85
+ +       0.0556 * (normalized) v86
+ +       0.176  * (normalized) v87
+ +       0.0312 * (normalized) v88
+ +       0.0269 * (normalized) v89
+ +       0.0989 * (normalized) v90
+ +      -0.061  * (normalized) v91
+ +       0.0349 * (normalized) v92
+ +      -0.0447 * (normalized) v93
+ +       0.046  * (normalized) v94
+ +       0.0119 * (normalized) v95
+ +      -0.0031 * (normalized) v96
+ +       0.0448 * (normalized) v97
+ +       0.0622 * (normalized) v98
+ +      -0.0415 * (normalized) v99
+ +       0.0093 * (normalized) v100
+ +       0.0114 * (normalized) v101
+ +       0.0911 * (normalized) v102
+ +       0.0058 * (normalized) v103
+ +      -0.0098 * (normalized) v104
+ +      -0.0484 * (normalized) v105
+ +      -0.1637 * (normalized) v106
+ +       0.0436 * (normalized) v107
+ +       0.1019 * (normalized) v108
+ +      -0.1173 * (normalized) v109
+ +       0.0111 * (normalized) v110
+ +      -0.0609 * (normalized) v111
+ +       0.1988 * (normalized) v112
+ +       0.0251 * (normalized) v113
+ +      -0.0042 * (normalized) v114
+ +      -0.0302 * (normalized) v115
+ +      -0.0654 * (normalized) v116
+ +       0.1199 * (normalized) v117
+ +       0.1155 * (normalized) v118
+ +       0.066  * (normalized) v119
+ +       0.037  * (normalized) v120
+ +      -0.0682 * (normalized) v121
+ +      -0.068  * (normalized) v122
+ +       0.0946 * (normalized) v123
+ +      -0.0402 * (normalized) v124
+ +      -0.0457 * (normalized) v125
+ +       0.0037 * (normalized) v126
+ +       0.1257 * (normalized) v127
+ +      -0.1296 * (normalized) v128
+ +      -0.1902 * (normalized) v129
+ +       0.0435 * (normalized) v130
+ +       0.0034 * (normalized) v131
+ +      -0.1848 * (normalized) v132
+ +       0.1489 * (normalized) v133
+ +       0.0152 * (normalized) v134
+ +      -0.1393 * (normalized) v135
+ +      -0.1502 * (normalized) v136
+ +      -0.0176 * (normalized) v137
+ +      -0.0646 * (normalized) v138
+ +      -0.1622 * (normalized) v139
+ +       0.154  * (normalized) v140
+ +      -0.006  * (normalized) v141
+ +      -0.0113 * (normalized) v142
+ +      -0.1066 * (normalized) v143
+ +       0.1391 * (normalized) v144
+ +       0.1783 * (normalized) v145
+ +       0.0456 * (normalized) v146
+ +       0.0347 * (normalized) v147
+ +       0.1255 * (normalized) v148
+ +       0.0482 * (normalized) v149
+ +       0.032  * (normalized) v150
+ +       0.0053 * (normalized) v151
+ +       0.0505 * (normalized) v152
+ +       0.0612 * (normalized) v153
+ +      -0.1525 * (normalized) v154
+ +      -0.1974 * (normalized) v155
+ +       0.0141 * (normalized) v156
+ +       0.0275 * (normalized) v157
+ +      -0.0458 * (normalized) v158
+ +       0.0787 * (normalized) v159
+ +       0.0508 * (normalized) v160
+ +       0.0281 * (normalized) v161
+ +       0.1838 * (normalized) v162
+ +      -0.0692 * (normalized) v163
+ +      -0.0484 * (normalized) v164
+ +       0.0223 * (normalized) v165
+ +       0.0053 * (normalized) v166
+ +      -0.053  * (normalized) v167
+ +      -0.0808 * (normalized) v168
+ +       0.001  * (normalized) v169
+ +       0.0453 * (normalized) v170
+ +       0.0092 * (normalized) v171
+ +      -0.033  * (normalized) v172
+ +      -0.0598 * (normalized) v173
+ +      -0.0708 * (normalized) v174
+ +      -0.0955 * (normalized) v175
+ +       0.1039 * (normalized) v176
+ +      -0.0575 * (normalized) v177
+ +      -0.0185 * (normalized) v178
+ +      -0.1331 * (normalized) v179
+ +       0.0097 * (normalized) v180
+ +      -0.0196 * (normalized) v181
+ +       0.0446 * (normalized) v182
+ +       0.172  * (normalized) v183
+ +      -0.0774 * (normalized) v184
+ +      -0.262  * (normalized) v185
+ +      -0.0089 * (normalized) v186
+ +       0.1024 * (normalized) v187
+ +       0.1095 * (normalized) v188
+ +       0.0923 * (normalized) v189
+ +      -0.1339 * (normalized) v190
+ +      -0.0734 * (normalized) v191
+ +      -0.1111 * (normalized) v192
+ +      -0.0381 * (normalized) v193
+ +      -0.0607 * (normalized) v194
+ +       0.0657 * (normalized) v195
+ +      -0.0453 * (normalized) v196
+ +      -0.0748 * (normalized) v197
+ +      -0.127  * (normalized) v198
+ +       0.209  * (normalized) v199
+ +       0.0348 * (normalized) v200
+ +      -0.1486 * (normalized) इस
+ +       0.1377 * (normalized) एक
+ +       0.0492 * (normalized) का
+ +      -0.0409 * (normalized) कार्य
+ +       0.1271 * (normalized) किया
+ +       0.0739 * (normalized) की
+ +       0      * (normalized) के
+ +      -0.1008 * (normalized) को
+ +       0.0832 * (normalized) गई
+ +       0.0148 * (normalized) गया
+ +       0.1272 * (normalized) घट
+ +      -0.0478 * (normalized) जिस
+ +       0.0832 * (normalized) जिसकी
+ +      -0.0073 * (normalized) जिसके
+ +      -0.0171 * (normalized) जिसमें
+ +       0.0329 * (normalized) जो
+ +       0.0148 * (normalized) दूसरे
+ +       0.1827 * (normalized) दृष्टि
+ +       0.1153 * (normalized) न
+ +      -0.0301 * (normalized) पर
+ +       0.074  * (normalized) बहुत
+ +      -0.0478 * (normalized) बातों
+ +       0.1452 * (normalized) में
+ +       0.2455 * (normalized) या
+ +      -0.1631 * (normalized) रहा
+ +      -0.0073 * (normalized) रूप
+ +      -0.1081 * (normalized) वह
+ +       0.123  * (normalized) वाला
+ +      -0.077  * (normalized) संबंधित
+ +      -0.0108 * (normalized) सकता
+ +       0.1374 * (normalized) से
+ +       0.0102 * (normalized) है
+ +      -0.0136 * (normalized) हो
+ +      -0.0171 * (normalized) होता
+ +      -0.0073 * (normalized) अंगों
+ +       0.0176 * (normalized) अवस्थाओं
+ +       0.123  * (normalized) आज
+ +       0.2511 * (normalized) काल
+ +       0.0176 * (normalized) क्रियाओं
+ +      -0.0163 * (normalized) दिन
+ +       0.0832 * (normalized) दी
+ +       0.3717 * (normalized) पहले
+ +       0.0176 * (normalized) बताता
+ +      -0.7407 * (normalized) वर्तमान
+ +       0.0176 * (normalized) व्याकरण
+ +       0.0044 * (normalized) समय
+ +      -0.0478 * (normalized) पूरी
+ +       0.0193 * (normalized) बाहर
+ +      -0.0073 * (normalized) अध्ययन
+ +      -0.1036 * (normalized) इसी
+ +      -0.1036 * (normalized) क्षण
+ +      -0.1631 * (normalized) चल
+ +      -0.0478 * (normalized) छाप
+ +      -0.0073 * (normalized) जाता
+ +      -0.0073 * (normalized) तहत
+ +      -0.1184 * (normalized) दर्शाता
+ +      -0.058  * (normalized) परिवर्तन
+ +      -0.0073 * (normalized) प्राणिविज्ञान
+ +      -0.0073 * (normalized) मूल
+ +      -0.1036 * (normalized) वक़्त
+ +      -0.4413 * (normalized) विद्यमान
+ +      -0.0478 * (normalized) विशेषताओं
+ +      -0.0409 * (normalized) विषय
+ +      -0.0073 * (normalized) शाखा
+ +      -0.0073 * (normalized) शारीरिक
+ +      -0.0409 * (normalized) सूचक
+ +       0.1827 * (normalized) क्रम
+ +       0.1272 * (normalized) चुका
+ +       0.0171 * (normalized) नक्काशी
+ +       0.0193 * (normalized) निकाला
+ +       0.074  * (normalized) पुराने
+ +       0.1401 * (normalized) पूर्व
+ +       0.4672 * (normalized) बीता
+ +       0.9268 * (normalized) बीते
+ +       0.0832 * (normalized) सूचना
+ +       0.0832 * (normalized) सूचित
+ +       0.0148 * (normalized) हस्तांतरण
+ +       0.0148 * (normalized) हाथ
+ +       0.385  * (normalized) हुआ
+ -       0.1203
+
+Number of kernel evaluations: 705 (93.109% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                Class
+Variable      present
+=====================
+pred         -17.6187
+Intercept     -0.0729
+
+
+Odds Ratios...
+                Class
+Variable      present
+=====================
+pred                0
+
+
+
+
+Time taken to build model: 0.83 seconds
+Time taken to test model on training data: 0.23 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         181              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0017
+Root mean squared error                  0.0026
+Relative absolute error                  0.6124 %
+Root relative squared error              0.7076 %
+Total Number of Instances              181     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        atemporal
+                 1         0          1         1         1          1        future
+                 1         0          1         1         1          1        neutral
+                 1         0          1         1         1          1        present
+                 1         0          1         1         1          1        past
+Weighted Avg.    1         0          1         1         1          1    
+
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 93  0  0  0  0 |  a = atemporal
+  0 20  0  0  0 |  b = future
+  0  0 26  0  0 |  c = neutral
+  0  0  0 22  0 |  d = present
+  0  0  0  0 20 |  e = past
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         139               76.7956 %
+Incorrectly Classified Instances        42               23.2044 %
+Kappa statistic                          0.6858
+Mean absolute error                      0.0991
+Root mean squared error                  0.2853
+Relative absolute error                 36.4308 %
+Root relative squared error             77.5436 %
+Total Number of Instances              181     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.677     0.011      0.984     0.677     0.803      0.95     atemporal
+                 0.85      0.081      0.567     0.85      0.68       0.925    future
+                 0.923     0.077      0.667     0.923     0.774      0.944    neutral
+                 0.909     0.063      0.667     0.909     0.769      0.977    present
+                 0.75      0.037      0.714     0.75      0.732      0.943    past
+Weighted Avg.    0.768     0.038      0.824     0.768     0.773      0.949
+
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 63 10 11  5  4 |  a = atemporal
+  0 17  0  1  2 |  b = future
+  1  1 24  0  0 |  c = neutral
+  0  1  1 20  0 |  d = present
+  0  1  0  4 15 |  e = past
+

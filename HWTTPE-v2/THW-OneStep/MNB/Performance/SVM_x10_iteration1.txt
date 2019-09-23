@@ -1,0 +1,1910 @@
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.bayes.NaiveBayesMultinomial 
+
+FilteredClassifier using weka.classifiers.bayes.NaiveBayesMultinomial  on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W3000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute tense {past,present,future,neutral,atemporal}
+@attribute अवस्थाओं numeric
+@attribute आज numeric
+@attribute आदि numeric
+@attribute इस numeric
+@attribute उत्पन्न numeric
+@attribute उद्धार numeric
+@attribute एक numeric
+@attribute का numeric
+@attribute काराया numeric
+@attribute कार्य numeric
+@attribute काल numeric
+@attribute किया numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कुछ numeric
+@attribute के numeric
+@attribute केवल numeric
+@attribute को numeric
+@attribute क्रम numeric
+@attribute क्रियाओं numeric
+@attribute खड़ा numeric
+@attribute खिलाया numeric
+@attribute खेत numeric
+@attribute गई numeric
+@attribute गया numeric
+@attribute घट numeric
+@attribute घास-फूस numeric
+@attribute चिड़ियों numeric
+@attribute चिथड़ों numeric
+@attribute चुका numeric
+@attribute जाति numeric
+@attribute जिसका numeric
+@attribute जिसकी numeric
+@attribute जिसे numeric
+@attribute जो numeric
+@attribute डराने numeric
+@attribute दिन numeric
+@attribute दी numeric
+@attribute दूसरे numeric
+@attribute दृष्टि numeric
+@attribute न numeric
+@attribute निश्चित numeric
+@attribute पद numeric
+@attribute पशुओं numeric
+@attribute पहले numeric
+@attribute पुतला numeric
+@attribute पुराने numeric
+@attribute पूर्व numeric
+@attribute प्रदर्शन numeric
+@attribute बकरा numeric
+@attribute बताता numeric
+@attribute बधिया numeric
+@attribute बना numeric
+@attribute बहुत numeric
+@attribute बीता numeric
+@attribute बीते numeric
+@attribute भोजन numeric
+@attribute महीने numeric
+@attribute में numeric
+@attribute या numeric
+@attribute लिए numeric
+@attribute लोगों numeric
+@attribute वर्ग numeric
+@attribute वर्तमान numeric
+@attribute वह numeric
+@attribute वाला numeric
+@attribute विशेष numeric
+@attribute व्यवसाय numeric
+@attribute व्यवहार numeric
+@attribute व्याकरण numeric
+@attribute संबंधित numeric
+@attribute समय numeric
+@attribute समूह numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute से numeric
+@attribute हस्तांतरण numeric
+@attribute हाथ numeric
+@attribute हुआ numeric
+@attribute हुए numeric
+@attribute है numeric
+@attribute हो numeric
+@attribute अभी numeric
+@attribute अमुक numeric
+@attribute आधुनिक numeric
+@attribute इसी numeric
+@attribute उद्देश्य numeric
+@attribute उसमें numeric
+@attribute उसे numeric
+@attribute औरों numeric
+@attribute कर numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute कल्पना numeric
+@attribute काम numeric
+@attribute कि numeric
+@attribute कुआँ numeric
+@attribute कोई numeric
+@attribute क्रिया numeric
+@attribute क्षण numeric
+@attribute क्षेत्र numeric
+@attribute गणित numeric
+@attribute चरसे numeric
+@attribute चल numeric
+@attribute चार numeric
+@attribute छाप numeric
+@attribute जाए numeric
+@attribute जाने numeric
+@attribute जायेगा numeric
+@attribute जिस numeric
+@attribute ठीक numeric
+@attribute तरह numeric
+@attribute दर्शाता numeric
+@attribute दे numeric
+@attribute दो numeric
+@attribute निपुण numeric
+@attribute पड़ numeric
+@attribute पथ numeric
+@attribute पर numeric
+@attribute परिवर्तन numeric
+@attribute पूरी numeric
+@attribute प्रकाश numeric
+@attribute बड़ा numeric
+@attribute बातों numeric
+@attribute भी numeric
+@attribute मन numeric
+@attribute मालगुजारी numeric
+@attribute यह numeric
+@attribute रखने numeric
+@attribute रह numeric
+@attribute रहा numeric
+@attribute रूपरेखा numeric
+@attribute लगा numeric
+@attribute लीन numeric
+@attribute लेने numeric
+@attribute वक़्त numeric
+@attribute वालों numeric
+@attribute विचार numeric
+@attribute विद्यमान numeric
+@attribute विभाजित numeric
+@attribute विशेषतः numeric
+@attribute विशेषताओं numeric
+@attribute विषय numeric
+@attribute व्यक्ति numeric
+@attribute संख्या numeric
+@attribute सके numeric
+@attribute सकें numeric
+@attribute सम्पन्न numeric
+@attribute साथ numeric
+@attribute सिद्ध numeric
+@attribute सीख numeric
+@attribute सूचक numeric
+@attribute ही numeric
+@attribute हुई numeric
+@attribute अथवा numeric
+@attribute अनुमान numeric
+@attribute अपने numeric
+@attribute अभिवादन numeric
+@attribute अवश्य numeric
+@attribute आगे numeric
+@attribute आने numeric
+@attribute आनेवाले numeric
+@attribute इच्छा numeric
+@attribute इतराने numeric
+@attribute उड़ते-उड़ते numeric
+@attribute उतनी numeric
+@attribute उपरांत numeric
+@attribute उपरान्त numeric
+@attribute उसका numeric
+@attribute उसके numeric
+@attribute उससे numeric
+@attribute ऊपर numeric
+@attribute ओर numeric
+@attribute करती numeric
+@attribute कह numeric
+@attribute खड़ी numeric
+@attribute ख़ूबसूरत numeric
+@attribute गुजरने numeric
+@attribute घटना numeric
+@attribute चलकर numeric
+@attribute चलाई numeric
+@attribute चीज numeric
+@attribute जानेवाला numeric
+@attribute जितनी numeric
+@attribute तय numeric
+@attribute दिया numeric
+@attribute दूरी numeric
+@attribute ने numeric
+@attribute पड़नेवाला numeric
+@attribute पहला numeric
+@attribute पार numeric
+@attribute प्रिय numeric
+@attribute फेंकी numeric
+@attribute बढ़कर numeric
+@attribute बताए numeric
+@attribute बात numeric
+@attribute बाद numeric
+@attribute बीतने numeric
+@attribute भविष्य numeric
+@attribute मान्य numeric
+@attribute मार्ग numeric
+@attribute यात्रा numeric
+@attribute रहनेवाली numeric
+@attribute लगाया numeric
+@attribute वस्तु numeric
+@attribute वाली numeric
+@attribute विकास numeric
+@attribute संदर्भित numeric
+@attribute संबोधन numeric
+@attribute सबसे numeric
+@attribute सादर numeric
+@attribute स्त्रियों numeric
+@attribute होकर numeric
+@attribute होने numeric
+@attribute होनेवाला numeric
+@attribute * numeric
+@attribute - numeric
+@attribute अंग numeric
+@attribute अंत numeric
+@attribute अंश numeric
+@attribute अकोशिय numeric
+@attribute अतः numeric
+@attribute अतिवृष्टि numeric
+@attribute अतिसूक्ष्म numeric
+@attribute अधिक numeric
+@attribute अनावृष्टि numeric
+@attribute अनुसार numeric
+@attribute अन्तर-संरचना numeric
+@attribute अन्न numeric
+@attribute अन्य numeric
+@attribute अपनी numeric
+@attribute अलग numeric
+@attribute अलग-अलग numeric
+@attribute अवस्था numeric
+@attribute असामान्य numeric
+@attribute आठ numeric
+@attribute आता numeric
+@attribute आधार numeric
+@attribute आरंभ numeric
+@attribute इसमें numeric
+@attribute उदारता numeric
+@attribute उन numeric
+@attribute उपकरण numeric
+@attribute उभार numeric
+@attribute ऊर्जा numeric
+@attribute एवं numeric
+@attribute ऐसा numeric
+@attribute और numeric
+@attribute कट्टरपन numeric
+@attribute कठिनता numeric
+@attribute कभी-कभी numeric
+@attribute कम numeric
+@attribute कमज़ोर numeric
+@attribute कमल numeric
+@attribute कमी numeric
+@attribute करके numeric
+@attribute कश्मीर numeric
+@attribute कारण numeric
+@attribute कोशिका numeric
+@attribute कोशीय numeric
+@attribute कोष्ठों numeric
+@attribute क्षमता numeric
+@attribute खाता numeric
+@attribute गए numeric
+@attribute गोल numeric
+@attribute घावों numeric
+@attribute चयापचय numeric
+@attribute चान्द्र numeric
+@attribute चारों numeric
+@attribute चीनी numeric
+@attribute छोटे numeric
+@attribute जनन numeric
+@attribute जब numeric
+@attribute जलन numeric
+@attribute जा numeric
+@attribute जाता numeric
+@attribute जाते numeric
+@attribute जिनकी numeric
+@attribute जिनमें numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जीव numeric
+@attribute जीवन numeric
+@attribute जैसे numeric
+@attribute डालना numeric
+@attribute तंत्र numeric
+@attribute तक numeric
+@attribute तथा numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तिथि numeric
+@attribute तीव्र numeric
+@attribute तेल numeric
+@attribute थोड़ा-थोड़ा numeric
+@attribute दाने numeric
+@attribute दिखाई numeric
+@attribute दूसरी numeric
+@attribute देखा numeric
+@attribute देने numeric
+@attribute द्रव्यमान numeric
+@attribute द्वारा numeric
+@attribute धन numeric
+@attribute धार्मिक numeric
+@attribute धीरे-धीरे numeric
+@attribute नहीं numeric
+@attribute निकल numeric
+@attribute निकलता numeric
+@attribute नीचे numeric
+@attribute नौवीं numeric
+@attribute पँखुड़ियों numeric
+@attribute पक्ष numeric
+@attribute पड़ता numeric
+@attribute पति numeric
+@attribute परजीवी numeric
+@attribute पर्णहरिम numeric
+@attribute पहलू numeric
+@attribute पानी numeric
+@attribute पाया numeric
+@attribute पारिस्थितिकी numeric
+@attribute पिंड numeric
+@attribute पेशाब numeric
+@attribute पोषण numeric
+@attribute पौधा numeric
+@attribute प्रकट numeric
+@attribute प्रकार numeric
+@attribute प्रत्येक numeric
+@attribute प्रयोग numeric
+@attribute प्रवेश numeric
+@attribute प्रसिद्ध numeric
+@attribute प्रेम numeric
+@attribute फेफड़ा numeric
+@attribute फेफड़ों numeric
+@attribute बँटा numeric
+@attribute बंद numeric
+@attribute बड़े numeric
+@attribute बत्ती numeric
+@attribute बदल numeric
+@attribute बार-बार numeric
+@attribute बिलकुल numeric
+@attribute बीच numeric
+@attribute बुखार numeric
+@attribute बैक्टिरिया numeric
+@attribute भागों numeric
+@attribute भीतर numeric
+@attribute भेजा numeric
+@attribute मरने numeric
+@attribute मरम्मत numeric
+@attribute महसूस numeric
+@attribute माइक्रोस्कोप numeric
+@attribute माने numeric
+@attribute मास numeric
+@attribute मिले numeric
+@attribute मुख्य numeric
+@attribute मुसलमानों numeric
+@attribute मूलाधार numeric
+@attribute मेल numeric
+@attribute युवा numeric
+@attribute रक्त numeric
+@attribute रचनात्मकता numeric
+@attribute रहता numeric
+@attribute रहने numeric
+@attribute रहनेवाला numeric
+@attribute रात numeric
+@attribute रूप numeric
+@attribute रोग numeric
+@attribute रोगी numeric
+@attribute लंबा numeric
+@attribute ललाट numeric
+@attribute लेकिन numeric
+@attribute विकसित numeric
+@attribute विखंडन numeric
+@attribute विघटित numeric
+@attribute विचारों numeric
+@attribute विधवा numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute विशेषकर numeric
+@attribute विष numeric
+@attribute वृद्धि numeric
+@attribute शरीर numeric
+@attribute शर्करा numeric
+@attribute शादी numeric
+@attribute शास्त्र numeric
+@attribute शीशा numeric
+@attribute शुद्ध numeric
+@attribute शैशव numeric
+@attribute संकट numeric
+@attribute संक्रमित numeric
+@attribute संक्रामक numeric
+@attribute संभावनावाली numeric
+@attribute सकता numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute सड़ता numeric
+@attribute सभी numeric
+@attribute सम्प्रदाय numeric
+@attribute सरल numeric
+@attribute साँप numeric
+@attribute साँस numeric
+@attribute साधारण numeric
+@attribute सारा numeric
+@attribute सीमित numeric
+@attribute स्त्री numeric
+@attribute स्थिति numeric
+@attribute स्वास्थ्य numeric
+@attribute हठयोग numeric
+@attribute हमारे numeric
+@attribute हर numeric
+@attribute हृदय numeric
+@attribute हैं numeric
+@attribute होता numeric
+@attribute होती numeric
+@attribute । numeric
+@attribute अ numeric
+@attribute अंक numeric
+@attribute अंतरिक्ष numeric
+@attribute अंदर numeric
+@attribute अक्षर numeric
+@attribute अच्छा numeric
+@attribute अधिकार numeric
+@attribute अधीन numeric
+@attribute अनिष्ट numeric
+@attribute अनुकूल numeric
+@attribute अनुचित numeric
+@attribute अनुरूप numeric
+@attribute अनौचित्य numeric
+@attribute अपना numeric
+@attribute अपराध numeric
+@attribute अपराधियों numeric
+@attribute अपितु numeric
+@attribute अप्रत्याशित numeric
+@attribute अप्रसन्न numeric
+@attribute अभिकर्ता numeric
+@attribute अभिमान numeric
+@attribute अमृतसर numeric
+@attribute अवलोकन numeric
+@attribute अवैध numeric
+@attribute असर numeric
+@attribute असाधारण numeric
+@attribute अस्तित्व numeric
+@attribute अस्थाई numeric
+@attribute आ numeric
+@attribute आँच numeric
+@attribute आकर numeric
+@attribute आचार-विचार numeric
+@attribute आधिपत्य numeric
+@attribute आना numeric
+@attribute आने-जाने numeric
+@attribute आनेवाला numeric
+@attribute आपस numeric
+@attribute आया numeric
+@attribute आयोजन numeric
+@attribute आवास numeric
+@attribute आशा numeric
+@attribute आसरे numeric
+@attribute आसानी numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इ numeric
+@attribute इकतीसवाँ numeric
+@attribute इकाई numeric
+@attribute इक्कीस numeric
+@attribute इतना numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute ई numeric
+@attribute उचित numeric
+@attribute उच्च numeric
+@attribute उच्चारण numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उतर numeric
+@attribute उत्सुकता numeric
+@attribute उदासीन numeric
+@attribute उद्दिष्ट numeric
+@attribute उनकी numeric
+@attribute उनके numeric
+@attribute उनहत्तर numeric
+@attribute उन्नीस numeric
+@attribute उन्हें numeric
+@attribute उपद्रव numeric
+@attribute उपन्यास numeric
+@attribute उपयोग numeric
+@attribute उपयोगिता numeric
+@attribute उपयोगी numeric
+@attribute उलटना numeric
+@attribute उलटने numeric
+@attribute उलटा numeric
+@attribute उल्लंघन numeric
+@attribute उष्णता numeric
+@attribute उस numeric
+@attribute उसकी numeric
+@attribute उसको numeric
+@attribute उसपर numeric
+@attribute एकांकी numeric
+@attribute एकादशी numeric
+@attribute एजेंट numeric
+@attribute ऐसी numeric
+@attribute औषध numeric
+@attribute कक्ष numeric
+@attribute कठिनाई numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कभी numeric
+@attribute कम्प्यूटर numeric
+@attribute करता numeric
+@attribute करते numeric
+@attribute कर्म numeric
+@attribute कर्मचारियों numeric
+@attribute कर्मचारी numeric
+@attribute कहते numeric
+@attribute कहने numeric
+@attribute कहलवाना numeric
+@attribute कही numeric
+@attribute कहीं numeric
+@attribute काँटे numeric
+@attribute काजल numeric
+@attribute कार्तिक numeric
+@attribute कार्यक्षेत्रों numeric
+@attribute कितनी numeric
+@attribute किनारे-किनारे numeric
+@attribute किराए numeric
+@attribute किस numeric
+@attribute कीर्तन numeric
+@attribute कुमकुम numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute कोयल numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute खेल numeric
+@attribute गणना numeric
+@attribute गति numeric
+@attribute गतिविधि numeric
+@attribute गरम numeric
+@attribute गर्भगृह numeric
+@attribute गाड़ी numeric
+@attribute गिनती numeric
+@attribute गुण numeric
+@attribute गुरु numeric
+@attribute गुरुत्व numeric
+@attribute ग्रहण numeric
+@attribute ग्राहकों numeric
+@attribute घटने numeric
+@attribute घटाना numeric
+@attribute घर numeric
+@attribute घूमने numeric
+@attribute चक्र numeric
+@attribute चतुर्थी numeric
+@attribute चरित्र numeric
+@attribute चलता numeric
+@attribute चलने numeric
+@attribute चाहता numeric
+@attribute चाहते numeric
+@attribute चाहिए numeric
+@attribute चिह्न numeric
+@attribute चुनाव numeric
+@attribute चुप numeric
+@attribute छापकर numeric
+@attribute जगह numeric
+@attribute जल्दी numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute जानकारी numeric
+@attribute जानने numeric
+@attribute जाना numeric
+@attribute जानेवाली numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जिनके numeric
+@attribute जिप्सियों numeric
+@attribute जिसके numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जी numeric
+@attribute जीत numeric
+@attribute जुड़ा numeric
+@attribute जुड़े numeric
+@attribute जैसी numeric
+@attribute ज्ञान numeric
+@attribute झील numeric
+@attribute टंकण-यंत्र numeric
+@attribute टिकिट numeric
+@attribute टिकी numeric
+@attribute टेलीविजन numeric
+@attribute ट्यूनीश numeric
+@attribute ठहराने numeric
+@attribute डर numeric
+@attribute डालने numeric
+@attribute ढंग numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तत्व numeric
+@attribute तमिल numeric
+@attribute तरफ़ numeric
+@attribute तरल numeric
+@attribute तराजू numeric
+@attribute तर्क numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute ताश numeric
+@attribute तासीर numeric
+@attribute तुरुप numeric
+@attribute तैयार numeric
+@attribute दफ्ती numeric
+@attribute दमकल numeric
+@attribute दल numeric
+@attribute दवाब numeric
+@attribute दाँतेदार numeric
+@attribute दिखाया numeric
+@attribute दिलाने numeric
+@attribute दिशा numeric
+@attribute दुःखी numeric
+@attribute दूसरों numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देना numeric
+@attribute देनेवाला numeric
+@attribute देव numeric
+@attribute देवनागरी numeric
+@attribute देश numeric
+@attribute द्रव्य numeric
+@attribute धकेलने numeric
+@attribute धर्म numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute ध्यान numeric
+@attribute नई numeric
+@attribute नज़दीक numeric
+@attribute नष्ट numeric
+@attribute नाटक numeric
+@attribute नाडु numeric
+@attribute नानक numeric
+@attribute निकलने numeric
+@attribute निजी numeric
+@attribute निमित्त numeric
+@attribute नियंत्रण numeric
+@attribute नियत numeric
+@attribute नियमित numeric
+@attribute निवासी numeric
+@attribute निशान numeric
+@attribute नीलाम numeric
+@attribute न्यून numeric
+@attribute पंजाब numeric
+@attribute पड़ना numeric
+@attribute पढ़ numeric
+@attribute पत्ते numeric
+@attribute पदार्थ numeric
+@attribute पन्नों numeric
+@attribute परस्थिति numeric
+@attribute परिणाम numeric
+@attribute परिमाण numeric
+@attribute परिस्थिति numeric
+@attribute परेशानी numeric
+@attribute पर्यटन numeric
+@attribute पहुँचकर numeric
+@attribute पहुँचने numeric
+@attribute पहुँचवाना numeric
+@attribute पहुँचाना numeric
+@attribute पहुँचाने numeric
+@attribute पाँच numeric
+@attribute पाउडर numeric
+@attribute पाए numeric
+@attribute पाएँ numeric
+@attribute पाठक numeric
+@attribute पाता numeric
+@attribute पायी numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पीड़ा numeric
+@attribute पुनःप्राप्त numeric
+@attribute पुस्तक numeric
+@attribute पूरा numeric
+@attribute पूर्ण numeric
+@attribute पूर्वव्यवस्था numeric
+@attribute पेश numeric
+@attribute पैदा numeric
+@attribute पैसा numeric
+@attribute पौधे numeric
+@attribute प्रक्रिया numeric
+@attribute प्रक्रियाओं numeric
+@attribute प्रचलित numeric
+@attribute प्रति numeric
+@attribute प्रतियोगिता numeric
+@attribute प्रतिस्पर्धात्मक numeric
+@attribute प्रत्याशा numeric
+@attribute प्रदर्शित numeric
+@attribute प्रदेश numeric
+@attribute प्रभार numeric
+@attribute प्रभाव numeric
+@attribute प्रभावहीन numeric
+@attribute प्रमुख numeric
+@attribute प्रयत्न numeric
+@attribute प्रयोजन numeric
+@attribute प्रवृत्त numeric
+@attribute प्रशासनिक numeric
+@attribute प्रसाधन numeric
+@attribute प्रस्तुत numeric
+@attribute प्राप्त numeric
+@attribute प्रारंभिक numeric
+@attribute फेन numeric
+@attribute फैलाने numeric
+@attribute बड़ी numeric
+@attribute बतानेवाला numeric
+@attribute बदलकर numeric
+@attribute बदलने numeric
+@attribute बदले numeric
+@attribute बनकर numeric
+@attribute बनना numeric
+@attribute बनने numeric
+@attribute बनाकर numeric
+@attribute बनाना numeric
+@attribute बनाने numeric
+@attribute बनाया numeric
+@attribute बनी numeric
+@attribute बराबर numeric
+@attribute बल numeric
+@attribute बाज़ी numeric
+@attribute बाजी numeric
+@attribute बाप-दादा numeric
+@attribute बारह numeric
+@attribute बारे numeric
+@attribute बाल numeric
+@attribute बाहर numeric
+@attribute बिंदी numeric
+@attribute बिना numeric
+@attribute बीज numeric
+@attribute बीती numeric
+@attribute बुलाने numeric
+@attribute बेकार numeric
+@attribute बेचता numeric
+@attribute बेरोक-टोक numeric
+@attribute बेहतर numeric
+@attribute बैठकर numeric
+@attribute बोलना numeric
+@attribute बोलने numeric
+@attribute बोली numeric
+@attribute भक्त numeric
+@attribute भजन numeric
+@attribute भारत numeric
+@attribute भारतीय numeric
+@attribute भारी numeric
+@attribute भारीपन numeric
+@attribute भाव numeric
+@attribute भाषण numeric
+@attribute भाषा numeric
+@attribute भेजने numeric
+@attribute मंच numeric
+@attribute मंत्री numeric
+@attribute मंदिरों numeric
+@attribute मध्य numeric
+@attribute मनाने numeric
+@attribute मर्यादा-विरुद्ध numeric
+@attribute महत्व numeric
+@attribute महिलाओं numeric
+@attribute माँगने numeric
+@attribute मात्रा numeric
+@attribute माध्यम numeric
+@attribute मानना numeric
+@attribute माना numeric
+@attribute मारने numeric
+@attribute मिज़ोरम numeric
+@attribute मिल numeric
+@attribute मिलकर numeric
+@attribute मिलती numeric
+@attribute मिली numeric
+@attribute मीठे numeric
+@attribute मुकदमा numeric
+@attribute मुक्के numeric
+@attribute मुद्दे numeric
+@attribute मुद्रित numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मूल numeric
+@attribute मे numeric
+@attribute मोर numeric
+@attribute मोहित numeric
+@attribute यंत्र numeric
+@attribute याद numeric
+@attribute योग्यता numeric
+@attribute योजना numeric
+@attribute रंग-ढंग numeric
+@attribute रखकर numeric
+@attribute रखना numeric
+@attribute रवाना numeric
+@attribute रहना numeric
+@attribute रहें numeric
+@attribute राजी numeric
+@attribute राज्य numeric
+@attribute राष्ट्र numeric
+@attribute रासायनिक numeric
+@attribute रिश्ता numeric
+@attribute रीति-वृत्ति numeric
+@attribute रेडियो numeric
+@attribute रोकने numeric
+@attribute रोजगार numeric
+@attribute लक्षण numeric
+@attribute लगाकर numeric
+@attribute लगाना numeric
+@attribute लगाने numeric
+@attribute लगे numeric
+@attribute लाकर numeric
+@attribute लाक्षणिक numeric
+@attribute लाना numeric
+@attribute लिखकर numeric
+@attribute लिखने numeric
+@attribute लिखावट numeric
+@attribute लिया numeric
+@attribute लेकर numeric
+@attribute लेख numeric
+@attribute लेना numeric
+@attribute लोग numeric
+@attribute वंश numeric
+@attribute वर्णमाला numeric
+@attribute वहाँ numeric
+@attribute वाले numeric
+@attribute वाहन numeric
+@attribute विजय numeric
+@attribute विज्ञान numeric
+@attribute वितर्क numeric
+@attribute विदेश numeric
+@attribute विपरीत numeric
+@attribute विभाग numeric
+@attribute विरासत numeric
+@attribute विरोध numeric
+@attribute विलक्ष्ण numeric
+@attribute विशिष्ट numeric
+@attribute विशेषज्ञ numeric
+@attribute विशेषता numeric
+@attribute विश्व numeric
+@attribute विस्तार numeric
+@attribute वे numeric
+@attribute व्यंजन numeric
+@attribute व्यक्त numeric
+@attribute व्यक्तियों numeric
+@attribute व्यवस्था numeric
+@attribute व्यापार numeric
+@attribute शब्द numeric
+@attribute शहर numeric
+@attribute शामिल numeric
+@attribute शारीरिक numeric
+@attribute शिक्षा numeric
+@attribute शैक्षिक numeric
+@attribute शोध numeric
+@attribute सँवारकर numeric
+@attribute संगीत numeric
+@attribute संचालन numeric
+@attribute संपादित numeric
+@attribute संबंधी numeric
+@attribute संभव numeric
+@attribute संस्कृति numeric
+@attribute संस्था numeric
+@attribute संस्थान numeric
+@attribute सटे numeric
+@attribute सड़क numeric
+@attribute सत्ता numeric
+@attribute सन् numeric
+@attribute सब numeric
+@attribute समर्थन numeric
+@attribute समाज numeric
+@attribute समूहों numeric
+@attribute सरकार numeric
+@attribute सर्व numeric
+@attribute सलाह numeric
+@attribute सहमत numeric
+@attribute सहायता numeric
+@attribute सहारे numeric
+@attribute सहित numeric
+@attribute साक्षी numeric
+@attribute साधिकार numeric
+@attribute सामने numeric
+@attribute सामर्थ्य numeric
+@attribute सामान्य numeric
+@attribute सालगिरह numeric
+@attribute सिलाई numeric
+@attribute सीट numeric
+@attribute सीमा numeric
+@attribute सुझाने numeric
+@attribute सुनने numeric
+@attribute सुनाने numeric
+@attribute सुनी numeric
+@attribute सुरक्षा numeric
+@attribute सुविधाजनक numeric
+@attribute सुविधापूर्वक numeric
+@attribute सेवा numeric
+@attribute सौ numeric
+@attribute सौवें numeric
+@attribute स्तर numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थानांतरित numeric
+@attribute स्थापित numeric
+@attribute स्वतंत्र numeric
+@attribute स्वयं numeric
+@attribute स्वर numeric
+@attribute स्वरों numeric
+@attribute स्वस्थ numeric
+@attribute स्वाभाविक numeric
+@attribute स्वार्थ numeric
+@attribute हटाकर numeric
+@attribute हम numeric
+@attribute हानि numeric
+@attribute हारती numeric
+@attribute हिंदी numeric
+@attribute हिमालय numeric
+@attribute हों numeric
+@attribute होना numeric
+
+@data
+
+
+Classifier Model
+The independent probability of a class
+--------------------------------------
+past	0.08898305084745763
+present	0.1016949152542373
+future	0.08898305084745763
+neutral	0.1271186440677966
+atemporal	0.5932203389830508
+
+The probability of a word given the class
+-----------------------------------------
+	past	present	future	neutral	atemporal	
+अवस्थाओं	0.0031289420511876028	0.002917636769410311	0.0030384446670510892	4.772484143520905E-4	1.9460666736496123E-4	
+आज	0.0051666562887998195	7.274275921077993E-4	0.005017222751450862	4.772484143520905E-4	1.9460666736496123E-4	
+आदि	0.0033297891189029358	7.274275921077993E-4	0.0014481921695300704	0.0013474487875657004	0.011449169004650166	
+इस	0.0023360476679063677	0.008830431505865821	7.575475162223416E-4	0.001429124708319349	0.0027505253852895223	
+उत्पन्न	0.0031289420511876028	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013664877272844776	
+उद्धार	0.005444473923151352	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+एक	0.004683826207802074	0.0016374496216742917	7.575475162223416E-4	0.009782163007387	0.0053485444357538724	
+का	0.0038068354703312646	0.0014330082817407255	0.0014923435354069693	0.005647976112444476	0.008453867910470201	
+काराया	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+कार्य	0.003184787889732502	0.005211994805522977	7.575475162223416E-4	4.772484143520905E-4	0.00641974311378837	
+काल	0.00757133378028002	0.004819807797629678	0.008316778645224048	4.772484143520905E-4	1.9460666736496123E-4	
+किया	0.009651459365087661	7.274275921077993E-4	7.575475162223416E-4	0.002286324513098877	0.0027764988434266524	
+किसी	0.0021186638505106166	0.0013515063871509436	0.003357225319161139	0.002524466712066635	0.010590193490124227	
+की	0.002086853832381922	0.004739302108099423	0.003929919801870903	0.003908773363762124	0.009011528638774387	
+कुछ	0.0022959751660733482	0.002140922221185264	7.575475162223416E-4	0.0014046095396947865	0.004575440093057098	
+के	0.002724846120651624	0.0016341290198802288	0.003394332238752614	0.006998409313418527	0.009485481350399106	
+केवल	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+को	0.003986671705810349	0.0027207703942963347	0.003871366482867673	0.001785034511450883	0.006216586760990312	
+क्रम	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+क्रियाओं	0.0031289420511876028	0.002917636769410311	0.0030384446670510892	4.772484143520905E-4	1.9460666736496123E-4	
+खड़ा	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+खिलाया	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+खेत	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+गई	0.0051666562887998195	7.274275921077993E-4	0.0028873851338366003	4.772484143520905E-4	7.417414568225617E-4	
+गया	0.006235510057985833	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002462783815332603	
+घट	0.003348189735555307	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+घास-फूस	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चिड़ियों	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चिथड़ों	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चुका	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+जाति	0.003348189735555307	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+जिसका	0.0036623116939605016	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0039007741051411545	
+जिसकी	0.004925334873324653	7.274275921077993E-4	0.002770214256923521	4.772484143520905E-4	0.0012286761046917058	
+जिसे	0.004072647690010119	7.274275921077993E-4	7.575475162223416E-4	0.0014843867663128457	0.003480037606161972	
+जो	0.005325545470386757	0.01224332008257915	0.0025231350826794277	0.004464820017316431	0.0041825460605688656	
+डराने	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+दिन	0.006342623710091576	0.003999973708774785	0.004165596934887724	0.003697811110938585	1.9460666736496123E-4	
+दी	0.005477773704122904	7.274275921077993E-4	0.0030384446670510892	4.772484143520905E-4	1.9460666736496123E-4	
+दूसरे	0.002223770559467566	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.005956783783036254	
+दृष्टि	0.003348189735555307	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+न	0.005252085090245039	0.004216979622066414	7.575475162223416E-4	4.772484143520905E-4	0.005848785016400741	
+निश्चित	0.002754135659158358	0.002568141990374858	7.575475162223416E-4	4.772484143520905E-4	0.002164371347747704	
+पद	0.003348189735555307	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+पशुओं	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पहले	0.00834279503765347	7.274275921077993E-4	0.006265511175006617	4.772484143520905E-4	1.9460666736496123E-4	
+पुतला	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पुराने	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पूर्व	0.005916269072858311	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+प्रदर्शन	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+बकरा	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+बताता	0.0031289420511876028	0.002917636769410311	0.0030384446670510892	4.772484143520905E-4	1.9460666736496123E-4	
+बधिया	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+बना	0.005477773704122904	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	7.805471973247194E-4	
+बहुत	0.002754135659158358	7.274275921077993E-4	7.575475162223416E-4	0.00530784894355408	6.870478374606468E-4	
+बीता	0.005916269072858311	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+बीते	0.007826605357058206	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+भोजन	0.0048504198467544	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	1.9460666736496123E-4	
+महीने	0.003348189735555307	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+में	0.004881883007388761	0.004212431170893049	0.004740685876025619	0.005877005878969579	0.007823382709437207	
+या	0.003939941606622659	0.004671780958122285	0.005084052976164425	0.002258746061102923	0.00810122980620673	
+लिए	0.004146360598257805	7.274275921077993E-4	7.575475162223416E-4	0.003909535207486743	0.006400310001427343	
+लोगों	0.0029733833435260596	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0018360110357377641	
+वर्ग	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+वर्तमान	0.0026707815581025955	0.01057365732558703	0.0025935354024837665	4.772484143520905E-4	1.9460666736496123E-4	
+वह	0.001800508066306519	0.007387841223686149	0.0027393175854979455	0.0029742445840144605	0.005689033629167528	
+वाला	0.0024779162437592317	7.274275921077993E-4	0.0073523505296059725	0.003593250262787269	0.0010416773849635601	
+विशेष	0.0026707815581025955	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.003024492393737601	
+व्यवसाय	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+व्यवहार	0.0031289420511876028	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013664877272844776	
+व्याकरण	0.0031289420511876028	0.002917636769410311	0.0030384446670510892	4.772484143520905E-4	1.9460666736496123E-4	
+संबंधित	0.0029733833435260596	0.0027725833303084233	0.0028873851338366003	4.772484143520905E-4	7.417414568225617E-4	
+समय	0.00751261079826331	0.010144184308496722	0.0046638292841177575	0.008028279359248323	1.9460666736496123E-4	
+समूह	0.0031289420511876028	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013664877272844776	
+सूचना	0.005916269072858311	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+सूचित	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+से	0.004901999889309816	0.005544773437240411	0.002907610336037925	0.003186290552411732	0.008097500325891504	
+हस्तांतरण	0.003722996127584552	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+हाथ	0.005444473923151352	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+हुआ	0.01930700102463582	0.002218647211339405	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+हुए	0.007826605357058206	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+है	0.002160081582761408	0.0020142058714058392	0.0020976062381997604	0.015738156373474428	8.831030491043575E-4	
+हो	0.007067595817415667	0.01090910278644226	0.0027550451513402214	0.00173565473028312	0.009521628164953737	
+अभी	7.801103982523024E-4	0.007298055124015335	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+अमुक	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+आधुनिक	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+इसी	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+उद्देश्य	7.801103982523024E-4	0.0024904170002207167	7.575475162223416E-4	4.772484143520905E-4	0.003024492393737601	
+उसमें	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+उसे	7.801103982523024E-4	0.002218647211339405	7.575475162223416E-4	4.772484143520905E-4	0.004582966579912706	
+औरों	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+कर	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	0.0020483232191540646	1.9460666736496123E-4	
+करना	7.801103982523024E-4	0.0028921014708367483	7.575475162223416E-4	4.772484143520905E-4	0.007941606653792845	
+करने	7.801103982523024E-4	0.001693531186825467	0.0017636536723982092	0.0011110866323152803	0.009070049622612686	
+कल्पना	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+काम	7.801103982523024E-4	0.0029697111988153894	0.0019251114052998976	4.772484143520905E-4	0.007144099627629886	
+कि	7.801103982523024E-4	0.002363700650441292	7.575475162223416E-4	4.772484143520905E-4	0.0036965870732351253	
+कुआँ	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+कोई	7.801103982523024E-4	0.0027858528957241824	0.003973032451771895	4.772484143520905E-4	0.007353508536271075	
+क्रिया	7.801103982523024E-4	0.0027858528957241824	7.575475162223416E-4	4.772484143520905E-4	0.008065258262327419	
+क्षण	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+क्षेत्र	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+गणित	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चरसे	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चल	7.801103982523024E-4	0.01039064534117111	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+चार	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+छाप	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+जाए	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+जाने	7.801103982523024E-4	0.0027725833303084233	0.007147060369065116	4.772484143520905E-4	1.9460666736496123E-4	
+जायेगा	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+जिस	7.801103982523024E-4	0.00845800179135845	7.575475162223416E-4	4.772484143520905E-4	7.116413860283333E-4	
+ठीक	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+तरह	7.801103982523024E-4	0.013068353448898227	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+दर्शाता	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+दे	7.801103982523024E-4	0.005516728626579952	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+दो	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	0.0029673430657910283	1.9460666736496123E-4	
+निपुण	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+पड़	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पथ	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पर	7.801103982523024E-4	0.006899404293881611	0.0017336402508444895	0.0029369684972955943	0.006756684768981522	
+परिवर्तन	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+पूरी	7.801103982523024E-4	0.013068353448898227	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+प्रकाश	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	0.0020483232191540646	1.9460666736496123E-4	
+बड़ा	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+बातों	7.801103982523024E-4	0.002917636769410311	7.575475162223416E-4	4.772484143520905E-4	0.0013664877272844776	
+भी	7.801103982523024E-4	0.002218647211339405	7.575475162223416E-4	0.006347376573776206	0.0028216235277099488	
+मन	7.801103982523024E-4	0.0027725833303084233	7.575475162223416E-4	4.772484143520905E-4	0.0018360110357377641	
+मालगुजारी	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+यह	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+रखने	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	0.0020483232191540646	1.9460666736496123E-4	
+रह	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+रहा	7.801103982523024E-4	0.009542374632672384	7.575475162223416E-4	4.772484143520905E-4	0.0011379019094891747	
+रूपरेखा	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+लगा	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	0.0020483232191540646	1.9460666736496123E-4	
+लीन	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+लेने	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+वक़्त	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+वालों	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+विचार	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+विद्यमान	7.801103982523024E-4	0.005516728626579952	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+विभाजित	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+विशेषतः	7.801103982523024E-4	0.003122078109343876	7.575475162223416E-4	4.772484143520905E-4	8.352408166866342E-4	
+विशेषताओं	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+विषय	7.801103982523024E-4	0.005516728626579952	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+व्यक्ति	7.801103982523024E-4	0.0038937251336622174	0.0024062482695682494	4.772484143520905E-4	0.003159354178960058	
+संख्या	7.801103982523024E-4	0.002917636769410311	7.575475162223416E-4	0.0019141939857157328	7.805471973247194E-4	
+सके	7.801103982523024E-4	0.0027725833303084233	7.575475162223416E-4	4.772484143520905E-4	0.0021560643704104255	
+सकें	7.801103982523024E-4	0.005516728626579952	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+सम्पन्न	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+साथ	7.801103982523024E-4	0.0035544168502627304	7.575475162223416E-4	0.0023319706650374835	0.004197291831859061	
+सिद्ध	7.801103982523024E-4	0.0026600711419204615	7.575475162223416E-4	4.772484143520905E-4	0.00226274554201845	
+सीख	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+सूचक	7.801103982523024E-4	0.0034715728883793293	7.575475162223416E-4	4.772484143520905E-4	1.9460666736496123E-4	
+ही	7.801103982523024E-4	0.0024904170002207167	0.004429523288745192	0.002790561543163772	0.0014137980813648495	
+हुई	7.801103982523024E-4	0.0024230885512729707	7.575475162223416E-4	4.772484143520905E-4	0.0033700546745196597	
+अथवा	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+अनुमान	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+अपने	7.801103982523024E-4	7.274275921077993E-4	0.002461572225555032	0.0015507693132142553	0.0032588395225013546	
+अभिवादन	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+अवश्य	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+आगे	7.801103982523024E-4	7.274275921077993E-4	0.013380467344158951	4.772484143520905E-4	1.9460666736496123E-4	
+आने	7.801103982523024E-4	7.274275921077993E-4	0.00958690566751728	4.772484143520905E-4	0.0015555129561455458	
+आनेवाले	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+इच्छा	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+इतराने	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+उड़ते-उड़ते	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+उतनी	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+उपरांत	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+उपरान्त	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+उसका	7.801103982523024E-4	7.274275921077993E-4	0.002770214256923521	4.772484143520905E-4	0.00226274554201845	
+उसके	7.801103982523024E-4	7.274275921077993E-4	0.0037958115267915744	4.772484143520905E-4	0.0026568125178433903	
+उससे	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+ऊपर	7.801103982523024E-4	7.274275921077993E-4	0.002770214256923521	4.772484143520905E-4	0.00226274554201845	
+ओर	7.801103982523024E-4	7.274275921077993E-4	0.0022295694151284948	0.0023319706650374835	0.004575440093057098	
+करती	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+कह	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+खड़ी	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+ख़ूबसूरत	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+गुजरने	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+घटना	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+चलकर	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+चलाई	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+चीज	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+जानेवाला	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+जितनी	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+तय	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+दिया	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+दूरी	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+ने	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+पड़नेवाला	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+पहला	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+पार	7.801103982523024E-4	7.274275921077993E-4	0.0030384446670510892	4.772484143520905E-4	0.0013664877272844776	
+प्रिय	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+फेंकी	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+बढ़कर	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+बताए	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+बात	7.801103982523024E-4	7.274275921077993E-4	0.005896486580184882	4.772484143520905E-4	0.005861300016858906	
+बाद	7.801103982523024E-4	7.274275921077993E-4	0.01034220333358972	0.001684898546652588	1.9460666736496123E-4	
+बीतने	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+भविष्य	7.801103982523024E-4	7.274275921077993E-4	0.004710132714262281	4.772484143520905E-4	8.352408166866342E-4	
+मान्य	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+मार्ग	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+यात्रा	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	0.0012099877707212113	
+रहनेवाली	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+लगाया	7.801103982523024E-4	7.274275921077993E-4	0.003251351121191872	4.772484143520905E-4	8.352408166866342E-4	
+वस्तु	7.801103982523024E-4	7.274275921077993E-4	0.002159453159126058	4.772484143520905E-4	0.006017979905204463	
+वाली	7.801103982523024E-4	7.274275921077993E-4	0.013380467344158951	4.772484143520905E-4	1.9460666736496123E-4	
+विकास	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+संदर्भित	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+संबोधन	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+सबसे	7.801103982523024E-4	7.274275921077993E-4	0.0030384446670510892	4.772484143520905E-4	0.0013664877272844776	
+सादर	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+स्त्रियों	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+होकर	7.801103982523024E-4	7.274275921077993E-4	0.003615317108547142	4.772484143520905E-4	1.9460666736496123E-4	
+होने	7.801103982523024E-4	7.274275921077993E-4	0.0037015913140346496	0.00511405404106557	0.0030628470482649615	
+होनेवाला	7.801103982523024E-4	7.274275921077993E-4	0.005745154726161402	4.772484143520905E-4	1.9460666736496123E-4	
+*	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003351139557079375	7.805471973247194E-4	
+-	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अंग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.004788085128443014	1.9460666736496123E-4	
+अंत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अंश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+अकोशिय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अतः	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अतिवृष्टि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अतिसूक्ष्म	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अधिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0019524282572442363	
+अनावृष्टि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अनुसार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अन्तर-संरचना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अन्न	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003330767738292507	1.9460666736496123E-4	
+अन्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003351139557079375	7.805471973247194E-4	
+अपनी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अलग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अलग-अलग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+अवस्था	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+असामान्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+आठ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+आता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+आधार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+आरंभ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+इसमें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+उदारता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+उन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+उपकरण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+उभार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+ऊर्जा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+एवं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+ऐसा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+और	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.011843459946078534	0.002750397751772689	
+कट्टरपन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कठिनता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कभी-कभी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003160807145829751	0.001288876246280163	
+कमज़ोर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कमल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कमी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+करके	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0013664877272844776	
+कश्मीर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+कारण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003697811110938585	0.0028210919717675856	
+कोशिका	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.006109492675394975	1.9460666736496123E-4	
+कोशीय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+कोष्ठों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+क्षमता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+खाता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+गए	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+गोल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+घावों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+चयापचय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+चान्द्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+चारों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0017452111362269613	0.00226274554201845	
+चीनी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+छोटे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जनन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जब	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जलन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003947218107569613	0.0023570933234890626	
+जाता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.006290809946460699	7.116413860283333E-4	
+जाते	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जिनकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जिनमें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.005628644403268083	1.9460666736496123E-4	
+जिसमें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.009825253959657625	6.181420261642608E-4	
+जिससे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0013664877272844776	
+जीव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+जीवन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+जैसे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+डालना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तंत्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+तथा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0038147001943791455	0.002462783815332603	
+तलाक़	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तलाक़शुदा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तिथि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तीव्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+तेल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+थोड़ा-थोड़ा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+दाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+दिखाई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+दूसरी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+देखा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+देने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003351139557079375	7.805471973247194E-4	
+द्रव्यमान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+द्वारा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0015897323410277754	0.0033700546745196597	
+धन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+धार्मिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+धीरे-धीरे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+नहीं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.008573844365192972	1.9460666736496123E-4	
+निकल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+निकलता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+नीचे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0013664877272844776	
+नौवीं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पँखुड़ियों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पक्ष	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+पड़ता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+पति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+परजीवी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पर्णहरिम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पहलू	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पानी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पाया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+पारिस्थितिकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पिंड	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+पेशाब	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003330767738292507	1.9460666736496123E-4	
+पोषण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+पौधा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+प्रकट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+प्रकार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0043906671873015024	0.0033861411492178673	
+प्रत्येक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0013664877272844776	
+प्रयोग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+प्रवेश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+प्रसिद्ध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+प्रेम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+फेफड़ा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+फेफड़ों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बँटा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बंद	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बड़े	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बत्ती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बदल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बार-बार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बिलकुल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बीच	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बुखार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+बैक्टिरिया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+भागों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.004191698831904441	7.805471973247194E-4	
+भीतर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+भेजा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मरने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मरम्मत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+महसूस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+माइक्रोस्कोप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+माने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मास	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+मिले	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मुख्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मुसलमानों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.004538417870593004	1.9460666736496123E-4	
+मूलाधार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+मेल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+युवा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+रक्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+रचनात्मकता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+रहता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+रहने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0019141939857157328	0.0013664877272844776	
+रहनेवाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+रात	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+रूप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003929783042457428	0.004770065218153495	
+रोग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.006260531236381293	0.0011379019094891747	
+रोगी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+लंबा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+ललाट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+लेकिन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विकसित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विखंडन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विघटित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विचारों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विधवा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विनाश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विपत्ति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विशेषकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+विष	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+वृद्धि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शरीर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.011329403967038472	6.482420969584892E-4	
+शर्करा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शादी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शास्त्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शीशा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शुद्ध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+शैशव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+संकट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+संक्रमित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+संक्रामक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+संभावनावाली	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+सकता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.003947218107569613	0.0023570933234890626	
+सकती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0036193980239560383	1.9460666736496123E-4	
+सकने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+सड़ता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+सभी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+सम्प्रदाय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+सरल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+साँप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+साँस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+साधारण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+सारा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+सीमित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+स्त्री	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+स्थिति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0017452111362269613	0.0025651914640074346	
+स्वास्थ्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+हठयोग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+हमारे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+हर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.0020483232191540646	8.352408166866342E-4	
+हृदय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+हैं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.004806628852640316	0.0016719301776520182	
+होता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.010609330910358285	0.0010416773849635601	
+होती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.005844365877307409	1.9460666736496123E-4	
+।	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	0.002277618658217208	1.9460666736496123E-4	
+अ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अंक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अंतरिक्ष	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+अंदर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+अक्षर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+अच्छा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अधिकार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.003384672104659793	
+अधीन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अनिष्ट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अनुकूल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अनुचित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+अनुरूप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अनौचित्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अपना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अपराध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अपराधियों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+अपितु	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अप्रत्याशित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अप्रसन्न	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अभिकर्ता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अभिमान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अमृतसर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अवलोकन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अवैध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+असर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+असाधारण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+अस्तित्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+अस्थाई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आँच	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आचार-विचार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आधिपत्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+आने-जाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आनेवाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+आपस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+आया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आयोजन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आवास	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आशा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+आसरे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आसानी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+आहार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+आहार-विज्ञान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इकतीसवाँ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इकाई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इक्कीस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इतना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+इसे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+इस्राइल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उचित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उच्च	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उच्चारण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उठने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+उठनेवाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उतर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उत्सुकता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उदासीन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उद्दिष्ट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उनकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उनके	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उनहत्तर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उन्नीस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उन्हें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+उपद्रव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+उपन्यास	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उपयोग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+उपयोगिता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उपयोगी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उलटना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उलटने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उलटा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उल्लंघन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उष्णता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उसकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+उसको	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+उसपर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+एकांकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+एकादशी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+एजेंट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ऐसी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0027797802606818215	
+औषध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कक्ष	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कठिनाई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कथा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कथानक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कभी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कम्प्यूटर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002980687970281655	
+करता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002383145825195364	
+करते	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+कर्म	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कर्मचारियों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कर्मचारी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कहते	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कहने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कहलवाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कही	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कहीं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+काँटे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+काजल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कार्तिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कार्यक्षेत्रों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कितनी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+किनारे-किनारे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+किराए	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+किस	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कीर्तन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कुमकुम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कृष्ण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कृष्णपक्ष	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+कोयल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+खाद्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+खाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+खेल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+गणना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गतिविधि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गरम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गर्भगृह	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गाड़ी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गिनती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गुण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गुरु	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+गुरुत्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ग्रहण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+ग्राहकों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+घटने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+घटाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+घर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+घूमने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चक्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चतुर्थी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चरित्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चलता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चलने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चाहता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चाहते	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चाहिए	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चिह्न	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+चुनाव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+चुप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+छापकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जगह	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जल्दी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जल्दी-जल्दी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जहाँ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.00349614001479971	
+जानकारी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जानने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0027797802606818215	
+जाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002383145825195364	
+जानेवाली	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जिज्ञासा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+जितना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002637934732602515	
+जिनके	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जिप्सियों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+जिसके	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0027797802606818215	
+जिसने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+जिसपर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जीत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+जुड़ा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जुड़े	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+जैसी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ज्ञान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+झील	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+टंकण-यंत्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+टिकिट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+टिकी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+टेलीविजन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ट्यूनीश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+ठहराने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+डर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+डालने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ढंग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+तंत्र-मंत्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तत्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तमिल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तरफ़	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+तरल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तराजू	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तर्क	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ताप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तापकारक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ताश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तासीर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तुरुप	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+तैयार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+दफ्ती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दमकल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+दवाब	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दाँतेदार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दिखाया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दिलाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+दिशा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दुःखी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+दूसरों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+देखने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+देखी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+देता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+देना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+देनेवाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+देव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+देवनागरी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+देश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+द्रव्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+धकेलने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+धर्म	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+धृष्टता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+धृष्टतापूर्वक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+ध्यान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.003082226182670807	
+नई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+नज़दीक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+नष्ट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002383145825195364	
+नाटक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+नाडु	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+नानक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+निकलने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+निजी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+निमित्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+नियंत्रण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+नियत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+नियमित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+निवासी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+निशान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+नीलाम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+न्यून	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पंजाब	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+पड़ना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+पढ़	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पत्ते	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+पदार्थ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+पन्नों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+परस्थिति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+परिणाम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+परिमाण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+परिस्थिति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+परेशानी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पर्यटन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पहुँचकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पहुँचने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+पहुँचवाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पहुँचाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पहुँचाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+पाँच	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पाउडर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पाए	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पाएँ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पाठक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पाता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पायी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पास	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पासपोर्ट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पीड़ा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+पुनःप्राप्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पुस्तक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पूरा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+पूर्ण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+पूर्वव्यवस्था	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पेश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पैदा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पैसा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+पौधे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रक्रिया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+प्रक्रियाओं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रचलित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रतियोगिता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रतिस्पर्धात्मक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रत्याशा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रदर्शित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+प्रदेश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रभार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+प्रभाव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002383145825195364	
+प्रभावहीन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रमुख	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+प्रयत्न	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रयोजन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रवृत्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रशासनिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+प्रसाधन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्रस्तुत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+प्राप्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+प्रारंभिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+फेन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+फैलाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बड़ी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+बतानेवाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+बदलकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बदलने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बदले	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनाकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+बनाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनाया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बनी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बराबर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+बाज़ी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बाजी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बाप-दादा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बारह	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बारे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बाल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बाहर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+बिंदी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बिना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+बीज	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बीती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बुलाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बेकार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बेचता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बेरोक-टोक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बेहतर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बैठकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+बोलना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+बोलने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+बोली	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+भक्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+भजन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+भारत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+भारतीय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+भारी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+भारीपन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+भाव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.004134334623968897	
+भाषण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+भाषा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0022951814949233756	
+भेजने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मंच	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मंत्री	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+मंदिरों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मध्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मनाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मर्यादा-विरुद्ध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+महत्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+महिलाओं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+माँगने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मात्रा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+माध्यम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मानना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+माना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मारने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मिज़ोरम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मिल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मिलकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+मिलती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मिली	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+मीठे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मुकदमा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मुक्के	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मुद्दे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+मुद्रित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मूर्धन्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मूर्धा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मूल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+मे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मोर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+मोहित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+यंत्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+याद	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+योग्यता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+योजना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रंग-ढंग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रखकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रखना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+रवाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रहना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+रहें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+राजी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+राज्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.004134334623968897	
+राष्ट्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रासायनिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रिश्ता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+रीति-वृत्ति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रेडियो	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रोकने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+रोजगार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लक्षण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लगाकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लगाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लगाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+लगे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+लाकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लाक्षणिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+लाना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+लिखकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लिखने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+लिखावट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लिया	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लेकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लेख	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+लेना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+लोग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+वंश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+वर्णमाला	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+वहाँ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+वाले	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.002383145825195364	
+वाहन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विजय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विज्ञान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+वितर्क	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विदेश	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विपरीत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+विभाग	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+विरासत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+विरोध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विलक्ष्ण	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+विशिष्ट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विशेषज्ञ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विशेषता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+विश्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+विस्तार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+वे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+व्यंजन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+व्यक्त	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+व्यक्तियों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+व्यवस्था	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+व्यापार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शब्द	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शहर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.004354409534734683	
+शामिल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शारीरिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शिक्षा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शैक्षिक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+शोध	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सँवारकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+संगीत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+संचालन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+संपादित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+संबंधी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0022951814949233756	
+संभव	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+संस्कृति	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+संस्था	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+संस्थान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सटे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सड़क	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सत्ता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+सन्	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सब	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+समर्थन	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+समाज	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+समूहों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सरकार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सर्व	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सलाह	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सहमत	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सहायता	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+सहारे	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सहित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+साक्षी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+साधिकार	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सामने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+सामर्थ्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सामान्य	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0022951814949233756	
+सालगिरह	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सिलाई	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सीट	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सीमा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सुझाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सुनने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सुनाने	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सुनी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सुरक्षा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सुविधाजनक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सुविधापूर्वक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सेवा	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+सौ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+सौवें	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्तर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0013581807499471984	
+स्थल	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्थान	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.006806025690283899	
+स्थानांतरित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+स्थापित	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+स्वतंत्र	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.001850621920042884	
+स्वयं	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्वर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्वरों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्वस्थ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्वाभाविक	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+स्वार्थ	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हटाकर	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हम	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हानि	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0014758749660083073	
+हारती	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हिंदी	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हिमालय	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	9.287401765507069E-4	
+हों	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.0019524282572442363	
+होना	7.801103982523024E-4	7.274275921077993E-4	7.575475162223416E-4	4.772484143520905E-4	0.004646466427892472	
+
+
+Time taken to build model: 0.09 seconds
+Time taken to test model on training data: 0.02 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         230               99.5671 %
+Incorrectly Classified Instances         1                0.4329 %
+Kappa statistic                          0.9928
+Mean absolute error                      0.003 
+Root mean squared error                  0.0336
+Relative absolute error                  1.2456 %
+Root relative squared error              9.7174 %
+Total Number of Instances              231     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        past
+                 1         0          1         1         1          1        present
+                 1         0.005      0.952     1         0.976      1        future
+                 1         0          1         1         1          1        neutral
+                 0.993     0          1         0.993     0.996      1        atemporal
+Weighted Avg.    0.996     0          0.996     0.996     0.996      1    
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  20   0   0   0   0 |   a = past
+   0  23   0   0   0 |   b = present
+   0   0  20   0   0 |   c = future
+   0   0   0  29   0 |   d = neutral
+   0   0   1   0 138 |   e = atemporal
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         196               84.8485 %
+Incorrectly Classified Instances        35               15.1515 %
+Kappa statistic                          0.7571
+Mean absolute error                      0.0619
+Root mean squared error                  0.2276
+Relative absolute error                 25.6822 %
+Root relative squared error             65.8441 %
+Total Number of Instances              231     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.7       0.052      0.56      0.7       0.622      0.936    past
+                 0.87      0.038      0.714     0.87      0.784      0.956    present
+                 0.9       0.024      0.783     0.9       0.837      0.939    future
+                 0.793     0.025      0.821     0.793     0.807      0.987    neutral
+                 0.871     0.065      0.953     0.871     0.91       0.973    atemporal
+Weighted Avg.    0.848     0.053      0.864     0.848     0.853      0.967
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  14   2   1   0   3 |   a = past
+   1  20   1   0   1 |   b = present
+   1   1  18   0   0 |   c = future
+   2   0   2  23   2 |   d = neutral
+   7   5   1   5 121 |   e = atemporal
+

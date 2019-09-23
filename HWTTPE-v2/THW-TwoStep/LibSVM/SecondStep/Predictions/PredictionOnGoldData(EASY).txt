@@ -1,0 +1,35 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1   3:future  2:present   +   0.375 
+     2  4:neutral  4:neutral       0.679 
+     3  4:neutral  4:neutral       0.997 
+     4     1:past  4:neutral   +   0.372 
+     5  4:neutral     1:past   +   0.448 
+     6     1:past  4:neutral   +   0.391 
+     7  2:present  4:neutral   +   0.44 
+     8  4:neutral  4:neutral       0.997 
+     9     1:past  2:present   +   0.373 
+    10  4:neutral  4:neutral       0.997 
+    11  2:present  2:present       0.368 
+    12   3:future     1:past   +   0.373 
+    13     1:past     1:past       0.36 
+    14     1:past  4:neutral   +   0.41 
+    15     1:past  4:neutral   +   0.41 
+    16  4:neutral  4:neutral       0.997 
+    17   3:future  2:present   +   0.414 
+    18     1:past  4:neutral   +   0.505 
+    19  2:present  2:present       0.376 
+    20  4:neutral  4:neutral       0.689 
+    21  4:neutral  4:neutral       0.837 
+    22     1:past     1:past       0.399 
+    23  4:neutral  4:neutral       0.997 
+    24  4:neutral  4:neutral       0.369 
+    25     1:past     1:past       0.332 
+    26     1:past  2:present   +   0.347 
+    27  4:neutral  4:neutral       0.662 
+    28   3:future  4:neutral   +   0.371 
+    29  2:present  2:present       0.428 
+

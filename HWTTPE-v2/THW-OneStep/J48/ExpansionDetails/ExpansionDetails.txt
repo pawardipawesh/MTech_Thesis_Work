@@ -1,0 +1,15 @@
+INSTANCE NO	PREDICTION VALUE	Tense	ITERATION NO
+52533	0.803	atemporal	1
+50624	0.803	atemporal	1
+34971	0.803	atemporal	1
+64842	0.583	neutral	1
+69748	0.429	future	1
+116478	0.803	atemporal	1
+107779	0.5	past	1
+49503	0.803	atemporal	1
+24943	0.6	present	1
+86514	0.583	neutral	1
+59739	0.803	atemporal	1
+99522	0.803	atemporal	1
+38831	0.803	atemporal	1
+71873	0.803	atemporal	1

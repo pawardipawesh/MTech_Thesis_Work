@@ -1,0 +1,12 @@
+iteration 1 Training over
+iteration 1 Testing over
+iteration 1 Expansion over
+iteration 2 Training over
+iteration 2 Testing over
+iteration 2 Expansion over
+iteration 3 Training over
+iteration 3 Testing over
+iteration 3 Expansion over
+iteration 4 Training over
+PROCESS OVER
+Obtained Predictions with model 3

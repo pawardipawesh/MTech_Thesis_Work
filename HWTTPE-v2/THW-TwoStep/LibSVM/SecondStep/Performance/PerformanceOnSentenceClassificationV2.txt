@@ -1,0 +1,26 @@
+past	present	future	neutral<-----classified as
+104    	34    	40    	103      |past
+8    	379    	43    	103       |present
+11     	19    	49    	47       |future
+0     	0    	0    	0       |neutral
+-------------------Accuracy------------------------------------------------------------
+Accuracy=0.5659574
+
+--------------------Precision--------------------------------------------------------
+Precision(past)=0.8455285
+Precision(present)=0.8773148
+Precision(future)=0.37121212
+Precision(neutral)=0.0
+Precision(avg)=0.52351385
+---------------------Recall-----------------------------------------------------------
+recall(past)=0.37010676
+recall(present)=0.7110694
+recall(future)=0.3888889
+recall(neutral)=NaN
+recall(avg)=NaN
+---------------------F-measure-----------------------------------------------------------
+F-measure(past)=0.51485145
+F-measure(present)=0.7854922
+F-measure(future)=0.37984496
+F-measure(neutral)=NaN
+F-measure(avg)=NaN

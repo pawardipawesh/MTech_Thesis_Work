@@ -1,0 +1,31 @@
+past	present	future	neutral	atemporal<-----classified as
+8    	0    	6    	0   	2      |past
+2    	4    	0    	0   	2       |present
+1     	0    	5    	0   	7       |future
+1     	3    	3    	8   	7       |neutral
+9     	2    	5    	8   	97       |atemporal
+-------------------Accuracy------------------------------------------------------------
+Accuracy=0.67777777
+Accuracy with respect to Only temporal classes:0.42372882
+
+--------------------Precision--------------------------------------------------------
+Precision(past)=0.6666667
+Precision(present)=0.5714286
+Precision(future)=0.35714287
+Precision(neutral)=1.0
+Precision(atemporal)=0.84347826
+Precision(avg)=0.64880955
+---------------------Recall-----------------------------------------------------------
+recall(past)=0.5714286
+recall(present)=0.6666667
+recall(future)=0.8333333
+recall(neutral)=0.53333336
+recall(atemporal)=0.8016529
+recall(avg)=0.65119046
+---------------------F-measure-----------------------------------------------------------
+F-measure(past)=0.61538464
+F-measure(present)=0.61538464
+F-measure(future)=0.5
+F-measure(neutral)=0.69565225
+F-measure(atemporal)=0.82203394
+F-measure(avg)=0.64999783

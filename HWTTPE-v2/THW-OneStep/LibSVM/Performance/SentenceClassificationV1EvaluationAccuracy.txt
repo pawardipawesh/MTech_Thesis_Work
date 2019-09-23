@@ -1,0 +1,5 @@
+No of instances randomly allocated time sense:74
+No of instances correctly annotated with time sense with random allocation:29
+No of instances correctly annotated without random allocation354
+Total Accuracy of sentence classification :0.4074468
+Actual accuracy of sentence classification:0.37659574

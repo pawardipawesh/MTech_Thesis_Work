@@ -1,0 +1,186 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1  3:neutral  4:present   +   0.94 
+     2  3:neutral  4:present   +   1 
+     3 1:atempora 1:atempora       1 
+     4   2:future 1:atempora   +   1 
+     5 1:atempora 1:atempora       1 
+     6     5:past  3:neutral   +   1 
+     7 1:atempora 1:atempora       1 
+     8 1:atempora  3:neutral   +   1 
+     9 1:atempora  3:neutral   +   1 
+    10  4:present 1:atempora   +   0.506 
+    11 1:atempora 1:atempora       1 
+    12  4:present   2:future   +   1 
+    13 1:atempora 1:atempora       1 
+    14  3:neutral  4:present   +   0.936 
+    15  3:neutral 1:atempora   +   1 
+    16 1:atempora  3:neutral   +   1 
+    17 1:atempora 1:atempora       1 
+    18 1:atempora  3:neutral   +   1 
+    19 1:atempora 1:atempora       1 
+    20 1:atempora 1:atempora       1 
+    21  3:neutral     5:past   +   0.79 
+    22 1:atempora 1:atempora       1 
+    23   2:future 1:atempora   +   0.996 
+    24 1:atempora 1:atempora       1 
+    25 1:atempora 1:atempora       1 
+    26 1:atempora 1:atempora       1 
+    27  4:present 1:atempora   +   1 
+    28 1:atempora   2:future   +   1 
+    29     5:past  4:present   +   0.997 
+    30  3:neutral 1:atempora   +   1 
+    31  3:neutral 1:atempora   +   1 
+    32 1:atempora 1:atempora       1 
+    33 1:atempora 1:atempora       1 
+    34 1:atempora 1:atempora       1 
+    35  3:neutral 1:atempora   +   1 
+    36  3:neutral  3:neutral       0.561 
+    37 1:atempora  3:neutral   +   1 
+    38  3:neutral  4:present   +   1 
+    39   2:future 1:atempora   +   0.996 
+    40 1:atempora  3:neutral   +   1 
+    41 1:atempora   2:future   +   1 
+    42 1:atempora 1:atempora       1 
+    43     5:past  3:neutral   +   0.537 
+    44 1:atempora 1:atempora       1 
+    45 1:atempora 1:atempora       1 
+    46 1:atempora 1:atempora       1 
+    47     5:past 1:atempora   +   0.998 
+    48 1:atempora 1:atempora       1 
+    49  3:neutral  3:neutral       0.982 
+    50 1:atempora 1:atempora       1 
+    51 1:atempora 1:atempora       1 
+    52 1:atempora 1:atempora       0.922 
+    53 1:atempora 1:atempora       1 
+    54 1:atempora 1:atempora       1 
+    55  4:present  3:neutral   +   1 
+    56   2:future 1:atempora   +   1 
+    57 1:atempora   2:future   +   1 
+    58 1:atempora  3:neutral   +   0.996 
+    59 1:atempora 1:atempora       1 
+    60 1:atempora 1:atempora       1 
+    61 1:atempora 1:atempora       1 
+    62 1:atempora 1:atempora       0.815 
+    63  3:neutral     5:past   +   1 
+    64 1:atempora 1:atempora       1 
+    65 1:atempora 1:atempora       1 
+    66 1:atempora 1:atempora       1 
+    67     5:past     5:past       1 
+    68  3:neutral  3:neutral       1 
+    69 1:atempora   2:future   +   1 
+    70 1:atempora  4:present   +   1 
+    71 1:atempora 1:atempora       1 
+    72   2:future 1:atempora   +   1 
+    73  3:neutral  3:neutral       1 
+    74  4:present  4:present       1 
+    75 1:atempora 1:atempora       1 
+    76 1:atempora 1:atempora       1 
+    77 1:atempora 1:atempora       0.994 
+    78 1:atempora 1:atempora       1 
+    79 1:atempora 1:atempora       1 
+    80 1:atempora 1:atempora       1 
+    81 1:atempora 1:atempora       1 
+    82 1:atempora 1:atempora       1 
+    83   2:future     5:past   +   1 
+    84 1:atempora 1:atempora       1 
+    85 1:atempora 1:atempora       1 
+    86 1:atempora 1:atempora       0.999 
+    87     5:past     5:past       1 
+    88 1:atempora 1:atempora       1 
+    89 1:atempora   2:future   +   1 
+    90     5:past 1:atempora   +   1 
+    91     5:past 1:atempora   +   1 
+    92  3:neutral 1:atempora   +   1 
+    93 1:atempora 1:atempora       1 
+    94 1:atempora 1:atempora       1 
+    95   2:future 1:atempora   +   1 
+    96 1:atempora 1:atempora       1 
+    97   2:future 1:atempora   +   1 
+    98 1:atempora 1:atempora       1 
+    99 1:atempora  3:neutral   +   0.997 
+   100 1:atempora 1:atempora       0.996 
+   101     5:past 1:atempora   +   1 
+   102  4:present  4:present       1 
+   103   2:future  4:present   +   1 
+   104 1:atempora 1:atempora       1 
+   105  3:neutral 1:atempora   +   0.998 
+   106 1:atempora 1:atempora       1 
+   107 1:atempora  4:present   +   0.999 
+   108  3:neutral 1:atempora   +   1 
+   109     5:past     5:past       1 
+   110 1:atempora   2:future   +   0.994 
+   111 1:atempora  4:present   +   0.831 
+   112 1:atempora 1:atempora       1 
+   113 1:atempora  3:neutral   +   1 
+   114 1:atempora 1:atempora       1 
+   115 1:atempora 1:atempora       1 
+   116 1:atempora 1:atempora       1 
+   117 1:atempora 1:atempora       1 
+   118  3:neutral  4:present   +   1 
+   119 1:atempora 1:atempora       1 
+   120 1:atempora 1:atempora       1 
+   121 1:atempora 1:atempora       1 
+   122  3:neutral 1:atempora   +   0.999 
+   123 1:atempora  4:present   +   1 
+   124 1:atempora  4:present   +   0.62 
+   125 1:atempora 1:atempora       1 
+   126 1:atempora 1:atempora       0.99 
+   127 1:atempora  3:neutral   +   1 
+   128 1:atempora 1:atempora       1 
+   129 1:atempora  3:neutral   +   1 
+   130 1:atempora 1:atempora       1 
+   131 1:atempora 1:atempora       0.989 
+   132 1:atempora 1:atempora       1 
+   133     5:past 1:atempora   +   1 
+   134     5:past     5:past       1 
+   135     5:past     5:past       1 
+   136 1:atempora 1:atempora       1 
+   137 1:atempora   2:future   +   1 
+   138 1:atempora 1:atempora       1 
+   139 1:atempora 1:atempora       1 
+   140 1:atempora 1:atempora       1 
+   141 1:atempora 1:atempora       1 
+   142 1:atempora 1:atempora       1 
+   143   2:future 1:atempora   +   1 
+   144     5:past     5:past       1 
+   145  3:neutral 1:atempora   +   0.998 
+   146  4:present  4:present       1 
+   147 1:atempora 1:atempora       1 
+   148 1:atempora 1:atempora       1 
+   149 1:atempora   2:future   +   1 
+   150     5:past  4:present   +   1 
+   151  3:neutral  4:present   +   1 
+   152 1:atempora 1:atempora       1 
+   153 1:atempora   2:future   +   1 
+   154 1:atempora 1:atempora       1 
+   155   2:future 1:atempora   +   1 
+   156 1:atempora   2:future   +   1 
+   157 1:atempora 1:atempora       1 
+   158 1:atempora   2:future   +   1 
+   159 1:atempora  3:neutral   +   0.995 
+   160 1:atempora 1:atempora       1 
+   161     5:past 1:atempora   +   1 
+   162 1:atempora 1:atempora       1 
+   163 1:atempora  3:neutral   +   1 
+   164 1:atempora   2:future   +   0.956 
+   165 1:atempora  4:present   +   0.946 
+   166 1:atempora 1:atempora       1 
+   167 1:atempora 1:atempora       1 
+   168   2:future 1:atempora   +   1 
+   169   2:future 1:atempora   +   1 
+   170 1:atempora 1:atempora       1 
+   171 1:atempora 1:atempora       1 
+   172 1:atempora 1:atempora       1 
+   173  4:present  4:present       1 
+   174 1:atempora  3:neutral   +   1 
+   175 1:atempora  3:neutral   +   0.848 
+   176  3:neutral  3:neutral       1 
+   177 1:atempora 1:atempora       0.723 
+   178 1:atempora 1:atempora       1 
+   179 1:atempora 1:atempora       1 
+   180 1:atempora 1:atempora       1 
+

@@ -1,0 +1,186 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1 1:temporal 1:temporal       0.916 
+     2 1:temporal 1:temporal       0.919 
+     3 2:atempora 1:temporal   +   0.664 
+     4 1:temporal 1:temporal       0.951 
+     5 2:atempora 2:atempora       0.743 
+     6 1:temporal 1:temporal       0.866 
+     7 2:atempora 1:temporal   +   0.814 
+     8 2:atempora 1:temporal   +   0.805 
+     9 2:atempora 1:temporal   +   0.794 
+    10 1:temporal 1:temporal       0.883 
+    11 2:atempora 2:atempora       0.711 
+    12 1:temporal 1:temporal       0.589 
+    13 2:atempora 1:temporal   +   0.563 
+    14 1:temporal 1:temporal       0.904 
+    15 1:temporal 1:temporal       0.947 
+    16 2:atempora 2:atempora       0.553 
+    17 2:atempora 1:temporal   +   0.521 
+    18 2:atempora 1:temporal   +   0.752 
+    19 2:atempora 2:atempora       0.633 
+    20 2:atempora 1:temporal   +   0.672 
+    21 1:temporal 1:temporal       0.934 
+    22 2:atempora 2:atempora       0.581 
+    23 1:temporal 1:temporal       0.657 
+    24 2:atempora 1:temporal   +   0.732 
+    25 2:atempora 1:temporal   +   0.614 
+    26 2:atempora 1:temporal   +   0.817 
+    27 1:temporal 1:temporal       0.767 
+    28 2:atempora 1:temporal   +   0.767 
+    29 1:temporal 1:temporal       0.981 
+    30 1:temporal 1:temporal       0.604 
+    31 1:temporal 1:temporal       0.947 
+    32 2:atempora 2:atempora       0.634 
+    33 2:atempora 1:temporal   +   0.784 
+    34 2:atempora 1:temporal   +   0.572 
+    35 1:temporal 1:temporal       0.751 
+    36 1:temporal 1:temporal       0.927 
+    37 2:atempora 1:temporal   +   0.782 
+    38 1:temporal 1:temporal       0.94 
+    39 1:temporal 1:temporal       0.89 
+    40 2:atempora 1:temporal   +   0.608 
+    41 2:atempora 1:temporal   +   0.696 
+    42 2:atempora 1:temporal   +   0.701 
+    43 1:temporal 1:temporal       0.725 
+    44 2:atempora 1:temporal   +   0.574 
+    45 2:atempora 2:atempora       0.609 
+    46 2:atempora 1:temporal   +   0.782 
+    47 1:temporal 1:temporal       0.957 
+    48 2:atempora 2:atempora       0.793 
+    49 1:temporal 1:temporal       0.762 
+    50 2:atempora 1:temporal   +   0.688 
+    51 2:atempora 2:atempora       0.696 
+    52 2:atempora 1:temporal   +   0.832 
+    53 2:atempora 1:temporal   +   0.77 
+    54 2:atempora 1:temporal   +   0.631 
+    55 1:temporal 1:temporal       0.805 
+    56 1:temporal 1:temporal       0.801 
+    57 2:atempora 1:temporal   +   0.684 
+    58 2:atempora 1:temporal   +   0.684 
+    59 2:atempora 2:atempora       0.565 
+    60 2:atempora 2:atempora       0.578 
+    61 2:atempora 2:atempora       0.768 
+    62 2:atempora 1:temporal   +   0.721 
+    63 1:temporal 1:temporal       0.981 
+    64 2:atempora 1:temporal   +   0.787 
+    65 2:atempora 1:temporal   +   0.572 
+    66 2:atempora 1:temporal   +   0.548 
+    67 1:temporal 1:temporal       0.968 
+    68 1:temporal 1:temporal       0.872 
+    69 2:atempora 1:temporal   +   0.745 
+    70 2:atempora 2:atempora       0.807 
+    71 2:atempora 1:temporal   +   0.739 
+    72 1:temporal 1:temporal       0.574 
+    73 1:temporal 2:atempora   +   0.641 
+    74 1:temporal 1:temporal       0.922 
+    75 2:atempora 1:temporal   +   0.726 
+    76 2:atempora 2:atempora       0.555 
+    77 2:atempora 1:temporal   +   0.671 
+    78 2:atempora 2:atempora       0.687 
+    79 2:atempora 1:temporal   +   0.56 
+    80 2:atempora 1:temporal   +   0.921 
+    81 2:atempora 2:atempora       0.95 
+    82 2:atempora 1:temporal   +   0.682 
+    83 1:temporal 1:temporal       0.976 
+    84 2:atempora 2:atempora       0.594 
+    85 2:atempora 1:temporal   +   0.861 
+    86 2:atempora 1:temporal   +   0.599 
+    87 1:temporal 1:temporal       0.963 
+    88 2:atempora 2:atempora       0.891 
+    89 2:atempora 1:temporal   +   0.685 
+    90 1:temporal 1:temporal       0.882 
+    91 1:temporal 1:temporal       0.882 
+    92 1:temporal 1:temporal       0.947 
+    93 2:atempora 2:atempora       0.643 
+    94 2:atempora 1:temporal   +   0.645 
+    95 1:temporal 1:temporal       0.662 
+    96 2:atempora 2:atempora       0.636 
+    97 1:temporal 2:atempora   +   0.54 
+    98 2:atempora 1:temporal   +   0.666 
+    99 2:atempora 1:temporal   +   0.716 
+   100 2:atempora 1:temporal   +   0.63 
+   101 1:temporal 1:temporal       0.934 
+   102 1:temporal 1:temporal       0.837 
+   103 1:temporal 1:temporal       0.845 
+   104 2:atempora 1:temporal   +   0.787 
+   105 1:temporal 1:temporal       0.871 
+   106 2:atempora 1:temporal   +   0.785 
+   107 2:atempora 1:temporal   +   0.754 
+   108 1:temporal 1:temporal       0.87 
+   109 1:temporal 1:temporal       0.993 
+   110 2:atempora 1:temporal   +   0.701 
+   111 2:atempora 1:temporal   +   0.721 
+   112 2:atempora 1:temporal   +   0.693 
+   113 2:atempora 1:temporal   +   0.5 
+   114 2:atempora 1:temporal   +   0.586 
+   115 2:atempora 1:temporal   +   0.674 
+   116 2:atempora 1:temporal   +   0.867 
+   117 2:atempora 1:temporal   +   0.657 
+   118 1:temporal 1:temporal       0.929 
+   119 2:atempora 1:temporal   +   0.742 
+   120 2:atempora 2:atempora       0.658 
+   121 2:atempora 1:temporal   +   0.698 
+   122 1:temporal 1:temporal       0.74 
+   123 2:atempora 1:temporal   +   0.742 
+   124 2:atempora 1:temporal   +   0.753 
+   125 2:atempora 1:temporal   +   0.787 
+   126 2:atempora 1:temporal   +   0.5 
+   127 2:atempora 2:atempora       0.553 
+   128 2:atempora 2:atempora       0.635 
+   129 2:atempora 1:temporal   +   0.781 
+   130 2:atempora 1:temporal   +   0.542 
+   131 2:atempora 2:atempora       0.52 
+   132 2:atempora 1:temporal   +   0.754 
+   133 1:temporal 2:atempora   +   0.662 
+   134 1:temporal 1:temporal       0.973 
+   135 1:temporal 1:temporal       0.89 
+   136 2:atempora 1:temporal   +   0.688 
+   137 2:atempora 1:temporal   +   0.752 
+   138 2:atempora 1:temporal   +   0.801 
+   139 2:atempora 1:temporal   +   0.732 
+   140 2:atempora 2:atempora       0.886 
+   141 2:atempora 1:temporal   +   0.651 
+   142 2:atempora 1:temporal   +   0.5 
+   143 1:temporal 1:temporal       0.647 
+   144 1:temporal 1:temporal       0.993 
+   145 1:temporal 1:temporal       0.665 
+   146 1:temporal 1:temporal       0.767 
+   147 2:atempora 1:temporal   +   0.73 
+   148 2:atempora 1:temporal   +   0.572 
+   149 2:atempora 1:temporal   +   0.752 
+   150 1:temporal 1:temporal       0.954 
+   151 1:temporal 1:temporal       0.729 
+   152 2:atempora 2:atempora       0.74 
+   153 2:atempora 1:temporal   +   0.523 
+   154 2:atempora 2:atempora       0.607 
+   155 1:temporal 1:temporal       0.922 
+   156 2:atempora 1:temporal   +   0.756 
+   157 2:atempora 1:temporal   +   0.671 
+   158 2:atempora 1:temporal   +   0.747 
+   159 2:atempora 1:temporal   +   0.552 
+   160 2:atempora 2:atempora       0.738 
+   161 1:temporal 1:temporal       0.836 
+   162 2:atempora 1:temporal   +   0.742 
+   163 2:atempora 1:temporal   +   0.645 
+   164 2:atempora 1:temporal   +   0.512 
+   165 2:atempora 1:temporal   +   0.861 
+   166 2:atempora 1:temporal   +   0.593 
+   167 2:atempora 1:temporal   +   0.744 
+   168 1:temporal 1:temporal       0.798 
+   169 1:temporal 1:temporal       0.795 
+   170 2:atempora 1:temporal   +   0.693 
+   171 2:atempora 1:temporal   +   0.784 
+   172 2:atempora 1:temporal   +   0.694 
+   173 1:temporal 1:temporal       0.958 
+   174 2:atempora 2:atempora       0.547 
+   175 2:atempora 1:temporal   +   0.659 
+   176 1:temporal 1:temporal       0.674 
+   177 2:atempora 1:temporal   +   0.718 
+   178 2:atempora 2:atempora       0.55 
+   179 2:atempora 1:temporal   +   0.736 
+   180 2:atempora 1:temporal   +   0.636 
+

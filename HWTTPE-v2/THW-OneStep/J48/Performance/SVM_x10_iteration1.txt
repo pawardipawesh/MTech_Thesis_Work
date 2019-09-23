@@ -1,0 +1,496 @@
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.trees.J48 -- -U -A 
+
+FilteredClassifier using weka.classifiers.trees.J48 -U -M 2 -A on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W3000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute tense {past,present,future,neutral,atemporal}
+@attribute अवस्थाओं numeric
+@attribute आज numeric
+@attribute इस numeric
+@attribute एक numeric
+@attribute का numeric
+@attribute काल numeric
+@attribute किया numeric
+@attribute की numeric
+@attribute के numeric
+@attribute को numeric
+@attribute क्रम numeric
+@attribute क्रियाओं numeric
+@attribute गई numeric
+@attribute घट numeric
+@attribute चुका numeric
+@attribute जिसकी numeric
+@attribute जो numeric
+@attribute दिन numeric
+@attribute दी numeric
+@attribute दृष्टि numeric
+@attribute न numeric
+@attribute पहले numeric
+@attribute पुराने numeric
+@attribute पूर्व numeric
+@attribute बताता numeric
+@attribute बहुत numeric
+@attribute बीता numeric
+@attribute बीते numeric
+@attribute में numeric
+@attribute या numeric
+@attribute वर्तमान numeric
+@attribute वह numeric
+@attribute वाला numeric
+@attribute व्याकरण numeric
+@attribute संबंधित numeric
+@attribute समय numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute से numeric
+@attribute हुआ numeric
+@attribute हुए numeric
+@attribute है numeric
+@attribute हो numeric
+@attribute आधुनिक numeric
+@attribute इसी numeric
+@attribute कार्य numeric
+@attribute क्षण numeric
+@attribute चल numeric
+@attribute छाप numeric
+@attribute जिस numeric
+@attribute दर्शाता numeric
+@attribute पर numeric
+@attribute परिवर्तन numeric
+@attribute पूरी numeric
+@attribute बातों numeric
+@attribute रहा numeric
+@attribute वक़्त numeric
+@attribute विद्यमान numeric
+@attribute विशेषताओं numeric
+@attribute विषय numeric
+@attribute सूचक numeric
+@attribute अनुमान numeric
+@attribute अवश्य numeric
+@attribute आगे numeric
+@attribute आने numeric
+@attribute आनेवाले numeric
+@attribute इच्छा numeric
+@attribute उपरांत numeric
+@attribute उससे numeric
+@attribute कह numeric
+@attribute किसी numeric
+@attribute घटना numeric
+@attribute चलकर numeric
+@attribute जानेवाला numeric
+@attribute ने numeric
+@attribute पहला numeric
+@attribute बताए numeric
+@attribute बात numeric
+@attribute बाद numeric
+@attribute भविष्य numeric
+@attribute रहनेवाली numeric
+@attribute लगाया numeric
+@attribute वाली numeric
+@attribute संदर्भित numeric
+@attribute ही numeric
+@attribute होकर numeric
+@attribute होने numeric
+@attribute होनेवाला numeric
+@attribute * numeric
+@attribute अंत numeric
+@attribute अतिवृष्टि numeric
+@attribute अधिक numeric
+@attribute अनावृष्टि numeric
+@attribute अन्न numeric
+@attribute आठ numeric
+@attribute आरंभ numeric
+@attribute ऐसा numeric
+@attribute और numeric
+@attribute कठिनता numeric
+@attribute कम numeric
+@attribute कमी numeric
+@attribute कर numeric
+@attribute कारण numeric
+@attribute चान्द्र numeric
+@attribute जब numeric
+@attribute जिसमें numeric
+@attribute डालना numeric
+@attribute तक numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तिथि numeric
+@attribute दूसरी numeric
+@attribute देने numeric
+@attribute नहीं numeric
+@attribute नौवीं numeric
+@attribute पक्ष numeric
+@attribute पति numeric
+@attribute बंद numeric
+@attribute बीच numeric
+@attribute मरने numeric
+@attribute मास numeric
+@attribute मिले numeric
+@attribute मुसलमानों numeric
+@attribute युवा numeric
+@attribute रहने numeric
+@attribute रात numeric
+@attribute लंबा numeric
+@attribute लिए numeric
+@attribute विधवा numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute शादी numeric
+@attribute शैशव numeric
+@attribute संकट numeric
+@attribute संभावनावाली numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute स्त्री numeric
+@attribute स्थिति numeric
+@attribute हर numeric
+@attribute होता numeric
+@attribute अंदर numeric
+@attribute अक्षर numeric
+@attribute अधिकार numeric
+@attribute अनिष्ट numeric
+@attribute अनौचित्य numeric
+@attribute अन्य numeric
+@attribute अपने numeric
+@attribute अभिमान numeric
+@attribute असाधारण numeric
+@attribute आता numeric
+@attribute आदि numeric
+@attribute आनेवाला numeric
+@attribute आया numeric
+@attribute आवास numeric
+@attribute आशा numeric
+@attribute आसानी numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इकतीसवाँ numeric
+@attribute इतना numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute उच्चारण numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उत्पन्न numeric
+@attribute उत्सुकता numeric
+@attribute उद्दिष्ट numeric
+@attribute उद्देश्य numeric
+@attribute उन्हें numeric
+@attribute उपन्यास numeric
+@attribute उपयोगिता numeric
+@attribute उलटा numeric
+@attribute उल्लंघन numeric
+@attribute उष्णता numeric
+@attribute उसको numeric
+@attribute उसपर numeric
+@attribute उसे numeric
+@attribute ऊपर numeric
+@attribute एकादशी numeric
+@attribute ऐसी numeric
+@attribute ओर numeric
+@attribute औषध numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कभी numeric
+@attribute कम्प्यूटर numeric
+@attribute करता numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute कहते numeric
+@attribute काम numeric
+@attribute कार्तिक numeric
+@attribute कि numeric
+@attribute कितनी numeric
+@attribute किस numeric
+@attribute कुछ numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute कोई numeric
+@attribute कोयल numeric
+@attribute क्रिया numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute गतिविधि numeric
+@attribute गया numeric
+@attribute गिनती numeric
+@attribute घटने numeric
+@attribute घर numeric
+@attribute चतुर्थी numeric
+@attribute चरित्र numeric
+@attribute चलता numeric
+@attribute चारों numeric
+@attribute चाहिए numeric
+@attribute छापकर numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute जा numeric
+@attribute जानने numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जिसका numeric
+@attribute जिसके numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जीत numeric
+@attribute जैसी numeric
+@attribute ज्ञान numeric
+@attribute झील numeric
+@attribute ट्यूनीश numeric
+@attribute ढंग numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तरफ़ numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute तासीर numeric
+@attribute दल numeric
+@attribute दिखाया numeric
+@attribute दिशा numeric
+@attribute दूसरे numeric
+@attribute दूसरों numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देनेवाला numeric
+@attribute द्वारा numeric
+@attribute धीरे-धीरे numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute ध्यान numeric
+@attribute नई numeric
+@attribute नज़दीक numeric
+@attribute नष्ट numeric
+@attribute निजी numeric
+@attribute निपुण numeric
+@attribute नियंत्रण numeric
+@attribute निवासी numeric
+@attribute निश्चित numeric
+@attribute नीचे numeric
+@attribute पंजाब numeric
+@attribute पड़ता numeric
+@attribute पद numeric
+@attribute पदार्थ numeric
+@attribute परस्थिति numeric
+@attribute परेशानी numeric
+@attribute पहुँचकर numeric
+@attribute पाए numeric
+@attribute पायी numeric
+@attribute पार numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पीड़ा numeric
+@attribute पेश numeric
+@attribute पोषण numeric
+@attribute प्रकार numeric
+@attribute प्रचलित numeric
+@attribute प्रत्याशा numeric
+@attribute प्रत्येक numeric
+@attribute प्रदर्शित numeric
+@attribute प्रभाव numeric
+@attribute प्रमुख numeric
+@attribute प्रयोग numeric
+@attribute प्रवृत्त numeric
+@attribute प्रशासनिक numeric
+@attribute प्राप्त numeric
+@attribute बतानेवाला numeric
+@attribute बदलकर numeric
+@attribute बना numeric
+@attribute बनाना numeric
+@attribute बाजी numeric
+@attribute बाप-दादा numeric
+@attribute बारे numeric
+@attribute बिना numeric
+@attribute बीती numeric
+@attribute बेरोक-टोक numeric
+@attribute बोलना numeric
+@attribute भारतीय numeric
+@attribute भाव numeric
+@attribute भी numeric
+@attribute मन numeric
+@attribute महत्व numeric
+@attribute महीने numeric
+@attribute मात्रा numeric
+@attribute मान्य numeric
+@attribute मीठे numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मे numeric
+@attribute मोर numeric
+@attribute यह numeric
+@attribute रखना numeric
+@attribute रह numeric
+@attribute रहता numeric
+@attribute राज्य numeric
+@attribute राष्ट्र numeric
+@attribute रिश्ता numeric
+@attribute रूप numeric
+@attribute रोजगार numeric
+@attribute लाक्षणिक numeric
+@attribute लाना numeric
+@attribute लिखकर numeric
+@attribute लिया numeric
+@attribute लेना numeric
+@attribute लोगों numeric
+@attribute वंश numeric
+@attribute वर्णमाला numeric
+@attribute वस्तु numeric
+@attribute विजय numeric
+@attribute विज्ञान numeric
+@attribute विदेश numeric
+@attribute विलक्ष्ण numeric
+@attribute विशेष numeric
+@attribute विशेषज्ञ numeric
+@attribute विश्व numeric
+@attribute व्यंजन numeric
+@attribute व्यक्ति numeric
+@attribute व्यक्तियों numeric
+@attribute व्यवहार numeric
+@attribute शरीर numeric
+@attribute शहर numeric
+@attribute शिक्षा numeric
+@attribute संख्या numeric
+@attribute संपादित numeric
+@attribute संबंधी numeric
+@attribute संस्था numeric
+@attribute सकता numeric
+@attribute सके numeric
+@attribute सत्ता numeric
+@attribute सब numeric
+@attribute सबसे numeric
+@attribute समाज numeric
+@attribute सरकार numeric
+@attribute सर्व numeric
+@attribute सलाह numeric
+@attribute साथ numeric
+@attribute साधारण numeric
+@attribute सामने numeric
+@attribute सामान्य numeric
+@attribute सीमा numeric
+@attribute सुनने numeric
+@attribute सुनी numeric
+@attribute सुविधाजनक numeric
+@attribute सेवा numeric
+@attribute सौ numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थापित numeric
+@attribute स्वर numeric
+@attribute स्वस्थ numeric
+@attribute हारती numeric
+@attribute हिंदी numeric
+@attribute हिमालय numeric
+@attribute हुई numeric
+@attribute हैं numeric
+@attribute होना numeric
+
+@data
+
+
+Classifier Model
+J48 unpruned tree
+------------------
+
+बीते <= 0
+|   हुआ <= 0
+|   |   पूर्व <= 0
+|   |   |   पहले <= 0
+|   |   |   |   समय <= 0
+|   |   |   |   |   वर्तमान <= 0
+|   |   |   |   |   |   दिन <= 0: atemporal (56.0/8.0)
+|   |   |   |   |   |   दिन > 0: neutral (3.0/1.0)
+|   |   |   |   |   वर्तमान > 0: present (2.0)
+|   |   |   |   समय > 0
+|   |   |   |   |   इस <= 0
+|   |   |   |   |   |   वर्तमान <= 0
+|   |   |   |   |   |   |   या <= 0: neutral (7.0/1.0)
+|   |   |   |   |   |   |   या > 0
+|   |   |   |   |   |   |   |   का <= 0
+|   |   |   |   |   |   |   |   |   हो <= 0: future (2.0)
+|   |   |   |   |   |   |   |   |   हो > 0: neutral (2.0)
+|   |   |   |   |   |   |   |   का > 0: neutral (2.0)
+|   |   |   |   |   |   वर्तमान > 0: present (4.0/1.0)
+|   |   |   |   |   इस > 0: present (5.0)
+|   |   |   पहले > 0
+|   |   |   |   ही <= 0: past (3.0/1.0)
+|   |   |   |   ही > 0: future (2.0)
+|   |   पूर्व > 0: past (2.0)
+|   हुआ > 0: past (3.0)
+बीते > 0: past (3.0)
+
+Number of Leaves  : 	14
+
+Size of the tree : 	27
+
+
+Time taken to build model: 0.2 seconds
+Time taken to test model on training data: 0.02 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          84               87.5    %
+Incorrectly Classified Instances        12               12.5    %
+Kappa statistic                          0.8091
+Mean absolute error                      0.1608
+Root mean squared error                  0.2515
+Relative absolute error                 58.0453 %
+Root relative squared error             67.8358 %
+Total Number of Instances               96     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.909     0.012      0.909     0.909     0.909      0.937    past
+                 0.833     0.012      0.909     0.833     0.87       0.937    present
+                 0.364     0          1         0.364     0.533      0.737    future
+                 0.857     0.024      0.857     0.857     0.857      0.895    neutral
+                 1         0.167      0.857     1         0.923      0.917    atemporal
+Weighted Avg.    0.875     0.09       0.886     0.875     0.861      0.898
+
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 10  0  0  0  1 |  a = past
+  0 10  0  1  1 |  b = present
+  1  1  4  1  4 |  c = future
+  0  0  0 12  2 |  d = neutral
+  0  0  0  0 48 |  e = atemporal
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances          64               66.6667 %
+Incorrectly Classified Instances        32               33.3333 %
+Kappa statistic                          0.482 
+Mean absolute error                      0.1895
+Root mean squared error                  0.3069
+Relative absolute error                 68.2807 %
+Root relative squared error             82.6717 %
+Total Number of Instances               96     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.455     0.024      0.714     0.455     0.556      0.806    past
+                 0.5       0.048      0.6       0.5       0.545      0.794    present
+                 0         0.094      0         0         0          0.468    future
+                 0.357     0.085      0.417     0.357     0.385      0.787    neutral
+                 1         0.229      0.814     1         0.897      0.838    atemporal
+Weighted Avg.    0.667     0.146      0.624     0.667     0.637      0.779
+
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+  5  2  1  1  2 |  a = past
+  0  6  1  3  2 |  b = present
+  2  1  0  3  5 |  c = future
+  0  1  6  5  2 |  d = neutral
+  0  0  0  0 48 |  e = atemporal
+

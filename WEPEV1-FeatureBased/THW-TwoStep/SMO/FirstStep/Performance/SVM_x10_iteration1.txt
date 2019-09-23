@@ -1,0 +1,1303 @@
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R first -W 1000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.functions.SMO -- -C 2 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0" -M 
+
+FilteredClassifier using weka.classifiers.functions.SMO -C 2.0 -L 0.001 -P 1.0E-12 -N 0 -M -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0" on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 1000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'TrainSetWE-weka.filters.unsupervised.attribute.Reorder-R1-201,202-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute v1 numeric
+@attribute v2 numeric
+@attribute v3 numeric
+@attribute v4 numeric
+@attribute v5 numeric
+@attribute v6 numeric
+@attribute v7 numeric
+@attribute v8 numeric
+@attribute v9 numeric
+@attribute v10 numeric
+@attribute v11 numeric
+@attribute v12 numeric
+@attribute v13 numeric
+@attribute v14 numeric
+@attribute v15 numeric
+@attribute v16 numeric
+@attribute v17 numeric
+@attribute v18 numeric
+@attribute v19 numeric
+@attribute v20 numeric
+@attribute v21 numeric
+@attribute v22 numeric
+@attribute v23 numeric
+@attribute v24 numeric
+@attribute v25 numeric
+@attribute v26 numeric
+@attribute v27 numeric
+@attribute v28 numeric
+@attribute v29 numeric
+@attribute v30 numeric
+@attribute v31 numeric
+@attribute v32 numeric
+@attribute v33 numeric
+@attribute v34 numeric
+@attribute v35 numeric
+@attribute v36 numeric
+@attribute v37 numeric
+@attribute v38 numeric
+@attribute v39 numeric
+@attribute v40 numeric
+@attribute v41 numeric
+@attribute v42 numeric
+@attribute v43 numeric
+@attribute v44 numeric
+@attribute v45 numeric
+@attribute v46 numeric
+@attribute v47 numeric
+@attribute v48 numeric
+@attribute v49 numeric
+@attribute v50 numeric
+@attribute v51 numeric
+@attribute v52 numeric
+@attribute v53 numeric
+@attribute v54 numeric
+@attribute v55 numeric
+@attribute v56 numeric
+@attribute v57 numeric
+@attribute v58 numeric
+@attribute v59 numeric
+@attribute v60 numeric
+@attribute v61 numeric
+@attribute v62 numeric
+@attribute v63 numeric
+@attribute v64 numeric
+@attribute v65 numeric
+@attribute v66 numeric
+@attribute v67 numeric
+@attribute v68 numeric
+@attribute v69 numeric
+@attribute v70 numeric
+@attribute v71 numeric
+@attribute v72 numeric
+@attribute v73 numeric
+@attribute v74 numeric
+@attribute v75 numeric
+@attribute v76 numeric
+@attribute v77 numeric
+@attribute v78 numeric
+@attribute v79 numeric
+@attribute v80 numeric
+@attribute v81 numeric
+@attribute v82 numeric
+@attribute v83 numeric
+@attribute v84 numeric
+@attribute v85 numeric
+@attribute v86 numeric
+@attribute v87 numeric
+@attribute v88 numeric
+@attribute v89 numeric
+@attribute v90 numeric
+@attribute v91 numeric
+@attribute v92 numeric
+@attribute v93 numeric
+@attribute v94 numeric
+@attribute v95 numeric
+@attribute v96 numeric
+@attribute v97 numeric
+@attribute v98 numeric
+@attribute v99 numeric
+@attribute v100 numeric
+@attribute v101 numeric
+@attribute v102 numeric
+@attribute v103 numeric
+@attribute v104 numeric
+@attribute v105 numeric
+@attribute v106 numeric
+@attribute v107 numeric
+@attribute v108 numeric
+@attribute v109 numeric
+@attribute v110 numeric
+@attribute v111 numeric
+@attribute v112 numeric
+@attribute v113 numeric
+@attribute v114 numeric
+@attribute v115 numeric
+@attribute v116 numeric
+@attribute v117 numeric
+@attribute v118 numeric
+@attribute v119 numeric
+@attribute v120 numeric
+@attribute v121 numeric
+@attribute v122 numeric
+@attribute v123 numeric
+@attribute v124 numeric
+@attribute v125 numeric
+@attribute v126 numeric
+@attribute v127 numeric
+@attribute v128 numeric
+@attribute v129 numeric
+@attribute v130 numeric
+@attribute v131 numeric
+@attribute v132 numeric
+@attribute v133 numeric
+@attribute v134 numeric
+@attribute v135 numeric
+@attribute v136 numeric
+@attribute v137 numeric
+@attribute v138 numeric
+@attribute v139 numeric
+@attribute v140 numeric
+@attribute v141 numeric
+@attribute v142 numeric
+@attribute v143 numeric
+@attribute v144 numeric
+@attribute v145 numeric
+@attribute v146 numeric
+@attribute v147 numeric
+@attribute v148 numeric
+@attribute v149 numeric
+@attribute v150 numeric
+@attribute v151 numeric
+@attribute v152 numeric
+@attribute v153 numeric
+@attribute v154 numeric
+@attribute v155 numeric
+@attribute v156 numeric
+@attribute v157 numeric
+@attribute v158 numeric
+@attribute v159 numeric
+@attribute v160 numeric
+@attribute v161 numeric
+@attribute v162 numeric
+@attribute v163 numeric
+@attribute v164 numeric
+@attribute v165 numeric
+@attribute v166 numeric
+@attribute v167 numeric
+@attribute v168 numeric
+@attribute v169 numeric
+@attribute v170 numeric
+@attribute v171 numeric
+@attribute v172 numeric
+@attribute v173 numeric
+@attribute v174 numeric
+@attribute v175 numeric
+@attribute v176 numeric
+@attribute v177 numeric
+@attribute v178 numeric
+@attribute v179 numeric
+@attribute v180 numeric
+@attribute v181 numeric
+@attribute v182 numeric
+@attribute v183 numeric
+@attribute v184 numeric
+@attribute v185 numeric
+@attribute v186 numeric
+@attribute v187 numeric
+@attribute v188 numeric
+@attribute v189 numeric
+@attribute v190 numeric
+@attribute v191 numeric
+@attribute v192 numeric
+@attribute v193 numeric
+@attribute v194 numeric
+@attribute v195 numeric
+@attribute v196 numeric
+@attribute v197 numeric
+@attribute v198 numeric
+@attribute v199 numeric
+@attribute v200 numeric
+@attribute tense {atemporal,temporal}
+@attribute * numeric
+@attribute अंदर numeric
+@attribute अक्षर numeric
+@attribute अच्छा numeric
+@attribute अधिक numeric
+@attribute अधिकार numeric
+@attribute अनिष्ट numeric
+@attribute अनौचित्य numeric
+@attribute अन्य numeric
+@attribute अपने numeric
+@attribute अभिमान numeric
+@attribute अवश्य numeric
+@attribute असाधारण numeric
+@attribute आता numeric
+@attribute आदि numeric
+@attribute आधार numeric
+@attribute आने numeric
+@attribute आनेवाला numeric
+@attribute आया numeric
+@attribute आवास numeric
+@attribute आशा numeric
+@attribute आश्रय numeric
+@attribute आसानी numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इंजन numeric
+@attribute इकतीसवाँ numeric
+@attribute इच्छा numeric
+@attribute इतना numeric
+@attribute इधर numeric
+@attribute इस numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute उच्चारण numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उत्पन्न numeric
+@attribute उत्सुकता numeric
+@attribute उद्दिष्ट numeric
+@attribute उद्देश्य numeric
+@attribute उधर numeric
+@attribute उन्हें numeric
+@attribute उपन्यास numeric
+@attribute उपयोगिता numeric
+@attribute उलटा numeric
+@attribute उल्लंघन numeric
+@attribute उष्णता numeric
+@attribute उसको numeric
+@attribute उसपर numeric
+@attribute उसी numeric
+@attribute उसे numeric
+@attribute ऊपर numeric
+@attribute एक numeric
+@attribute एकादशी numeric
+@attribute ऐसी numeric
+@attribute ओर numeric
+@attribute और numeric
+@attribute औषध numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कभी numeric
+@attribute कम numeric
+@attribute कम्प्यूटर numeric
+@attribute कर numeric
+@attribute करके numeric
+@attribute करता numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute कहते numeric
+@attribute का numeric
+@attribute काँपते numeric
+@attribute काफी numeric
+@attribute काम numeric
+@attribute कारण numeric
+@attribute कार्तिक numeric
+@attribute कार्य numeric
+@attribute कि numeric
+@attribute कितनी numeric
+@attribute किया numeric
+@attribute किस numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कुछ numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute के numeric
+@attribute को numeric
+@attribute कोई numeric
+@attribute कोयल numeric
+@attribute क्रिया numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute गई numeric
+@attribute गतिविधि numeric
+@attribute गया numeric
+@attribute गयी numeric
+@attribute ग़लत numeric
+@attribute गाड़ी numeric
+@attribute गिनती numeric
+@attribute घट numeric
+@attribute घटने numeric
+@attribute घर numeric
+@attribute चतुर्थी numeric
+@attribute चरित्र numeric
+@attribute चलता numeric
+@attribute चलने numeric
+@attribute चार numeric
+@attribute चारों numeric
+@attribute चाहिए numeric
+@attribute छापकर numeric
+@attribute जर्मनी numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute जा numeric
+@attribute जानने numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जिसका numeric
+@attribute जिसकी numeric
+@attribute जिसके numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जीत numeric
+@attribute जैसी numeric
+@attribute जो numeric
+@attribute जोड़ numeric
+@attribute ज्ञान numeric
+@attribute झील numeric
+@attribute टिका numeric
+@attribute ट्यूनीश numeric
+@attribute ठंड numeric
+@attribute ठहरा numeric
+@attribute डर numeric
+@attribute डीज़ल numeric
+@attribute ढंग numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तक numeric
+@attribute तथ्य numeric
+@attribute तरफ़ numeric
+@attribute तरीक़े numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute तासीर numeric
+@attribute तीन numeric
+@attribute थोड़ा numeric
+@attribute दल numeric
+@attribute दिखाया numeric
+@attribute दिया numeric
+@attribute दिशा numeric
+@attribute दुख numeric
+@attribute दूसरी numeric
+@attribute दूसरे numeric
+@attribute दूसरों numeric
+@attribute दृष्टि numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देना numeric
+@attribute देनेवाला numeric
+@attribute देश numeric
+@attribute दो numeric
+@attribute द्वारा numeric
+@attribute धीरे-धीरे numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute ध्यान numeric
+@attribute न numeric
+@attribute नई numeric
+@attribute नज़दीक numeric
+@attribute नष्ट numeric
+@attribute निजी numeric
+@attribute निपुण numeric
+@attribute नियंत्रण numeric
+@attribute निवासी numeric
+@attribute निश्चित numeric
+@attribute नीचे numeric
+@attribute पंजाब numeric
+@attribute पका numeric
+@attribute पक्ष numeric
+@attribute पटरियों numeric
+@attribute पड़ता numeric
+@attribute पता numeric
+@attribute पद numeric
+@attribute पदार्थ numeric
+@attribute पर numeric
+@attribute परस्थिति numeric
+@attribute परेशानी numeric
+@attribute पहुँचकर numeric
+@attribute पहुँचना numeric
+@attribute पाए numeric
+@attribute पायी numeric
+@attribute पार numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पीड़ा numeric
+@attribute पुनः numeric
+@attribute पूरा numeric
+@attribute पेश numeric
+@attribute पोषण numeric
+@attribute प्रकट numeric
+@attribute प्रकार numeric
+@attribute प्रचलित numeric
+@attribute प्रत्याशा numeric
+@attribute प्रत्येक numeric
+@attribute प्रदर्शित numeric
+@attribute प्रभाव numeric
+@attribute प्रमुख numeric
+@attribute प्रयोग numeric
+@attribute प्रवृत्त numeric
+@attribute प्रशासनिक numeric
+@attribute प्राप्त numeric
+@attribute बतानेवाला numeric
+@attribute बदलकर numeric
+@attribute बना numeric
+@attribute बनाना numeric
+@attribute बहुत numeric
+@attribute बाजी numeric
+@attribute बात numeric
+@attribute बातें numeric
+@attribute बातों numeric
+@attribute बाप-दादा numeric
+@attribute बारे numeric
+@attribute बिगड़ numeric
+@attribute बिजली numeric
+@attribute बिना numeric
+@attribute बीती numeric
+@attribute बीस numeric
+@attribute बेरोक-टोक numeric
+@attribute बोलना numeric
+@attribute भविष्य numeric
+@attribute भाप numeric
+@attribute भारतीय numeric
+@attribute भाव numeric
+@attribute भी numeric
+@attribute मन numeric
+@attribute महत्व numeric
+@attribute महीने numeric
+@attribute मात्रा numeric
+@attribute मान्य numeric
+@attribute मास numeric
+@attribute मीठे numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मे numeric
+@attribute में numeric
+@attribute मोर numeric
+@attribute यंत्र numeric
+@attribute यह numeric
+@attribute या numeric
+@attribute यूरोप numeric
+@attribute रंग numeric
+@attribute रखना numeric
+@attribute रह numeric
+@attribute रहता numeric
+@attribute रहने numeric
+@attribute रहनेवाला numeric
+@attribute रहा numeric
+@attribute राज्य numeric
+@attribute राष्ट्र numeric
+@attribute रिश्ता numeric
+@attribute रूप numeric
+@attribute रोजगार numeric
+@attribute लगना numeric
+@attribute लगाना numeric
+@attribute लगाया numeric
+@attribute लाक्षणिक numeric
+@attribute लाना numeric
+@attribute लाभ numeric
+@attribute लाभप्रद numeric
+@attribute लिए numeric
+@attribute लिखकर numeric
+@attribute लिया numeric
+@attribute लेना numeric
+@attribute लोगों numeric
+@attribute लोहे numeric
+@attribute वंश numeric
+@attribute वर्णमाला numeric
+@attribute वस्तु numeric
+@attribute वह numeric
+@attribute वाला numeric
+@attribute वाली numeric
+@attribute विजय numeric
+@attribute विज्ञान numeric
+@attribute विदेश numeric
+@attribute विलक्ष्ण numeric
+@attribute विशेष numeric
+@attribute विशेषज्ञ numeric
+@attribute विश्व numeric
+@attribute व्यंजन numeric
+@attribute व्यक्ति numeric
+@attribute व्यक्तियों numeric
+@attribute व्यर्थ numeric
+@attribute व्यवहार numeric
+@attribute शक numeric
+@attribute शरीर numeric
+@attribute शहर numeric
+@attribute शिक्षा numeric
+@attribute संख्या numeric
+@attribute संदेह numeric
+@attribute संपादित numeric
+@attribute संबंधित numeric
+@attribute संबंधी numeric
+@attribute संसाधित numeric
+@attribute संस्था numeric
+@attribute सकता numeric
+@attribute सके numeric
+@attribute सत्ता numeric
+@attribute सब numeric
+@attribute सबसे numeric
+@attribute समाज numeric
+@attribute सरकार numeric
+@attribute सर्व numeric
+@attribute सलाह numeric
+@attribute सहारे numeric
+@attribute सा numeric
+@attribute साथ numeric
+@attribute साधारण numeric
+@attribute सामने numeric
+@attribute सामान्य numeric
+@attribute सीमा numeric
+@attribute सुनने numeric
+@attribute सुनी numeric
+@attribute सुविधाजनक numeric
+@attribute से numeric
+@attribute सेवा numeric
+@attribute सौ numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थापित numeric
+@attribute स्थिति numeric
+@attribute स्पष्ट numeric
+@attribute स्वर numeric
+@attribute स्वस्थ numeric
+@attribute हद numeric
+@attribute हर numeric
+@attribute हारती numeric
+@attribute हिंदी numeric
+@attribute हिमालय numeric
+@attribute ही numeric
+@attribute हुआ numeric
+@attribute हुई numeric
+@attribute हुए numeric
+@attribute है numeric
+@attribute हैं numeric
+@attribute हो numeric
+@attribute होता numeric
+@attribute होना numeric
+@attribute होने numeric
+@attribute अंत numeric
+@attribute अतिवृष्टि numeric
+@attribute अनावृष्टि numeric
+@attribute अनुमान numeric
+@attribute अन्न numeric
+@attribute अवस्थाओं numeric
+@attribute आगे numeric
+@attribute आज numeric
+@attribute आठ numeric
+@attribute आधुनिक numeric
+@attribute आनेवाले numeric
+@attribute आरंभ numeric
+@attribute इसी numeric
+@attribute उपरांत numeric
+@attribute उससे numeric
+@attribute ऐसा numeric
+@attribute कठिनता numeric
+@attribute कमी numeric
+@attribute कह numeric
+@attribute काल numeric
+@attribute क्रम numeric
+@attribute क्रियाओं numeric
+@attribute क्षण numeric
+@attribute घटना numeric
+@attribute चल numeric
+@attribute चलकर numeric
+@attribute चान्द्र numeric
+@attribute चुका numeric
+@attribute छाप numeric
+@attribute जब numeric
+@attribute जानेवाला numeric
+@attribute जिस numeric
+@attribute डालना numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तिथि numeric
+@attribute दर्शाता numeric
+@attribute दिन numeric
+@attribute दी numeric
+@attribute देने numeric
+@attribute नहीं numeric
+@attribute ने numeric
+@attribute नौवीं numeric
+@attribute पति numeric
+@attribute परिवर्तन numeric
+@attribute पहला numeric
+@attribute पहले numeric
+@attribute पुराने numeric
+@attribute पूरी numeric
+@attribute पूर्व numeric
+@attribute बंद numeric
+@attribute बताए numeric
+@attribute बताता numeric
+@attribute बाद numeric
+@attribute बीच numeric
+@attribute बीता numeric
+@attribute बीते numeric
+@attribute मरने numeric
+@attribute मिले numeric
+@attribute मुसलमानों numeric
+@attribute युवा numeric
+@attribute रहनेवाली numeric
+@attribute रात numeric
+@attribute लंबा numeric
+@attribute वक़्त numeric
+@attribute वर्तमान numeric
+@attribute विद्यमान numeric
+@attribute विधवा numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute विशेषताओं numeric
+@attribute विषय numeric
+@attribute व्याकरण numeric
+@attribute शादी numeric
+@attribute शैशव numeric
+@attribute संकट numeric
+@attribute संदर्भित numeric
+@attribute संभावनावाली numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute समय numeric
+@attribute सूचक numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute स्त्री numeric
+@attribute होकर numeric
+@attribute होनेवाला numeric
+
+@data
+
+
+Classifier Model
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: atemporal, temporal
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.0285 * (normalized) v1
+ +      -0.0876 * (normalized) v2
+ +      -0.1192 * (normalized) v3
+ +       0.048  * (normalized) v4
+ +       0.0039 * (normalized) v5
+ +       0.0201 * (normalized) v6
+ +       0.0554 * (normalized) v7
+ +       0.0699 * (normalized) v8
+ +      -0.0488 * (normalized) v9
+ +       0.0371 * (normalized) v10
+ +      -0.1652 * (normalized) v11
+ +       0.062  * (normalized) v12
+ +      -0.0272 * (normalized) v13
+ +      -0.1898 * (normalized) v14
+ +      -0.0371 * (normalized) v15
+ +      -0.0245 * (normalized) v16
+ +      -0.0923 * (normalized) v17
+ +       0.1518 * (normalized) v18
+ +       0.0291 * (normalized) v19
+ +      -0.0334 * (normalized) v20
+ +       0.3002 * (normalized) v21
+ +      -0.0388 * (normalized) v22
+ +       0.032  * (normalized) v23
+ +      -0.0598 * (normalized) v24
+ +      -0.1575 * (normalized) v25
+ +       0.2709 * (normalized) v26
+ +      -0.2265 * (normalized) v27
+ +      -0.0985 * (normalized) v28
+ +       0.0884 * (normalized) v29
+ +      -0.0632 * (normalized) v30
+ +      -0.2353 * (normalized) v31
+ +      -0.1685 * (normalized) v32
+ +      -0.2976 * (normalized) v33
+ +       0.1236 * (normalized) v34
+ +      -0.0486 * (normalized) v35
+ +       0.2099 * (normalized) v36
+ +       0.1145 * (normalized) v37
+ +       0.085  * (normalized) v38
+ +       0.1335 * (normalized) v39
+ +      -0.0217 * (normalized) v40
+ +       0.09   * (normalized) v41
+ +       0.037  * (normalized) v42
+ +      -0.0511 * (normalized) v43
+ +      -0.077  * (normalized) v44
+ +       0.2071 * (normalized) v45
+ +      -0.2189 * (normalized) v46
+ +      -0.1678 * (normalized) v47
+ +       0.1427 * (normalized) v48
+ +      -0.1292 * (normalized) v49
+ +      -0.1274 * (normalized) v50
+ +       0.0863 * (normalized) v51
+ +      -0.0791 * (normalized) v52
+ +      -0.0114 * (normalized) v53
+ +       0.0818 * (normalized) v54
+ +      -0.0182 * (normalized) v55
+ +      -0.0199 * (normalized) v56
+ +       0.0092 * (normalized) v57
+ +       0.1863 * (normalized) v58
+ +      -0.0166 * (normalized) v59
+ +       0.0185 * (normalized) v60
+ +      -0.0352 * (normalized) v61
+ +       0.0902 * (normalized) v62
+ +      -0.1524 * (normalized) v63
+ +      -0.0475 * (normalized) v64
+ +      -0.2101 * (normalized) v65
+ +      -0.2183 * (normalized) v66
+ +       0.0439 * (normalized) v67
+ +      -0.1538 * (normalized) v68
+ +      -0.0248 * (normalized) v69
+ +      -0.1061 * (normalized) v70
+ +      -0.087  * (normalized) v71
+ +      -0.1276 * (normalized) v72
+ +      -0.1652 * (normalized) v73
+ +      -0.0732 * (normalized) v74
+ +       0.0294 * (normalized) v75
+ +      -0.0178 * (normalized) v76
+ +      -0.2022 * (normalized) v77
+ +      -0.0122 * (normalized) v78
+ +       0.0228 * (normalized) v79
+ +      -0.0848 * (normalized) v80
+ +       0.0826 * (normalized) v81
+ +      -0.1497 * (normalized) v82
+ +       0.1062 * (normalized) v83
+ +      -0.0421 * (normalized) v84
+ +      -0.0378 * (normalized) v85
+ +       0.0684 * (normalized) v86
+ +      -0.1425 * (normalized) v87
+ +       0.0139 * (normalized) v88
+ +      -0.1464 * (normalized) v89
+ +       0.114  * (normalized) v90
+ +      -0.0052 * (normalized) v91
+ +      -0.2652 * (normalized) v92
+ +      -0.0221 * (normalized) v93
+ +      -0.0779 * (normalized) v94
+ +       0.1229 * (normalized) v95
+ +      -0.0171 * (normalized) v96
+ +      -0.0001 * (normalized) v97
+ +       0.2189 * (normalized) v98
+ +      -0.0753 * (normalized) v99
+ +       0.0509 * (normalized) v100
+ +      -0.0679 * (normalized) v101
+ +      -0.0015 * (normalized) v102
+ +      -0.0257 * (normalized) v103
+ +       0.2055 * (normalized) v104
+ +      -0.1213 * (normalized) v105
+ +      -0.0133 * (normalized) v106
+ +      -0.1796 * (normalized) v107
+ +       0.0098 * (normalized) v108
+ +       0.0509 * (normalized) v109
+ +       0.0152 * (normalized) v110
+ +      -0.0108 * (normalized) v111
+ +      -0.1225 * (normalized) v112
+ +      -0.0015 * (normalized) v113
+ +      -0.0713 * (normalized) v114
+ +       0.1938 * (normalized) v115
+ +      -0.0095 * (normalized) v116
+ +       0.0823 * (normalized) v117
+ +       0.0215 * (normalized) v118
+ +      -0.0581 * (normalized) v119
+ +      -0.0892 * (normalized) v120
+ +       0.1226 * (normalized) v121
+ +      -0.0508 * (normalized) v122
+ +      -0.1652 * (normalized) v123
+ +      -0.0789 * (normalized) v124
+ +      -0.2316 * (normalized) v125
+ +       0.065  * (normalized) v126
+ +       0.2126 * (normalized) v127
+ +       0.0644 * (normalized) v128
+ +      -0.1597 * (normalized) v129
+ +      -0.0025 * (normalized) v130
+ +       0.0369 * (normalized) v131
+ +       0.1218 * (normalized) v132
+ +      -0.1883 * (normalized) v133
+ +      -0.0223 * (normalized) v134
+ +      -0.0376 * (normalized) v135
+ +       0.0068 * (normalized) v136
+ +      -0.0756 * (normalized) v137
+ +      -0.0906 * (normalized) v138
+ +      -0.1324 * (normalized) v139
+ +      -0.0888 * (normalized) v140
+ +      -0.0985 * (normalized) v141
+ +      -0.0967 * (normalized) v142
+ +      -0.0979 * (normalized) v143
+ +       0.0292 * (normalized) v144
+ +       0.0495 * (normalized) v145
+ +       0.0287 * (normalized) v146
+ +       0.1436 * (normalized) v147
+ +       0.0345 * (normalized) v148
+ +       0.0854 * (normalized) v149
+ +      -0.1015 * (normalized) v150
+ +       0.0836 * (normalized) v151
+ +      -0.035  * (normalized) v152
+ +       0.0455 * (normalized) v153
+ +      -0.1146 * (normalized) v154
+ +       0.0612 * (normalized) v155
+ +       0.2    * (normalized) v156
+ +       0.2002 * (normalized) v157
+ +       0.054  * (normalized) v158
+ +       0.0135 * (normalized) v159
+ +       0.0843 * (normalized) v160
+ +      -0.2221 * (normalized) v161
+ +      -0.0812 * (normalized) v162
+ +      -0.0982 * (normalized) v163
+ +      -0.0508 * (normalized) v164
+ +      -0.1018 * (normalized) v165
+ +      -0.0731 * (normalized) v166
+ +      -0.0176 * (normalized) v167
+ +      -0.199  * (normalized) v168
+ +       0.1156 * (normalized) v169
+ +       0.1534 * (normalized) v170
+ +      -0.1628 * (normalized) v171
+ +       0.0352 * (normalized) v172
+ +      -0.1344 * (normalized) v173
+ +       0.0973 * (normalized) v174
+ +      -0.0119 * (normalized) v175
+ +       0.072  * (normalized) v176
+ +       0.2453 * (normalized) v177
+ +      -0.0339 * (normalized) v178
+ +       0.1381 * (normalized) v179
+ +       0.0406 * (normalized) v180
+ +      -0.0055 * (normalized) v181
+ +       0.0703 * (normalized) v182
+ +      -0.1187 * (normalized) v183
+ +       0.1497 * (normalized) v184
+ +      -0.0464 * (normalized) v185
+ +       0.1203 * (normalized) v186
+ +       0.0318 * (normalized) v187
+ +       0.038  * (normalized) v188
+ +      -0.1147 * (normalized) v189
+ +      -0.0566 * (normalized) v190
+ +       0.2183 * (normalized) v191
+ +       0.142  * (normalized) v192
+ +      -0.0286 * (normalized) v193
+ +      -0.0144 * (normalized) v194
+ +      -0.1127 * (normalized) v195
+ +      -0.0347 * (normalized) v196
+ +       0.0432 * (normalized) v197
+ +       0.1006 * (normalized) v198
+ +      -0.2108 * (normalized) v199
+ +       0.0492 * (normalized) v200
+ +       0.1698 * (normalized) *
+ +      -0.0296 * (normalized) अंदर
+ +      -0.0468 * (normalized) अक्षर
+ +      -0.0263 * (normalized) अच्छा
+ +      -0.0073 * (normalized) अधिक
+ +      -0.0063 * (normalized) अधिकार
+ +      -0.0001 * (normalized) अनौचित्य
+ +      -0.0139 * (normalized) अन्य
+ +      -0.0539 * (normalized) अपने
+ +      -0.0204 * (normalized) अभिमान
+ +       0.0269 * (normalized) अवश्य
+ +      -0.0179 * (normalized) असाधारण
+ +      -0.0921 * (normalized) आदि
+ +      -0.0706 * (normalized) आधार
+ +       0.0732 * (normalized) आने
+ +      -0.1331 * (normalized) आनेवाला
+ +      -0.0119 * (normalized) आया
+ +      -0.0139 * (normalized) आवास
+ +      -0.1981 * (normalized) आशा
+ +      -0.0706 * (normalized) आश्रय
+ +      -0.0188 * (normalized) आसानी
+ +      -0.0212 * (normalized) इंजन
+ +      -0.0468 * (normalized) इकतीसवाँ
+ +       0.1318 * (normalized) इच्छा
+ +      -0.0696 * (normalized) इतना
+ +      -0.0494 * (normalized) इधर
+ +      -0.0184 * (normalized) इस
+ +      -0.0468 * (normalized) इसे
+ +      -0.0468 * (normalized) उच्चारण
+ +      -0.0179 * (normalized) उठने
+ +      -0.0204 * (normalized) उठनेवाला
+ +      -0.0835 * (normalized) उत्पन्न
+ +      -0.0481 * (normalized) उत्सुकता
+ +      -0.0139 * (normalized) उद्देश्य
+ +      -0.0494 * (normalized) उधर
+ +      -0.0308 * (normalized) उलटा
+ +      -0.0001 * (normalized) उल्लंघन
+ +      -0.0296 * (normalized) उष्णता
+ +      -0.0063 * (normalized) उसको
+ +      -0.0063 * (normalized) उसपर
+ +      -0.0751 * (normalized) उसी
+ +      -0.0496 * (normalized) उसे
+ +      -0.0553 * (normalized) एक
+ +      -0.1742 * (normalized) एकादशी
+ +      -0.0188 * (normalized) ऐसी
+ +      -0.0652 * (normalized) ओर
+ +      -0.0979 * (normalized) और
+ +      -0.0296 * (normalized) औषध
+ +      -0.0188 * (normalized) कभी
+ +      -0.0635 * (normalized) कम
+ +      -0.0612 * (normalized) कम्प्यूटर
+ +      -0.0378 * (normalized) कर
+ +      -0.0363 * (normalized) करके
+ +      -0.0296 * (normalized) करता
+ +      -0.1717 * (normalized) करना
+ +      -0.0251 * (normalized) करने
+ +      -0.0468 * (normalized) कहते
+ +       0.0023 * (normalized) का
+ +      -0.0218 * (normalized) काँपते
+ +      -0.0884 * (normalized) काफी
+ +      -0.0938 * (normalized) काम
+ +      -0.0392 * (normalized) कारण
+ +      -0.1742 * (normalized) कार्तिक
+ +       0.0509 * (normalized) कार्य
+ +      -0.0576 * (normalized) कि
+ +       0.0205 * (normalized) किया
+ +       0.0667 * (normalized) किसी
+ +      -0.0722 * (normalized) की
+ +      -0.0308 * (normalized) कुछ
+ +      -0.1682 * (normalized) कृष्ण
+ +      -0.1742 * (normalized) कृष्णपक्ष
+ +      -0.1164 * (normalized) के
+ +      -0.1057 * (normalized) को
+ +      -0.0606 * (normalized) कोई
+ +      -0.1445 * (normalized) क्रिया
+ +      -0.0296 * (normalized) खाद्य
+ +       0.1173 * (normalized) गई
+ +      -0.0001 * (normalized) गतिविधि
+ +      -0.1617 * (normalized) गया
+ +      -0.0363 * (normalized) गयी
+ +      -0.0494 * (normalized) ग़लत
+ +      -0.0212 * (normalized) गाड़ी
+ +      -0.1331 * (normalized) गिनती
+ +       0.043  * (normalized) घट
+ +      -0.1382 * (normalized) घटने
+ +      -0.1682 * (normalized) चतुर्थी
+ +      -0.0743 * (normalized) चलता
+ +      -0.0212 * (normalized) चलने
+ +      -0.0247 * (normalized) चारों
+ +      -0.0119 * (normalized) छापकर
+ +      -0.0743 * (normalized) जल्दी-जल्दी
+ +      -0.1412 * (normalized) जहाँ
+ +      -0.103  * (normalized) जा
+ +      -0.0481 * (normalized) जानने
+ +      -0.0481 * (normalized) जिज्ञासा
+ +      -0.0969 * (normalized) जितना
+ +      -0.0295 * (normalized) जिसका
+ +       0.2858 * (normalized) जिसकी
+ +      -0.0811 * (normalized) जिसके
+ +      -0.0861 * (normalized) जिसने
+ +      -0.0063 * (normalized) जिसपर
+ +       0.0183 * (normalized) जिसमें
+ +      -0.0119 * (normalized) जिसे
+ +      -0.0417 * (normalized) जीत
+ +      -0.1981 * (normalized) जैसी
+ +       0.0858 * (normalized) जो
+ +      -0.001  * (normalized) जोड़
+ +      -0.0278 * (normalized) झील
+ +      -0.0706 * (normalized) टिका
+ +      -0.0078 * (normalized) ट्यूनीश
+ +      -0.0218 * (normalized) ठंड
+ +      -0.0706 * (normalized) ठहरा
+ +      -0.0218 * (normalized) डर
+ +      -0.0212 * (normalized) डीज़ल
+ +      -0.0802 * (normalized) ढंग
+ +      -0.0223 * (normalized) तक
+ +      -0.0411 * (normalized) तथ्य
+ +      -0.0405 * (normalized) तरफ़
+ +      -0.0494 * (normalized) तरीक़े
+ +      -0.0296 * (normalized) ताप
+ +      -0.0296 * (normalized) तापकारक
+ +      -0.0296 * (normalized) तासीर
+ +      -0.0884 * (normalized) थोड़ा
+ +      -0.0751 * (normalized) दिया
+ +      -0.0263 * (normalized) दुख
+ +       0.0508 * (normalized) दूसरी
+ +       0.0302 * (normalized) दृष्टि
+ +      -0.0179 * (normalized) देखने
+ +      -0.0382 * (normalized) देखी
+ +      -0.0751 * (normalized) देना
+ +      -0.1144 * (normalized) देनेवाला
+ +      -0.0344 * (normalized) देश
+ +      -0.001  * (normalized) दो
+ +      -0.0823 * (normalized) द्वारा
+ +      -0.1382 * (normalized) धीरे-धीरे
+ +      -0.0562 * (normalized) ध्यान
+ +      -0.1159 * (normalized) न
+ +      -0.059  * (normalized) नई
+ +      -0.0247 * (normalized) नज़दीक
+ +      -0.1382 * (normalized) नष्ट
+ +      -0.0063 * (normalized) निजी
+ +      -0.004  * (normalized) निपुण
+ +      -0.0063 * (normalized) नियंत्रण
+ +      -0.1504 * (normalized) निश्चित
+ +      -0.0187 * (normalized) पंजाब
+ +      -0.087  * (normalized) पका
+ +       0.1224 * (normalized) पक्ष
+ +      -0.0212 * (normalized) पटरियों
+ +      -0.0411 * (normalized) पता
+ +      -0.0451 * (normalized) पद
+ +      -0.0296 * (normalized) पदार्थ
+ +      -0.1031 * (normalized) पर
+ +      -0.1504 * (normalized) परस्थिति
+ +      -0.0416 * (normalized) परेशानी
+ +      -0.0296 * (normalized) पहुँचकर
+ +      -0.0263 * (normalized) पहुँचना
+ +      -0.0001 * (normalized) पाए
+ +      -0.011  * (normalized) पायी
+ +      -0.0278 * (normalized) पार
+ +      -0.0139 * (normalized) पास
+ +      -0.0139 * (normalized) पासपोर्ट
+ +      -0.1144 * (normalized) पीड़ा
+ +      -0.1114 * (normalized) पुनः
+ +      -0.0884 * (normalized) पूरा
+ +      -0.0387 * (normalized) प्रकार
+ +      -0.0119 * (normalized) प्रचलित
+ +      -0.1981 * (normalized) प्रत्याशा
+ +      -0.1682 * (normalized) प्रत्येक
+ +      -0.0179 * (normalized) प्रदर्शित
+ +      -0.0296 * (normalized) प्रभाव
+ +      -0.0451 * (normalized) प्रमुख
+ +      -0.0363 * (normalized) प्रयोग
+ +      -0.0451 * (normalized) प्रशासनिक
+ +      -0.0214 * (normalized) प्राप्त
+ +      -0.1713 * (normalized) बतानेवाला
+ +      -0.0063 * (normalized) बदलकर
+ +      -0.0539 * (normalized) बना
+ +      -0.004  * (normalized) बनाना
+ +       0.2218 * (normalized) बहुत
+ +      -0.0308 * (normalized) बाजी
+ +      -0.0348 * (normalized) बात
+ +      -0.0626 * (normalized) बातें
+ +       0.0327 * (normalized) बातों
+ +      -0.0539 * (normalized) बाप-दादा
+ +      -0.0204 * (normalized) बारे
+ +      -0.0886 * (normalized) बिगड़
+ +      -0.0212 * (normalized) बिजली
+ +      -0.0594 * (normalized) बिना
+ +      -0.0382 * (normalized) बीती
+ +      -0.001  * (normalized) बीस
+ +      -0.0188 * (normalized) बेरोक-टोक
+ +      -0.0626 * (normalized) बोलना
+ +      -0.0665 * (normalized) भविष्य
+ +      -0.0212 * (normalized) भाप
+ +      -0.0423 * (normalized) भारतीय
+ +      -0.0242 * (normalized) भाव
+ +      -0.1009 * (normalized) भी
+ +      -0.0646 * (normalized) मन
+ +      -0.0204 * (normalized) महत्व
+ +      -0.1682 * (normalized) महीने
+ +       0.1164 * (normalized) मास
+ +      -0.0468 * (normalized) मूर्धन्य
+ +      -0.0468 * (normalized) मूर्धा
+ +      -0.0618 * (normalized) में
+ +      -0.0886 * (normalized) यंत्र
+ +      -0.0846 * (normalized) या
+ +      -0.0344 * (normalized) यूरोप
+ +      -0.0001 * (normalized) रखना
+ +      -0.0139 * (normalized) रह
+ +      -0.08   * (normalized) रहता
+ +       0.0661 * (normalized) रहने
+ +      -0.0254 * (normalized) रहा
+ +      -0.0187 * (normalized) राज्य
+ +      -0.0063 * (normalized) राष्ट्र
+ +      -0.0539 * (normalized) रिश्ता
+ +      -0.1504 * (normalized) रूप
+ +      -0.0139 * (normalized) रोजगार
+ +      -0.0263 * (normalized) लगना
+ +      -0.0411 * (normalized) लगाना
+ +       0.119  * (normalized) लगाया
+ +      -0.0745 * (normalized) लाना
+ +      -0.0387 * (normalized) लाभ
+ +      -0.0387 * (normalized) लाभप्रद
+ +       0.1732 * (normalized) लिए
+ +      -0.0743 * (normalized) लिखकर
+ +      -0.011  * (normalized) लिया
+ +      -0.0308 * (normalized) लेना
+ +      -0.0212 * (normalized) लोहे
+ +      -0.0539 * (normalized) वंश
+ +      -0.0468 * (normalized) वर्णमाला
+ +      -0.0567 * (normalized) वस्तु
+ +       0.0841 * (normalized) वह
+ +       0.2546 * (normalized) वाला
+ +       0.0556 * (normalized) वाली
+ +      -0.011  * (normalized) विजय
+ +      -0.0139 * (normalized) विदेश
+ +      -0.0179 * (normalized) विलक्ष्ण
+ +      -0.011  * (normalized) विश्व
+ +      -0.0468 * (normalized) व्यंजन
+ +      -0.0864 * (normalized) व्यक्ति
+ +      -0.08   * (normalized) व्यक्तियों
+ +      -0.0626 * (normalized) व्यर्थ
+ +      -0.0179 * (normalized) शक
+ +      -0.0296 * (normalized) शरीर
+ +      -0.0196 * (normalized) शहर
+ +      -0.0139 * (normalized) शिक्षा
+ +      -0.081  * (normalized) संख्या
+ +      -0.0179 * (normalized) संदेह
+ +       0.148  * (normalized) संबंधित
+ +      -0.0539 * (normalized) संबंधी
+ +      -0.0363 * (normalized) संसाधित
+ +      -0.0969 * (normalized) सकता
+ +      -0.0393 * (normalized) सके
+ +      -0.0063 * (normalized) सत्ता
+ +      -0.0525 * (normalized) सबसे
+ +      -0.0063 * (normalized) सरकार
+ +      -0.0119 * (normalized) सर्व
+ +      -0.0706 * (normalized) सहारे
+ +      -0.0884 * (normalized) सा
+ +      -0.0481 * (normalized) साथ
+ +      -0.0119 * (normalized) साधारण
+ +      -0.0119 * (normalized) सामने
+ +      -0.0001 * (normalized) सीमा
+ +      -0.0179 * (normalized) सुनने
+ +      -0.0382 * (normalized) सुनी
+ +      -0.0416 * (normalized) सुविधाजनक
+ +      -0.0257 * (normalized) से
+ +      -0.0451 * (normalized) सेवा
+ +      -0.0839 * (normalized) सौ
+ +      -0.0468 * (normalized) स्थल
+ +      -0.1331 * (normalized) स्थान
+ +      -0.0063 * (normalized) स्थापित
+ +       0.1905 * (normalized) स्थिति
+ +      -0.0884 * (normalized) हद
+ +      -0.0581 * (normalized) हर
+ +      -0.0308 * (normalized) हारती
+ +      -0.0468 * (normalized) हिंदी
+ +      -0.0278 * (normalized) हिमालय
+ +       0.1094 * (normalized) ही
+ +      -0.0221 * (normalized) हुआ
+ +      -0.069  * (normalized) हुई
+ +       0.0073 * (normalized) हुए
+ +       0.0232 * (normalized) है
+ +      -0.0468 * (normalized) हैं
+ +      -0.1882 * (normalized) हो
+ +      -0.0612 * (normalized) होता
+ +      -0.0368 * (normalized) होना
+ +       0.1197 * (normalized) होने
+ +       0.0819 * (normalized) अतिवृष्टि
+ +       0.0819 * (normalized) अनावृष्टि
+ +       0.1801 * (normalized) अनुमान
+ +       0.0819 * (normalized) अन्न
+ +       0.0699 * (normalized) अवस्थाओं
+ +       0.1542 * (normalized) आगे
+ +       0.0428 * (normalized) आज
+ +       0.0661 * (normalized) आठ
+ +       0.0062 * (normalized) आधुनिक
+ +       0.0774 * (normalized) उससे
+ +       0.0819 * (normalized) ऐसा
+ +       0.0819 * (normalized) कठिनता
+ +       0.0819 * (normalized) कमी
+ +       0.0768 * (normalized) कह
+ +       0.1642 * (normalized) काल
+ +       0.0302 * (normalized) क्रम
+ +       0.0699 * (normalized) क्रियाओं
+ +       0.1774 * (normalized) घटना
+ +       0.1078 * (normalized) चल
+ +       0.0768 * (normalized) चलकर
+ +       0.2906 * (normalized) चान्द्र
+ +       0.0737 * (normalized) चुका
+ +       0.059  * (normalized) छाप
+ +       0.1801 * (normalized) जानेवाला
+ +       0.059  * (normalized) जिस
+ +       0.2093 * (normalized) डालना
+ +       0.0508 * (normalized) तलाक़
+ +       0.0508 * (normalized) तलाक़शुदा
+ +       0.2906 * (normalized) तिथि
+ +       0.1625 * (normalized) दिन
+ +       0.2123 * (normalized) दी
+ +       0.0508 * (normalized) देने
+ +       0.1793 * (normalized) नहीं
+ +       0.0768 * (normalized) ने
+ +       0.2906 * (normalized) नौवीं
+ +       0.0508 * (normalized) पति
+ +       0.1121 * (normalized) परिवर्तन
+ +       0.0137 * (normalized) पहला
+ +       0.3162 * (normalized) पहले
+ +       0.059  * (normalized) पूरी
+ +       0.0599 * (normalized) बंद
+ +       0.0699 * (normalized) बताता
+ +       0.0645 * (normalized) बाद
+ +       0.0536 * (normalized) बीच
+ +       0      * (normalized) बीता
+ +       0.0991 * (normalized) बीते
+ +       0.0508 * (normalized) मरने
+ +       0.0819 * (normalized) मिले
+ +       0.0508 * (normalized) मुसलमानों
+ +       0.0536 * (normalized) युवा
+ +       0.1774 * (normalized) रहनेवाली
+ +       0.0031 * (normalized) लंबा
+ +       0.1261 * (normalized) वर्तमान
+ +       0.0452 * (normalized) विद्यमान
+ +       0.0508 * (normalized) विधवा
+ +       0.0599 * (normalized) विनाश
+ +       0.2093 * (normalized) विपत्ति
+ +       0.059  * (normalized) विशेषताओं
+ +       0.1121 * (normalized) विषय
+ +       0.0699 * (normalized) व्याकरण
+ +       0.0508 * (normalized) शादी
+ +       0.0536 * (normalized) शैशव
+ +       0.2093 * (normalized) संकट
+ +       0.2093 * (normalized) संभावनावाली
+ +       0.0508 * (normalized) सकती
+ +       0.1153 * (normalized) सकने
+ +       0.6929 * (normalized) समय
+ +       0.1121 * (normalized) सूचक
+ +       0.1355 * (normalized) सूचना
+ +       0.1355 * (normalized) सूचित
+ +       0.0508 * (normalized) स्त्री
+ +       0.1774 * (normalized) होकर
+ +       0.0416 * (normalized) होनेवाला
+ +       0.7557
+
+Number of kernel evaluations: 6130 (93.957% cached)
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                 Class
+Variable     atemporal
+======================
+pred           -52.991
+Intercept      -8.0762
+
+
+Odds Ratios...
+                 Class
+Variable     atemporal
+======================
+pred                 0
+
+
+
+
+Time taken to build model: 0.6 seconds
+Time taken to test model on training data: 0.19 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         116              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances              116     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        atemporal
+                 1         0          1         1         1          1        temporal
+Weighted Avg.    1         0          1         1         1          1    
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 68  0 |  a = atemporal
+  0 48 |  b = temporal
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         103               88.7931 %
+Incorrectly Classified Instances        13               11.2069 %
+Kappa statistic                          0.7711
+Mean absolute error                      0.1192
+Root mean squared error                  0.3363
+Relative absolute error                 24.549  %
+Root relative squared error             68.2542 %
+Total Number of Instances              116     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.882     0.104      0.923     0.882     0.902      0.935    atemporal
+                 0.896     0.118      0.843     0.896     0.869      0.934    temporal
+Weighted Avg.    0.888     0.11       0.89      0.888     0.888      0.935
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 60  8 |  a = atemporal
+  5 43 |  b = temporal
+

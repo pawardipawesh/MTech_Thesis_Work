@@ -1,0 +1,7 @@
+iteration 1 Training over
+iteration 1 Testing over
+iteration 1 Expansion over
+iteration 2 Training over
+PROCESS OVER
+Obtained Predictions with model 1
+Entire process done

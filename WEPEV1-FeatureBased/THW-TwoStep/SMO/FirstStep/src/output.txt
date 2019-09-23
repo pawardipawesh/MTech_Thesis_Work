@@ -1,0 +1,36 @@
+iteration 1 Training over
+iteration 1 Testing over
+iteration 1 Expansion over
+iteration 2 Training over
+iteration 2 Testing over
+iteration 2 Expansion over
+iteration 3 Training over
+iteration 3 Testing over
+iteration 3 Expansion over
+iteration 4 Training over
+First Step OVER
+Obtained Predictions with model 3
+Assimulated prediction & file to be classified
+Obtained Prediction On Gold Test Set
+Obtained Prediction On Gold Test Set(EASY)
+Extracted Temporal instances from result of first step
+Test set files are copied to full test set
+iteration 1 Training over
+iteration 1 Testing over
+iteration 1 Expansion over
+iteration 2 Training over
+iteration 2 Testing over
+iteration 2 Expansion over
+iteration 3 Training over
+iteration 3 Testing over
+iteration 3 Expansion over
+iteration 4 Training over
+iteration 4 Testing over
+iteration 4 Expansion over
+iteration 5 Training over
+Second Step OVER
+Obtained Predictions with model 4
+Assimulated prediction & file to be classified
+Obtained Prediction On Gold Test Set
+Obtained Prediction On Gold Test Set(EASY)
+result from first & second Step(Final THW) are merged

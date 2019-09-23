@@ -1,0 +1,3629 @@
+Zero Weights processed. Default weights will be used
+*
+optimization finished, #iter = 482
+nu = 0.5818639798488664
+obj = -385.4938353986494, rho = -4.331817941611999
+nSV = 577, nBSV = 374
+Total nSV = 577
+*
+optimization finished, #iter = 476
+nu = 0.5642317380352645
+obj = -376.5605716801366, rho = -4.00175415038596
+nSV = 555, nBSV = 357
+Total nSV = 555
+*
+optimization finished, #iter = 472
+nu = 0.5649432534678439
+obj = -377.7270855478593, rho = -4.042014051222075
+nSV = 564, nBSV = 365
+Total nSV = 564
+*
+optimization finished, #iter = 471
+nu = 0.5818639798488664
+obj = -385.6608739967825, rho = -4.222540167024119
+nSV = 567, nBSV = 375
+Total nSV = 567
+*
+optimization finished, #iter = 464
+nu = 0.5699873896595208
+obj = -381.1001856453504, rho = -4.164453089559542
+nSV = 561, nBSV = 361
+Total nSV = 561
+*
+optimization finished, #iter = 544
+nu = 0.5725806451612904
+obj = -457.0685867548295, rho = -4.966366232757672
+nSV = 685, nBSV = 470
+Total nSV = 685
+*
+optimization finished, #iter = 438
+nu = 0.5434173669467787
+obj = -332.4726145964555, rho = -3.701589350102575
+nSV = 496, nBSV = 308
+Total nSV = 496
+*
+optimization finished, #iter = 424
+nu = 0.6022408963585433
+obj = -356.94879085852045, rho = -4.319344551275558
+nSV = 530, nBSV = 350
+Total nSV = 530
+*
+optimization finished, #iter = 434
+nu = 0.5694249649368865
+obj = -341.4419967567345, rho = -4.041882949771598
+nSV = 516, nBSV = 327
+Total nSV = 516
+*
+optimization finished, #iter = 446
+nu = 0.5714285714285714
+obj = -341.5406329175697, rho = -4.104457633135495
+nSV = 517, nBSV = 327
+Total nSV = 517
+*
+optimization finished, #iter = 432
+nu = 0.5722300140252453
+obj = -342.00875877093716, rho = -4.141853709316859
+nSV = 513, nBSV = 328
+Total nSV = 513
+*
+optimization finished, #iter = 522
+nu = 0.5717488789237666
+obj = -411.4335394201169, rho = -4.832357062426709
+nSV = 627, nBSV = 417
+Total nSV = 627
+*
+optimization finished, #iter = 422
+nu = 0.5434173669467787
+obj = -333.1597368059242, rho = -3.663227796034115
+nSV = 499, nBSV = 309
+Total nSV = 499
+*
+optimization finished, #iter = 436
+nu = 0.6022408963585436
+obj = -354.3502326401405, rho = -4.323830865814312
+nSV = 523, nBSV = 344
+Total nSV = 523
+*
+optimization finished, #iter = 423
+nu = 0.5694249649368862
+obj = -341.88967838371167, rho = -3.9400383954040095
+nSV = 510, nBSV = 325
+Total nSV = 510
+*
+optimization finished, #iter = 421
+nu = 0.5714285714285714
+obj = -345.33067405440414, rho = -3.9113086209625565
+nSV = 506, nBSV = 326
+Total nSV = 506
+*
+optimization finished, #iter = 435
+nu = 0.5722300140252453
+obj = -346.0935851142821, rho = -3.922964658549439
+nSV = 514, nBSV = 322
+Total nSV = 514
+*
+optimization finished, #iter = 500
+nu = 0.5717488789237667
+obj = -413.5157644756584, rho = -4.710282112625265
+nSV = 621, nBSV = 419
+Total nSV = 621
+*
+optimization finished, #iter = 432
+nu = 0.6069930069930072
+obj = -361.9291113093072, rho = -4.325966113975707
+nSV = 530, nBSV = 355
+Total nSV = 530
+*
+optimization finished, #iter = 463
+nu = 0.557422969187675
+obj = -338.3310801995523, rho = -3.8351120600545676
+nSV = 519, nBSV = 314
+Total nSV = 519
+*
+optimization finished, #iter = 436
+nu = 0.5734265734265732
+obj = -347.36870251933453, rho = -4.112282066862054
+nSV = 516, nBSV = 325
+Total nSV = 516
+*
+optimization finished, #iter = 444
+nu = 0.5658263305322131
+obj = -341.56067037419353, rho = -3.861491893680016
+nSV = 514, nBSV = 314
+Total nSV = 514
+*
+optimization finished, #iter = 433
+nu = 0.5630252100840337
+obj = -341.99017362613534, rho = -3.8171233602301378
+nSV = 516, nBSV = 320
+Total nSV = 516
+*
+optimization finished, #iter = 504
+nu = 0.5733482642777156
+obj = -416.1144711981538, rho = -4.745508073505199
+nSV = 623, nBSV = 419
+Total nSV = 623
+*
+optimization finished, #iter = 445
+nu = 0.5398601398601396
+obj = -327.4419983793172, rho = 3.9394685579704216
+nSV = 494, nBSV = 300
+Total nSV = 494
+*
+optimization finished, #iter = 473
+nu = 0.5602240896358542
+obj = -335.68340905019267, rho = 4.020299032001315
+nSV = 514, nBSV = 312
+Total nSV = 514
+*
+optimization finished, #iter = 438
+nu = 0.579020979020979
+obj = -347.2454340033125, rho = 3.980561803577197
+nSV = 522, nBSV = 335
+Total nSV = 522
+*
+optimization finished, #iter = 442
+nu = 0.6134453781512603
+obj = -364.9949787625351, rho = 4.183620183510469
+nSV = 532, nBSV = 355
+Total nSV = 532
+*
+optimization finished, #iter = 453
+nu = 0.5742296918767508
+obj = -347.75496721980414, rho = 3.86936262730425
+nSV = 517, nBSV = 331
+Total nSV = 517
+*
+optimization finished, #iter = 522
+nu = 0.5733482642777161
+obj = -413.5848657726149, rho = 4.767414767282573
+nSV = 626, nBSV = 419
+Total nSV = 626
+*
+optimization finished, #iter = 424
+nu = 0.606993006993007
+obj = -359.659261521355, rho = -4.326271749502314
+nSV = 529, nBSV = 354
+Total nSV = 529
+*
+optimization finished, #iter = 442
+nu = 0.5574229691876752
+obj = -338.81310977960493, rho = -3.8027926141431347
+nSV = 515, nBSV = 314
+Total nSV = 515
+*
+optimization finished, #iter = 409
+nu = 0.5734265734265735
+obj = -348.19114760294656, rho = -3.8650869547335356
+nSV = 502, nBSV = 330
+Total nSV = 502
+*
+optimization finished, #iter = 445
+nu = 0.5658263305322128
+obj = -342.7230449752236, rho = -3.807901029477923
+nSV = 513, nBSV = 324
+Total nSV = 513
+*
+optimization finished, #iter = 440
+nu = 0.5630252100840336
+obj = -342.14289280263466, rho = -3.7496675494606237
+nSV = 515, nBSV = 325
+Total nSV = 515
+*
+optimization finished, #iter = 515
+nu = 0.5733482642777156
+obj = -416.1679122801834, rho = -4.65324053763018
+nSV = 626, nBSV = 422
+Total nSV = 626
+*
+optimization finished, #iter = 443
+nu = 0.606993006993007
+obj = -364.09025292526843, rho = -4.080396977172112
+nSV = 534, nBSV = 346
+Total nSV = 534
+*
+optimization finished, #iter = 452
+nu = 0.557422969187675
+obj = -337.065014534011, rho = -3.9805938252022166
+nSV = 512, nBSV = 314
+Total nSV = 512
+*
+optimization finished, #iter = 443
+nu = 0.5734265734265734
+obj = -346.5997759248676, rho = -3.7258533993377543
+nSV = 518, nBSV = 326
+Total nSV = 518
+*
+optimization finished, #iter = 423
+nu = 0.5658263305322131
+obj = -340.3681428050765, rho = -4.001796150491645
+nSV = 508, nBSV = 322
+Total nSV = 508
+*
+optimization finished, #iter = 442
+nu = 0.5630252100840336
+obj = -340.8920994169451, rho = -3.6950048771237847
+nSV = 516, nBSV = 323
+Total nSV = 516
+*
+optimization finished, #iter = 516
+nu = 0.5733482642777153
+obj = -415.4122359906089, rho = -4.641821144947628
+nSV = 624, nBSV = 417
+Total nSV = 624
+*
+optimization finished, #iter = 435
+nu = 0.6069930069930068
+obj = -361.4426475553882, rho = -4.11672234615172
+nSV = 530, nBSV = 350
+Total nSV = 530
+*
+optimization finished, #iter = 438
+nu = 0.557422969187675
+obj = -339.00956117951137, rho = -3.658816095944269
+nSV = 505, nBSV = 318
+Total nSV = 505
+*
+optimization finished, #iter = 453
+nu = 0.5734265734265733
+obj = -347.46732338873414, rho = -3.9262742460186852
+nSV = 523, nBSV = 331
+Total nSV = 523
+*
+optimization finished, #iter = 432
+nu = 0.5658263305322129
+obj = -342.97515268242637, rho = -3.94086845249853
+nSV = 512, nBSV = 319
+Total nSV = 512
+*
+optimization finished, #iter = 448
+nu = 0.5630252100840336
+obj = -341.4338542198622, rho = -3.8290646659869783
+nSV = 518, nBSV = 317
+Total nSV = 518
+*
+optimization finished, #iter = 513
+nu = 0.5733482642777158
+obj = -416.34845773809815, rho = -4.630865827341606
+nSV = 628, nBSV = 416
+Total nSV = 628
+*
+optimization finished, #iter = 457
+nu = 0.5398601398601401
+obj = -328.85686424106916, rho = 3.748493924756714
+nSV = 503, nBSV = 303
+Total nSV = 503
+*
+optimization finished, #iter = 453
+nu = 0.5602240896358542
+obj = -338.4341195735021, rho = 3.8547275135025094
+nSV = 515, nBSV = 319
+Total nSV = 515
+*
+optimization finished, #iter = 456
+nu = 0.5790209790209794
+obj = -347.64494350933154, rho = 3.9761228553031276
+nSV = 524, nBSV = 332
+Total nSV = 524
+*
+optimization finished, #iter = 442
+nu = 0.6134453781512604
+obj = -360.96663421147514, rho = 4.310946566320027
+nSV = 537, nBSV = 356
+Total nSV = 537
+*
+optimization finished, #iter = 462
+nu = 0.5742296918767508
+obj = -345.1551474177687, rho = 3.835135107132191
+nSV = 523, nBSV = 327
+Total nSV = 523
+*
+optimization finished, #iter = 541
+nu = 0.5733482642777158
+obj = -413.089467798182, rho = 4.703517703073573
+nSV = 627, nBSV = 416
+Total nSV = 627
+*
+optimization finished, #iter = 435
+nu = 0.6041958041958042
+obj = -361.10366496275276, rho = -4.287300501841472
+nSV = 537, nBSV = 353
+Total nSV = 537
+*
+optimization finished, #iter = 426
+nu = 0.5574229691876753
+obj = -339.74023187824, rho = -3.83031996063467
+nSV = 507, nBSV = 320
+Total nSV = 507
+*
+optimization finished, #iter = 436
+nu = 0.5706293706293707
+obj = -343.50132117368315, rho = -3.956641454241468
+nSV = 514, nBSV = 331
+Total nSV = 514
+*
+optimization finished, #iter = 423
+nu = 0.5630252100840337
+obj = -340.6947211936207, rho = -3.916002752600666
+nSV = 505, nBSV = 321
+Total nSV = 505
+*
+optimization finished, #iter = 437
+nu = 0.5602240896358543
+obj = -338.4000876247874, rho = -3.904927251172548
+nSV = 514, nBSV = 318
+Total nSV = 514
+*
+optimization finished, #iter = 495
+nu = 0.5711086226203806
+obj = -414.1656383742789, rho = -4.722337679230983
+nSV = 618, nBSV = 423
+Total nSV = 618
+*
+optimization finished, #iter = 437
+nu = 0.5398601398601398
+obj = -330.93327793124746, rho = 3.7475586477934693
+nSV = 494, nBSV = 306
+Total nSV = 494
+*
+optimization finished, #iter = 456
+nu = 0.5574229691876749
+obj = -340.5558163104521, rho = 3.717090359125865
+nSV = 511, nBSV = 318
+Total nSV = 511
+*
+optimization finished, #iter = 439
+nu = 0.5762237762237762
+obj = -348.0033177561539, rho = 3.978937941958781
+nSV = 507, nBSV = 322
+Total nSV = 507
+*
+optimization finished, #iter = 444
+nu = 0.6106442577030808
+obj = -362.678568582139, rho = 4.3408152199674515
+nSV = 535, nBSV = 354
+Total nSV = 535
+*
+optimization finished, #iter = 460
+nu = 0.5714285714285714
+obj = -347.1940278193082, rho = 3.8358140187068264
+nSV = 520, nBSV = 326
+Total nSV = 520
+*
+optimization finished, #iter = 506
+nu = 0.5711086226203803
+obj = -416.109206597585, rho = 4.665510274694892
+nSV = 614, nBSV = 415
+Total nSV = 614
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.functions.LibSVM -- -B 
+
+FilteredClassifier using weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -B -seed 1 on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W3000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute tense {temporal,atemporal}
+@attribute * numeric
+@attribute +जन्माष्टमी numeric
+@attribute 5 numeric
+@attribute 90 numeric
+@attribute अंग numeric
+@attribute अंग्रेज़ी numeric
+@attribute अंग्रेजी numeric
+@attribute अंडे numeric
+@attribute अंत numeric
+@attribute अंतिम numeric
+@attribute अंधेरा numeric
+@attribute अच्छा numeric
+@attribute अतिवृष्टि numeric
+@attribute अत्यधिक numeric
+@attribute अधिक numeric
+@attribute अधिकत्तर numeric
+@attribute अधिकांश numeric
+@attribute अधेड़ numeric
+@attribute अनहोनी numeric
+@attribute अनाज numeric
+@attribute अनावृष्टि numeric
+@attribute अनिश्चित numeric
+@attribute अनुमान numeric
+@attribute अनुराधा numeric
+@attribute अन्न numeric
+@attribute अपने numeric
+@attribute अपशब्द numeric
+@attribute अपेक्षित numeric
+@attribute अभिसारिका numeric
+@attribute अर्द्धरात्रि numeric
+@attribute अवतार numeric
+@attribute अवधि numeric
+@attribute अवश्य numeric
+@attribute अवस्थाओं numeric
+@attribute अश्रुग्रंथि numeric
+@attribute अश्लेषा numeric
+@attribute अश्विनी numeric
+@attribute अष्टमी numeric
+@attribute अस्त numeric
+@attribute आँखों numeric
+@attribute आँत numeric
+@attribute आकाश numeric
+@attribute आगामी numeric
+@attribute आगे numeric
+@attribute आज numeric
+@attribute आठ numeric
+@attribute आदि numeric
+@attribute आधा numeric
+@attribute आधारित numeric
+@attribute आधी numeric
+@attribute आधुनिक numeric
+@attribute आने numeric
+@attribute आनेवाला numeric
+@attribute आनेवाले numeric
+@attribute आम numeric
+@attribute आयामों numeric
+@attribute आयुर्वेद numeric
+@attribute आरंभ numeric
+@attribute आरती numeric
+@attribute आरम्भ numeric
+@attribute आर्द्रा numeric
+@attribute आवाज़ numeric
+@attribute आषाढ़ा numeric
+@attribute इच्छा numeric
+@attribute इनका numeric
+@attribute इस numeric
+@attribute इसी numeric
+@attribute इस्लाम numeric
+@attribute ईख numeric
+@attribute ईसवी numeric
+@attribute ईसा numeric
+@attribute ईसाई numeric
+@attribute उकटने numeric
+@attribute उगने numeric
+@attribute उचित numeric
+@attribute उड़ती numeric
+@attribute उड़ते numeric
+@attribute उड़ाया numeric
+@attribute उण्डुकपुच्छ numeric
+@attribute उतने numeric
+@attribute उतार numeric
+@attribute उत्तर numeric
+@attribute उत्तरा-फाल्गुनी numeric
+@attribute उत्तरा-भाद्रपद numeric
+@attribute उत्तराषाढ़ा numeric
+@attribute उत्पत्ति numeric
+@attribute उत्पन्न numeric
+@attribute उत्सव numeric
+@attribute उदय numeric
+@attribute उन्हें numeric
+@attribute उपरांत numeric
+@attribute उपाय numeric
+@attribute उम्मीद numeric
+@attribute उल्का numeric
+@attribute उस numeric
+@attribute उसके numeric
+@attribute उससे numeric
+@attribute उसी numeric
+@attribute ऊँचा numeric
+@attribute ऋतु numeric
+@attribute एक numeric
+@attribute एवं numeric
+@attribute एहसान numeric
+@attribute ऐसा numeric
+@attribute ओर numeric
+@attribute ओवर numeric
+@attribute और numeric
+@attribute कचनार numeric
+@attribute कठिनता numeric
+@attribute कड़ी numeric
+@attribute कपड़ा numeric
+@attribute कम numeric
+@attribute कमर numeric
+@attribute कमाने numeric
+@attribute कमी numeric
+@attribute कर numeric
+@attribute करता numeric
+@attribute करते numeric
+@attribute करने numeric
+@attribute कराने numeric
+@attribute करे numeric
+@attribute कर्म numeric
+@attribute कल numeric
+@attribute कलमी numeric
+@attribute कष्ट numeric
+@attribute कह numeric
+@attribute का numeric
+@attribute कारण numeric
+@attribute कार्तिककृष्णा numeric
+@attribute कार्य numeric
+@attribute काल numeric
+@attribute किया numeric
+@attribute किस numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कुंभ numeric
+@attribute कुआँ numeric
+@attribute कुछ numeric
+@attribute कुशल numeric
+@attribute कृत्तिका numeric
+@attribute कृत्य numeric
+@attribute के numeric
+@attribute को numeric
+@attribute कोई numeric
+@attribute कोना numeric
+@attribute क्रम numeric
+@attribute क्रमशः numeric
+@attribute क्रिकेट numeric
+@attribute क्रियाओं numeric
+@attribute क्षण numeric
+@attribute क्षणों numeric
+@attribute खाँसने numeric
+@attribute खाया numeric
+@attribute खारा numeric
+@attribute खिलाड़ी numeric
+@attribute खींचने numeric
+@attribute खुरों numeric
+@attribute खुशी numeric
+@attribute खेत numeric
+@attribute खेल numeric
+@attribute खेलते numeric
+@attribute खोदा numeric
+@attribute गई numeric
+@attribute गड्ढा numeric
+@attribute गणनानुसार numeric
+@attribute गत numeric
+@attribute गति numeric
+@attribute गतिमान numeric
+@attribute गन्ना numeric
+@attribute गमन numeric
+@attribute गर्भ numeric
+@attribute गर्भवती numeric
+@attribute ग़ुब्बारे numeric
+@attribute गाढ़ा numeric
+@attribute गाते numeric
+@attribute गाया numeric
+@attribute गाली numeric
+@attribute गिरने numeric
+@attribute गिराने numeric
+@attribute गीत numeric
+@attribute गुजरता numeric
+@attribute गुड numeric
+@attribute गुदा numeric
+@attribute गुरुओं numeric
+@attribute गुरुवार numeric
+@attribute गूदे numeric
+@attribute गौओं numeric
+@attribute गौतम numeric
+@attribute ग्रंथि numeric
+@attribute ग्रह numeric
+@attribute घट numeric
+@attribute घटना numeric
+@attribute घटनाएँ numeric
+@attribute घड़ी numeric
+@attribute घुटनों numeric
+@attribute घोड़ों numeric
+@attribute चंद्रमा numeric
+@attribute चढ़े numeric
+@attribute चन्द्रमा numeric
+@attribute चयापचय numeric
+@attribute चरकर numeric
+@attribute चल numeric
+@attribute चलकर numeric
+@attribute चवालीस numeric
+@attribute चांद्रमासों numeric
+@attribute चान्द्र numeric
+@attribute चार-पाँच numeric
+@attribute चारा numeric
+@attribute चालीसवें numeric
+@attribute चावल numeric
+@attribute चित्रा numeric
+@attribute चुका numeric
+@attribute चैत्र numeric
+@attribute चोंच numeric
+@attribute चौथा numeric
+@attribute चौथे numeric
+@attribute छः numeric
+@attribute छठवाँ numeric
+@attribute छठे numeric
+@attribute छप्पर numeric
+@attribute छाप numeric
+@attribute छाया numeric
+@attribute छिलके numeric
+@attribute छूट numeric
+@attribute छोटी numeric
+@attribute जताने numeric
+@attribute जनन numeric
+@attribute जन्म numeric
+@attribute जब numeric
+@attribute जरीब numeric
+@attribute जलाने numeric
+@attribute जलाया numeric
+@attribute जवान numeric
+@attribute जहाज numeric
+@attribute जाता numeric
+@attribute जाती numeric
+@attribute जाने numeric
+@attribute जानेवाला numeric
+@attribute जितने numeric
+@attribute जिनमें numeric
+@attribute जिस numeric
+@attribute जिसकी numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जैन numeric
+@attribute जैसा numeric
+@attribute जैसे-तैसे numeric
+@attribute जो numeric
+@attribute जोतते numeric
+@attribute ज्ञान numeric
+@attribute ज्येष्ठा numeric
+@attribute ज्वर numeric
+@attribute झंडा numeric
+@attribute झाड़ numeric
+@attribute झाड़ीदार numeric
+@attribute झूमर numeric
+@attribute टीबी numeric
+@attribute ठीक numeric
+@attribute डालना numeric
+@attribute डाला numeric
+@attribute डूबता numeric
+@attribute डूबने numeric
+@attribute ढका numeric
+@attribute ढेर numeric
+@attribute तक numeric
+@attribute तथा numeric
+@attribute तरल numeric
+@attribute तर्पण numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तापमान numeric
+@attribute तारों numeric
+@attribute ताश numeric
+@attribute तिथि numeric
+@attribute तीन numeric
+@attribute तीस numeric
+@attribute तीसरा numeric
+@attribute तीसरे numeric
+@attribute त्रयोदशी numeric
+@attribute था numeric
+@attribute थाइराइड numeric
+@attribute थी numeric
+@attribute थूकने numeric
+@attribute थोड़ा-बहुत numeric
+@attribute दक्षिण numeric
+@attribute दर्द numeric
+@attribute दर्शनों numeric
+@attribute दर्शाता numeric
+@attribute दशहरे numeric
+@attribute दसवाँ numeric
+@attribute दही numeric
+@attribute दिखाई numeric
+@attribute दिन numeric
+@attribute दिन-पर- numeric
+@attribute दिनांक numeric
+@attribute दिया numeric
+@attribute दिवाली numeric
+@attribute दिशा numeric
+@attribute दी numeric
+@attribute दीनाजपुर numeric
+@attribute दीपक numeric
+@attribute दुल्हन numeric
+@attribute दूतावास numeric
+@attribute दूरस्थ numeric
+@attribute दूसरा numeric
+@attribute दूसरी numeric
+@attribute दूसरे numeric
+@attribute दृश्य numeric
+@attribute दृष्टि numeric
+@attribute देने numeric
+@attribute देनेवाली numeric
+@attribute दो numeric
+@attribute दोपहर numeric
+@attribute द्रव numeric
+@attribute द्वादशी numeric
+@attribute द्विपद numeric
+@attribute धँसने numeric
+@attribute धनिष्ठा numeric
+@attribute धनोपार्जन numeric
+@attribute धर्म numeric
+@attribute धारण numeric
+@attribute धूप numeric
+@attribute धूल numeric
+@attribute न numeric
+@attribute नए numeric
+@attribute नक्षत्र numeric
+@attribute नदी numeric
+@attribute नमक numeric
+@attribute नर numeric
+@attribute नवदुर्गा numeric
+@attribute नवमी numeric
+@attribute नहाते numeric
+@attribute नहीं numeric
+@attribute नाक numeric
+@attribute नापते numeric
+@attribute निकलकर numeric
+@attribute निकलता numeric
+@attribute निकलने numeric
+@attribute निकली numeric
+@attribute निदान numeric
+@attribute नियत numeric
+@attribute नियततापी numeric
+@attribute नृत्य numeric
+@attribute ने numeric
+@attribute नौ numeric
+@attribute नौ-दस numeric
+@attribute नौवीं numeric
+@attribute पंख numeric
+@attribute पंचमी numeric
+@attribute पंचाँग numeric
+@attribute पंद्रह numeric
+@attribute पकवान numeric
+@attribute पक्ष numeric
+@attribute पक्षियों numeric
+@attribute पड़ता numeric
+@attribute पड़नेवाला numeric
+@attribute पड़नेवाले numeric
+@attribute पढ़ा numeric
+@attribute पति numeric
+@attribute पत्ता numeric
+@attribute पत्रिका numeric
+@attribute पदार्थ numeric
+@attribute पन्द्रहवाँ numeric
+@attribute पर numeric
+@attribute परसों numeric
+@attribute परिक्रमा numeric
+@attribute परिजन numeric
+@attribute परिवर्तन numeric
+@attribute परों numeric
+@attribute पर्व numeric
+@attribute पल numeric
+@attribute पलंग numeric
+@attribute पवित्र numeric
+@attribute पश्चात् numeric
+@attribute पश्चिम numeric
+@attribute पहनती numeric
+@attribute पहना numeric
+@attribute पहनावा numeric
+@attribute पहर numeric
+@attribute पहला numeric
+@attribute पहली numeric
+@attribute पहले numeric
+@attribute पहले-पहले numeric
+@attribute पहुँचता numeric
+@attribute पहुँचने numeric
+@attribute पाँच numeric
+@attribute पाठ numeric
+@attribute पारसियों numeric
+@attribute पिनपिनाने numeric
+@attribute पीड़ा numeric
+@attribute पीली numeric
+@attribute पुतला numeric
+@attribute पुनर्वसु numeric
+@attribute पुराने numeric
+@attribute पुरुष numeric
+@attribute पुष्य numeric
+@attribute पूजन numeric
+@attribute पूरी numeric
+@attribute पूरे numeric
+@attribute पूर्णिमा numeric
+@attribute पूर्व numeric
+@attribute पूर्वभाद्रपद numeric
+@attribute पूर्वा-फाल्गुनी numeric
+@attribute पूर्वाषाढ़ा numeric
+@attribute पृथ्वी numeric
+@attribute पेड़ू numeric
+@attribute प्रकार numeric
+@attribute प्रकाश numeric
+@attribute प्रतिदिन numeric
+@attribute प्रतिपदा numeric
+@attribute प्रतिलेखन numeric
+@attribute प्रत्येक numeric
+@attribute प्रयाण numeric
+@attribute प्रवेश numeric
+@attribute प्रसाद numeric
+@attribute प्रसूता numeric
+@attribute प्रसूति numeric
+@attribute प्रहर numeric
+@attribute प्राचीन numeric
+@attribute फड़फड़ाने numeric
+@attribute फहराती numeric
+@attribute फहराया numeric
+@attribute फाल numeric
+@attribute फिट numeric
+@attribute फुट numeric
+@attribute फूल numeric
+@attribute फूलने numeric
+@attribute फेंकने numeric
+@attribute फोड़कर numeric
+@attribute फ्राइडे numeric
+@attribute बंद numeric
+@attribute बकने numeric
+@attribute बच्चे numeric
+@attribute बजाया numeric
+@attribute बजे numeric
+@attribute बतलाने numeric
+@attribute बताए numeric
+@attribute बताता numeric
+@attribute बताना numeric
+@attribute बनती numeric
+@attribute बनाते numeric
+@attribute बम numeric
+@attribute बरसने numeric
+@attribute बरसाते numeric
+@attribute बराबर numeric
+@attribute बर्फ numeric
+@attribute बल्लेबाज़ी numeric
+@attribute बहुत numeric
+@attribute बहुवर्षीय numeric
+@attribute बाँटा numeric
+@attribute बाँहों numeric
+@attribute बाजा numeric
+@attribute बात numeric
+@attribute बातों numeric
+@attribute बाद numeric
+@attribute बार numeric
+@attribute बारह numeric
+@attribute बारहवाँ numeric
+@attribute बारहवें numeric
+@attribute बालक numeric
+@attribute बासी numeric
+@attribute बिता numeric
+@attribute बिताना numeric
+@attribute बीच numeric
+@attribute बीज numeric
+@attribute बीजकोश numeric
+@attribute बीता numeric
+@attribute बीते numeric
+@attribute बीस numeric
+@attribute बुद्ध numeric
+@attribute बुधवार numeric
+@attribute बूटियों numeric
+@attribute बूढ़ा numeric
+@attribute बृहस्पतिवार numeric
+@attribute बोने numeric
+@attribute बोलने numeric
+@attribute बोलनेवाले numeric
+@attribute भरणी numeric
+@attribute भरपूर numeric
+@attribute भविष्य numeric
+@attribute भाग numeric
+@attribute भाद्रपद numeric
+@attribute भूमि numeric
+@attribute भूसा numeric
+@attribute भोजन numeric
+@attribute मंगल numeric
+@attribute मंगलवार numeric
+@attribute मंथन numeric
+@attribute मकर numeric
+@attribute मघा numeric
+@attribute मज़दूरी numeric
+@attribute मतानुसार numeric
+@attribute मध्य numeric
+@attribute मनाया numeric
+@attribute मरने numeric
+@attribute मराठी numeric
+@attribute मल numeric
+@attribute महीना numeric
+@attribute मानसिक numeric
+@attribute मार्ग numeric
+@attribute मालदा numeric
+@attribute मास numeric
+@attribute मिला numeric
+@attribute मिले numeric
+@attribute मिलें numeric
+@attribute मुँह numeric
+@attribute मुड़ती numeric
+@attribute मुसलमानों numeric
+@attribute मुसीबत numeric
+@attribute मुहर्रम numeric
+@attribute मूल numeric
+@attribute मृगशिरा numeric
+@attribute मृत numeric
+@attribute मृत्यु numeric
+@attribute में numeric
+@attribute मैच numeric
+@attribute मोहने numeric
+@attribute मौत numeric
+@attribute मौसम numeric
+@attribute यज्ञ numeric
+@attribute यहूदी numeric
+@attribute या numeric
+@attribute यान numeric
+@attribute युग numeric
+@attribute युद्ध numeric
+@attribute युवा numeric
+@attribute योग numeric
+@attribute रविवार numeric
+@attribute रहता numeric
+@attribute रहती numeric
+@attribute रहने numeric
+@attribute रहनेवाली numeric
+@attribute रहा numeric
+@attribute राजदूत numeric
+@attribute राजा numeric
+@attribute रात numeric
+@attribute रावण numeric
+@attribute राशि numeric
+@attribute रूपादि numeric
+@attribute रूस numeric
+@attribute रेखा numeric
+@attribute रेवती numeric
+@attribute रोग numeric
+@attribute रोगों numeric
+@attribute रोहिणी numeric
+@attribute लंगर numeric
+@attribute लंबा numeric
+@attribute लंबी numeric
+@attribute लकड़ियों numeric
+@attribute लक्ष्मी numeric
+@attribute लगते numeric
+@attribute लगभग numeric
+@attribute लगाया numeric
+@attribute लसदार numeric
+@attribute लालिमा numeric
+@attribute लिए numeric
+@attribute लिखने numeric
+@attribute लिपिक numeric
+@attribute लेकर numeric
+@attribute लेने numeric
+@attribute लोगों numeric
+@attribute लौटती numeric
+@attribute वक़्त numeric
+@attribute वद्य numeric
+@attribute वधू numeric
+@attribute वनमानुष numeric
+@attribute वनस्पति numeric
+@attribute वर numeric
+@attribute वर्णवृत्त numeric
+@attribute वर्तमान numeric
+@attribute वर्ष numeric
+@attribute वसंत numeric
+@attribute वस्तुएँ numeric
+@attribute वह numeric
+@attribute वाणिज्य numeric
+@attribute वाद्य numeric
+@attribute वायुमंडल numeric
+@attribute वार numeric
+@attribute वारों numeric
+@attribute वाला numeric
+@attribute वाली numeric
+@attribute वाले numeric
+@attribute विचारने numeric
+@attribute विद्यमान numeric
+@attribute विधवा numeric
+@attribute विधिपूर्वक numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute विभाग numeric
+@attribute विवाह numeric
+@attribute विविध numeric
+@attribute विवेचन numeric
+@attribute विशाखा numeric
+@attribute विशाल numeric
+@attribute विशिष्ट numeric
+@attribute विशेषताओं numeric
+@attribute विषम numeric
+@attribute विषय numeric
+@attribute विषुवत् numeric
+@attribute विषुवों numeric
+@attribute विस्तार numeric
+@attribute विस्तृत numeric
+@attribute वैदिक numeric
+@attribute वैशाख numeric
+@attribute व्यंजन numeric
+@attribute व्यक्ति numeric
+@attribute व्यतीपात numeric
+@attribute व्याकरण numeric
+@attribute व्रत numeric
+@attribute शगुन numeric
+@attribute शतभिषा numeric
+@attribute शनिवार numeric
+@attribute शब्द numeric
+@attribute शाखाओं numeric
+@attribute शाखारहित numeric
+@attribute शादी numeric
+@attribute शासक numeric
+@attribute शास्त्र numeric
+@attribute शिशु numeric
+@attribute शुक्रवार numeric
+@attribute शुक्ल numeric
+@attribute शुभ numeric
+@attribute शुरू numeric
+@attribute शैशव numeric
+@attribute शोक numeric
+@attribute शोथ numeric
+@attribute श्रवण numeric
+@attribute श्राद्ध numeric
+@attribute षष्ठी numeric
+@attribute संकट numeric
+@attribute संक्रांति numeric
+@attribute संतान numeric
+@attribute संदर्भित numeric
+@attribute संध्या numeric
+@attribute संबंधित numeric
+@attribute संबंधी numeric
+@attribute संभव numeric
+@attribute संभावनावाली numeric
+@attribute संस्कार numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute सत्ताईस numeric
+@attribute सत्ताईसवाँ numeric
+@attribute सपिंडी numeric
+@attribute सप्ताह numeric
+@attribute सबसे numeric
+@attribute सबेरे numeric
+@attribute समय numeric
+@attribute समागम numeric
+@attribute समाप्त numeric
+@attribute समुद्र numeric
+@attribute समूहों numeric
+@attribute सम्बंधित numeric
+@attribute सर्वनाम numeric
+@attribute सस्ते numeric
+@attribute सहायक numeric
+@attribute सहित numeric
+@attribute साँस numeric
+@attribute साड़ी numeric
+@attribute सात numeric
+@attribute सातवें numeric
+@attribute साथ numeric
+@attribute सामान्य numeric
+@attribute साल numeric
+@attribute सिक्ख numeric
+@attribute सुगंधित numeric
+@attribute सुदी numeric
+@attribute सूचक numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute सूर्य numeric
+@attribute सूर्यास्त numeric
+@attribute सूर्योदय numeric
+@attribute से numeric
+@attribute सेनाएँ numeric
+@attribute सोते numeric
+@attribute सोने numeric
+@attribute सोमवार numeric
+@attribute सौ numeric
+@attribute सौदे numeric
+@attribute स्तोत्र numeric
+@attribute स्त्री numeric
+@attribute स्थिति numeric
+@attribute स्थिर numeric
+@attribute स्नान numeric
+@attribute स्रावित numeric
+@attribute स्वाति numeric
+@attribute हंडी numeric
+@attribute हजार numeric
+@attribute हड्डी numeric
+@attribute हफ्ते numeric
+@attribute हर numeric
+@attribute हल numeric
+@attribute हवन numeric
+@attribute हस्त numeric
+@attribute हाथियों numeric
+@attribute हार्मोन numeric
+@attribute हिंदू numeric
+@attribute हिन्दू numeric
+@attribute ही numeric
+@attribute हुआ numeric
+@attribute हुई numeric
+@attribute हुए numeric
+@attribute है numeric
+@attribute हैं numeric
+@attribute हो numeric
+@attribute हों numeric
+@attribute होकर numeric
+@attribute होता numeric
+@attribute होती numeric
+@attribute होते numeric
+@attribute होना numeric
+@attribute होने numeric
+@attribute होनेवाला numeric
+@attribute होनेवाली numeric
+@attribute होम numeric
+@attribute होली numeric
+@attribute ह्रास numeric
+@attribute - numeric
+@attribute अ numeric
+@attribute अंक numeric
+@attribute अंकुर numeric
+@attribute अंकों numeric
+@attribute अंगुलियों numeric
+@attribute अंगों numeric
+@attribute अंग्रेजों numeric
+@attribute अंतःकरण numeric
+@attribute अंतर numeric
+@attribute अंतरराष्ट्रीय numeric
+@attribute अंतराल numeric
+@attribute अंतरिक्ष numeric
+@attribute अंतर्ध्यान numeric
+@attribute अंदर numeric
+@attribute अंधकार numeric
+@attribute अंश numeric
+@attribute अकर्मक numeric
+@attribute अक्तूबर numeric
+@attribute अक्रिय numeric
+@attribute अक्ष numeric
+@attribute अक्षम numeric
+@attribute अक्षर numeric
+@attribute अक्सर numeric
+@attribute अख़बार numeric
+@attribute अग्नि numeric
+@attribute अचानक numeric
+@attribute अच्छी numeric
+@attribute अच्छे numeric
+@attribute अज्ञात numeric
+@attribute अज्ञान numeric
+@attribute अटके numeric
+@attribute अटल numeric
+@attribute अट्ठारह numeric
+@attribute अड़कर numeric
+@attribute अड़े numeric
+@attribute अणुओं numeric
+@attribute अतः numeric
+@attribute अतिप्रिय numeric
+@attribute अतिरिक्त numeric
+@attribute अतिसूक्ष्म numeric
+@attribute अत्यंत numeric
+@attribute अथवा numeric
+@attribute अदालत numeric
+@attribute अदृश्य numeric
+@attribute अद्भुत numeric
+@attribute अधर numeric
+@attribute अधिकार numeric
+@attribute अधिकार-पत्र numeric
+@attribute अधिकारियों numeric
+@attribute अधिकारी numeric
+@attribute अधिकारों numeric
+@attribute अधिकृत numeric
+@attribute अधिकोष numeric
+@attribute अधीन numeric
+@attribute अधीर numeric
+@attribute अध्यक्षता numeric
+@attribute अध्ययन numeric
+@attribute अनंत numeric
+@attribute अनचाहे numeric
+@attribute अनभीष्ट numeric
+@attribute अनित्यता numeric
+@attribute अनिवार्य numeric
+@attribute अनिष्ट numeric
+@attribute अनिष्टकारी numeric
+@attribute अनुक्रम numeric
+@attribute अनुचित numeric
+@attribute अनुत्तीर्ण numeric
+@attribute अनुपस्थिति numeric
+@attribute अनुभव numeric
+@attribute अनुभूति numeric
+@attribute अनुभूतियाँ numeric
+@attribute अनुमति numeric
+@attribute अनुरक्त numeric
+@attribute अनुरूप numeric
+@attribute अनुरोध numeric
+@attribute अनुशीलन numeric
+@attribute अनुसार numeric
+@attribute अनुसूचित numeric
+@attribute अनेक numeric
+@attribute अनेकों numeric
+@attribute अनौचित्य numeric
+@attribute अन्तर numeric
+@attribute अन्दर numeric
+@attribute अन्य numeric
+@attribute अपना numeric
+@attribute अपनाया numeric
+@attribute अपनी numeric
+@attribute अपने-अपने numeric
+@attribute अपराध numeric
+@attribute अपराधिक numeric
+@attribute अपराधियों numeric
+@attribute अपराधी numeric
+@attribute अपराधों numeric
+@attribute अपवित्र numeric
+@attribute अपह्रुति numeric
+@attribute अपितु numeric
+@attribute अपेक्षा numeric
+@attribute अपेक्षाकृत numeric
+@attribute अप्रत्यक्ष numeric
+@attribute अप्रत्याशित numeric
+@attribute अप्रसन्न numeric
+@attribute अप्रैल numeric
+@attribute अफ्रीका numeric
+@attribute अब numeric
+@attribute अबीर numeric
+@attribute अभय numeric
+@attribute अभिकर्ता numeric
+@attribute अभिनय numeric
+@attribute अभिनेता numeric
+@attribute अभिप्राय numeric
+@attribute अभिप्रेत numeric
+@attribute अभिमान numeric
+@attribute अभियान numeric
+@attribute अभियोग numeric
+@attribute अभिलाषा numeric
+@attribute अभिव्यक्त numeric
+@attribute अभी numeric
+@attribute अभ्यास numeric
+@attribute अमुक numeric
+@attribute अमूर्त numeric
+@attribute अमेरिका numeric
+@attribute अर्थ numeric
+@attribute अर्थगत numeric
+@attribute अर्थहीन numeric
+@attribute अर्थात numeric
+@attribute अर्थालंकार numeric
+@attribute अर्धठोस numeric
+@attribute अर्धपारगम्य numeric
+@attribute अलंकार numeric
+@attribute अलग numeric
+@attribute अलग-अलग numeric
+@attribute अलगाव numeric
+@attribute अलौकिक numeric
+@attribute अवकाश numeric
+@attribute अवज्ञा numeric
+@attribute अवलंबन numeric
+@attribute अवलोकन numeric
+@attribute अवसरों numeric
+@attribute अवस्था numeric
+@attribute अवांछित numeric
+@attribute अविनय numeric
+@attribute अवैध numeric
+@attribute अशोभनीय numeric
+@attribute असंभव-सा numeric
+@attribute असत्य numeric
+@attribute असमर्थ numeric
+@attribute असमर्थता numeric
+@attribute असाधारण numeric
+@attribute असाध्य numeric
+@attribute असामाजिक numeric
+@attribute असावधानता numeric
+@attribute असैनिक numeric
+@attribute अस्त-व्यस्त numeric
+@attribute अस्तित्व numeric
+@attribute अस्त्र numeric
+@attribute अस्थाई numeric
+@attribute अस्थायी numeric
+@attribute अहित numeric
+@attribute आ numeric
+@attribute आँका numeric
+@attribute आँखे numeric
+@attribute आई numeric
+@attribute आए numeric
+@attribute आओ numeric
+@attribute आकर numeric
+@attribute आकर्षक numeric
+@attribute आकार numeric
+@attribute आकार-प्रकार numeric
+@attribute आकृति numeric
+@attribute आकृतियों numeric
+@attribute आकृष्ट numeric
+@attribute आक्रमण numeric
+@attribute आग numeric
+@attribute आगे-पीछे numeric
+@attribute आघात numeric
+@attribute आचरण numeric
+@attribute आचार-विचार numeric
+@attribute आचार-व्यवहार numeric
+@attribute आज्ञा numeric
+@attribute आता numeric
+@attribute आती numeric
+@attribute आते-जाते numeric
+@attribute आत्मा numeric
+@attribute आदमी numeric
+@attribute आदर numeric
+@attribute आदर्श numeric
+@attribute आदेश numeric
+@attribute आधार numeric
+@attribute आधिकारिक numeric
+@attribute आधिपत्य numeric
+@attribute आध्यात्मिक numeric
+@attribute आनंद numeric
+@attribute आना numeric
+@attribute आन्दोलन numeric
+@attribute आप numeric
+@attribute आपस numeric
+@attribute आबाद numeric
+@attribute आभूषण numeric
+@attribute आमतौर numeric
+@attribute आया numeric
+@attribute आयु numeric
+@attribute आये numeric
+@attribute आयोग numeric
+@attribute आयोजन numeric
+@attribute आराधना numeric
+@attribute आरोप numeric
+@attribute आर्थिक numeric
+@attribute आर्द्रता numeric
+@attribute आवंटित numeric
+@attribute आवश्यक numeric
+@attribute आवश्यकता numeric
+@attribute आवश्यकताओं numeric
+@attribute आवास numeric
+@attribute आविष्कार numeric
+@attribute आवृत्ति numeric
+@attribute आवे numeric
+@attribute आवेग numeric
+@attribute आवेश numeric
+@attribute आशय numeric
+@attribute आशा numeric
+@attribute आशाओं numeric
+@attribute आशीर्वादात्मक numeric
+@attribute आश्चर्यजनक numeric
+@attribute आश्रय numeric
+@attribute आश्रित numeric
+@attribute आश्वासन numeric
+@attribute आस-पास numeric
+@attribute आसक्त numeric
+@attribute आसन numeric
+@attribute आसानी numeric
+@attribute आहत numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इ numeric
+@attribute इंजन numeric
+@attribute इंटरनेट numeric
+@attribute इकट्ठा numeric
+@attribute इकतीसवाँ numeric
+@attribute इकाई numeric
+@attribute इच्छानुसार numeric
+@attribute इतना numeric
+@attribute इतने numeric
+@attribute इत्र numeric
+@attribute इधर numeric
+@attribute इन numeric
+@attribute इनाम numeric
+@attribute इन्हें numeric
+@attribute इसके numeric
+@attribute इसने numeric
+@attribute इसमें numeric
+@attribute इसराइल numeric
+@attribute इसलिए numeric
+@attribute इसीलिए numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute ई numeric
+@attribute ईश्वर numeric
+@attribute उँड़ेलने numeric
+@attribute उक्त numeric
+@attribute उग्र numeric
+@attribute उच्च numeric
+@attribute उच्चश्रेणी numeric
+@attribute उच्चारण numeric
+@attribute उठकर numeric
+@attribute उठना numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उठा numeric
+@attribute उठाकर numeric
+@attribute उठाना numeric
+@attribute उठाने numeric
+@attribute उठे numeric
+@attribute उड़ाकर numeric
+@attribute उतना numeric
+@attribute उतर numeric
+@attribute उतारने numeric
+@attribute उत्कृष्ट numeric
+@attribute उत्तरदायित्व numeric
+@attribute उत्तरप्रदेश numeric
+@attribute उत्तीर्ण numeric
+@attribute उत्तेजना numeric
+@attribute उत्तेजनाओं numeric
+@attribute उत्तेजित numeric
+@attribute उत्पादन numeric
+@attribute उत्साह numeric
+@attribute उत्सुकता numeric
+@attribute उदासीन numeric
+@attribute उद्दंडता numeric
+@attribute उद्दिष्ट numeric
+@attribute उद्देश्य numeric
+@attribute उद्योग numeric
+@attribute उधर numeric
+@attribute उधार numeric
+@attribute उन numeric
+@attribute उनका numeric
+@attribute उनकी numeric
+@attribute उनके numeric
+@attribute उनको numeric
+@attribute उनचास numeric
+@attribute उनतीस numeric
+@attribute उनमें numeric
+@attribute उनसे numeric
+@attribute उन्नत numeric
+@attribute उन्नति numeric
+@attribute उन्नीस numeric
+@attribute उन्मुख numeric
+@attribute उन्होंने numeric
+@attribute उपकरण numeric
+@attribute उपग्रह numeric
+@attribute उपन्यास numeric
+@attribute उपभोक्ता numeric
+@attribute उपमा numeric
+@attribute उपमान numeric
+@attribute उपमेय numeric
+@attribute उपयुक्त numeric
+@attribute उपयोग numeric
+@attribute उपयोगकर्ता numeric
+@attribute उपयोगिता numeric
+@attribute उपयोगी numeric
+@attribute उपलब्ध numeric
+@attribute उपस्थित numeric
+@attribute उपस्थिति numeric
+@attribute उपासना numeric
+@attribute उपेक्षा numeric
+@attribute उबटन numeric
+@attribute उभर numeric
+@attribute उभाड़ने numeric
+@attribute उम्र numeric
+@attribute उलझन numeric
+@attribute उलटा numeric
+@attribute उल्टी numeric
+@attribute उल्टी-सीधी numeric
+@attribute उल्लंघन numeric
+@attribute उल्लेख numeric
+@attribute उष्णकटिबंधीय numeric
+@attribute उष्णता numeric
+@attribute उष्म numeric
+@attribute उष्मा numeric
+@attribute उसका numeric
+@attribute उसकी numeric
+@attribute उसको numeric
+@attribute उसने numeric
+@attribute उसपर numeric
+@attribute उसमें numeric
+@attribute उसे numeric
+@attribute ऊँचाई numeric
+@attribute ऊँचे numeric
+@attribute ऊतकों numeric
+@attribute ऊपर numeric
+@attribute ऊपरी numeric
+@attribute ऊर्जा numeric
+@attribute ऊष्मा numeric
+@attribute ऊष्मागतिक numeric
+@attribute ऊष्मागतिकी numeric
+@attribute ऋण numeric
+@attribute ऋषि numeric
+@attribute एक-दूसरे numeric
+@attribute एकत्र numeric
+@attribute एकत्रित numeric
+@attribute एकदम numeric
+@attribute एकवर्षीय numeric
+@attribute एकसाथ numeric
+@attribute एकाएक numeric
+@attribute एकाग्र numeric
+@attribute एकादशी numeric
+@attribute एड्रिएटिक numeric
+@attribute एड्रियाटिक numeric
+@attribute एफआईआर numeric
+@attribute ऐसी numeric
+@attribute ऐसे numeric
+@attribute ऑपरशनों numeric
+@attribute ऑफिस numeric
+@attribute ओखली numeric
+@attribute औचित्य numeric
+@attribute औपचारिक numeric
+@attribute औरों numeric
+@attribute औषध numeric
+@attribute कंठ numeric
+@attribute कंपनियों numeric
+@attribute कंपनी numeric
+@attribute कंप्यूटर numeric
+@attribute कंप्यूटरीकृत numeric
+@attribute कंस numeric
+@attribute कक्ष numeric
+@attribute कचरा numeric
+@attribute कच्चे numeric
+@attribute कटु numeric
+@attribute कट्टी numeric
+@attribute कठिन numeric
+@attribute कठोर numeric
+@attribute कथन numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कथित numeric
+@attribute कदम numeric
+@attribute कन्या numeric
+@attribute कपड़े numeric
+@attribute कपड़ों numeric
+@attribute कफ numeric
+@attribute कभी numeric
+@attribute कभी-कभी numeric
+@attribute कमज़ोर numeric
+@attribute कमजोर numeric
+@attribute कमल numeric
+@attribute कम्प्यूटर numeric
+@attribute करके numeric
+@attribute करती numeric
+@attribute करते-करते numeric
+@attribute करना numeric
+@attribute करनी numeric
+@attribute करनेवाला numeric
+@attribute करनेवाली numeric
+@attribute करनेवाले numeric
+@attribute करवाने numeric
+@attribute कराकर numeric
+@attribute कराती numeric
+@attribute कराते numeric
+@attribute कराना numeric
+@attribute कराया numeric
+@attribute करेंगे numeric
+@attribute करो numeric
+@attribute कर्तव्य numeric
+@attribute कर्ता numeric
+@attribute कर्मचारियों numeric
+@attribute कर्मचारी numeric
+@attribute कला numeric
+@attribute कला-कौशल numeric
+@attribute कलात्मक numeric
+@attribute कल्पना numeric
+@attribute कल्याण numeric
+@attribute कष्टों numeric
+@attribute कसर numeric
+@attribute कसरत numeric
+@attribute कसा numeric
+@attribute कहकर numeric
+@attribute कहता numeric
+@attribute कहते numeric
+@attribute कहना numeric
+@attribute कहने numeric
+@attribute कहलवाना numeric
+@attribute कहलाता numeric
+@attribute कही numeric
+@attribute कहीं numeric
+@attribute क़ानून numeric
+@attribute क़ानूनी numeric
+@attribute क़ुर्बान numeric
+@attribute काँच numeric
+@attribute काँपते numeric
+@attribute काकु numeric
+@attribute कागज numeric
+@attribute कागज-पत्र numeric
+@attribute काग़ज़ numeric
+@attribute काग़ज़ी numeric
+@attribute काटकर numeric
+@attribute काटते numeric
+@attribute काठ numeric
+@attribute कानून numeric
+@attribute कानूनी numeric
+@attribute काफी numeric
+@attribute काम numeric
+@attribute कामना numeric
+@attribute कामों numeric
+@attribute कारक numeric
+@attribute कारणों numeric
+@attribute कार्ड numeric
+@attribute कार्तिक numeric
+@attribute कार्यकर्त्ता numeric
+@attribute कार्यक्रम numeric
+@attribute कार्यक्रमों numeric
+@attribute कार्यक्षेत्रों numeric
+@attribute कार्यभार numeric
+@attribute कार्यवाही numeric
+@attribute कार्यान्वित numeric
+@attribute कार्यों numeric
+@attribute कार्रवाई numeric
+@attribute कार्ल numeric
+@attribute काले numeric
+@attribute काल्पनिक numeric
+@attribute काश्मीर numeric
+@attribute कास्तकार numeric
+@attribute कि numeric
+@attribute किंतु numeric
+@attribute किए numeric
+@attribute कितना numeric
+@attribute कितनी numeric
+@attribute किये numeric
+@attribute किराए numeric
+@attribute किलोग्राम numeric
+@attribute किवाड़ numeric
+@attribute किसान numeric
+@attribute किस्तों numeric
+@attribute किस्म numeric
+@attribute कुएँ numeric
+@attribute कुद्ध numeric
+@attribute कुपित numeric
+@attribute कुपोषण numeric
+@attribute कुल numeric
+@attribute कूदते numeric
+@attribute कृत्यों numeric
+@attribute कृत्रिम numeric
+@attribute कृपा numeric
+@attribute कृषि numeric
+@attribute कृषिभूमि numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute केंद्र numeric
+@attribute केंद्रीय numeric
+@attribute केन्द्र numeric
+@attribute केबलों numeric
+@attribute केवल numeric
+@attribute कैदी numeric
+@attribute कैसा numeric
+@attribute कैसी numeric
+@attribute कोड़े numeric
+@attribute कोड़ों numeric
+@attribute कोमल numeric
+@attribute कोयल numeric
+@attribute कोशिका numeric
+@attribute कोशिश numeric
+@attribute कौन numeric
+@attribute कौशल numeric
+@attribute क्या numeric
+@attribute क्योंकि numeric
+@attribute क्रिया numeric
+@attribute क्रियाएँ numeric
+@attribute क्रियाशील numeric
+@attribute क्रूरतापूर्वक numeric
+@attribute क्षमता numeric
+@attribute क्षेत्र numeric
+@attribute क्षेत्रीय numeric
+@attribute क्षेत्रों numeric
+@attribute खंड numeric
+@attribute खंडों numeric
+@attribute खंभों numeric
+@attribute खगोल numeric
+@attribute खड़ा numeric
+@attribute खड़े numeric
+@attribute खतरे numeric
+@attribute खपरैल numeric
+@attribute खरीदने numeric
+@attribute खरीदे numeric
+@attribute ख़बरों numeric
+@attribute ख़ुश्की numeric
+@attribute खाता numeric
+@attribute खाते numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute खाने numeric
+@attribute खानों numeric
+@attribute खालिस्तान numeric
+@attribute खाली numeric
+@attribute खिलाड़ियों numeric
+@attribute खिलाफ़ numeric
+@attribute खींचकर numeric
+@attribute खींचता numeric
+@attribute खुदी numeric
+@attribute खुदे numeric
+@attribute खुला numeric
+@attribute खुले numeric
+@attribute खेती numeric
+@attribute खोद-खाद numeric
+@attribute खोदते numeric
+@attribute खोलने numeric
+@attribute गंडे numeric
+@attribute गंतव्य numeric
+@attribute गंभीर numeric
+@attribute गए numeric
+@attribute गठन numeric
+@attribute गठा numeric
+@attribute गठित numeric
+@attribute गड़ा numeric
+@attribute गड़ी numeric
+@attribute गढ़ा numeric
+@attribute गणना numeric
+@attribute गणराज्य numeric
+@attribute गणराज्यों numeric
+@attribute गणित numeric
+@attribute गति-विधि numeric
+@attribute गतिकीय numeric
+@attribute गतिविधि numeric
+@attribute गतिविधियों numeric
+@attribute गदर numeric
+@attribute गया numeric
+@attribute गयी numeric
+@attribute गये numeric
+@attribute गरमी numeric
+@attribute गर्म numeric
+@attribute गर्मी numeric
+@attribute गलत numeric
+@attribute गले numeric
+@attribute ग़लत numeric
+@attribute गा numeric
+@attribute गाँठ numeric
+@attribute गाँवों numeric
+@attribute गाई numeric
+@attribute गाड़ी numeric
+@attribute गाने numeric
+@attribute गिनती numeric
+@attribute गिराना numeric
+@attribute गिरी numeric
+@attribute गिरे numeric
+@attribute गुण numeric
+@attribute गुणा numeric
+@attribute गुणों numeric
+@attribute गुना numeric
+@attribute गुरु numeric
+@attribute गुरुत्वाकर्षण numeric
+@attribute गुरुद्वारे numeric
+@attribute गूढ़ numeric
+@attribute गैसों numeric
+@attribute गोरे numeric
+@attribute गोल numeric
+@attribute गोलाकार numeric
+@attribute गोविंद numeric
+@attribute गौरव numeric
+@attribute ग्रंथ numeric
+@attribute ग्रहण numeric
+@attribute ग्रामीण numeric
+@attribute ग्राहक numeric
+@attribute ग्राहकों numeric
+@attribute घटने numeric
+@attribute घटे numeric
+@attribute घर numeric
+@attribute घरों numeric
+@attribute घर्षण numeric
+@attribute घात numeric
+@attribute घावों numeric
+@attribute घुमा numeric
+@attribute घुमाव numeric
+@attribute घूमकर numeric
+@attribute घूमता numeric
+@attribute घूमती numeric
+@attribute घूमते numeric
+@attribute घूमने numeric
+@attribute घूमे numeric
+@attribute घृणा numeric
+@attribute घोल numeric
+@attribute घोषित numeric
+@attribute चंद्र numeric
+@attribute चकित numeric
+@attribute चक्कर numeric
+@attribute चक्र numeric
+@attribute चटनी numeric
+@attribute चतुर्थी numeric
+@attribute चमकती numeric
+@attribute चमड़े numeric
+@attribute चरित्र numeric
+@attribute चर्चा numeric
+@attribute चलता numeric
+@attribute चलते numeric
+@attribute चलने numeric
+@attribute चला numeric
+@attribute चलाए numeric
+@attribute चलाने numeric
+@attribute चलाया numeric
+@attribute चली numeric
+@attribute चले numeric
+@attribute चाँदी numeric
+@attribute चाची numeric
+@attribute चार numeric
+@attribute चारों numeric
+@attribute चाल numeric
+@attribute चालाकी numeric
+@attribute चालू numeric
+@attribute चाहते numeric
+@attribute चाहा numeric
+@attribute चाहिए numeric
+@attribute चिंतन numeric
+@attribute चिंता numeric
+@attribute चिकित्सा numeric
+@attribute चिढ़ाने numeric
+@attribute चित्त numeric
+@attribute चित्र numeric
+@attribute चित्रण numeric
+@attribute चित्रफलक numeric
+@attribute चिन्ह numeric
+@attribute चिपचिपे numeric
+@attribute चिपटा numeric
+@attribute चिबुक numeric
+@attribute चिरंतन numeric
+@attribute चिह्न numeric
+@attribute चीज numeric
+@attribute चीज़ numeric
+@attribute चीज़े numeric
+@attribute चीज़ें numeric
+@attribute चीजें numeric
+@attribute चुंगी numeric
+@attribute चुकने numeric
+@attribute चुकाने numeric
+@attribute चुन numeric
+@attribute चुनने numeric
+@attribute चुनवा numeric
+@attribute चुनाव numeric
+@attribute चुनी numeric
+@attribute चुने numeric
+@attribute चुप numeric
+@attribute चुम्बकीय numeric
+@attribute चेप numeric
+@attribute चेष्टा numeric
+@attribute चोरी numeric
+@attribute चौकी numeric
+@attribute चौकोर numeric
+@attribute चौखट numeric
+@attribute चौड़ाई numeric
+@attribute चौदह numeric
+@attribute चौराहों numeric
+@attribute चौवन numeric
+@attribute छकाने numeric
+@attribute छड़ी numeric
+@attribute छड़ों numeric
+@attribute छतों numeric
+@attribute छलने numeric
+@attribute छह numeric
+@attribute छान-बीन numeric
+@attribute छानबीन numeric
+@attribute छापकर numeric
+@attribute छिपा numeric
+@attribute छिपाना numeric
+@attribute छिपाने numeric
+@attribute छिपी numeric
+@attribute छीन numeric
+@attribute छीनना numeric
+@attribute छुट्टी numeric
+@attribute छुवा numeric
+@attribute छूए numeric
+@attribute छूने numeric
+@attribute छेड़ने numeric
+@attribute छेड़ा numeric
+@attribute छेदते numeric
+@attribute छेददार numeric
+@attribute छेदा numeric
+@attribute छेदों numeric
+@attribute छोटा numeric
+@attribute छोटी-मोटी numeric
+@attribute छोटे numeric
+@attribute छोड़कर numeric
+@attribute छोड़ने numeric
+@attribute छोर numeric
+@attribute जंगल numeric
+@attribute जंगली numeric
+@attribute जंतर numeric
+@attribute जगत numeric
+@attribute जगह numeric
+@attribute जड़ numeric
+@attribute जन numeric
+@attribute जनजाति numeric
+@attribute जनतंत्र numeric
+@attribute जनता numeric
+@attribute जन्तुओं numeric
+@attribute जबकि numeric
+@attribute जमा numeric
+@attribute जमाई numeric
+@attribute जमींदार numeric
+@attribute जमीन numeric
+@attribute जम्मू numeric
+@attribute जर्मनी numeric
+@attribute जल numeric
+@attribute जलन numeric
+@attribute जलाते numeric
+@attribute जलीय numeric
+@attribute जल्दी numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute ज़मींदार numeric
+@attribute ज़मीन numeric
+@attribute ज़रूरत numeric
+@attribute ज़िद numeric
+@attribute ज़िम्मेदारी numeric
+@attribute ज़ोर numeric
+@attribute जा numeric
+@attribute जाँच numeric
+@attribute जाँच-पड़ताल numeric
+@attribute जाँचते numeric
+@attribute जाँचने numeric
+@attribute जाए numeric
+@attribute जाएँ numeric
+@attribute जाएगी numeric
+@attribute जाकर numeric
+@attribute जाग्रत numeric
+@attribute जाति numeric
+@attribute जातियों numeric
+@attribute जाते numeric
+@attribute जान numeric
+@attribute जान-बूझकर numeric
+@attribute जानकार numeric
+@attribute जानकारियाँ numeric
+@attribute जानकारी numeric
+@attribute जानने numeric
+@attribute जाननेवाला numeric
+@attribute जानबूझकर numeric
+@attribute जानवरों numeric
+@attribute जाना numeric
+@attribute जानी numeric
+@attribute जानेवाली numeric
+@attribute जानेवाले numeric
+@attribute जाय numeric
+@attribute जायँ numeric
+@attribute जायेगा numeric
+@attribute जारी numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जितनी numeric
+@attribute जिनका numeric
+@attribute जिनकी numeric
+@attribute जिनके numeric
+@attribute जिनको numeric
+@attribute जिनसे numeric
+@attribute जिम्मा numeric
+@attribute जिम्मे numeric
+@attribute जिसका numeric
+@attribute जिसके numeric
+@attribute जिसको numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जी numeric
+@attribute जीत numeric
+@attribute जीतता numeric
+@attribute जीव numeric
+@attribute जीवन numeric
+@attribute जीवों numeric
+@attribute जुझार numeric
+@attribute जुड़ा numeric
+@attribute जुड़ी numeric
+@attribute जुड़े numeric
+@attribute जैनशास्त्र numeric
+@attribute जैसी numeric
+@attribute जैसे numeric
+@attribute जॉर्डन numeric
+@attribute जोड़ numeric
+@attribute जोड़कर numeric
+@attribute जोड़ते numeric
+@attribute जोड़ने numeric
+@attribute जोतने numeric
+@attribute जोता-बोया numeric
+@attribute जोर numeric
+@attribute जोरों numeric
+@attribute ज्ञाता numeric
+@attribute ज्यामिति numeric
+@attribute झट numeric
+@attribute झटके numeric
+@attribute झलके numeric
+@attribute झिल्ली numeric
+@attribute झील numeric
+@attribute झुक numeric
+@attribute झुके numeric
+@attribute टिका numeric
+@attribute टिकाना numeric
+@attribute टिकिट numeric
+@attribute टिकिटें numeric
+@attribute टिके numeric
+@attribute टिक्की numeric
+@attribute टीवी numeric
+@attribute टुकड़ा numeric
+@attribute टुकड़े numeric
+@attribute टुकड़ों numeric
+@attribute टेढ़ा-मेढ़ा numeric
+@attribute टेलिफ़ोन numeric
+@attribute टेलीविजन numeric
+@attribute ट्यूनीश numeric
+@attribute ठंड numeric
+@attribute ठगा numeric
+@attribute ठहर numeric
+@attribute ठहरा numeric
+@attribute ठहरी numeric
+@attribute ठोस numeric
+@attribute डर numeric
+@attribute डाक numeric
+@attribute डाकखाने numeric
+@attribute डाटा numeric
+@attribute डाल numeric
+@attribute डालकर numeric
+@attribute डालते numeric
+@attribute डालने numeric
+@attribute डिग्री numeric
+@attribute डीज़ल numeric
+@attribute डूबे numeric
+@attribute डेटा numeric
+@attribute डेयरी numeric
+@attribute ढंग numeric
+@attribute ढकना numeric
+@attribute ढाँचा numeric
+@attribute ढुलाई numeric
+@attribute ढूँढने numeric
+@attribute ढूँढ़ numeric
+@attribute तंग numeric
+@attribute तंत्र numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तख़्ता numeric
+@attribute तत्कालीन numeric
+@attribute तत्त्व numeric
+@attribute तत्व numeric
+@attribute तत्वों numeric
+@attribute तथ्य numeric
+@attribute तथ्यपूर्ण numeric
+@attribute तथ्यों numeric
+@attribute तदनन्तर numeric
+@attribute तब numeric
+@attribute तबाकू numeric
+@attribute तभी numeric
+@attribute तय numeric
+@attribute तरंगों numeric
+@attribute तरफ numeric
+@attribute तरफ़ numeric
+@attribute तरह numeric
+@attribute तरीक़े numeric
+@attribute तरीका numeric
+@attribute तरीके numeric
+@attribute तर्क numeric
+@attribute तर्क-वितर्क numeric
+@attribute तल numeric
+@attribute तलवार numeric
+@attribute तलाशी numeric
+@attribute तस्वीर numeric
+@attribute तहत numeric
+@attribute तांत्रिक numeric
+@attribute ताकि numeric
+@attribute तानें numeric
+@attribute तानों numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute तार numeric
+@attribute तावीज numeric
+@attribute तासीर numeric
+@attribute तिल numeric
+@attribute तिलक numeric
+@attribute तीलियों numeric
+@attribute तीव्र numeric
+@attribute तीव्रता numeric
+@attribute तीसवाँ numeric
+@attribute तुम numeric
+@attribute तुममें numeric
+@attribute तुम्हें numeric
+@attribute तुरंत numeric
+@attribute तेरह numeric
+@attribute तैयार numeric
+@attribute तो numeric
+@attribute तोड़ numeric
+@attribute तोड़ने numeric
+@attribute तौर numeric
+@attribute त्याज्य numeric
+@attribute त्योहार numeric
+@attribute त्रिकोणीय numeric
+@attribute त्रुटि numeric
+@attribute त्रुटियाँ numeric
+@attribute थकावट numeric
+@attribute थप्पड़ numeric
+@attribute थे numeric
+@attribute थोड़ा numeric
+@attribute थोड़ी numeric
+@attribute दंड numeric
+@attribute दंडित numeric
+@attribute दक्षिण-पूर्वी numeric
+@attribute दक्षिणी numeric
+@attribute दण्ड numeric
+@attribute दफ्ती numeric
+@attribute दब numeric
+@attribute दबदबा numeric
+@attribute दबा numeric
+@attribute दबाना numeric
+@attribute दबाने numeric
+@attribute दबाव numeric
+@attribute दबी numeric
+@attribute दर numeric
+@attribute दर्ज़ numeric
+@attribute दर्जा numeric
+@attribute दर्शनानुसार numeric
+@attribute दर्शाते numeric
+@attribute दर्शाने numeric
+@attribute दल numeric
+@attribute दलों numeric
+@attribute दवाब numeric
+@attribute दशा numeric
+@attribute दस numeric
+@attribute दसवें numeric
+@attribute दस्तख़ती numeric
+@attribute दस्तावेज़ numeric
+@attribute दाँतेदार numeric
+@attribute दाग़ numeric
+@attribute दान numeric
+@attribute दाम numeric
+@attribute दायित्व numeric
+@attribute दार्शनिक numeric
+@attribute दाहिनी numeric
+@attribute दाहिने numeric
+@attribute दिए numeric
+@attribute दिखने numeric
+@attribute दिखलाकर numeric
+@attribute दिखलाना numeric
+@attribute दिखाए numeric
+@attribute दिखाओ numeric
+@attribute दिखाकर numeric
+@attribute दिखाना numeric
+@attribute दिखाने numeric
+@attribute दिखाया numeric
+@attribute दिनों numeric
+@attribute दिलाने numeric
+@attribute दिवालिया numeric
+@attribute दीवार numeric
+@attribute दीवारों numeric
+@attribute दुःखी numeric
+@attribute दुख numeric
+@attribute दुखी numeric
+@attribute दुग्ध numeric
+@attribute दुधारी numeric
+@attribute दुबारा numeric
+@attribute दुरुस्त numeric
+@attribute दुहाई numeric
+@attribute दूर numeric
+@attribute दूरसंचार numeric
+@attribute दूरी numeric
+@attribute दूसरों numeric
+@attribute दृढ़ता numeric
+@attribute दृढ़तापूर्वक numeric
+@attribute दृश्यों numeric
+@attribute दृष्टि-शक्ति numeric
+@attribute दे numeric
+@attribute देकर numeric
+@attribute देख numeric
+@attribute देख-रेख numeric
+@attribute देखने numeric
+@attribute देखा numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देती numeric
+@attribute देते numeric
+@attribute देना numeric
+@attribute देनेवाला numeric
+@attribute देनेवालों numeric
+@attribute देर numeric
+@attribute देवकी numeric
+@attribute देवता numeric
+@attribute देवनागरी numeric
+@attribute देवमूर्तियों numeric
+@attribute देश numeric
+@attribute दैवी numeric
+@attribute दोनों numeric
+@attribute दोष numeric
+@attribute दोषों numeric
+@attribute दोहराए numeric
+@attribute द्रव्य numeric
+@attribute द्रव्यों numeric
+@attribute द्वार numeric
+@attribute द्वारा numeric
+@attribute द्विपक्षीय numeric
+@attribute द्वीप numeric
+@attribute धक्का numeric
+@attribute धन numeric
+@attribute धब्बा numeric
+@attribute धमकी numeric
+@attribute धर्म-च्यूत numeric
+@attribute धर्मार्थ numeric
+@attribute धातु numeric
+@attribute धान numeric
+@attribute धारक numeric
+@attribute धारणा numeric
+@attribute धारदार numeric
+@attribute धार्मिक numeric
+@attribute धीरे-धीरे numeric
+@attribute धुँआ numeric
+@attribute धुरे numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute धैर्य numeric
+@attribute धोखा numeric
+@attribute धोबी numeric
+@attribute ध्यान numeric
+@attribute ध्वनि numeric
+@attribute ध्वनियों numeric
+@attribute नई numeric
+@attribute नकल numeric
+@attribute नगर numeric
+@attribute नज़दीक numeric
+@attribute नमी numeric
+@attribute नयानांजन numeric
+@attribute नयी numeric
+@attribute नये numeric
+@attribute नरक numeric
+@attribute नलियों numeric
+@attribute नली numeric
+@attribute नशे numeric
+@attribute नश्वरता numeric
+@attribute नष्ट numeric
+@attribute नस्लीय numeric
+@attribute नाई numeric
+@attribute नागरिक numeric
+@attribute नागरिकों numeric
+@attribute नाता numeric
+@attribute नाप-जोख numeric
+@attribute नाम numeric
+@attribute नामक numeric
+@attribute नामकरण numeric
+@attribute नाली numeric
+@attribute नाश numeric
+@attribute निंदनीय numeric
+@attribute निकल numeric
+@attribute निकलवाने numeric
+@attribute निकला numeric
+@attribute निकाल numeric
+@attribute निकालकर numeric
+@attribute निकालना numeric
+@attribute निकालने numeric
+@attribute निकाले numeric
+@attribute निकास numeric
+@attribute निगरानी numeric
+@attribute निचले numeric
+@attribute निजी numeric
+@attribute निडर numeric
+@attribute नित्य numeric
+@attribute निपुण numeric
+@attribute निमित्त numeric
+@attribute निम्न numeric
+@attribute नियंत्रण numeric
+@attribute नियंत्रित numeric
+@attribute नियम numeric
+@attribute नियमपूर्वक numeric
+@attribute नियमानुसार numeric
+@attribute नियमित numeric
+@attribute नियमों numeric
+@attribute नियुक्त numeric
+@attribute नियुक्ति numeric
+@attribute निरंतरता numeric
+@attribute निरोधी numeric
+@attribute निर्णय numeric
+@attribute निर्णयकर्ता numeric
+@attribute निर्णायक numeric
+@attribute निर्दिष्ट numeric
+@attribute निर्देश numeric
+@attribute निर्दोष numeric
+@attribute निर्धारित numeric
+@attribute निर्भर numeric
+@attribute निर्माण numeric
+@attribute निर्माता numeric
+@attribute निर्मित numeric
+@attribute निर्वाचन numeric
+@attribute निर्वाचित numeric
+@attribute निर्वाह numeric
+@attribute निलंबित numeric
+@attribute निवास numeric
+@attribute निवासियों numeric
+@attribute निवासी numeric
+@attribute निशान numeric
+@attribute निश्चय numeric
+@attribute निश्चित numeric
+@attribute निश्शुल्क numeric
+@attribute निषिद्ध numeric
+@attribute निष्कर्ष numeric
+@attribute निहित numeric
+@attribute नींद numeric
+@attribute नीचा numeric
+@attribute नीची numeric
+@attribute नीचे numeric
+@attribute नीचे-ऊपर numeric
+@attribute नीति numeric
+@attribute नीलाम numeric
+@attribute नेत्रों numeric
+@attribute नैतिक numeric
+@attribute नोटों numeric
+@attribute नौकर numeric
+@attribute नौकरशाहों numeric
+@attribute नौकरी numeric
+@attribute न्याय numeric
+@attribute न्यायशास्त्र numeric
+@attribute न्यायशास्त्रानुसार numeric
+@attribute न्यायालय numeric
+@attribute न्यायिक numeric
+@attribute पँखुड़ियों numeric
+@attribute पंक्तियों numeric
+@attribute पंचमहाभूतों numeric
+@attribute पंजाब numeric
+@attribute पंजाबी numeric
+@attribute पकड़ numeric
+@attribute पकड़कर numeric
+@attribute पकड़ना numeric
+@attribute पकड़ने numeric
+@attribute पकड़ाए numeric
+@attribute पका numeric
+@attribute पक्षपात numeric
+@attribute पक्षों numeric
+@attribute पचहत्तर numeric
+@attribute पचास numeric
+@attribute पटककर numeric
+@attribute पटरियों numeric
+@attribute पटवारी numeric
+@attribute पट्टा numeric
+@attribute पट्टी numeric
+@attribute पड़ती numeric
+@attribute पड़ने numeric
+@attribute पड़ी numeric
+@attribute पड़े numeric
+@attribute पढ़नी numeric
+@attribute पढ़ने numeric
+@attribute पतला numeric
+@attribute पता numeric
+@attribute पता-ठिकाना numeric
+@attribute पताका numeric
+@attribute पत्तियों numeric
+@attribute पत्र numeric
+@attribute पत्रकार numeric
+@attribute पथिकों numeric
+@attribute पद numeric
+@attribute पदार्थों numeric
+@attribute पदों numeric
+@attribute पद्धति numeric
+@attribute पद्य numeric
+@attribute पन्नों numeric
+@attribute परंपरा numeric
+@attribute परखने numeric
+@attribute परजीवी numeric
+@attribute परम numeric
+@attribute परमात्मा numeric
+@attribute परम्परा numeric
+@attribute परस्थिति numeric
+@attribute परस्पर numeric
+@attribute पराए numeric
+@attribute पराजित numeric
+@attribute पराधीन numeric
+@attribute परामर्श numeric
+@attribute परायी numeric
+@attribute परिचित numeric
+@attribute परिणाम numeric
+@attribute परिभाषा numeric
+@attribute परिमाण numeric
+@attribute परिवार numeric
+@attribute परिश्रम numeric
+@attribute परिसर numeric
+@attribute परिस्थिति numeric
+@attribute परिस्थितियाँ numeric
+@attribute परिस्थितियों numeric
+@attribute परिस्थियों numeric
+@attribute परीक्षा numeric
+@attribute परीक्षार्थी numeric
+@attribute परेशानी numeric
+@attribute पर्यटकों numeric
+@attribute पलिमरिज़ेशन numeric
+@attribute पशु numeric
+@attribute पश्चिमी numeric
+@attribute पसंद numeric
+@attribute पहचान numeric
+@attribute पहनते numeric
+@attribute पहनना numeric
+@attribute पहनने numeric
+@attribute पहरेदारों numeric
+@attribute पहलू numeric
+@attribute पहाड़ numeric
+@attribute पहाड़ी numeric
+@attribute पहिए numeric
+@attribute पहुँच numeric
+@attribute पहुँचकर numeric
+@attribute पहुँचना numeric
+@attribute पहुँचवाना numeric
+@attribute पहुँचा numeric
+@attribute पहुँचाना numeric
+@attribute पहुँचाने numeric
+@attribute पहुँचाये numeric
+@attribute पहुँचे numeric
+@attribute पा numeric
+@attribute पाई numeric
+@attribute पाए numeric
+@attribute पाएँ numeric
+@attribute पाखण्ड numeric
+@attribute पाठकों numeric
+@attribute पाठ्य numeric
+@attribute पाता numeric
+@attribute पाती numeric
+@attribute पाते numeric
+@attribute पात्र numeric
+@attribute पात्रता numeric
+@attribute पान numeric
+@attribute पानी numeric
+@attribute पाने numeric
+@attribute पायी numeric
+@attribute पाये numeric
+@attribute पार numeric
+@attribute पारंपरिक numeric
+@attribute पारस्परिक numeric
+@attribute पारित numeric
+@attribute पारिश्रमिक numeric
+@attribute पारिस्थितिकी numeric
+@attribute पार्टियों numeric
+@attribute पार्टी numeric
+@attribute पार्श्व numeric
+@attribute पालन numeric
+@attribute पाव numeric
+@attribute पाश्चातात्य numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पिघलने numeric
+@attribute पिछड़ी numeric
+@attribute पिछली numeric
+@attribute पितृकुल numeric
+@attribute पित्त numeric
+@attribute पीछा numeric
+@attribute पीछे numeric
+@attribute पीड़ित numeric
+@attribute पीढ़ी numeric
+@attribute पीतल numeric
+@attribute पीले numeric
+@attribute पीसने numeric
+@attribute पुकारा numeric
+@attribute पुत्र numeric
+@attribute पुनः numeric
+@attribute पुनर्निमाण numeric
+@attribute पुनर्विचार numeric
+@attribute पुरजा numeric
+@attribute पुरस्कार numeric
+@attribute पुराणानुसार numeric
+@attribute पुलिस numeric
+@attribute पुष्ट numeric
+@attribute पुष्पमाला numeric
+@attribute पुस्तक numeric
+@attribute पुस्तकें numeric
+@attribute पुस्तकों numeric
+@attribute पूछना numeric
+@attribute पूछने numeric
+@attribute पूज्य numeric
+@attribute पूरा numeric
+@attribute पूर्ण numeric
+@attribute पूर्णरूप numeric
+@attribute पूर्णांक numeric
+@attribute पूर्ति numeric
+@attribute पूर्वज numeric
+@attribute पूर्वव्यवस्था numeric
+@attribute पूवर्क numeric
+@attribute पृथक-पृथक numeric
+@attribute पेंच numeric
+@attribute पेट numeric
+@attribute पेड़ numeric
+@attribute पेड़ों numeric
+@attribute पेश numeric
+@attribute पेशे numeric
+@attribute पैटर्न numeric
+@attribute पैदा numeric
+@attribute पैर numeric
+@attribute पैसा numeric
+@attribute पैसे numeric
+@attribute पॉलिसीधारकों numeric
+@attribute पोषण numeric
+@attribute पौधों numeric
+@attribute प्रकट numeric
+@attribute प्रकाशित numeric
+@attribute प्रकोप numeric
+@attribute प्रक्रिया numeric
+@attribute प्रचलन numeric
+@attribute प्रचलित numeric
+@attribute प्रजा numeric
+@attribute प्रणाली numeric
+@attribute प्रति numeric
+@attribute प्रतिकार numeric
+@attribute प्रतिक्रिया numeric
+@attribute प्रतिज्ञापूर्वक numeric
+@attribute प्रतिनिधि numeric
+@attribute प्रतिनिधित्व numeric
+@attribute प्रतिनिधियों numeric
+@attribute प्रतिपक्षी numeric
+@attribute प्रतिपादित numeric
+@attribute प्रतियों numeric
+@attribute प्रतियोगिता numeric
+@attribute प्रतियोगी numeric
+@attribute प्रतिलिपि numeric
+@attribute प्रतिवादी numeric
+@attribute प्रतिशत numeric
+@attribute प्रतिष्ठा numeric
+@attribute प्रतिस्थापित numeric
+@attribute प्रतिस्पर्धात्मक numeric
+@attribute प्रत्यक्ष numeric
+@attribute प्रत्याशा numeric
+@attribute प्रदत्त numeric
+@attribute प्रदर्शन numeric
+@attribute प्रदर्शित numeric
+@attribute प्रदान numeric
+@attribute प्रदेशों numeric
+@attribute प्रधान numeric
+@attribute प्रधानमंत्री numeric
+@attribute प्रफुल्लित numeric
+@attribute प्रबंध numeric
+@attribute प्रबल numeric
+@attribute प्रभाव numeric
+@attribute प्रमाण numeric
+@attribute प्रमाणित numeric
+@attribute प्रमाणों numeric
+@attribute प्रमुख numeric
+@attribute प्रयत्न numeric
+@attribute प्रयुक्त numeric
+@attribute प्रयोग numeric
+@attribute प्रयोगों numeric
+@attribute प्रयोजन numeric
+@attribute प्रवाह numeric
+@attribute प्रविष्ट numeric
+@attribute प्रवृत्त numeric
+@attribute प्रवृत्ति numeric
+@attribute प्रशंसा numeric
+@attribute प्रशासनिक numeric
+@attribute प्रश्न numeric
+@attribute प्रसंग numeric
+@attribute प्रसंगों numeric
+@attribute प्रसन्न numeric
+@attribute प्रसन्नता numeric
+@attribute प्रसिद्ध numeric
+@attribute प्रस्ताव numeric
+@attribute प्रस्तावित numeric
+@attribute प्रस्तुत numeric
+@attribute प्राकृतिक numeric
+@attribute प्राणियों numeric
+@attribute प्राथमिक numeric
+@attribute प्राधिकार numeric
+@attribute प्राप्त numeric
+@attribute प्राप्ति numeric
+@attribute प्राप्य numeric
+@attribute प्रायः numeric
+@attribute प्रारंभ numeric
+@attribute प्रारंभिक numeric
+@attribute प्रारूप numeric
+@attribute प्रार्थना numeric
+@attribute प्रार्थनाएँ numeric
+@attribute प्रार्थियों numeric
+@attribute प्राविधान numeric
+@attribute प्रिय numeric
+@attribute प्रेम numeric
+@attribute प्रेरणा numeric
+@attribute प्रोग्राम numeric
+@attribute प्रोग्रामों numeric
+@attribute प्रोत्साहन numeric
+@attribute प्रौद्योगिकी numeric
+@attribute प्लाजमा numeric
+@attribute प्लाविका numeric
+@attribute प्लास्टिक numeric
+@attribute फँसे numeric
+@attribute फल numeric
+@attribute फलक numeric
+@attribute फलतः numeric
+@attribute फलस्वरूप numeric
+@attribute फलों numeric
+@attribute फाइलों numeric
+@attribute फाड़कर numeric
+@attribute फाल्गुन numeric
+@attribute फिर numeric
+@attribute फीट numeric
+@attribute फुआ numeric
+@attribute फुर्ती numeric
+@attribute फेफड़ा numeric
+@attribute फेफड़ों numeric
+@attribute फेर numeric
+@attribute फेरना numeric
+@attribute फैला numeric
+@attribute फैली numeric
+@attribute फैले numeric
+@attribute फोन numeric
+@attribute बँधी numeric
+@attribute बँधे numeric
+@attribute बच numeric
+@attribute बचा numeric
+@attribute बचाकर numeric
+@attribute बचाने numeric
+@attribute बचें numeric
+@attribute बच्चों numeric
+@attribute बटन numeric
+@attribute बड़ा numeric
+@attribute बड़ी numeric
+@attribute बड़े numeric
+@attribute बड़े-बड़े numeric
+@attribute बढ़ numeric
+@attribute बढ़ता numeric
+@attribute बढ़ने numeric
+@attribute बढ़ा numeric
+@attribute बढ़ाए numeric
+@attribute बढ़ाने numeric
+@attribute बढ़ावा numeric
+@attribute बतलाई numeric
+@attribute बतलाया numeric
+@attribute बताने numeric
+@attribute बतानेवाला numeric
+@attribute बताया numeric
+@attribute बत्तियाँ numeric
+@attribute बदनामी numeric
+@attribute बदमाश numeric
+@attribute बदल numeric
+@attribute बदलकर numeric
+@attribute बदलने numeric
+@attribute बदला numeric
+@attribute बदले numeric
+@attribute बन numeric
+@attribute बनकर numeric
+@attribute बना numeric
+@attribute बनाई numeric
+@attribute बनाए numeric
+@attribute बनाकर numeric
+@attribute बनाना numeric
+@attribute बनाने numeric
+@attribute बनाया numeric
+@attribute बनावट numeric
+@attribute बनी numeric
+@attribute बने numeric
+@attribute बन्द numeric
+@attribute बन्धन numeric
+@attribute बयानबे numeric
+@attribute बयानवे numeric
+@attribute बरबस numeric
+@attribute बरसाती numeric
+@attribute बराबरी numeric
+@attribute बल-परीक्षा numeric
+@attribute बल्कि numeric
+@attribute बस numeric
+@attribute बसा numeric
+@attribute बहन numeric
+@attribute बहस numeric
+@attribute बहुत-सी numeric
+@attribute बहुतों numeric
+@attribute बहुधा numeric
+@attribute बहुपक्षीय numeric
+@attribute बहुमूल्य numeric
+@attribute बहुराष्ट्रीय numeric
+@attribute बहुलीकरण numeric
+@attribute बाँधता numeric
+@attribute बाँधते numeric
+@attribute बाँह numeric
+@attribute बाई numeric
+@attribute बाएँ numeric
+@attribute बाकी numeric
+@attribute बाक्स numeric
+@attribute बागडोर numeric
+@attribute बाज़ी numeric
+@attribute बाजी numeric
+@attribute बाजे numeric
+@attribute बात-चीत numeric
+@attribute बातचीत numeric
+@attribute बातें numeric
+@attribute बादशाह numeric
+@attribute बाधा numeric
+@attribute बाध्य numeric
+@attribute बानबे numeric
+@attribute बाप-दादा numeric
+@attribute बार-बार numeric
+@attribute बारी numeric
+@attribute बारी-बारी numeric
+@attribute बारे numeric
+@attribute बाल numeric
+@attribute बाहर numeric
+@attribute बाहरी numeric
+@attribute बिगड़ numeric
+@attribute बिजली numeric
+@attribute बिना numeric
+@attribute बिन्दु numeric
+@attribute बिलकुल numeric
+@attribute बिल्कुल numeric
+@attribute बीती numeric
+@attribute बीमा numeric
+@attribute बीमार numeric
+@attribute बुखार numeric
+@attribute बुराइयों numeric
+@attribute बुरी numeric
+@attribute बुरे numeric
+@attribute बुलाने numeric
+@attribute बेंच numeric
+@attribute बेंचकर numeric
+@attribute बेंचने numeric
+@attribute बेकार numeric
+@attribute बेचने numeric
+@attribute बेटे numeric
+@attribute बेरोक-टोक numeric
+@attribute बेल-बूटे numeric
+@attribute बेल्ट numeric
+@attribute बेहतर numeric
+@attribute बैंक numeric
+@attribute बैंकों numeric
+@attribute बैक्टिरिया numeric
+@attribute बैठकर numeric
+@attribute बैठकों numeric
+@attribute बैठना numeric
+@attribute बैठने numeric
+@attribute बैठाने numeric
+@attribute बैठाया numeric
+@attribute बैठे numeric
+@attribute बोध numeric
+@attribute बोर्ड numeric
+@attribute बोल-चाल numeric
+@attribute बोलना numeric
+@attribute बोली numeric
+@attribute बौद्धिक numeric
+@attribute ब्याज numeric
+@attribute ब्यौरे numeric
+@attribute ब्राह्मण numeric
+@attribute ब्लड numeric
+@attribute भंग numeric
+@attribute भगोड़े numeric
+@attribute भय numeric
+@attribute भयभीत numeric
+@attribute भरी numeric
+@attribute भली-भाँति numeric
+@attribute भवन numeric
+@attribute भाई numeric
+@attribute भागकर numeric
+@attribute भागने numeric
+@attribute भागीदारी numeric
+@attribute भागों numeric
+@attribute भाजन numeric
+@attribute भान numeric
+@attribute भाप numeric
+@attribute भारत numeric
+@attribute भारतीय numeric
+@attribute भारतीयों numeric
+@attribute भारी numeric
+@attribute भाव numeric
+@attribute भाषा numeric
+@attribute भिन्न numeric
+@attribute भिन्न-भिन्न numeric
+@attribute भी numeric
+@attribute भीतर numeric
+@attribute भीषण numeric
+@attribute भुखमरी numeric
+@attribute भुगतान numeric
+@attribute भूख numeric
+@attribute भूगोल numeric
+@attribute भूत-प्रेत numeric
+@attribute भूतपूर्व numeric
+@attribute भूमिका numeric
+@attribute भूल numeric
+@attribute भूल-चूक numeric
+@attribute भूसी numeric
+@attribute भेजने numeric
+@attribute भेजा numeric
+@attribute भेजे numeric
+@attribute भेद numeric
+@attribute भेदते numeric
+@attribute भेदभाव numeric
+@attribute भोग numeric
+@attribute भोजपत्र numeric
+@attribute भौतिक numeric
+@attribute भौतिकी numeric
+@attribute भ्रम numeric
+@attribute भ्रष्ट numeric
+@attribute भ्रष्टाचार numeric
+@attribute मंत्र numeric
+@attribute मंत्र-तंत्र numeric
+@attribute मंत्रिमंडल numeric
+@attribute मंत्री numeric
+@attribute मज़दूर numeric
+@attribute मज़बूर numeric
+@attribute मत numeric
+@attribute मतदाता numeric
+@attribute मद numeric
+@attribute मध्यावकाश numeric
+@attribute मन numeric
+@attribute मनन numeric
+@attribute मनमाना numeric
+@attribute मनमाने numeric
+@attribute मनमाफिक numeric
+@attribute मनाने numeric
+@attribute मनुष्य numeric
+@attribute मनुष्यों numeric
+@attribute मनोगत numeric
+@attribute मनोनित numeric
+@attribute मनोनीत numeric
+@attribute मनोभावों numeric
+@attribute मनोयोगपूर्वक numeric
+@attribute मनोरंजन numeric
+@attribute मनोरथ numeric
+@attribute मनोविनोद numeric
+@attribute मरम्मत numeric
+@attribute मरे numeric
+@attribute मर्यादा numeric
+@attribute मर्यादा-विरुद्ध numeric
+@attribute मशीन numeric
+@attribute मस्तक numeric
+@attribute महत्त्व numeric
+@attribute महत्त्वपूर्ण numeric
+@attribute महत्व numeric
+@attribute महत्वपूर्ण numeric
+@attribute महसूल numeric
+@attribute महसूस numeric
+@attribute महाप्राण numeric
+@attribute महावर numeric
+@attribute महीने numeric
+@attribute माँग numeric
+@attribute माँगने numeric
+@attribute माँगी numeric
+@attribute मांस numeric
+@attribute माइक्रोस्कोप numeric
+@attribute माता numeric
+@attribute माता-पिता numeric
+@attribute मातृ numeric
+@attribute मात्रा numeric
+@attribute माध्यम numeric
+@attribute मान numeric
+@attribute मानक numeric
+@attribute मानकर numeric
+@attribute मानते numeric
+@attribute मानना numeric
+@attribute माननीय numeric
+@attribute मानने numeric
+@attribute मानव numeric
+@attribute माना numeric
+@attribute मानी numeric
+@attribute माने numeric
+@attribute मानो numeric
+@attribute मानोगे numeric
+@attribute मान्य numeric
+@attribute माप numeric
+@attribute मामी numeric
+@attribute मार numeric
+@attribute मारने numeric
+@attribute मारा numeric
+@attribute मार्क्स numeric
+@attribute माल numeric
+@attribute मालिक numeric
+@attribute मालूम numeric
+@attribute मासिक numeric
+@attribute मित्रतापूर्वक numeric
+@attribute मिल numeric
+@attribute मिलकर numeric
+@attribute मिलता numeric
+@attribute मिलती numeric
+@attribute मिलने numeric
+@attribute मिलाकर numeric
+@attribute मिलान numeric
+@attribute मिलाने numeric
+@attribute मिली numeric
+@attribute मिश्रित numeric
+@attribute मिस्सी numeric
+@attribute मीठे numeric
+@attribute मीनारों numeric
+@attribute मुकदमा numeric
+@attribute मुकाबला numeric
+@attribute मुख numeric
+@attribute मुख्य numeric
+@attribute मुट्ठिओं numeric
+@attribute मुड़ numeric
+@attribute मुड़े numeric
+@attribute मुद्रा numeric
+@attribute मुफ्त numeric
+@attribute मुलायम numeric
+@attribute मुस्कान numeric
+@attribute मुहरा numeric
+@attribute मूर्ति numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मूलतः numeric
+@attribute मूलाधार numeric
+@attribute मूल्य numeric
+@attribute मूसल numeric
+@attribute मे numeric
+@attribute मेंढक numeric
+@attribute मेंहदी numeric
+@attribute मेजबान numeric
+@attribute मेरा numeric
+@attribute मेरे numeric
+@attribute मेल numeric
+@attribute मैत्री numeric
+@attribute मॉनीटर numeric
+@attribute मोंटेनेग्रो numeric
+@attribute मोटी numeric
+@attribute मोड़ numeric
+@attribute मोड़ने numeric
+@attribute मोबाइल numeric
+@attribute मोर numeric
+@attribute मोह numeric
+@attribute मोहरबंद numeric
+@attribute मौखिक numeric
+@attribute मौजूदगी numeric
+@attribute मौलिक numeric
+@attribute यंत्र numeric
+@attribute यथेष्ट numeric
+@attribute यदि numeric
+@attribute यशोदा numeric
+@attribute यह numeric
+@attribute यहाँ numeric
+@attribute यांत्रिक numeric
+@attribute यातायात numeric
+@attribute यात्रा numeric
+@attribute यात्रियों numeric
+@attribute याद numeric
+@attribute यानि numeric
+@attribute युक्त numeric
+@attribute युक्ति numeric
+@attribute युक्ति-संगत numeric
+@attribute यूगोस्लाविया numeric
+@attribute यूनेस्को numeric
+@attribute यूरोप numeric
+@attribute ये numeric
+@attribute यों numeric
+@attribute योगदान numeric
+@attribute योग्य numeric
+@attribute योग्यता numeric
+@attribute योजना numeric
+@attribute रंग numeric
+@attribute रंगना numeric
+@attribute रंगीन numeric
+@attribute रंगो numeric
+@attribute रकम numeric
+@attribute रक्त numeric
+@attribute रक्षा numeric
+@attribute रक्षित numeric
+@attribute रख numeric
+@attribute रखकर numeric
+@attribute रखता numeric
+@attribute रखते numeric
+@attribute रखना numeric
+@attribute रखने numeric
+@attribute रखनेवाला numeric
+@attribute रखनेवाली numeric
+@attribute रखा numeric
+@attribute रखी numeric
+@attribute रखे numeric
+@attribute रगड़ना numeric
+@attribute रचनात्मकता numeric
+@attribute रचाना numeric
+@attribute रत numeric
+@attribute रथ numeric
+@attribute रद्द numeric
+@attribute रवाना numeric
+@attribute रस numeric
+@attribute रसायन numeric
+@attribute रसोई numeric
+@attribute रह numeric
+@attribute रहकर numeric
+@attribute रहते numeric
+@attribute रहना numeric
+@attribute रहनेवाला numeric
+@attribute रही numeric
+@attribute रहे numeric
+@attribute रहें numeric
+@attribute रहेंगे numeric
+@attribute राजकीय numeric
+@attribute राजधानी numeric
+@attribute राजनीतिक numeric
+@attribute राजनेताओं numeric
+@attribute राजाओं numeric
+@attribute राजी numeric
+@attribute राज्य numeric
+@attribute राज्यपाल numeric
+@attribute राज्यों numeric
+@attribute रात-दिन numeric
+@attribute राष्ट्र numeric
+@attribute राष्ट्रपति numeric
+@attribute राष्ट्रीय numeric
+@attribute राष्ट्रों numeric
+@attribute रासायनिक numeric
+@attribute रास्ते numeric
+@attribute रिक्त numeric
+@attribute रिपोर्ट numeric
+@attribute रिपोर्टर numeric
+@attribute रिमोट numeric
+@attribute रिश्ता numeric
+@attribute रीति numeric
+@attribute रुक numeric
+@attribute रुचि numeric
+@attribute रुपया numeric
+@attribute रूप numeric
+@attribute रूप-रंग numeric
+@attribute रूपरेखा numeric
+@attribute रूपांतरित numeric
+@attribute रूपान्तरित numeric
+@attribute रेखाओं numeric
+@attribute रेखागणित numeric
+@attribute रेगिस्तान numeric
+@attribute रेडियो numeric
+@attribute रोएँ numeric
+@attribute रोकने numeric
+@attribute रोगी numeric
+@attribute रोजगार numeric
+@attribute लकड़ी numeric
+@attribute लक्षण numeric
+@attribute लक्ष्य numeric
+@attribute लगन numeric
+@attribute लगना numeric
+@attribute लगने numeric
+@attribute लगा numeric
+@attribute लगाई numeric
+@attribute लगाकर numeric
+@attribute लगान numeric
+@attribute लगाना numeric
+@attribute लगाने numeric
+@attribute लगी numeric
+@attribute लगे numeric
+@attribute लगें numeric
+@attribute लगेगा numeric
+@attribute लज्जाजनक numeric
+@attribute लज्जित numeric
+@attribute लड़की numeric
+@attribute लड़ेंगे numeric
+@attribute लम्बाई numeric
+@attribute ललक numeric
+@attribute ललाट numeric
+@attribute लाई numeric
+@attribute लाकर numeric
+@attribute लाक्षणिक numeric
+@attribute लागू numeric
+@attribute लाते numeric
+@attribute लाना numeric
+@attribute लाने numeric
+@attribute लाभ numeric
+@attribute लाभप्रद numeric
+@attribute लाया numeric
+@attribute लाल numeric
+@attribute लालसापूर्ण numeric
+@attribute लिख numeric
+@attribute लिखकर numeric
+@attribute लिखना numeric
+@attribute लिखा numeric
+@attribute लिखित numeric
+@attribute लिखी numeric
+@attribute लिखे numeric
+@attribute लिया numeric
+@attribute लिये numeric
+@attribute लिहाज numeric
+@attribute ली numeric
+@attribute लीन numeric
+@attribute लुभाकर numeric
+@attribute लुहार numeric
+@attribute ले numeric
+@attribute लें numeric
+@attribute लेकिन numeric
+@attribute लेख numeric
+@attribute लेते numeric
+@attribute लेन-देन numeric
+@attribute लेना numeric
+@attribute लोक numeric
+@attribute लोक-व्यवहार numeric
+@attribute लोकतंत्र numeric
+@attribute लोकपाल numeric
+@attribute लोकसेवा numeric
+@attribute लोग numeric
+@attribute लोहे numeric
+@attribute लौकिक numeric
+@attribute लौटकर numeric
+@attribute लौटाने numeric
+@attribute व numeric
+@attribute वंश numeric
+@attribute वंशज numeric
+@attribute वक़ील numeric
+@attribute वक्र numeric
+@attribute वन्य numeric
+@attribute वर्ग numeric
+@attribute वर्गविहीन numeric
+@attribute वर्गीकृत numeric
+@attribute वर्गों numeric
+@attribute वर्ण numeric
+@attribute वर्णन numeric
+@attribute वर्णमाला numeric
+@attribute वर्षा numeric
+@attribute वश numeric
+@attribute वसुदेव numeric
+@attribute वस्तु numeric
+@attribute वस्तु-स्थिति numeric
+@attribute वस्तुओं numeric
+@attribute वस्त्र numeric
+@attribute वहाँ numeric
+@attribute वही numeric
+@attribute वाक्य numeric
+@attribute वाक्यों numeric
+@attribute वाजिब numeric
+@attribute वात numeric
+@attribute वातावरण numeric
+@attribute वाद numeric
+@attribute वादा numeric
+@attribute वादी numeric
+@attribute वापस numeric
+@attribute वायु numeric
+@attribute वायुमंडलीय numeric
+@attribute वारंट numeric
+@attribute वार्ता numeric
+@attribute वार्षिक numeric
+@attribute वालों numeric
+@attribute वास्तव numeric
+@attribute वास्तविक numeric
+@attribute वास्तविकता numeric
+@attribute वाहक numeric
+@attribute वाहन numeric
+@attribute वाहनों numeric
+@attribute विकट numeric
+@attribute विकसित numeric
+@attribute विकार numeric
+@attribute विकास numeric
+@attribute विघ्न numeric
+@attribute विचार numeric
+@attribute विचार-विमर्श numeric
+@attribute विचारधारा numeric
+@attribute विजय numeric
+@attribute विजेता numeric
+@attribute विज्ञान numeric
+@attribute विदेश numeric
+@attribute विदेशी numeric
+@attribute विद्या numeric
+@attribute विद्युत numeric
+@attribute विद्वान numeric
+@attribute विधान numeric
+@attribute विधि numeric
+@attribute विधिक numeric
+@attribute विधियों numeric
+@attribute विधेयक numeric
+@attribute विन्यास numeric
+@attribute विपक्ष numeric
+@attribute विपत्तियों numeric
+@attribute विपरीत numeric
+@attribute विभक्त numeric
+@attribute विभागों numeric
+@attribute विभिन्न numeric
+@attribute विमान numeric
+@attribute विरुद्ध numeric
+@attribute विरोध numeric
+@attribute विलक्ष्ण numeric
+@attribute विवरण numeric
+@attribute विवश numeric
+@attribute विवाद numeric
+@attribute विवाहित numeric
+@attribute विवेक numeric
+@attribute विशिष्टता numeric
+@attribute विशेष numeric
+@attribute विशेषकर numeric
+@attribute विशेषज्ञ numeric
+@attribute विशेषज्ञों numeric
+@attribute विशेषतः numeric
+@attribute विशेषता numeric
+@attribute विश्लेषण numeric
+@attribute विश्व numeric
+@attribute विश्वसनीयता numeric
+@attribute विश्वास numeric
+@attribute विषयों numeric
+@attribute विसरण numeric
+@attribute विस्फोटक numeric
+@attribute वृक्षों numeric
+@attribute वृति numeric
+@attribute वृत्ति numeric
+@attribute वृद्धि numeric
+@attribute वे numeric
+@attribute वेगपूर्वक numeric
+@attribute वेतन numeric
+@attribute वेदों numeric
+@attribute वेशभूषा numeric
+@attribute वेष-भूषा numeric
+@attribute वैज्ञानिक numeric
+@attribute वैद्यक numeric
+@attribute वैद्युतिक numeric
+@attribute वैध numeric
+@attribute वैसा numeric
+@attribute वैसी numeric
+@attribute व्यंगपूर्ण numeric
+@attribute व्यंग्य numeric
+@attribute व्यंजना numeric
+@attribute व्यंजित numeric
+@attribute व्यक्त numeric
+@attribute व्यक्तिगत numeric
+@attribute व्यक्तियों numeric
+@attribute व्यय numeric
+@attribute व्यर्थ numeric
+@attribute व्यवसाई numeric
+@attribute व्यवसायियों numeric
+@attribute व्यवस्था numeric
+@attribute व्यवस्थित numeric
+@attribute व्यवहार numeric
+@attribute व्यवहारों numeric
+@attribute व्यवहृत numeric
+@attribute व्याख्या numeric
+@attribute व्यापार numeric
+@attribute व्याप्त numeric
+@attribute व्यायाम numeric
+@attribute शंकु numeric
+@attribute शक numeric
+@attribute शक्ति numeric
+@attribute शक्तिशाली numeric
+@attribute शतरंज numeric
+@attribute शब्दों numeric
+@attribute शरीर numeric
+@attribute शर्त numeric
+@attribute शर्तों numeric
+@attribute शस्त्र numeric
+@attribute शहर numeric
+@attribute शांत numeric
+@attribute शांति numeric
+@attribute शामिल numeric
+@attribute शायद numeric
+@attribute शारीरिक numeric
+@attribute शासन numeric
+@attribute शासन-प्रणाली numeric
+@attribute शासन-प्रब्ंध numeric
+@attribute शाह numeric
+@attribute शिकार numeric
+@attribute शिक्षा numeric
+@attribute शीघ्रता numeric
+@attribute शुभ-अशुभ numeric
+@attribute शुभारम्भ numeric
+@attribute शुल्क numeric
+@attribute शून्य numeric
+@attribute शृंखला numeric
+@attribute शृंगार numeric
+@attribute शेर numeric
+@attribute शेष numeric
+@attribute शोध numeric
+@attribute शोधित numeric
+@attribute शोभा numeric
+@attribute श्रम numeric
+@attribute श्रृंखला numeric
+@attribute श्रेष्ठता numeric
+@attribute श्लिष्ट numeric
+@attribute श्लेष्मी numeric
+@attribute सँकरा numeric
+@attribute सँवारना numeric
+@attribute संकेत numeric
+@attribute संकेतों numeric
+@attribute संकोच numeric
+@attribute संक्रमित numeric
+@attribute संक्रामक numeric
+@attribute संक्षिप्त numeric
+@attribute संख्या numeric
+@attribute संख्याएँ numeric
+@attribute संगठन numeric
+@attribute संगठनों numeric
+@attribute संगीत numeric
+@attribute संग्रहणीय numeric
+@attribute संघ numeric
+@attribute संघीय numeric
+@attribute संचलन numeric
+@attribute संचार numeric
+@attribute संचारित numeric
+@attribute संचालन numeric
+@attribute संचालित numeric
+@attribute संतुष्ट numeric
+@attribute संदेश numeric
+@attribute संदेह numeric
+@attribute संधियों numeric
+@attribute संपत्ति numeric
+@attribute संपादक numeric
+@attribute संपादन numeric
+@attribute संपादित numeric
+@attribute संपूर्ण numeric
+@attribute संबंध numeric
+@attribute संभावना numeric
+@attribute संभावित numeric
+@attribute संयुक्त numeric
+@attribute संयोजक numeric
+@attribute संरक्षण numeric
+@attribute संरचना numeric
+@attribute संवाद numeric
+@attribute संवाददाता numeric
+@attribute संसद numeric
+@attribute संसदीय numeric
+@attribute संसर्ग numeric
+@attribute संसाधित numeric
+@attribute संसार numeric
+@attribute संस्कृति numeric
+@attribute संस्था numeric
+@attribute संहिता numeric
+@attribute सकता numeric
+@attribute सकते numeric
+@attribute सकरे numeric
+@attribute सके numeric
+@attribute सकें numeric
+@attribute सक्रिय numeric
+@attribute सक्षम numeric
+@attribute सचेष्ट numeric
+@attribute सजा numeric
+@attribute सजाने numeric
+@attribute सजावट numeric
+@attribute सजीव numeric
+@attribute सटी numeric
+@attribute सड़ता numeric
+@attribute सतह numeric
+@attribute सत्ता numeric
+@attribute सत्य numeric
+@attribute सत्यता numeric
+@attribute सत्यापन numeric
+@attribute सत्र numeric
+@attribute सदन numeric
+@attribute सदस्य numeric
+@attribute सदस्यता numeric
+@attribute सदस्यों numeric
+@attribute सदा numeric
+@attribute सन् numeric
+@attribute सफेद numeric
+@attribute सब numeric
+@attribute सबके numeric
+@attribute सबको numeric
+@attribute सब्जियों numeric
+@attribute सभा numeric
+@attribute सभी numeric
+@attribute सभ्यता numeric
+@attribute समझ numeric
+@attribute समझकर numeric
+@attribute समझता numeric
+@attribute समझना numeric
+@attribute समझने numeric
+@attribute समझा numeric
+@attribute समझे-बूझे numeric
+@attribute समझौता numeric
+@attribute समझौतों numeric
+@attribute समन्वित numeric
+@attribute समय-समय numeric
+@attribute समयावधि numeric
+@attribute समरूपता numeric
+@attribute समर्थ numeric
+@attribute समर्थकों numeric
+@attribute समर्थन numeric
+@attribute समा numeric
+@attribute समाचार-पत्र numeric
+@attribute समाज numeric
+@attribute समान numeric
+@attribute समानता numeric
+@attribute समानों numeric
+@attribute समाप्ति numeric
+@attribute समारोह numeric
+@attribute समिति numeric
+@attribute समुचित numeric
+@attribute समुदाय numeric
+@attribute समूह numeric
+@attribute समेट numeric
+@attribute सम्पत्ति numeric
+@attribute सम्पन्न numeric
+@attribute सम्पादित numeric
+@attribute सम्मान numeric
+@attribute सम्मानित numeric
+@attribute सम्मिलित numeric
+@attribute सम्मेलन numeric
+@attribute सरकार numeric
+@attribute सरकारी numeric
+@attribute सरकारों numeric
+@attribute सरल numeric
+@attribute सरहंद numeric
+@attribute सर्बिया numeric
+@attribute सर्व numeric
+@attribute सर्वप्रथम numeric
+@attribute सर्वप्रधान numeric
+@attribute सर्वमान्य numeric
+@attribute सलामी numeric
+@attribute सलाह numeric
+@attribute सवारी numeric
+@attribute सह numeric
+@attribute सहज numeric
+@attribute सहजता numeric
+@attribute सहन numeric
+@attribute सहनी numeric
+@attribute सहमत numeric
+@attribute सहमति numeric
+@attribute सहयोग numeric
+@attribute सहसा numeric
+@attribute सहानुभूति numeric
+@attribute सहायता numeric
+@attribute सहारा numeric
+@attribute सहारे numeric
+@attribute सा numeric
+@attribute सांकेतिक numeric
+@attribute सांस्कृतिक numeric
+@attribute साकार numeric
+@attribute साकारात्मक numeric
+@attribute साक्षात्कार numeric
+@attribute साक्षी numeric
+@attribute साक्ष्य numeric
+@attribute सागर numeric
+@attribute साठ numeric
+@attribute सात-सात numeric
+@attribute साधन numeric
+@attribute साधनों numeric
+@attribute साधा numeric
+@attribute साधारण numeric
+@attribute साधारणतः numeric
+@attribute साधिकार numeric
+@attribute साधु-साधु numeric
+@attribute साफ numeric
+@attribute साफ्टवेयर numeric
+@attribute सामग्री numeric
+@attribute सामना numeric
+@attribute सामने numeric
+@attribute सामनों numeric
+@attribute सामर्थ्य numeric
+@attribute सामाजिक numeric
+@attribute सामुद्रिक numeric
+@attribute सामूहिक numeric
+@attribute साम्यवादी numeric
+@attribute सारा numeric
+@attribute सारे numeric
+@attribute सार्थक numeric
+@attribute सार्वभौमिकरण numeric
+@attribute साहस numeric
+@attribute साहित्य numeric
+@attribute साहिब numeric
+@attribute सिंदूर numeric
+@attribute सिंह numeric
+@attribute सिखों numeric
+@attribute सिद्ध numeric
+@attribute सिद्धांत numeric
+@attribute सिद्धांतों numeric
+@attribute सिद्धान्त numeric
+@attribute सिद्धि numeric
+@attribute सिमट numeric
+@attribute सिर numeric
+@attribute सिरे numeric
+@attribute सिलाई numeric
+@attribute सिवा numeric
+@attribute सिवाय numeric
+@attribute सिस्टम numeric
+@attribute सी numeric
+@attribute सीट numeric
+@attribute सीध numeric
+@attribute सीधा numeric
+@attribute सीधी numeric
+@attribute सीधे numeric
+@attribute सीमा numeric
+@attribute सुंदरता numeric
+@attribute सुई numeric
+@attribute सुख numeric
+@attribute सुखदायक numeric
+@attribute सुखी numeric
+@attribute सुध-बुध numeric
+@attribute सुन numeric
+@attribute सुनकर numeric
+@attribute सुनते numeric
+@attribute सुनने numeric
+@attribute सुनाना numeric
+@attribute सुनियोजित numeric
+@attribute सुनिश्चित numeric
+@attribute सुनी numeric
+@attribute सुप्रतिष्ठ numeric
+@attribute सुरक्षा numeric
+@attribute सुरक्षित numeric
+@attribute सुरती numeric
+@attribute सुलगाकर numeric
+@attribute सुविचारित numeric
+@attribute सुविधा numeric
+@attribute सुविधाजनक numeric
+@attribute सुसंगत numeric
+@attribute सूक्त numeric
+@attribute सूक्ष्म numeric
+@attribute सूख numeric
+@attribute सूखकर numeric
+@attribute सूखे numeric
+@attribute सूचीबद्ध numeric
+@attribute सेना numeric
+@attribute सेनानी numeric
+@attribute सेवा numeric
+@attribute सेवाएँ numeric
+@attribute सेवाओं numeric
+@attribute सैंडविच numeric
+@attribute सैनिक numeric
+@attribute सैन्य numeric
+@attribute सोखने numeric
+@attribute सोच numeric
+@attribute सोची numeric
+@attribute सोलह numeric
+@attribute सौंदर्यपूर्ण numeric
+@attribute सौंपने numeric
+@attribute स्कूल numeric
+@attribute स्कूलों numeric
+@attribute स्क्रीन numeric
+@attribute स्टॉक numeric
+@attribute स्तंभ numeric
+@attribute स्तंभों numeric
+@attribute स्तब्ध numeric
+@attribute स्तर numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थानों numeric
+@attribute स्थापना numeric
+@attribute स्थापित numeric
+@attribute स्थायी numeric
+@attribute स्थित numeric
+@attribute स्थितियों numeric
+@attribute स्थूल numeric
+@attribute स्नानगृह numeric
+@attribute स्पर्श numeric
+@attribute स्पष्ट numeric
+@attribute स्फटिकाभ numeric
+@attribute स्मरण numeric
+@attribute स्मारक numeric
+@attribute स्मृति numeric
+@attribute स्याही numeric
+@attribute स्राव numeric
+@attribute स्रोत numeric
+@attribute स्व numeric
+@attribute स्वच्छ numeric
+@attribute स्वतंत्र numeric
+@attribute स्वतंत्रता numeric
+@attribute स्वतन्त्र numeric
+@attribute स्वत्व numeric
+@attribute स्वयं numeric
+@attribute स्वर numeric
+@attribute स्वरूप numeric
+@attribute स्वरों numeric
+@attribute स्वस्थ numeric
+@attribute स्वागत numeric
+@attribute स्वादिष्ट numeric
+@attribute स्वाभाविक numeric
+@attribute स्वामित्व numeric
+@attribute स्वार्थ numeric
+@attribute स्वास्थ्य numeric
+@attribute स्वीकार numeric
+@attribute स्वीकारा numeric
+@attribute स्वीकृति numeric
+@attribute सड़कों numeric
+@attribute हज़ार numeric
+@attribute हट numeric
+@attribute हटकर numeric
+@attribute हटने numeric
+@attribute हटा numeric
+@attribute हटाकर numeric
+@attribute हटाने numeric
+@attribute हटाया numeric
+@attribute हटाये numeric
+@attribute हटी numeric
+@attribute हटे numeric
+@attribute हठयोग numeric
+@attribute हड्डियों numeric
+@attribute हत्थों numeric
+@attribute हत्या numeric
+@attribute हथियार numeric
+@attribute हथेली numeric
+@attribute हद numeric
+@attribute हनन numeric
+@attribute हम numeric
+@attribute हमले numeric
+@attribute हमारे numeric
+@attribute हमेशा numeric
+@attribute हरगोविंद numeric
+@attribute हरे numeric
+@attribute हल्का numeric
+@attribute हवा numeric
+@attribute हस्तांतरण numeric
+@attribute हस्ताक्षर numeric
+@attribute हाँककर numeric
+@attribute हाथ numeric
+@attribute हानि numeric
+@attribute हार-जीत numeric
+@attribute हारती numeric
+@attribute हाल numeric
+@attribute हास-परिहास numeric
+@attribute हिंदी numeric
+@attribute हित numeric
+@attribute हितों numeric
+@attribute हिमालय numeric
+@attribute हिलकर numeric
+@attribute हिसाब numeric
+@attribute हिस्से numeric
+@attribute हृदय numeric
+@attribute हेतु numeric
+@attribute हैं- numeric
+@attribute होंगे numeric
+@attribute होंठों numeric
+@attribute हों। numeric
+@attribute होगा numeric
+@attribute होगी numeric
+@attribute होनी numeric
+@attribute । numeric
+
+@data
+
+
+Classifier Model
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 2.56 seconds
+Time taken to test model on training data: 0.6 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         962               96.9758 %
+Incorrectly Classified Instances        30                3.0242 %
+Kappa statistic                          0.928 
+Mean absolute error                      0.0269
+Root mean squared error                  0.1335
+Relative absolute error                  6.5881 %
+Root relative squared error             29.5369 %
+Total Number of Instances              992     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.993     0.04       0.91      0.993     0.949      0.999    temporal
+                 0.96      0.007      0.997     0.96      0.978      0.999    atemporal
+Weighted Avg.    0.97      0.016      0.972     0.97      0.97       0.999
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 282   2 |   a = temporal
+  28 680 |   b = atemporal
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         955               96.2702 %
+Incorrectly Classified Instances        37                3.7298 %
+Kappa statistic                          0.9116
+Mean absolute error                      0.0372
+Root mean squared error                  0.1696
+Relative absolute error                  9.1024 %
+Root relative squared error             37.5123 %
+Total Number of Instances              992     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.989     0.048      0.892     0.989     0.938      0.999    temporal
+                 0.952     0.011      0.996     0.952     0.973      0.999    atemporal
+Weighted Avg.    0.963     0.021      0.966     0.963     0.963      0.999
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 281   3 |   a = temporal
+  34 674 |   b = atemporal
+

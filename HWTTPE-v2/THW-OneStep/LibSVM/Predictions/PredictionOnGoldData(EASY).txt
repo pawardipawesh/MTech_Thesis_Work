@@ -1,0 +1,128 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1   3:future   3:future       0.243 
+     2 5:atempora 5:atempora       0.674 
+     3 5:atempora     1:past   +   0.374 
+     4 5:atempora     1:past   +   0.357 
+     5  4:neutral 5:atempora   +   0.358 
+     6  4:neutral  4:neutral       0.318 
+     7 5:atempora 5:atempora       0.396 
+     8 5:atempora 5:atempora       0.713 
+     9 5:atempora 5:atempora       0.788 
+    10 5:atempora 5:atempora       0.393 
+    11 5:atempora 5:atempora       0.723 
+    12 5:atempora 5:atempora       0.287 
+    13     1:past     1:past       0.313 
+    14 5:atempora 5:atempora       0.815 
+    15 5:atempora 5:atempora       0.643 
+    16 5:atempora 5:atempora       0.292 
+    17 5:atempora 5:atempora       0.57 
+    18  4:neutral  4:neutral       0.287 
+    19 5:atempora     1:past   +   0.338 
+    20 5:atempora 5:atempora       0.739 
+    21     1:past 5:atempora   +   0.331 
+    22 5:atempora 5:atempora       0.731 
+    23 5:atempora 5:atempora       0.565 
+    24 5:atempora 5:atempora       0.603 
+    25 5:atempora 5:atempora       0.603 
+    26 5:atempora 5:atempora       0.591 
+    27 5:atempora     1:past   +   0.271 
+    28 5:atempora 5:atempora       0.338 
+    29 5:atempora 5:atempora       0.755 
+    30  2:present     1:past   +   0.346 
+    31 5:atempora 5:atempora       0.385 
+    32 5:atempora 5:atempora       0.881 
+    33 5:atempora 5:atempora       0.351 
+    34 5:atempora 5:atempora       0.927 
+    35  4:neutral  4:neutral       0.276 
+    36 5:atempora 5:atempora       0.605 
+    37 5:atempora 5:atempora       0.397 
+    38     1:past     1:past       0.362 
+    39 5:atempora 5:atempora       0.679 
+    40 5:atempora  4:neutral   +   0.408 
+    41 5:atempora 5:atempora       0.628 
+    42  4:neutral 5:atempora   +   0.627 
+    43  2:present     1:past   +   0.255 
+    44 5:atempora 5:atempora       0.711 
+    45 5:atempora 5:atempora       0.605 
+    46 5:atempora 5:atempora       0.644 
+    47 5:atempora 5:atempora       0.774 
+    48 5:atempora     1:past   +   0.295 
+    49 5:atempora 5:atempora       0.921 
+    50 5:atempora 5:atempora       0.337 
+    51   3:future     1:past   +   0.313 
+    52 5:atempora  4:neutral   +   0.275 
+    53 5:atempora 5:atempora       0.393 
+    54     1:past     1:past       0.356 
+    55 5:atempora 5:atempora       0.921 
+    56 5:atempora 5:atempora       0.719 
+    57     1:past     1:past       0.295 
+    58     1:past     1:past       0.295 
+    59  4:neutral  4:neutral       0.318 
+    60 5:atempora 5:atempora       0.464 
+    61 5:atempora 5:atempora       0.858 
+    62   3:future 5:atempora   +   0.73 
+    63 5:atempora 5:atempora       0.472 
+    64 5:atempora 5:atempora       0.651 
+    65 5:atempora 5:atempora       0.731 
+    66     1:past     1:past       0.308 
+    67  2:present  2:present       0.254 
+    68 5:atempora 5:atempora       0.605 
+    69  4:neutral 5:atempora   +   0.38 
+    70 5:atempora  4:neutral   +   0.317 
+    71 5:atempora 5:atempora       0.68 
+    72  4:neutral  4:neutral       0.296 
+    73     1:past     1:past       0.346 
+    74 5:atempora 5:atempora       0.568 
+    75 5:atempora 5:atempora       0.66 
+    76 5:atempora 5:atempora       0.645 
+    77 5:atempora 5:atempora       0.744 
+    78 5:atempora 5:atempora       0.725 
+    79 5:atempora  4:neutral   +   0.304 
+    80 5:atempora 5:atempora       0.738 
+    81  4:neutral  4:neutral       0.325 
+    82 5:atempora 5:atempora       0.702 
+    83 5:atempora     1:past   +   0.39 
+    84  4:neutral 5:atempora   +   0.301 
+    85 5:atempora 5:atempora       0.643 
+    86 5:atempora 5:atempora       0.484 
+    87 5:atempora 5:atempora       0.605 
+    88 5:atempora 5:atempora       0.502 
+    89 5:atempora 5:atempora       0.771 
+    90 5:atempora 5:atempora       0.542 
+    91     1:past     1:past       0.329 
+    92     1:past     1:past       0.422 
+    93 5:atempora 5:atempora       0.561 
+    94 5:atempora 5:atempora       0.554 
+    95 5:atempora 5:atempora       0.546 
+    96 5:atempora 5:atempora       0.665 
+    97 5:atempora 5:atempora       0.833 
+    98 5:atempora 5:atempora       0.435 
+    99 5:atempora 5:atempora       0.449 
+   100 5:atempora     1:past   +   0.344 
+   101 5:atempora 5:atempora       0.768 
+   102  4:neutral 5:atempora   +   0.46 
+   103 5:atempora 5:atempora       0.808 
+   104 5:atempora 5:atempora       0.629 
+   105   3:future   3:future       0.243 
+   106 5:atempora 5:atempora       0.65 
+   107 5:atempora 5:atempora       0.455 
+   108 5:atempora 5:atempora       0.4 
+   109 5:atempora 5:atempora       0.524 
+   110 5:atempora 5:atempora       0.478 
+   111 5:atempora 5:atempora       0.706 
+   112 5:atempora 5:atempora       0.237 
+   113 5:atempora 5:atempora       0.708 
+   114 5:atempora 5:atempora       0.63 
+   115 5:atempora 5:atempora       0.431 
+   116 5:atempora 5:atempora       0.643 
+   117 5:atempora 5:atempora       0.687 
+   118  2:present     1:past   +   0.285 
+   119 5:atempora 5:atempora       0.79 
+   120 5:atempora 5:atempora       0.308 
+   121 5:atempora 5:atempora       0.689 
+   122 5:atempora 5:atempora       0.495 
+

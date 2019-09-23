@@ -1,0 +1,4 @@
+No. of temporal instances that should have been added: 8
+No. of atemporal instances that should have been  added: 16
+no of temporal instances added in this iteration: 8
+no of atemporal instances added in this iteration: 16

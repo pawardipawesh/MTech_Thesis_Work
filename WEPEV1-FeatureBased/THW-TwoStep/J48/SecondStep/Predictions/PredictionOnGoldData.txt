@@ -1,0 +1,65 @@
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1  1:neutral  1:neutral       0.996 
+     2  1:neutral  1:neutral       0.996 
+     3   2:future   2:future       0.769 
+     4     3:past  1:neutral   +   0.996 
+     5  4:present  1:neutral   +   0.996 
+     6  4:present  4:present       0.667 
+     7  1:neutral  1:neutral       0.996 
+     8  1:neutral  1:neutral       0.842 
+     9  1:neutral  4:present   +   0.994 
+    10   2:future  1:neutral   +   0.996 
+    11  4:present  4:present       0.994 
+    12     3:past     3:past       0.995 
+    13  1:neutral     3:past   +   0.5 
+    14  1:neutral  1:neutral       0.842 
+    15  1:neutral  1:neutral       0.996 
+    16  1:neutral  1:neutral       0.842 
+    17  1:neutral  1:neutral       0.996 
+    18   2:future   2:future       0.333 
+    19     3:past  1:neutral   +   0.996 
+    20     3:past  1:neutral   +   0.996 
+    21  1:neutral  4:present   +   0.994 
+    22  4:present     3:past   +   0.995 
+    23   2:future     3:past   +   0.5 
+    24  1:neutral  1:neutral       0.996 
+    25     3:past  4:present   +   0.994 
+    26  1:neutral   2:future   +   0.333 
+    27   2:future  1:neutral   +   0.996 
+    28  1:neutral  1:neutral       0.842 
+    29  4:present  4:present       0.994 
+    30   2:future  1:neutral   +   0.996 
+    31     3:past     3:past       0.954 
+    32     3:past  1:neutral   +   0.842 
+    33     3:past  1:neutral   +   0.842 
+    34  1:neutral  1:neutral       0.842 
+    35   2:future     3:past   +   0.5 
+    36   2:future  4:present   +   0.994 
+    37     3:past  1:neutral   +   0.996 
+    38  4:present  4:present       0.994 
+    39   2:future   2:future       0.988 
+    40  1:neutral  1:neutral       0.842 
+    41  1:neutral  1:neutral       0.842 
+    42     3:past     3:past       0.954 
+    43  1:neutral  1:neutral       0.996 
+    44  1:neutral  1:neutral       0.996 
+    45     3:past  1:neutral   +   0.996 
+    46     3:past   2:future   +   0.429 
+    47     3:past     3:past       0.995 
+    48   2:future  1:neutral   +   0.996 
+    49     3:past  1:neutral   +   0.996 
+    50  1:neutral  1:neutral       0.996 
+    51  4:present  4:present       0.667 
+    52     3:past  1:neutral   +   0.996 
+    53  1:neutral  1:neutral       0.996 
+    54   2:future   2:future       0.988 
+    55     3:past  1:neutral   +   0.996 
+    56   2:future     3:past   +   0.995 
+    57   2:future  1:neutral   +   0.996 
+    58  4:present   2:future   +   0.333 
+    59  1:neutral     3:past   +   0.954 
+

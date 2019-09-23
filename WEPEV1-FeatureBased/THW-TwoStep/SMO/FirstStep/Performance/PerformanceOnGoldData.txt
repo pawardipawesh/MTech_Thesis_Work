@@ -1,0 +1,19 @@
+temporal	atemporal	<-----classified as
+49        	10          	      |temporal
+30        	91           	      |aemporal
+
+-------------------Accuracy------------------------------------------------------------
+Accuracy=0.7777778
+
+--------------------Precision--------------------------------------------------------
+Precision(temporal)=0.62025315
+Precision(atemporal)=0.9009901
+Precision(avg)=0.76062167
+---------------------Recall-----------------------------------------------------------
+recall(temporal)=0.8305085
+recall(atemporal)=0.75206614
+recall(avg)=0.7912873
+---------------------F-measure-----------------------------------------------------------
+F-measure(temporal)=0.710145
+F-measure(atemporal)=0.8198198
+F-measure(avg)=0.77565145
