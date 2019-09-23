@@ -1,0 +1,14 @@
+*.arff
+*.jar
+*.arff~
+*.arff*
+*.java*
+*.java~
+*.txt~
+*.pdf~
+*.class
+*.class*
+*.class~
+*.sh~
+*.model
+*.model*
