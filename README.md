@@ -1,5 +1,14 @@
 # MTech_Thesis_Work
 
+#### Short Discription 
+- Created Temporal resource named Tempo-HindiWordNet using semi-supervised learning 
+- Applied it to detect temporality in sentences (achieved 72% accuracy with best approach) 
+- Implemented Unsupervised Word Sense Dis-ambiguation (WSD) using word embeddings and WordNet for above step 
+- Created two different approaches based on bag of gloss words and gloss encoded using word embeddings -
+- Used most frequent sense of words for word dis-ambiguation
+
+#### Needs and code structure
+
 This needs following jar files
 Weka.jar
 LibSVM.jar
